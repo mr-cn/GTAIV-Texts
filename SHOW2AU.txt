@@ -1,0 +1,19 @@
+﻿[SHOW2AU]
+;0x3EFFB88E=~z~~x~Thank you very much. We have more shows soon!
+0x3EFFB88E=~z~~x~Thank you very much. We have more shows soon!
+
+;0xC40D9009=~z~~x~And now's the time for American cowboy!
+0xC40D9009=~z~~x~And now's the time for American cowboy!
+
+;0xD7CC3786=~z~~x~Welcome, Dusty Cowpoke!
+0xD7CC3786=~z~~x~Welcome, Dusty Cowpoke!
+
+;0xE9195A1C=~z~~x~Here it is, great juggler named Catch!
+0xE9195A1C=~z~~x~Here it is, great juggler named Catch!
+
+;0xE9A25B32=~z~~x~What is problem? He's just like real Texas cowboy!
+0xE9A25B32=~z~~x~What is problem? He's just like real Texas cowboy!
+
+;0xFB21FE31=~z~~x~Maybe you'll like next show better.
+0xFB21FE31=~z~~x~Maybe you'll like next show better.
+

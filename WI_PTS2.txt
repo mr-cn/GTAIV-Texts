@@ -1,0 +1,22 @@
+﻿[WI_PTS2]
+;0x303A67A4=Pick up ~b~Pathos.
+0x303A67A4=Pick up ~b~Pathos.
+
+;0x895E19EE=~r~Pathos is dead.
+0x895E19EE=~r~Pathos is dead.
+
+;0x96BF34B0=~r~You took too long getting to the hospital.
+0x96BF34B0=~r~You took too long getting to the hospital.
+
+;0xB4006F32=Get a vehicle.
+0xB4006F32=Get a vehicle.
+
+;0xBE4803C1=Get Pathos to the ~y~hospital~s~, quickly.
+0xBE4803C1=Get Pathos to the ~y~hospital~s~, quickly.
+
+;0xDB2E3D8D=~r~You took too long to get a vehicle.
+0xDB2E3D8D=~r~You took too long to get a vehicle.
+
+;0xFB257D7B=Take out the ~r~attackers.
+0xFB257D7B=Take out the ~r~attackers.
+

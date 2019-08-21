@@ -1,0 +1,106 @@
+﻿[ROMAN13]
+;0x0589F840=~r~Talbot is dead, you are no closer to finding Florian Cravic.~s~
+0x0589F840=~r~Talbot is dead, you are no closer to finding Florian Cravic.~s~
+
+;0x0728F232=~s~Lose your wanted level.
+0x0728F232=~s~Lose your wanted level.
+
+;0x0F463F58=~r~Talbot is lost.~s~
+0x0F463F58=~r~Talbot is lost.~s~
+
+;0x1C72FFD7=~s~Go and find ~y~Florian~s~.
+0x1C72FFD7=~s~Go and find ~y~Florian~s~.
+
+;0x1C89EF63=~s~Get a car and pick up ~b~Roman.
+0x1C89EF63=~s~Get a car and pick up ~b~Roman.
+
+;0x21E4F705=~s~Beat ~r~Talbot~s~ enough to make him talk.
+0x21E4F705=~s~Beat ~r~Talbot~s~ enough to make him talk.
+
+;0x4CAF1217=~s~Niko, where you going?~s~
+0x4CAF1217=~s~Niko, where you going?~s~
+
+;0x5D5BEDF2=~s~Wait for ~b~Talbot~s~ and ~b~Roman.
+0x5D5BEDF2=~s~Wait for ~b~Talbot~s~ and ~b~Roman.
+
+;0x656B224B=~s~We're getting closer~s~
+0x656B224B=~s~We're getting closer~s~
+
+;0x69895894=~r~The car was destroyed.~s~
+0x69895894=~r~The car was destroyed.~s~
+
+;0x6D7B71A1=~r~You lost him.~s~
+0x6D7B71A1=~r~You lost him.~s~
+
+;0x735DDDE5=~s~Pay attention to Talbot's directions.
+0x735DDDE5=~s~Pay attention to Talbot's directions.
+
+;0x736D9D29=~s~Go to pick up ~y~Roman.
+0x736D9D29=~s~Go to pick up ~y~Roman.
+
+;0x7FBC90FA=~r~Roman has been injured.~s~
+0x7FBC90FA=~r~Roman has been injured.~s~
+
+;0x8723A6B7=~s~Go to ~y~Florian's apartment.
+0x8723A6B7=~s~Go to ~y~Florian's apartment.
+
+;0x87B642A6=~s~Get in a car with 2 passenger seats.
+0x87B642A6=~s~Get in a car with 2 passenger seats.
+
+;0x8D7C6B54=~s~Follow Talbot's directions.
+0x8D7C6B54=~s~Follow Talbot's directions.
+
+;0x8F32D5FB=~s~Go back and get ~b~Talbot.
+0x8F32D5FB=~s~Go back and get ~b~Talbot.
+
+;0xA6077F48=~s~Go and see ~y~Talbot.
+0xA6077F48=~s~Go and see ~y~Talbot.
+
+;0xA61B0283=~s~Get a car.
+0xA61B0283=~s~Get a car.
+
+;0xA8B9111B=~s~When in a car, Talbot will give directions as you approach a junction.
+0xA8B9111B=~s~When in a car, Talbot will give directions as you approach a junction.
+
+;0xB96819EB=~s~Get a four door car.
+0xB96819EB=~s~Get a four door car.
+
+;0xC84CF72B=~s~Put the phone away and listen to Talbot.
+0xC84CF72B=~s~Put the phone away and listen to Talbot.
+
+;0xC9519445=~s~There are not enough seats for Talbot and Roman.
+0xC9519445=~s~There are not enough seats for Talbot and Roman.
+
+;0xCD4DAA50=~s~Are you Crazy!? You're going against the traffic!.
+0xCD4DAA50=~s~Are you Crazy!? You're going against the traffic!.
+
+;0xCD63CE00=~s~Wait for ~b~Roman.
+0xCD63CE00=~s~Wait for ~b~Roman.
+
+;0xDB32699D=~s~Wait for ~b~Talbot.
+0xDB32699D=~s~Wait for ~b~Talbot.
+
+;0xDD2132B6=~s~Go back and get ~b~Roman~s~ and ~b~Talbot.
+0xDD2132B6=~s~Go back and get ~b~Roman~s~ and ~b~Talbot.
+
+;0xE1A6F99A=~s~Go and see ~b~Talbot.
+0xE1A6F99A=~s~Go and see ~b~Talbot.
+
+;0xEE5C3E40=~r~Roman is dead.~s~
+0xEE5C3E40=~r~Roman is dead.~s~
+
+;0xEEE29415=~s~Pick up ~b~Roman.
+0xEEE29415=~s~Pick up ~b~Roman.
+
+;0xEFBA12B0=~s~Get a car for you and Roman.
+0xEFBA12B0=~s~Get a car for you and Roman.
+
+;0xF0EADF34=~r~Talbot has been injured.~s~
+0xF0EADF34=~r~Talbot has been injured.~s~
+
+;0xF4315F8A=~s~Get in a car and follow Talbot's directions.
+0xF4315F8A=~s~Get in a car and follow Talbot's directions.
+
+;0xFA3CAC90=~s~Go back and get ~b~Roman.
+0xFA3CAC90=~s~Go back and get ~b~Roman.
+

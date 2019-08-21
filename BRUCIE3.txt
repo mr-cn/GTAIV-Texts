@@ -1,0 +1,85 @@
+﻿[BRUCIE3]
+;0x05F6C3F4=~s~Go to the internet cafe.
+0x05F6C3F4=~s~Go to the internet cafe.
+
+;0x09CB8B22=~s~When ready, stand up and take out a weapon. Press ~PAD_LT~ to get up.
+0x09CB8B22=~s~When ready, stand up and take out a weapon. Press ~PAD_LT~ to get up.
+
+;0x1E8F7CED=~r~You failed to lure French Tom out of hiding.
+0x1E8F7CED=~r~You failed to lure French Tom out of hiding.
+
+;0x2BAE964B=~s~Reply positively to French Tom's email to confirm the date.
+0x2BAE964B=~s~Reply positively to French Tom's email to confirm the date.
+
+;0x31F0A3AF=~s~You have sent a date request to French Tom. Log off.
+0x31F0A3AF=~s~You have sent a date request to French Tom. Log off.
+
+;0x3DFBBAE5=~s~Allow some time for French Tom to check Lovemeet and email you his reply.
+0x3DFBBAE5=~s~Allow some time for French Tom to check Lovemeet and email you his reply.
+
+;0x41DF438C=~s~Click on the LOVEMEET link.
+0x41DF438C=~s~Click on the LOVEMEET link.
+
+;0x47F989B6=~r~You missed your date with French Tom.
+0x47F989B6=~r~You missed your date with French Tom.
+
+;0x50435F74=~s~French Tom hasn't arrived. Wait in the diner.
+0x50435F74=~s~French Tom hasn't arrived. Wait in the diner.
+
+;0x5257639C=~s~You have refused a date with French Tom. Log off.
+0x5257639C=~s~You have refused a date with French Tom. Log off.
+
+;0x53A1E711=~s~Click on the WEB icon.
+0x53A1E711=~s~Click on the WEB icon.
+
+;0x6230118B=~s~Lose your wanted level before meeting French Tom.
+0x6230118B=~s~Lose your wanted level before meeting French Tom.
+
+;0x637540AD=~r~You abandoned the date.
+0x637540AD=~r~You abandoned the date.
+
+;0x658D0AE7=~s~Find French Tom and click the MORE button underneath his picture to view his profile.
+0x658D0AE7=~s~Find French Tom and click the MORE button underneath his picture to view his profile.
+
+;0x6CD4D368=~r~French Tom got away.
+0x6CD4D368=~r~French Tom got away.
+
+;0x72D2A492=~s~Go back to the diner and meet French Tom.
+0x72D2A492=~s~Go back to the diner and meet French Tom.
+
+;0x7746AE5A=~s~French Tom is registered in the male section. Click on the MALE button.
+0x7746AE5A=~s~French Tom is registered in the male section. Click on the MALE button.
+
+;0x7E8ABCD6=~s~To arrange a meeting, scroll to the bottom of the page and click on the DATE button.
+0x7E8ABCD6=~s~To arrange a meeting, scroll to the bottom of the page and click on the DATE button.
+
+;0x8DE753D3=~s~Go to the diner and meet French Tom.
+0x8DE753D3=~s~Go to the diner and meet French Tom.
+
+;0x8F940F52=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to scroll.
+0x8F940F52=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to scroll.
+
+;0x91C2E346=~s~Get back on the computer and check Lovemeet for FRENCH TOM.
+0x91C2E346=~s~Get back on the computer and check Lovemeet for FRENCH TOM.
+
+;0xA64732B7=~s~Use ~PAD_RSTICK_UP~ and ~PAD_RSTICK_DOWN~ to scroll.
+0xA64732B7=~s~Use ~PAD_RSTICK_UP~ and ~PAD_RSTICK_DOWN~ to scroll.
+
+;0xA97B8AFF=~s~You have a new email. Check your inbox.
+0xA97B8AFF=~s~You have a new email. Check your inbox.
+
+;0xB3179E33=~s~French Tom is inside the diner. Look for him.
+0xB3179E33=~s~French Tom is inside the diner. Look for him.
+
+;0xCC64BABD=~s~Lose your wanted level.
+0xCC64BABD=~s~Lose your wanted level.
+
+;0xD4E561CE=~s~Take down ~r~French Tom.
+0xD4E561CE=~s~Take down ~r~French Tom.
+
+;0xEEE71485=~s~When ready, stand up and take out a weapon. Press ~INPUT_PICKUP~ to get up.
+0xEEE71485=~s~When ready, stand up and take out a weapon. Press ~INPUT_PICKUP~ to get up.
+
+;0xF31E9E44=~s~Use a computer to get on love-meet.net and find FRENCH TOM.
+0xF31E9E44=~s~Use a computer to get on love-meet.net and find FRENCH TOM.
+

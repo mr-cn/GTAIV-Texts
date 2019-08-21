@@ -1,0 +1,607 @@
+﻿[F1AUD]
+;0x0004A4DC=F1_AE
+0x0004A4DC=F1_AE
+
+;0x01322CEC=~z~what do you want me to say, huh?
+0x01322CEC=~z~what do you want me to say, huh?
+
+;0x039A39F4=~z~And we've found a buyer for the TVs.
+0x039A39F4=~z~And we've found a buyer for the TVs.
+
+;0x03A6BBD5=~z~Good Lord... what are you doing?
+0x03A6BBD5=~z~Good Lord... what are you doing?
+
+;0x04674B14=~z~Get out of the dumpster, Mr. fat man.
+0x04674B14=~z~Get out of the dumpster, Mr. fat man.
+
+;0x047EBA51=~z~Look at me.
+0x047EBA51=~z~Look at me.
+
+;0x0649B549=200
+0x0649B549=200
+
+;0x07169B15=~z~Don't be ridiculous. You're being paranoid.
+0x07169B15=~z~Don't be ridiculous. You're being paranoid.
+
+;0x09ADDD10=~z~There has to be more than one truck around here.
+0x09ADDD10=~z~There has to be more than one truck around here.
+
+;0x09B03033=~z~Hey, you got bad information, brother.
+0x09B03033=~z~Hey, you got bad information, brother.
+
+;0x0C878CD6=~z~Don't kill me, man. I'll show you.
+0x0C878CD6=~z~Don't kill me, man. I'll show you.
+
+;0x0E67BB1F=F1_SD
+0x0E67BB1F=F1_SD
+
+;0x0EFBCD57=~z~Clean this shit up.
+0x0EFBCD57=~z~Clean this shit up.
+
+;0x1092D523=~z~Are you carrying a shipment of TVs?
+0x1092D523=~z~Are you carrying a shipment of TVs?
+
+;0x125B5776=~z~Can you untie Roman?
+0x125B5776=~z~Can you untie Roman?
+
+;0x1260B1A9=~z~I'm being? Fuck you. Fuck you... everything was fine, and then you show up... and now we're dead...
+0x1260B1A9=~z~I'm being? Fuck you. Fuck you... everything was fine, and then you show up... and now we're dead...
+
+;0x12B3C33B=~z~I pulled over a van, it didn't have any TVs in it.
+0x12B3C33B=~z~I pulled over a van, it didn't have any TVs in it.
+
+;0x133DD8C3=~z~Shut up!
+0x133DD8C3=~z~Shut up!
+
+;0x13A6F102=~z~Can't you be a bit more specific than South Broker?
+0x13A6F102=~z~Can't you be a bit more specific than South Broker?
+
+;0x154AE2C1=~z~Shut him up!
+0x154AE2C1=~z~Shut him up!
+
+;0x16CCEFDF=~z~I don't want to, man. I'm shitting myself.
+0x16CCEFDF=~z~I don't want to, man. I'm shitting myself.
+
+;0x16D8D839=~z~Very funny... do you think you're so smart?
+0x16D8D839=~z~Very funny... do you think you're so smart?
+
+;0x178FE3AA=090
+0x178FE3AA=090
+
+;0x182F7692=F1_BA
+0x182F7692=F1_BA
+
+;0x1935E1CB=~z~Listen, we'll take care of your cousin, but you better get a police car,
+0x1935E1CB=~z~Listen, we'll take care of your cousin, but you better get a police car,
+
+;0x1C879A0E=~z~~c~Nothing, shit.
+0x1C879A0E=~z~~c~Nothing, shit.
+
+;0x201227FB=~z~I ain't got nothing. You wasting your time.
+0x201227FB=~z~I ain't got nothing. You wasting your time.
+
+;0x20F5F4AB=~z~but you've got to get them for us so we can make the sale.
+0x20F5F4AB=~z~but you've got to get them for us so we can make the sale.
+
+;0x2142764A=~z~Show me the back. You carrying TVs?
+0x2142764A=~z~Show me the back. You carrying TVs?
+
+;0x2258F8AF=~z~Show me you don't got any flatscreens in the back.
+0x2258F8AF=~z~Show me you don't got any flatscreens in the back.
+
+;0x248C7B60=~z~-Help! Help me!~n~-Shut up Roman.
+0x248C7B60=~z~-Help! Help me!~n~-Shut up Roman.
+
+;0x26F5DAEB=~z~Where are you, Roman?
+0x26F5DAEB=~z~Where are you, Roman?
+
+;0x28650311=~z~-Help me! Help!~n~-Roman shut up.
+0x28650311=~z~-Help me! Help!~n~-Roman shut up.
+
+;0x2889136B=~z~Listen to me, Vlad was a piece of trash.
+0x2889136B=~z~Listen to me, Vlad was a piece of trash.
+
+;0x28967BB4=~z~No. I'm tied up in a basement a long way from home, while some ape threatens me with a hacksaw,
+0x28967BB4=~z~No. I'm tied up in a basement a long way from home, while some ape threatens me with a hacksaw,
+
+;0x291345ED=~z~Man, I ain't picked up shipment yet.
+0x291345ED=~z~Man, I ain't picked up shipment yet.
+
+;0x298E827C=~z~and then you call me.
+0x298E827C=~z~and then you call me.
+
+;0x2A9039C3=~z~You have the shipment already? You are good.
+0x2A9039C3=~z~You have the shipment already? You are good.
+
+;0x2AA14FB8=~z~and the boss is not happy.
+0x2AA14FB8=~z~and the boss is not happy.
+
+;0x2B51B7A2=~z~Fuck... ~c~nothing.
+0x2B51B7A2=~z~Fuck... ~c~nothing.
+
+;0x2C838BC6=~z~~c~Yes.~s~
+0x2C838BC6=~z~~c~Yes.~s~
+
+;0x2EEDF65D=~z~I hope your cousin is not nearby when I tell him this.
+0x2EEDF65D=~z~I hope your cousin is not nearby when I tell him this.
+
+;0x31071A3D=~z~You better get those screens soon.
+0x31071A3D=~z~You better get those screens soon.
+
+;0x312B96DE=~z~And? Who is he?
+0x312B96DE=~z~And? Who is he?
+
+;0x349DA746=200
+0x349DA746=200
+
+;0x352D3A3E=090
+0x352D3A3E=090
+
+;0x353971E8=~z~Wrong move, asshole.
+0x353971E8=~z~Wrong move, asshole.
+
+;0x38D57E92=~z~I'm freaking out, man. I'm being followed... I saw them...
+0x38D57E92=~z~I'm freaking out, man. I'm being followed... I saw them...
+
+;0x3926B492=~z~Come on, fatty, the boss wants a little chat.
+0x3926B492=~z~Come on, fatty, the boss wants a little chat.
+
+;0x3A6FB738=~z~Roman, get out of there, man.
+0x3A6FB738=~z~Roman, get out of there, man.
+
+;0x3AC316C8=090
+0x3AC316C8=090
+
+;0x3ACED833=300
+0x3ACED833=300
+
+;0x3AD56971=~z~Listen, I don't got insurance.
+0x3AD56971=~z~Listen, I don't got insurance.
+
+;0x3B912681=~z~Roman. Roman!
+0x3B912681=~z~Roman. Roman!
+
+;0x3FC4D2E1=F1_RA
+0x3FC4D2E1=F1_RA
+
+;0x43D6A580=~z~Pull over more vans then.
+0x43D6A580=~z~Pull over more vans then.
+
+;0x44815D8A=F1_IA
+0x44815D8A=F1_IA
+
+;0x46936E25=~z~Fuck, get out of here.
+0x46936E25=~z~Fuck, get out of here.
+
+;0x47D63D3D=100
+0x47D63D3D=100
+
+;0x4C0BDA70=~z~So, we say we work for them. Now get out of there, you smell like cabbage.
+0x4C0BDA70=~z~So, we say we work for them. Now get out of there, you smell like cabbage.
+
+;0x4E2E6DB0=200
+0x4E2E6DB0=200
+
+;0x51341CDD=~z~Wake up.
+0x51341CDD=~z~Wake up.
+
+;0x51484D17=~z~Don't be an idiot.
+0x51484D17=~z~Don't be an idiot.
+
+;0x51C452E7=~z~Go, go, go. I... I'll take care of him.
+0x51C452E7=~z~Go, go, go. I... I'll take care of him.
+
+;0x52C36F3A=~z~I have the police car, what now?
+0x52C36F3A=~z~I have the police car, what now?
+
+;0x54C10A80=~z~~c~Nothing! Fuck this!
+0x54C10A80=~z~~c~Nothing! Fuck this!
+
+;0x5554DF30=~z~Nothing... I mean...
+0x5554DF30=~z~Nothing... I mean...
+
+;0x5AB6E9EE=300
+0x5AB6E9EE=300
+
+;0x5D3B0429=~z~I'd do it quick, Roman don't look too good.
+0x5D3B0429=~z~I'd do it quick, Roman don't look too good.
+
+;0x5ED37FFF=~z~They don't care about him. All they care about is making money.
+0x5ED37FFF=~z~They don't care about him. All they care about is making money.
+
+;0x5F81E98A=~z~That's not good enough. I'm going to saw off your fucking arm. Speak!
+0x5F81E98A=~z~That's not good enough. I'm going to saw off your fucking arm. Speak!
+
+;0x614C73F7=~z~You think it's okay to kill my employees?
+0x614C73F7=~z~You think it's okay to kill my employees?
+
+;0x6208250E=~z~Man... get out of here.
+0x6208250E=~z~Man... get out of here.
+
+;0x6375F64A=~z~Fuck!
+0x6375F64A=~z~Fuck!
+
+;0x6529FEDA=~z~I was finding out who he is...
+0x6529FEDA=~z~I was finding out who he is...
+
+;0x683DB851=~z~I don't want no trouble, buddy.
+0x683DB851=~z~I don't want no trouble, buddy.
+
+;0x6B230B40=~z~Where did you find this idiot?
+0x6B230B40=~z~Where did you find this idiot?
+
+;0x6FEFFCEE=F1_NB
+0x6FEFFCEE=F1_NB
+
+;0x71299A81=~z~-Mikhail!~n~-Shut up!
+0x71299A81=~z~-Mikhail!~n~-Shut up!
+
+;0x76293B69=~z~That is a problem for you and your cousin, not me.
+0x76293B69=~z~That is a problem for you and your cousin, not me.
+
+;0x76AD9EAD=~z~If he is an asshole, yes.
+0x76AD9EAD=~z~If he is an asshole, yes.
+
+;0x76FCF30F=F1_CA
+0x76FCF30F=F1_CA
+
+;0x7729234C=~z~He was a friend of your sergeant, when we were in Vladivostok.
+0x7729234C=~z~He was a friend of your sergeant, when we were in Vladivostok.
+
+;0x77C0564A=010100100
+0x77C0564A=010100100
+
+;0x79139A4B=~z~He's ok. A little scarred, but ok. You did good. Mikhail needs someone like you.
+0x79139A4B=~z~He's ok. A little scarred, but ok. You did good. Mikhail needs someone like you.
+
+;0x7966072D=F1_QB
+0x7966072D=F1_QB
+
+;0x7C0BD35A=F1_RC
+0x7C0BD35A=F1_RC
+
+;0x7C375D10=~z~No, I have nothing yet. Is Roman alright?
+0x7C375D10=~z~No, I have nothing yet. Is Roman alright?
+
+;0x7E07FD6D=000
+0x7E07FD6D=000
+
+;0x7E1503A2=~z~Motherfucker.
+0x7E1503A2=~z~Motherfucker.
+
+;0x7E3E1A4E=~z~Mr. Faustin wants those TVs. You do not want him to take out his anger on your cousin. Go.
+0x7E3E1A4E=~z~Mr. Faustin wants those TVs. You do not want him to take out his anger on your cousin. Go.
+
+;0x82E354DD=~z~Be more specific. How many vans you think there are in South Broker?
+0x82E354DD=~z~Be more specific. How many vans you think there are in South Broker?
+
+;0x82F73E1C=~z~Stop shooting people, you maniac!
+0x82F73E1C=~z~Stop shooting people, you maniac!
+
+;0x84013B39=010100100010010100100
+0x84013B39=010100100010010100100
+
+;0x847613B1=F1_AF
+0x847613B1=F1_AF
+
+;0x84773A40=~z~I agree.
+0x84773A40=~z~I agree.
+
+;0x8552051C=~z~You shouldn't have brought them here, Andrei.
+0x8552051C=~z~You shouldn't have brought them here, Andrei.
+
+;0x87F35999=~z~That's not our problem. Keep pulling them over until you find the one with the TVs.
+0x87F35999=~z~That's not our problem. Keep pulling them over until you find the one with the TVs.
+
+;0x89E14514=~z~Mikhail!
+0x89E14514=~z~Mikhail!
+
+;0x8BD24C9E=~z~He is... his cousin.
+0x8BD24C9E=~z~He is... his cousin.
+
+;0x8CF5FE8D=~z~Your cousin will only be alright when Mr. Faustin has that van. Go and get it for him.
+0x8CF5FE8D=~z~Your cousin will only be alright when Mr. Faustin has that van. Go and get it for him.
+
+;0x8DA45376=~z~My wife don't like when people shout!
+0x8DA45376=~z~My wife don't like when people shout!
+
+;0x934044EA=F1_NA
+0x934044EA=F1_NA
+
+;0x9416D2AF=~z~Errr, my cousin, Roman.
+0x9416D2AF=~z~Errr, my cousin, Roman.
+
+;0x998CE813=~z~You were about to cut up some guy in my house, making all that noise, to find out he is his cousin?
+0x998CE813=~z~You were about to cut up some guy in my house, making all that noise, to find out he is his cousin?
+
+;0x9A733780=F1_SA
+0x9A733780=F1_SA
+
+;0x9B7EC3E3=~z~Are they there?
+0x9B7EC3E3=~z~Are they there?
+
+;0x9D19009E=~z~~c~Finally.
+0x9D19009E=~z~~c~Finally.
+
+;0x9EB36EB8=~z~Asshole look at me like I am piece of shit.
+0x9EB36EB8=~z~Asshole look at me like I am piece of shit.
+
+;0x9FB6F79B=~z~Whatever!
+0x9FB6F79B=~z~Whatever!
+
+;0xA3AFCEEC=F1_AC
+0xA3AFCEEC=F1_AC
+
+;0xA3C54202=~z~You've been a bad boy, Mr. Balkan...
+0xA3C54202=~z~You've been a bad boy, Mr. Balkan...
+
+;0xA623F46F=~z~Stop by and see him sometime.
+0xA623F46F=~z~Stop by and see him sometime.
+
+;0xA67896A7=~z~Pull it over, take it to our lockup on Duke's Drive.
+0xA67896A7=~z~Pull it over, take it to our lockup on Duke's Drive.
+
+;0xA7CBD644=F1_AB
+0xA7CBD644=F1_AB
+
+;0xA86508F7=~z~-What do you want me to do?~n~-Shut up Roman!
+0xA86508F7=~z~-What do you want me to do?~n~-Shut up Roman!
+
+;0xA8A3D8BF=~z~I'm dead if I lose this shipment.
+0xA8A3D8BF=~z~I'm dead if I lose this shipment.
+
+;0xACDC043D=~z~Shut the fuck up.
+0xACDC043D=~z~Shut the fuck up.
+
+;0xAD5E944A=F1_PA
+0xAD5E944A=F1_PA
+
+;0xADBE5ED7=F1_OB
+0xADBE5ED7=F1_OB
+
+;0xADC50CDB=~z~~c~Oh my God.~s~
+0xADC50CDB=~z~~c~Oh my God.~s~
+
+;0xAEB3B963=~z~Get out of there or you're fucking dead.
+0xAEB3B963=~z~Get out of there or you're fucking dead.
+
+;0xAEDBA423=~z~~c~Here they are.
+0xAEDBA423=~z~~c~Here they are.
+
+;0xB00D06C5=F1_GA
+0xB00D06C5=F1_GA
+
+;0xB0652FD4=~z~Keep pulling vans over until you find the TVs. Goodbye.
+0xB0652FD4=~z~Keep pulling vans over until you find the TVs. Goodbye.
+
+;0xB0E2DFFB=F1_SE
+0xB0E2DFFB=F1_SE
+
+;0xB10AABCB=~z~The truck is driving around South Broker.
+0xB10AABCB=~z~The truck is driving around South Broker.
+
+;0xB14F29DB=~z~Ain't got nothing.
+0xB14F29DB=~z~Ain't got nothing.
+
+;0xB37BE16F=~z~Why not?
+0xB37BE16F=~z~Why not?
+
+;0xB5D0BB97=F1_RB
+0xB5D0BB97=F1_RB
+
+;0xB6D6000C=~z~Talk about dumb criminals.
+0xB6D6000C=~z~Talk about dumb criminals.
+
+;0xB762FE2F=F1_NC
+0xB762FE2F=F1_NC
+
+;0xB7786ED9=F1_JA
+0xB7786ED9=F1_JA
+
+;0xB7C2FC6B=~z~What are you talking about... get out of there, man.
+0xB7C2FC6B=~z~What are you talking about... get out of there, man.
+
+;0xB915B356=100010100
+0xB915B356=100010100
+
+;0xB9953571=~z~Vlad was his man... that's how it works... you kill their guy, they kill you!
+0xB9953571=~z~Vlad was his man... that's how it works... you kill their guy, they kill you!
+
+;0xBA1EAC6A=~z~-Shut the fuck up!~n~-He's just screaming that's it!
+0xBA1EAC6A=~z~-Shut the fuck up!~n~-He's just screaming that's it!
+
+;0xBA767C64=~z~You ain't taking these.
+0xBA767C64=~z~You ain't taking these.
+
+;0xBB15A0B0=~z~so no, I'm not that smart.
+0xBB15A0B0=~z~so no, I'm not that smart.
+
+;0xBB92A876=~z~Now listen... Niko Bellic.
+0xBB92A876=~z~Now listen... Niko Bellic.
+
+;0xBC415482=~z~Get the fuck out of here.
+0xBC415482=~z~Get the fuck out of here.
+
+;0xBCEDC047=~z~~c~Got them.
+0xBCEDC047=~z~~c~Got them.
+
+;0xBDD18888=~z~Psst, Niko!
+0xBDD18888=~z~Psst, Niko!
+
+;0xBE99446F=~z~No TVs, buddy.
+0xBE99446F=~z~No TVs, buddy.
+
+;0xC1103EF4=F1_EA
+0xC1103EF4=F1_EA
+
+;0xC2CF9F14=300
+0xC2CF9F14=300
+
+;0xC3C4184C=F1_QC
+0xC3C4184C=F1_QC
+
+;0xC6FC156F=~z~I ain't losing this.
+0xC6FC156F=~z~I ain't losing this.
+
+;0xC7D9C3AE=~z~What you got back there, TVs? Show me.
+0xC7D9C3AE=~z~What you got back there, TVs? Show me.
+
+;0xC8F1C4A0=~z~I got some dickheads in my neighborhood trying to run a shipment, yeah?
+0xC8F1C4A0=~z~I got some dickheads in my neighborhood trying to run a shipment, yeah?
+
+;0xC940A4E1=~z~You shoulda believed me, pussy hole.
+0xC940A4E1=~z~You shoulda believed me, pussy hole.
+
+;0xCA2E2CDF=~z~Mikhail does not tolerate failure.
+0xCA2E2CDF=~z~Mikhail does not tolerate failure.
+
+;0xCB4DD039=100
+0xCB4DD039=100
+
+;0xCC10A506=~z~Roman! What are you doing in the dumpster, man?
+0xCC10A506=~z~Roman! What are you doing in the dumpster, man?
+
+;0xCD13149D=~z~Not yet, but you will.
+0xCD13149D=~z~Not yet, but you will.
+
+;0xCD5C5B5F=~z~This a big screw up.
+0xCD5C5B5F=~z~This a big screw up.
+
+;0xCDDED3EA=~z~-Roman, shut up!~n~-I can't make him shut up!
+0xCDDED3EA=~z~-Roman, shut up!~n~-I can't make him shut up!
+
+;0xCE8F791E=~z~Come out real slow, shithead.
+0xCE8F791E=~z~Come out real slow, shithead.
+
+;0xCE91E460=~z~It's empty.
+0xCE91E460=~z~It's empty.
+
+;0xD219B737=F1_QA
+0xD219B737=F1_QA
+
+;0xD4494115=~z~Dimitri, I couldn't get you that shipment.
+0xD4494115=~z~Dimitri, I couldn't get you that shipment.
+
+;0xD4D7DEA8=~z~He's an imbecile.
+0xD4D7DEA8=~z~He's an imbecile.
+
+;0xD517862A=~z~Get out with no funny business.
+0xD517862A=~z~Get out with no funny business.
+
+;0xD6FD1ABB=010100190
+0xD6FD1ABB=010100190
+
+;0xD82062FD=~z~You owe me.
+0xD82062FD=~z~You owe me.
+
+;0xD85B2B2D=~z~Oh no! I shit my pants!
+0xD85B2B2D=~z~Oh no! I shit my pants!
+
+;0xDB19853C=~z~The van is driving around South Broker. Pull it over, take it to our lockup on Dukes Drive.
+0xDB19853C=~z~The van is driving around South Broker. Pull it over, take it to our lockup on Dukes Drive.
+
+;0xDBF2D786=F1_SC
+0xDBF2D786=F1_SC
+
+;0xDC05F8B2=~z~Big fucking mistake.
+0xDC05F8B2=~z~Big fucking mistake.
+
+;0xDDDBBFA8=F1_SB
+0xDDDBBFA8=F1_SB
+
+;0xDEF93BCC=010100010100100
+0xDEF93BCC=010100010100100
+
+;0xDF957757=~z~Fuck!
+0xDF957757=~z~Fuck!
+
+;0xE0EAF326=~z~You are very lucky Vlad was an idiot.
+0xE0EAF326=~z~You are very lucky Vlad was an idiot.
+
+;0xE28CF476=~z~Or I will personally pull your cousin's stitches out, one by one,
+0xE28CF476=~z~Or I will personally pull your cousin's stitches out, one by one,
+
+;0xE2967A25=~z~So, Niko Bellic.
+0xE2967A25=~z~So, Niko Bellic.
+
+;0xE2D6D292=~z~because Faustin is a psychopath... he's going to kill us... because we killed Vlad.
+0xE2D6D292=~z~because Faustin is a psychopath... he's going to kill us... because we killed Vlad.
+
+;0xE5D6C6EF=F1_OC
+0xE5D6C6EF=F1_OC
+
+;0xE76576ED=~z~I've left the van where you say. How's Roman?
+0xE76576ED=~z~I've left the van where you say. How's Roman?
+
+;0xE76DAAD6=~z~Come out and don't try nothing.
+0xE76DAAD6=~z~Come out and don't try nothing.
+
+;0xE8CFD3D5=F1_OA
+0xE8CFD3D5=F1_OA
+
+;0xE8F200D7=F1_FA
+0xE8F200D7=F1_FA
+
+;0xE94C21A1=~z~I have the police car, what now?
+0xE94C21A1=~z~I have the police car, what now?
+
+;0xEA727F69=~z~My fucking wife is watching television.
+0xEA727F69=~z~My fucking wife is watching television.
+
+;0xEB36E819=F1_LA
+0xEB36E819=F1_LA
+
+;0xEB6C0160=~z~Okay, okay, your dad likes it up the ass...
+0xEB6C0160=~z~Okay, okay, your dad likes it up the ass...
+
+;0xEB9867A0=F1_AA
+0xEB9867A0=F1_AA
+
+;0xEC69D8FA=~z~I wouldn't do this, Kenny Petrovic is looking after this truck.
+0xEC69D8FA=~z~I wouldn't do this, Kenny Petrovic is looking after this truck.
+
+;0xEEA41008=~z~Yes, a buyer,
+0xEEA41008=~z~Yes, a buyer,
+
+;0xEEFBD86E=~z~We had to gag him, to stop the screaming.
+0xEEFBD86E=~z~We had to gag him, to stop the screaming.
+
+;0xF2445930=F1_KA
+0xF2445930=F1_KA
+
+;0xF2E6F1D9=F1_AG
+0xF2E6F1D9=F1_AG
+
+;0xF42F1C5C=~z~Open up the back. You got any flatscreens?
+0xF42F1C5C=~z~Open up the back. You got any flatscreens?
+
+;0xF5517303=F1_MA
+0xF5517303=F1_MA
+
+;0xF5CF1CF2=~z~The only reason I keep him around is because I fuck his sister.
+0xF5CF1CF2=~z~The only reason I keep him around is because I fuck his sister.
+
+;0xF8D54D52=010100100
+0xF8D54D52=010100100
+
+;0xF937166D=F1_AD
+0xF937166D=F1_AD
+
+;0xFAC8F008=~z~Who are you working for?
+0xFAC8F008=~z~Who are you working for?
+
+;0xFBA9B7F9=~z~You gonna be sorry.
+0xFBA9B7F9=~z~You gonna be sorry.
+
+;0xFBDC948C=~z~You gonna be disappointed.
+0xFBDC948C=~z~You gonna be disappointed.
+
+;0xFCCA28F4=~z~and watch his guts spill onto the floor.
+0xFCCA28F4=~z~and watch his guts spill onto the floor.
+
+;0xFD4C85E7=F1_DA
+0xFD4C85E7=F1_DA
+
+;0xFE287C77=~z~You making a mistake, we paying protection money to Kenny Petrovic.
+0xFE287C77=~z~You making a mistake, we paying protection money to Kenny Petrovic.
+

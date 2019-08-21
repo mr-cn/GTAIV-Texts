@@ -1,0 +1,154 @@
+﻿[M2AUD]
+;0x0240AEA6=~z~Shit man, I'm the voice of the streets, man. Yo, if I'm gonna make some money, that's the way shit's gonna be.
+0x0240AEA6=~z~Shit man, I'm the voice of the streets, man. Yo, if I'm gonna make some money, that's the way shit's gonna be.
+
+;0x07C34557=~z~Manny, I thought you should know that I lost those dealers.
+0x07C34557=~z~Manny, I thought you should know that I lost those dealers.
+
+;0x12A2D07E=~z~Yo, that's what I'm saying man. The streets, we got codes man you know what I'm saying.
+0x12A2D07E=~z~Yo, that's what I'm saying man. The streets, we got codes man you know what I'm saying.
+
+;0x1559B66E=~z~I'll call you when I got more work. Stay safe. Stay real.
+0x1559B66E=~z~I'll call you when I got more work. Stay safe. Stay real.
+
+;0x1603E1D8=~z~But I guess the streets already told you that.
+0x1603E1D8=~z~But I guess the streets already told you that.
+
+;0x1E557B19=M2_BA
+0x1E557B19=M2_BA
+
+;0x2B12804D=~z~Huh.
+0x2B12804D=~z~Huh.
+
+;0x2C7EADE4=~z~A little closer. Thank you so much. Wonderful, wonderful. Beautiful. Now we are gonna be da da da da.
+0x2C7EADE4=~z~A little closer. Thank you so much. Wonderful, wonderful. Beautiful. Now we are gonna be da da da da.
+
+;0x3B0D2042=~z~Yo, listen, homeboy, I need you to do me a favor man. Listen man, I need you to help me out man.
+0x3B0D2042=~z~Yo, listen, homeboy, I need you to do me a favor man. Listen man, I need you to help me out man.
+
+;0x3B1A1F34=~z~Yeah, you know, it was a real big thing for me, you know what I'm sayin', a real street cat,
+0x3B1A1F34=~z~Yeah, you know, it was a real big thing for me, you know what I'm sayin', a real street cat,
+
+;0x41295739=~z~Right over here. Officer please I need you this way. Thank you.
+0x41295739=~z~Right over here. Officer please I need you this way. Thank you.
+
+;0x43322351=M2_AB
+0x43322351=M2_AB
+
+;0x495DBBBB=~z~Thank you Officer. Thanks.
+0x495DBBBB=~z~Thank you Officer. Thanks.
+
+;0x4CDCC4F5=~z~We live by these codes. You know what I mean?
+0x4CDCC4F5=~z~We live by these codes. You know what I mean?
+
+;0x4E36F154=~z~Tighten up Manny. I need you guys tight. This is gonna be great. Okay good. Thank you. A little closer.
+0x4E36F154=~z~Tighten up Manny. I need you guys tight. This is gonna be great. Okay good. Thank you. A little closer.
+
+;0x4FF5CA13=~z~Alright, I'm just saying.
+0x4FF5CA13=~z~Alright, I'm just saying.
+
+;0x59575BAE=~z~Keep doing what you're doing.
+0x59575BAE=~z~Keep doing what you're doing.
+
+;0x5DE865F8=~z~Whatever man, fucking punk...
+0x5DE865F8=~z~Whatever man, fucking punk...
+
+;0x66927624=~z~A'ight.
+0x66927624=~z~A'ight.
+
+;0x693F7D66=010010100
+0x693F7D66=010010100
+
+;0x6C95846A=~z~They're over on Windmill Street right now.
+0x6C95846A=~z~They're over on Windmill Street right now.
+
+;0x723D8D7A=~z~Yo man, I was getting my flow on, man, I ain't rapped for years.
+0x723D8D7A=~z~Yo man, I was getting my flow on, man, I ain't rapped for years.
+
+;0x788E1B43=~z~Cause yo, I promised Mr. McReary I was gonna get this place cleaned up and I will.
+0x788E1B43=~z~Cause yo, I promised Mr. McReary I was gonna get this place cleaned up and I will.
+
+;0x80432985=~z~Manny - I got things to do... you, off.
+0x80432985=~z~Manny - I got things to do... you, off.
+
+;0x84DCFEF7=010100100
+0x84DCFEF7=010100100
+
+;0x860C363F=~z~Okay... how many?
+0x860C363F=~z~Okay... how many?
+
+;0x8D6BEFD1=~z~Well, no. I'm uh, just a tourist.
+0x8D6BEFD1=~z~Well, no. I'm uh, just a tourist.
+
+;0x9040C980=~z~I mean, where I'm from, out here, man, police is a dirty word man.
+0x9040C980=~z~I mean, where I'm from, out here, man, police is a dirty word man.
+
+;0x950435C1=~z~It's all business with you kid, but that's okay. Money's what makes these streets sing, man.
+0x950435C1=~z~It's all business with you kid, but that's okay. Money's what makes these streets sing, man.
+
+;0x9DC9E492=~z~to start working with the gatekeepers of the community to make things better.
+0x9DC9E492=~z~to start working with the gatekeepers of the community to make things better.
+
+;0xA25D99B4=~z~Hey, man, you know, for a cop, you ain't so bad man, you know. Give it up, the streets, man. Word, give it up.
+0xA25D99B4=~z~Hey, man, you know, for a cop, you ain't so bad man, you know. Give it up, the streets, man. Word, give it up.
+
+;0xA94CFCC0=~z~I need you to get some bitches taken out, moved on, whatever.
+0xA94CFCC0=~z~I need you to get some bitches taken out, moved on, whatever.
+
+;0xAB550C7C=~z~Niko, you cold, man. You cold and you ain't doing shit right. Come see me.
+0xAB550C7C=~z~Niko, you cold, man. You cold and you ain't doing shit right. Come see me.
+
+;0xB3103B19=~z~Hey, Officer McReary, this is Niko right here. This is my man Niko.
+0xB3103B19=~z~Hey, Officer McReary, this is Niko right here. This is my man Niko.
+
+;0xB6ED9915=~z~Over here man.
+0xB6ED9915=~z~Over here man.
+
+;0xC3891E91=M2_AC
+0xC3891E91=M2_AC
+
+;0xC4F6B527=~z~As long as they pay.
+0xC4F6B527=~z~As long as they pay.
+
+;0xCC134360=~z~Man, they disrespected the codes of the streets, man. The streets man. They owe you man. They owe you big time.
+0xCC134360=~z~Man, they disrespected the codes of the streets, man. The streets man. They owe you man. They owe you big time.
+
+;0xD0285F98=M2_BB
+0xD0285F98=M2_BB
+
+;0xD3B77C67=~z~All I can say is I hope you'll continue to make the community a better place.
+0xD3B77C67=~z~All I can say is I hope you'll continue to make the community a better place.
+
+;0xD4C75288=~z~I was one of them cats who invented that shit man, it went commercial.
+0xD4C75288=~z~I was one of them cats who invented that shit man, it went commercial.
+
+;0xD6135648=~z~A bunch man, a bunch. They're hanging out and making bad shit happen all over South Bohan man.
+0xD6135648=~z~A bunch man, a bunch. They're hanging out and making bad shit happen all over South Bohan man.
+
+;0xE2C45144=~z~Manny, I got rid of your street problem, now help me out with my financial one.
+0xE2C45144=~z~Manny, I got rid of your street problem, now help me out with my financial one.
+
+;0xE383C64A=M2_BC
+0xE383C64A=M2_BC
+
+;0xEA517FDC=~z~Alright. What did they do?
+0xEA517FDC=~z~Alright. What did they do?
+
+;0xF1328D9E=~z~I'm on you.
+0xF1328D9E=~z~I'm on you.
+
+;0xF205B8F3=~z~Okay guys, I just want to get one more shot please. This is gonna look great.
+0xF205B8F3=~z~Okay guys, I just want to get one more shot please. This is gonna look great.
+
+;0xF4321161=~z~Look Manny - I gotta go...
+0xF4321161=~z~Look Manny - I gotta go...
+
+;0xF66A96FA=~z~Yeah, like charity work?
+0xF66A96FA=~z~Yeah, like charity work?
+
+;0xFD30186E=M2_AA
+0xFD30186E=M2_AA
+
+;0xFDF1D0DF=~z~Oh, good to meet you, I hear you're helping this guy with his vital work for our city.
+0xFDF1D0DF=~z~Oh, good to meet you, I hear you're helping this guy with his vital work for our city.
+

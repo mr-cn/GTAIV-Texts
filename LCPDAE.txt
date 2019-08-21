@@ -1,0 +1,631 @@
+﻿[LCPDAE]
+;0x0057EBD5=Lola
+0x0057EBD5=Lola
+
+;0x05B351E1=Crane
+0x05B351E1=Crane
+
+;0x07EA59B7=Bellic
+0x07EA59B7=Bellic
+
+;0x0A5EE9A5=Joe "Tuna"
+0x0A5EE9A5=Joe "Tuna"
+
+;0x0F99DEDE=32
+0x0F99DEDE=32
+
+;0x1033FC22=-Believed to have moved to Liberty City from San Fierro to pursue a stage career. <br/>-One of the first prostitutes to return to Star Junction after it was said to be a family friendly zone.<br/>-Often seen sucking on a red lollipop.
+0x1033FC22=-Believed to have moved to Liberty City from San Fierro to pursue a stage career. <br/>-One of the first prostitutes to return to Star Junction after it was said to be a family friendly zone.<br/>-Often seen sucking on a red lollipop.
+
+;0x11C169FD=Butler
+0x11C169FD=Butler
+
+;0x1385614C=DiLeo
+0x1385614C=DiLeo
+
+;0x145D5BC8=Unknown
+0x145D5BC8=Unknown
+
+;0x1497F362=Unknown
+0x1497F362=Unknown
+
+;0x165FDFC5=Algonquin, Liberty City
+0x165FDFC5=Algonquin, Liberty City
+
+;0x16760D78=50
+0x16760D78=50
+
+;0x1689998C=Phil
+0x1689998C=Phil
+
+;0x187003C0=Bellic
+0x187003C0=Bellic
+
+;0x18F3794A=Ray
+0x18F3794A=Ray
+
+;0x194CF58E=1995 - Driving while Intoxicated<br/>2005 - Petit Larceny
+0x194CF58E=1995 - Driving while Intoxicated<br/>2005 - Petit Larceny
+
+;0x1975F5DC=2003 - Loitering: Prostitution Solicitation<br/>2004 - Possession Controlled Substance: Ecstasy
+0x1975F5DC=2003 - Loitering: Prostitution Solicitation<br/>2004 - Possession Controlled Substance: Ecstasy
+
+;0x1A4745D0=Ancelotti Crime Syndicate
+0x1A4745D0=Ancelotti Crime Syndicate
+
+;0x1BD98033=1998 - Unauthorized Use Vehicle: Joyriding<br/>2002 - Possession Controlled Substance: Marijuana
+0x1BD98033=1998 - Unauthorized Use Vehicle: Joyriding<br/>2002 - Possession Controlled Substance: Marijuana
+
+;0x1DD179ED=27
+0x1DD179ED=27
+
+;0x1E047BB3=46
+0x1E047BB3=46
+
+;0x1F48D54E=Johnny "Spaz"
+0x1F48D54E=Johnny "Spaz"
+
+;0x213722FA=42
+0x213722FA=42
+
+;0x21A47656=Russia
+0x21A47656=Russia
+
+;0x247C14AF=Acter, Alderney
+0x247C14AF=Acter, Alderney
+
+;0x249F9325=Austin
+0x249F9325=Austin
+
+;0x25012FF0=Linked to Dominican Street Gangs in Northwood and the Alderney based Pegorino Crime Syndicate.
+0x25012FF0=Linked to Dominican Street Gangs in Northwood and the Alderney based Pegorino Crime Syndicate.
+
+;0x25686A0F=-South Bohan based fraudster and drug dealer.<br/>-Former member of the Spanish Lords.<br/>-Reinvented himself as a community leader and started a youth center.<br/>-Suspected in assaults against criminals around his neighborhood.
+0x25686A0F=-South Bohan based fraudster and drug dealer.<br/>-Former member of the Spanish Lords.<br/>-Reinvented himself as a community leader and started a youth center.<br/>-Suspected in assaults against criminals around his neighborhood.
+
+;0x26A8005D=Little Italy, Liberty City
+0x26A8005D=Little Italy, Liberty City
+
+;0x281DE17D=Linked to the Ancelotti Crime Syndicate and "Gay" Tony Prince.
+0x281DE17D=Linked to the Ancelotti Crime Syndicate and "Gay" Tony Prince.
+
+;0x2916A50D=Benavidez
+0x2916A50D=Benavidez
+
+;0x296116FD=32
+0x296116FD=32
+
+;0x2A2A8D04=-Alderney-based Italian American hood. <br/>-Involved in small time criminal activities. <br/>-Believed to be trying to work his way up through the Pegorino crime family. <br/>-Works for Ray Boccino and often seen with Luca Silvestri and Joe "Tuna" DiLeo.
+0x2A2A8D04=-Alderney-based Italian American hood. <br/>-Involved in small time criminal activities. <br/>-Believed to be trying to work his way up through the Pegorino crime family. <br/>-Works for Ray Boccino and often seen with Luca Silvestri and Joe "Tuna" DiLeo.
+
+;0x2AA41F2A=Arnold
+0x2AA41F2A=Arnold
+
+;0x2C1FE869=N/A
+0x2C1FE869=N/A
+
+;0x2D9271E1=Roman
+0x2D9271E1=Roman
+
+;0x2EB41256=1994 - Fraud<br/>1997 - Possession Controlled Substance: Heroin
+0x2EB41256=1994 - Fraud<br/>1997 - Possession Controlled Substance: Heroin
+
+;0x2F701D2A=29
+0x2F701D2A=29
+
+;0x312E3CAE=-Star Power Pitcher for the Liberty Swingers.<br/>-History of dating very young girls.<br/>-Believed to have had a relationship with teen heiress Jill Von Crastenburg.<br/>-Caught in possession of child pornography but charges were dropped.<br/>-Central figure in a 2006 doping scandal at the Liberty Swingers.
+0x312E3CAE=-Star Power Pitcher for the Liberty Swingers.<br/>-History of dating very young girls.<br/>-Believed to have had a relationship with teen heiress Jill Von Crastenburg.<br/>-Caught in possession of child pornography but charges were dropped.<br/>-Central figure in a 2006 doping scandal at the Liberty Swingers.
+
+;0x3186AB8D=1998 - Driving While Intoxicated<br/>1999 - Public Intoxication and Disorderly Conduct<br/>2003 - Assault On A Police Officer<br/>2005 - Driving While Intoxicated
+0x3186AB8D=1998 - Driving While Intoxicated<br/>1999 - Public Intoxication and Disorderly Conduct<br/>2003 - Assault On A Police Officer<br/>2005 - Driving While Intoxicated
+
+;0x31EBC463=43
+0x31EBC463=43
+
+;0x32130472=Alderney City, Alderney
+0x32130472=Alderney City, Alderney
+
+;0x3235B022=Middle Park East, Liberty City
+0x3235B022=Middle Park East, Liberty City
+
+;0x32BFAF65=Asaltacunas
+0x32BFAF65=Asaltacunas
+
+;0x360B2F0A=2001 - Possession Controlled Substance: Cocaine
+0x360B2F0A=2001 - Possession Controlled Substance: Cocaine
+
+;0x374DD9C0=Ashley
+0x374DD9C0=Ashley
+
+;0x37C7D017=31
+0x37C7D017=31
+
+;0x385B2959=-Small time Eastern European business owner. <br/>-Heavily in debt. <br/>-Owns a livery cab service believed to be used by criminals for illegal purposes. <br/>-Rumored to be a gambling addict.
+0x385B2959=-Small time Eastern European business owner. <br/>-Heavily in debt. <br/>-Owns a livery cab service believed to be used by criminals for illegal purposes. <br/>-Rumored to be a gambling addict.
+
+;0x38D9BB95=Andrews
+0x38D9BB95=Andrews
+
+;0x39FED9EB=Linked to Peruvian pimp in Acter and porn producers in Star Junction.
+0x39FED9EB=Linked to Peruvian pimp in Acter and porn producers in Star Junction.
+
+;0x3A2E4013=Algonquin, Liberty City
+0x3A2E4013=Algonquin, Liberty City
+
+;0x3B1C2EE7=-Relocated to Liberty City from the Midwest. <br/>-Believed to be working as a prostitute to support heroin addiction. <br/>-Refused to enter rehabilitation program on first arrest and was released onto street. <br/>-Operating in Southern Algonquin and Alderney.
+0x3B1C2EE7=-Relocated to Liberty City from the Midwest. <br/>-Believed to be working as a prostitute to support heroin addiction. <br/>-Refused to enter rehabilitation program on first arrest and was released onto street. <br/>-Operating in Southern Algonquin and Alderney.
+
+;0x3D3BF7B3=Pegorino Crime Syndicate
+0x3D3BF7B3=Pegorino Crime Syndicate
+
+;0x3EEA8DFE=Linked to the Lost OMG and the Alderney based Pegorino Crime Syndicate.
+0x3EEA8DFE=Linked to the Lost OMG and the Alderney based Pegorino Crime Syndicate.
+
+;0x402B4A3C=Bell
+0x402B4A3C=Bell
+
+;0x42243267=1990 - Possession Stolen Property<br/>1991 - Grand Larceny<br/>1995 - Hijacking<br/>1999 - Burglary
+0x42243267=1990 - Possession Stolen Property<br/>1991 - Grand Larceny<br/>1995 - Hijacking<br/>1999 - Burglary
+
+;0x42D0CC1F=Dixon
+0x42D0CC1F=Dixon
+
+;0x43731DA6=Anthony
+0x43731DA6=Anthony
+
+;0x43FEDADD=Allen
+0x43FEDADD=Allen
+
+;0x44D83CBD=Northwood, Liberty City
+0x44D83CBD=Northwood, Liberty City
+
+;0x44FEF522=Alexandra "Alex"
+0x44FEF522=Alexandra "Alex"
+
+;0x456B54DC=Broker, Liberty City
+0x456B54DC=Broker, Liberty City
+
+;0x45E2E77F=-AKA Ty-Di<br/>-History of drug addiction and petty crime.<br/>-Violent tendencies; smoked PCP for 20 years.<br/>-Believed to have lost his virginity to his mother at the age of 9.<br/>-Engaged to Algonquin celebutante, Cloe Parker.
+0x45E2E77F=-AKA Ty-Di<br/>-History of drug addiction and petty crime.<br/>-Violent tendencies; smoked PCP for 20 years.<br/>-Believed to have lost his virginity to his mother at the age of 9.<br/>-Engaged to Algonquin celebutante, Cloe Parker.
+
+;0x4675D56B=2005 - Criminal Sexual Act: Minor<br/>2006 - Possession Controlled Substance: Steroids
+0x4675D56B=2005 - Criminal Sexual Act: Minor<br/>2006 - Possession Controlled Substance: Steroids
+
+;0x48487D09=Mallorie
+0x48487D09=Mallorie
+
+;0x4982738C=28
+0x4982738C=28
+
+;0x49BD4687=Unknown
+0x49BD4687=Unknown
+
+;0x4BD4E5FE=1999 - Possession Controlled Substance: Heroin<br/>2002 - Grand Theft Auto<br/>2004 - Assault
+0x4BD4E5FE=1999 - Possession Controlled Substance: Heroin<br/>2002 - Grand Theft Auto<br/>2004 - Assault
+
+;0x4C29F8DF=21
+0x4C29F8DF=21
+
+;0x4E6666B2=Bardas
+0x4E6666B2=Bardas
+
+;0x4E7A82E2=Known associate of Vladimir Glebov and linked to West Indian criminals in East Liberty City.
+0x4E7A82E2=Known associate of Vladimir Glebov and linked to West Indian criminals in East Liberty City.
+
+;0x4EEF0A5A=Lester
+0x4EEF0A5A=Lester
+
+;0x4FF46B9F=Unknown
+0x4FF46B9F=Unknown
+
+;0x52045E49=Escuela
+0x52045E49=Escuela
+
+;0x5241D971=1998 - Grand Theft Auto<br/>2001 - Promoting Gambling<br/>2004 - Armed Robbery
+0x5241D971=1998 - Grand Theft Auto<br/>2001 - Promoting Gambling<br/>2004 - Armed Robbery
+
+;0x526BBB97=Marlon
+0x526BBB97=Marlon
+
+;0x54596808=27
+0x54596808=27
+
+;0x54987C10=Barbosa
+0x54987C10=Barbosa
+
+;0x54AC71D8=1988 - Possession Controlled Substance: Methamphetamine<br/>1989 - Assault<br/>1992 - Assault<br/>1993 - Possession Controlled Substance: Heroin <br/>2005 - Idenitity theft.
+0x54AC71D8=1988 - Possession Controlled Substance: Methamphetamine<br/>1989 - Assault<br/>1992 - Assault<br/>1993 - Possession Controlled Substance: Heroin <br/>2005 - Idenitity theft.
+
+;0x57D80496=Manny
+0x57D80496=Manny
+
+;0x57D9C673=Ray
+0x57D9C673=Ray
+
+;0x58DDE4C8=Dominican Republic
+0x58DDE4C8=Dominican Republic
+
+;0x5A98FBAB=D'Avanzo
+0x5A98FBAB=D'Avanzo
+
+;0x5AE72C7D=35
+0x5AE72C7D=35
+
+;0x5B4B171D=21
+0x5B4B171D=21
+
+;0x5D6C20C5=Known associate of Vladimir Glebov.
+0x5D6C20C5=Known associate of Vladimir Glebov.
+
+;0x5E4896E2=-Believed to be the leader of the Liberty City Chapter of the Angels of Death OMG.<br/>-Not much is known about him other than that he has a serious problem with narcotics.
+0x5E4896E2=-Believed to be the leader of the Liberty City Chapter of the Angels of Death OMG.<br/>-Not much is known about him other than that he has a serious problem with narcotics.
+
+;0x606AF5C3=2006 - Grand Theft Auto
+0x606AF5C3=2006 - Grand Theft Auto
+
+;0x643334E2=Niko
+0x643334E2=Niko
+
+;0x661562EA=Teddy
+0x661562EA=Teddy
+
+;0x669C0C8D=46
+0x669C0C8D=46
+
+;0x6783A958=-Recent immigrant to Liberty City from Eastern Europe. -Appears to be avoiding allegiance to one particular criminal organization.
+0x6783A958=-Recent immigrant to Liberty City from Eastern Europe. -Appears to be avoiding allegiance to one particular criminal organization.
+
+;0x6B17200F=Ancelotti
+0x6B17200F=Ancelotti
+
+;0x6C42C501=Luther
+0x6C42C501=Luther
+
+;0x6E3C0F88=Midwest
+0x6E3C0F88=Midwest
+
+;0x6E772C3A=2005 - Promoting Gambling<br/>2006 - Public Intoxication and Disorderly Conduct
+0x6E772C3A=2005 - Promoting Gambling<br/>2006 - Public Intoxication and Disorderly Conduct
+
+;0x6E98D3E4=27
+0x6E98D3E4=27
+
+;0x6F12A856=Midwest
+0x6F12A856=Midwest
+
+;0x70ACF29A=N/A
+0x70ACF29A=N/A
+
+;0x70F49A8B=-People smuggler and high profile figure in global Organized Crime. <br/>-Believed to be operating in Europe on the Adriatic. <br/>-Deported after being caught receiving a shipment of Albanian sex workers at the Liberty City Docks in late 80s.<br/>-Reports indicate that he may try to return to the US.
+0x70F49A8B=-People smuggler and high profile figure in global Organized Crime. <br/>-Believed to be operating in Europe on the Adriatic. <br/>-Deported after being caught receiving a shipment of Albanian sex workers at the Liberty City Docks in late 80s.<br/>-Reports indicate that he may try to return to the US.
+
+;0x71072163=29
+0x71072163=29
+
+;0x72AC4B45=Gambetti Crime Syndicate
+0x72AC4B45=Gambetti Crime Syndicate
+
+;0x75334AED=25
+0x75334AED=25
+
+;0x760A3A6C=1981 - Grand Theft Auto<br/>1982 - Hijacking<br/>1984 - Manslaughter<br/>1993 - Racketeering
+0x760A3A6C=1981 - Grand Theft Auto<br/>1982 - Hijacking<br/>1984 - Manslaughter<br/>1993 - Racketeering
+
+;0x76FB7E1F=N/A
+0x76FB7E1F=N/A
+
+;0x78A9409E=2000 - Petit Larceny<br/>2001 - Grand Larceny<br/>2002 - Possession Controlled Substance: Marijuana<br/>2004 - Assault<br/>2004 - Petit Larceny<br/>2005 - Driving While Intoxicated
+0x78A9409E=2000 - Petit Larceny<br/>2001 - Grand Larceny<br/>2002 - Possession Controlled Substance: Marijuana<br/>2004 - Assault<br/>2004 - Petit Larceny<br/>2005 - Driving While Intoxicated
+
+;0x7B81018C=Pegorino Crime Syndicate
+0x7B81018C=Pegorino Crime Syndicate
+
+;0x7C5F0F7D=Joe
+0x7C5F0F7D=Joe
+
+;0x7CF9AD03=Alderney City, Alderney
+0x7CF9AD03=Alderney City, Alderney
+
+;0x7F6F475D=2008 - Grand Theft Auto
+0x7F6F475D=2008 - Grand Theft Auto
+
+;0x80356657=Pegorino Crime Syndicate
+0x80356657=Pegorino Crime Syndicate
+
+;0x81B1EFDF=Jermaine
+0x81B1EFDF=Jermaine
+
+;0x82C45FD9=-Works as a presenter on the TV show "The Serrated Edge"<br/>-Long-term alcoholic with a history of violent behavior.<br/>-Assaulted a police officer with a fishing pole in 2003. <br/>-If you see him, beat him.
+0x82C45FD9=-Works as a presenter on the TV show "The Serrated Edge"<br/>-Long-term alcoholic with a history of violent behavior.<br/>-Assaulted a police officer with a fishing pole in 2003. <br/>-If you see him, beat him.
+
+;0x833A3F16=-Ambitious crack cocaine dealer in North Holland. <br/>-Believed to be angering the dominant dealing operations with his business expansion.
+0x833A3F16=-Ambitious crack cocaine dealer in North Holland. <br/>-Believed to be angering the dominant dealing operations with his business expansion.
+
+;0x8340C5D6=40
+0x8340C5D6=40
+
+;0x842AFF08=36
+0x842AFF08=36
+
+;0x8472DBBC=Corrola
+0x8472DBBC=Corrola
+
+;0x867D1E3E=N/A
+0x867D1E3E=N/A
+
+;0x8731DCBB=2003 - Possession Controlled Substance: Crack Cocaine<br/>2004 - Assault
+0x8731DCBB=2003 - Possession Controlled Substance: Crack Cocaine<br/>2004 - Assault
+
+;0x89C1A3AF=N/A
+0x89C1A3AF=N/A
+
+;0x8A3725B2=Member of the Angels of Death OMG
+0x8A3725B2=Member of the Angels of Death OMG
+
+;0x8BBAE6C1=2006 - Petit Larceny <br/>2006 - Prostitution<br/>2007 - Possession Controlled Substance: Heroin
+0x8BBAE6C1=2006 - Petit Larceny <br/>2006 - Prostitution<br/>2007 - Possession Controlled Substance: Heroin
+
+;0x8BE47219=-Works at the Pay and Spray on Gibson Street in Broker. -Believed to be involved in several recent low priority hijackings in the South Broker area.<br/>-Under tight surveillance.
+0x8BE47219=-Works at the Pay and Spray on Gibson Street in Broker. -Believed to be involved in several recent low priority hijackings in the South Broker area.<br/>-Under tight surveillance.
+
+;0x8D23E2C6=1984 - Grand Theft Auto<br/>1988 - Promoting Gambling<br/>1990 - Manslaughter<br/>2005 - Racketeering
+0x8D23E2C6=1984 - Grand Theft Auto<br/>1988 - Promoting Gambling<br/>1990 - Manslaughter<br/>2005 - Racketeering
+
+;0x8D8953B4=-Wanted for murder in Vice City. <br/>-Believed to be Jon Gravelli's right hand man and his logical successor as head of the Gambetti Crime Syndicate.
+0x8D8953B4=-Wanted for murder in Vice City. <br/>-Believed to be Jon Gravelli's right hand man and his logical successor as head of the Gambetti Crime Syndicate.
+
+;0x90CA2C1E=Linked to Russian Organized Crime.
+0x90CA2C1E=Linked to Russian Organized Crime.
+
+;0x917FF157=1989 - Human Trafficking
+0x917FF157=1989 - Human Trafficking
+
+;0x91AE10E3=Westdyke, Alderney
+0x91AE10E3=Westdyke, Alderney
+
+;0x91AFE1DC=31
+0x91AFE1DC=31
+
+;0x954E04F4=-Chief Lieutenant in the Alderney based Pegorino Crime Syndicate. <br/>-Not believed to be a "made" member of the Mafia because he is of mixed Irish / Italian ancestry. <br/>-Careful about wiretaps and other forms of surveillance. <br/>-Maintains that he is a legitimate businessman, managing construction yards and the Pegorino-owned Honker's Gentleman's Club in Tudor.
+0x954E04F4=-Chief Lieutenant in the Alderney based Pegorino Crime Syndicate. <br/>-Not believed to be a "made" member of the Mafia because he is of mixed Irish / Italian ancestry. <br/>-Careful about wiretaps and other forms of surveillance. <br/>-Maintains that he is a legitimate businessman, managing construction yards and the Pegorino-owned Honker's Gentleman's Club in Tudor.
+
+;0x974A8A51=-"Old Lady" of Billy Grey, head of the Alderney Chapter of the Lost Outlaw Motorcycle Gang. <br/>-Seen with Ray Boccino, a Capo in the Alderney-based Pegorino Crime Syndicate. <br/>-Believed to be a conduit between those two organizations.
+0x974A8A51=-"Old Lady" of Billy Grey, head of the Alderney Chapter of the Lost Outlaw Motorcycle Gang. <br/>-Seen with Ray Boccino, a Capo in the Alderney-based Pegorino Crime Syndicate. <br/>-Believed to be a conduit between those two organizations.
+
+;0x97E1C107=Linked to African American gangs in the Firefly Projects.
+0x97E1C107=Linked to African American gangs in the Firefly Projects.
+
+;0x99BD7D5B=Ancelotti
+0x99BD7D5B=Ancelotti
+
+;0x9B97475A=N/A
+0x9B97475A=N/A
+
+;0x9C181E24=Member of the North Holland Hustlers street gang.
+0x9C181E24=Member of the North Holland Hustlers street gang.
+
+;0x9D0CA694=Ernesto
+0x9D0CA694=Ernesto
+
+;0x9D94FA7E=30
+0x9D94FA7E=30
+
+;0x9DB3F409=-Dominican street dealer and thief.<br/>-Operates throughout Alderney under the protection of the Pegorino Crime Syndicate. Relations between them are believed to be deteriorating.
+0x9DB3F409=-Dominican street dealer and thief.<br/>-Operates throughout Alderney under the protection of the Pegorino Crime Syndicate. Relations between them are believed to be deteriorating.
+
+;0xA00292D7=Bytchkov
+0xA00292D7=Bytchkov
+
+;0xA0FA904C=2000 - Embezzlement<br/>2004 - Burglary: Illegal Entry with Criminal Intent
+0xA0FA904C=2000 - Embezzlement<br/>2004 - Burglary: Illegal Entry with Criminal Intent
+
+;0xA174E69D=Boccino
+0xA174E69D=Boccino
+
+;0xA3460D08=Chilton
+0xA3460D08=Chilton
+
+;0xA3B585E7=30
+0xA3B585E7=30
+
+;0xA596EA66=-Immigrated to the US, possibly illegally, from Russia. <br/>-Believed to be head of a car stealing ring based in Dukes. <br/>-Wanted for questioning by the Russian government in connection with the bank rolling of terrorist activity around the Caspian Sea.
+0xA596EA66=-Immigrated to the US, possibly illegally, from Russia. <br/>-Believed to be head of a car stealing ring based in Dukes. <br/>-Wanted for questioning by the Russian government in connection with the bank rolling of terrorist activity around the Caspian Sea.
+
+;0xA9A95C7B=-Capo with the Alderney based Pegorino Crime Syndicate. <br/>-Believed to be expanding operations into Algonquin. <br/>-Involved in criminal activities outside the Syndicate. <br/>-Believed to handle Jimmy Pegorino's relationship with smaller gangs such as Gerald McReary's crew in Dukes. <br/>-Often seen at Drusilla's restaurant in Little Italy.
+0xA9A95C7B=-Capo with the Alderney based Pegorino Crime Syndicate. <br/>-Believed to be expanding operations into Algonquin. <br/>-Involved in criminal activities outside the Syndicate. <br/>-Believed to handle Jimmy Pegorino's relationship with smaller gangs such as Gerald McReary's crew in Dukes. <br/>-Often seen at Drusilla's restaurant in Little Italy.
+
+;0xAA411EB6=Alderney City, Alderney
+0xAA411EB6=Alderney City, Alderney
+
+;0xAA52E4D1=N/A
+0xAA52E4D1=N/A
+
+;0xAA6ABAC9=Linked to Russian Organized Crime Syndicates throughout Liberty City.
+0xAA6ABAC9=Linked to Russian Organized Crime Syndicates throughout Liberty City.
+
+;0xACD6B569=-AKA Florian Cravic. <br/>-Involved in the gay nightclub scene. <br/>-Currently resides in Middle Park West. <br/>-Order from Mayor's office not to arrest or harass in any way.
+0xACD6B569=-AKA Florian Cravic. <br/>-Involved in the gay nightclub scene. <br/>-Currently resides in Middle Park West. <br/>-Order from Mayor's office not to arrest or harass in any way.
+
+;0xAF0932F7=Adam
+0xAF0932F7=Adam
+
+;0xAF533178=Corrado
+0xAF533178=Corrado
+
+;0xB02EF71C=Ivan
+0xB02EF71C=Ivan
+
+;0xB101F237=N/A
+0xB101F237=N/A
+
+;0xB30E31D1=Dukes, Liberty City
+0xB30E31D1=Dukes, Liberty City
+
+;0xB33D34D1=1995 - Hijacking<br/>1996 - Assault<br/>1997 - Manslaughter
+0xB33D34D1=1995 - Hijacking<br/>1996 - Assault<br/>1997 - Manslaughter
+
+;0xB4020744=-Alderney-based Italian American hood. <br/>-Involved in small time criminal activities. <br/>-Believed to be trying to work his way up through the Pegorino crime family. <br/>-Works for Ray Boccino and often seen with Luca Silvestri and Johnny "Spaz" Barbosa.
+0xB4020744=-Alderney-based Italian American hood. <br/>-Involved in small time criminal activities. <br/>-Believed to be trying to work his way up through the Pegorino crime family. <br/>-Works for Ray Boccino and often seen with Luca Silvestri and Johnny "Spaz" Barbosa.
+
+;0xB402A0A6=-Ex-lover of Pavano Crime Syndicate head Mary Valvona.<br/>-Believed to be in charge of the Pavano Crime family's heroin distribution network.<br/>-Often seen with African American drug dealers in North Holland.<br/>-Ties to the Humboldt River Dock Workers Local Union - believed to use these connections to bring heroin into Liberty City.
+0xB402A0A6=-Ex-lover of Pavano Crime Syndicate head Mary Valvona.<br/>-Believed to be in charge of the Pavano Crime family's heroin distribution network.<br/>-Often seen with African American drug dealers in North Holland.<br/>-Ties to the Humboldt River Dock Workers Local Union - believed to use these connections to bring heroin into Liberty City.
+
+;0xB7FCBA2D=Puerto Rico
+0xB7FCBA2D=Puerto Rico
+
+;0xBA99C805=Bulgarin
+0xBA99C805=Bulgarin
+
+;0xBDA28C88=Linked to Russian and West Indian Criminals in Broker.
+0xBDA28C88=Linked to Russian and West Indian Criminals in Broker.
+
+;0xBDCE45D0=Santa Clara, Cuba
+0xBDCE45D0=Santa Clara, Cuba
+
+;0xBF2DC14D=1998 - Possession Controlled Substance: Crack Cocaine<br/>2001 - Possession Controlled Substance: Intent to Sell<br/>2004 - Assault
+0xBF2DC14D=1998 - Possession Controlled Substance: Crack Cocaine<br/>2001 - Possession Controlled Substance: Intent to Sell<br/>2004 - Assault
+
+;0xC05F4F15=1993 - Grand Theft Auto<br/>1995 - Assault <br/>1998 - Racketeering<br/>2005 - Tax Evasion
+0xC05F4F15=1993 - Grand Theft Auto<br/>1995 - Assault <br/>1998 - Racketeering<br/>2005 - Tax Evasion
+
+;0xC2B2708F=Tyler
+0xC2B2708F=Tyler
+
+;0xC2FFE057=-South Bohan native of Puerto Rican descent. <br/>-Family ties to drug dealers. <br/>-Arrested on several accessory charges. <br/>-Works in Hove Beach.
+0xC2FFE057=-South Bohan native of Puerto Rican descent. <br/>-Family ties to drug dealers. <br/>-Arrested on several accessory charges. <br/>-Works in Hove Beach.
+
+;0xC30CE1D5=-High Society Algonquin girl <br/>-Attempted to steal a dress when her credit card bounced. <br/>-Detain if seen acting suspiciously near high class Algonquin stores. <br/>-Believed to be delusional and a cocaine addict.
+0xC30CE1D5=-High Society Algonquin girl <br/>-Attempted to steal a dress when her credit card bounced. <br/>-Detain if seen acting suspiciously near high class Algonquin stores. <br/>-Believed to be delusional and a cocaine addict.
+
+;0xC690C5C2=-Personal bodyguard of James Pegorino, head of the Alderney-based Pegorino crime family. <br/>-Believed to be unhappy in his role and possible candidate for the Witness Protection Program. <br/>-Recently admitted to hospital after a beating, possibly at the hands of Pegorino. <br/>-Heart condition.
+0xC690C5C2=-Personal bodyguard of James Pegorino, head of the Alderney-based Pegorino crime family. <br/>-Believed to be unhappy in his role and possible candidate for the Witness Protection Program. <br/>-Recently admitted to hospital after a beating, possibly at the hands of Pegorino. <br/>-Heart condition.
+
+;0xCB622807=Pegorino Crime Syndicate
+0xCB622807=Pegorino Crime Syndicate
+
+;0xCBF1FDD7=Pegorino Crime Syndicate
+0xCBF1FDD7=Pegorino Crime Syndicate
+
+;0xCC5783D5=Lyle
+0xCC5783D5=Lyle
+
+;0xCCB785E5=Gracie
+0xCCB785E5=Gracie
+
+;0xCFCCDE15=54
+0xCFCCDE15=54
+
+;0xD12F8852=Pavano Crime Syndicate
+0xD12F8852=Pavano Crime Syndicate
+
+;0xD4263F0A=Marnie
+0xD4263F0A=Marnie
+
+;0xD6CF663F=-Immigrated to the US from Russia in early 90s. <br/>-Resident of Hove Beach. <br/>-Believed to be involved in Russian Organized Crime. <br/>-Suspected of white collar crimes. <br/>-Connections with known gangster Vladimir Glebov.
+0xD6CF663F=-Immigrated to the US from Russia in early 90s. <br/>-Resident of Hove Beach. <br/>-Believed to be involved in Russian Organized Crime. <br/>-Suspected of white collar crimes. <br/>-Connections with known gangster Vladimir Glebov.
+
+;0xDA0FF29B=22
+0xDA0FF29B=22
+
+;0xDA188E84=-Daughter of the head of the Ancelotti Crime Syndicate. -Not believed to be directly involved in the family business but linked to many Capos and Underbosses. <br/>-Her friendship with "Gay" Tony Prince could be exploited.
+0xDA188E84=-Daughter of the head of the Ancelotti Crime Syndicate. -Not believed to be directly involved in the family business but linked to many Capos and Underbosses. <br/>-Her friendship with "Gay" Tony Prince could be exploited.
+
+;0xDDB08719=Liberty City
+0xDDB08719=Liberty City
+
+;0xDE7618A7=-Hates the Triads after his father was killed in a fish factory explosion - suspected to have been caused by the Triads.<br/>-Believed to have a fetish for lady's undergarments. Sometimes seen loitering around the back of lingerie boutiques.
+0xDE7618A7=-Hates the Triads after his father was killed in a fish factory explosion - suspected to have been caused by the Triads.<br/>-Believed to have a fetish for lady's undergarments. Sometimes seen loitering around the back of lingerie boutiques.
+
+;0xE0114AAB=Linked to the Spanish Lords.
+0xE0114AAB=Linked to the Spanish Lords.
+
+;0xE0F1AE59=Giovanni
+0xE0F1AE59=Giovanni
+
+;0xE3F3A23A=-Believed to have been in charge of blackmarket rackets selling contraband to US troops in Naples at the close of WWII - he was 15.<br/>-Immigrated to the US in 1950 and worked in the Alderney Fruit Market which he now owns.<br/>-Ran a loan sharking, fencing and extortion operation from the market.<br/>-Believed to have taken control of the crime family since the death of his uncle in 1978<br/>-Links to nightclub owner Tony Prince.<br/>-Father of Gracie Ancelotti.<br/>-Street name - Old Man Ancelotti
+0xE3F3A23A=-Believed to have been in charge of blackmarket rackets selling contraband to US troops in Naples at the close of WWII - he was 15.<br/>-Immigrated to the US in 1950 and worked in the Alderney Fruit Market which he now owns.<br/>-Ran a loan sharking, fencing and extortion operation from the market.<br/>-Believed to have taken control of the crime family since the death of his uncle in 1978<br/>-Links to nightclub owner Tony Prince.<br/>-Father of Gracie Ancelotti.<br/>-Street name - Old Man Ancelotti
+
+;0xE5C485CB=Dimayev
+0xE5C485CB=Dimayev
+
+;0xE6BFEDB1=South Bohan, Liberty City
+0xE6BFEDB1=South Bohan, Liberty City
+
+;0xE93632F1=28
+0xE93632F1=28
+
+;0xE97E9B6E=2003 - Possession Controlled Substance: Cocaine<br/>2007 - Driving While Intoxicated
+0xE97E9B6E=2003 - Possession Controlled Substance: Cocaine<br/>2007 - Driving While Intoxicated
+
+;0xE97F25CF=Bridges
+0xE97F25CF=Bridges
+
+;0xE9A1BE69=Bernie
+0xE9A1BE69=Bernie
+
+;0xE9DA1DB7=Alderney City, Alderney
+0xE9DA1DB7=Alderney City, Alderney
+
+;0xE9EF9C5C=1997 - Grand Theft Auto.<br/>1998 - Hijacking<br/>2004 - Possession Stolen Property
+0xE9EF9C5C=1997 - Grand Theft Auto.<br/>1998 - Hijacking<br/>2004 - Possession Stolen Property
+
+;0xEA8A980A=2004 - Possession Controlled Substance: Methamphetamine
+0xEA8A980A=2004 - Possession Controlled Substance: Methamphetamine
+
+;0xEAB39858=1972 - Pandering<br/>1976 - Grand Theft Auto<br/>1983 - Grand Theft Auto<br/>1993 - Racketeering<br/>1993 - Manslaughter<br/>2001 - Highjacking<br/>2001 - Arson<br/>2003 - Fraud
+0xEAB39858=1972 - Pandering<br/>1976 - Grand Theft Auto<br/>1983 - Grand Theft Auto<br/>1993 - Racketeering<br/>1993 - Manslaughter<br/>2001 - Highjacking<br/>2001 - Arson<br/>2003 - Fraud
+
+;0xEB1D15E5=31
+0xEB1D15E5=31
+
+;0xEB3194DE=25
+0xEB3194DE=25
+
+;0xEB6E2294=San Fierro
+0xEB6E2294=San Fierro
+
+;0xEC619F3E=Del Rio
+0xEC619F3E=Del Rio
+
+;0xEEB4488E=Rudy
+0xEEB4488E=Rudy
+
+;0xEFF292F3=Westdyke, Alderney
+0xEFF292F3=Westdyke, Alderney
+
+;0xF3197775=Linked to Puerto Rican drug dealers in South Bohan.
+0xF3197775=Linked to Puerto Rican drug dealers in South Bohan.
+
+;0xF5E4B244=Cleethorpes
+0xF5E4B244=Cleethorpes
+
+;0xF781B906=San Fierro
+0xF781B906=San Fierro
+
+;0xF83B38F3=1951 - Possession Stolen Property<br/>1952 - Extortion<br/>1955 - Loansharking<br/>1960 - Manslaughter<br/>2003 - Racketeering
+0xF83B38F3=1951 - Possession Stolen Property<br/>1952 - Extortion<br/>1955 - Loansharking<br/>1960 - Manslaughter<br/>2003 - Racketeering
+
+;0xF8FB1227=Russia
+0xF8FB1227=Russia
+
+;0xF94EB248=78
+0xF94EB248=78
+
+;0xFAF748CB=Botino
+0xFAF748CB=Botino
+
+;0xFB20D1FC=-Heir to rich controversial labor-owning family fortune.<br/>-Reported to be involved in a global human trafficking ring.<br/>-His family is believed to control sweatshops throughout South East Asia. <br/>-Regular face on the Algonquin celebrity circuit.
+0xFB20D1FC=-Heir to rich controversial labor-owning family fortune.<br/>-Reported to be involved in a global human trafficking ring.<br/>-His family is believed to control sweatshops throughout South East Asia. <br/>-Regular face on the Algonquin celebrity circuit.
+
+;0xFB5D8D78=Sammy
+0xFB5D8D78=Sammy
+
+;0xFB78D776=33
+0xFB78D776=33
+
+;0xFDFD3EEB=2003 - Prostitution<br/>2005 - Public Lewdness<br/>2007 - Prostitution
+0xFDFD3EEB=2003 - Prostitution<br/>2005 - Public Lewdness<br/>2007 - Prostitution
+
+;0xFE6A46D7=Naples, Italy
+0xFE6A46D7=Naples, Italy
+

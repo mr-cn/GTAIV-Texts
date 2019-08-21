@@ -1,0 +1,316 @@
+﻿[RB1AUD]
+;0x0466A7A1=RB1_HB
+0x0466A7A1=RB1_HB
+
+;0x07B6CDED=RB1_IB
+0x07B6CDED=RB1_IB
+
+;0x087B559F=RB1_IC
+0x087B559F=RB1_IC
+
+;0x08A3C514=~z~And because I am trying to find someone.
+0x08A3C514=~z~And because I am trying to find someone.
+
+;0x0C25D133=~z~Good.
+0x0C25D133=~z~Good.
+
+;0x14AD1259=~z~No sé. I don't know no Teddys.
+0x14AD1259=~z~No sé. I don't know no Teddys.
+
+;0x1748E9F8=~z~Thanks.
+0x1748E9F8=~z~Thanks.
+
+;0x1A8DE8E8=~z~Sure...
+0x1A8DE8E8=~z~Sure...
+
+;0x22C9DE84=RB1_AB
+0x22C9DE84=RB1_AB
+
+;0x26E5019A=~z~Yup.
+0x26E5019A=~z~Yup.
+
+;0x2B658FB2=~z~Lives over on a project on Galveston near U.
+0x2B658FB2=~z~Lives over on a project on Galveston near U.
+
+;0x2DC30405=~z~Fuck off, maricon.
+0x2DC30405=~z~Fuck off, maricon.
+
+;0x33474F8D=~z~You sure about that?
+0x33474F8D=~z~You sure about that?
+
+;0x342F570B=RB1_CB
+0x342F570B=RB1_CB
+
+;0x39C28A49=RB1_AD
+0x39C28A49=RB1_AD
+
+;0x3D8A98B3=RB1_LC
+0x3D8A98B3=RB1_LC
+
+;0x3E393042=~z~Okay, maybe we can help. Let's see how we do.
+0x3E393042=~z~Okay, maybe we can help. Let's see how we do.
+
+;0x3FB4A7E8=~z~Trucha esas, smoke this fool.
+0x3FB4A7E8=~z~Trucha esas, smoke this fool.
+
+;0x40401CD8=RB1_AC
+0x40401CD8=RB1_AC
+
+;0x4FF4D437=RB1_GA
+0x4FF4D437=RB1_GA
+
+;0x51AEBEB0=RB1_HA
+0x51AEBEB0=RB1_HA
+
+;0x53EDAC76=RB1_FB
+0x53EDAC76=RB1_FB
+
+;0x55955EFA=~z~But can I trust you? Hmm?
+0x55955EFA=~z~But can I trust you? Hmm?
+
+;0x56ADE642=~z~only the friend ain't my friend no more, because he ain't getting me the vig he owes.
+0x56ADE642=~z~only the friend ain't my friend no more, because he ain't getting me the vig he owes.
+
+;0x586919CC=~z~He's up on the top floor. Apartment 151 K.
+0x586919CC=~z~He's up on the top floor. Apartment 151 K.
+
+;0x5A6771F5=RB1_IC
+0x5A6771F5=RB1_IC
+
+;0x5ED02C4B=010100100
+0x5ED02C4B=010100100
+
+;0x61647E2E=~z~Oh! Table for one? We got a beautiful baccala salad.
+0x61647E2E=~z~Oh! Table for one? We got a beautiful baccala salad.
+
+;0x61F449E3=RB1_FC
+0x61F449E3=RB1_FC
+
+;0x65E6B4C7=~z~You have to walk the last few floors. Elevator don't go up there, they're fixing it up.
+0x65E6B4C7=~z~You have to walk the last few floors. Elevator don't go up there, they're fixing it up.
+
+;0x6653CAE9=~z~What's this about, pendejo?
+0x6653CAE9=~z~What's this about, pendejo?
+
+;0x678624E3=010100100
+0x678624E3=010100100
+
+;0x693B7C05=RB1_EA
+0x693B7C05=RB1_EA
+
+;0x6CCA230B=~z~Fuck you.
+0x6CCA230B=~z~Fuck you.
+
+;0x7032994B=~z~Seems this guy does not respect the waste management business.
+0x7032994B=~z~Seems this guy does not respect the waste management business.
+
+;0x70CCD62D=RB1_CA
+0x70CCD62D=RB1_CA
+
+;0x721317F5=~z~Because I need the money, and because I can't do anything else.
+0x721317F5=~z~Because I need the money, and because I can't do anything else.
+
+;0x72C59E65=~z~Are you kiddin', I'll pay double.
+0x72C59E65=~z~Are you kiddin', I'll pay double.
+
+;0x7472A44A=~z~Hey, Nicky... how you doing, kid?
+0x7472A44A=~z~Hey, Nicky... how you doing, kid?
+
+;0x7839222C=030300030030300300300
+0x7839222C=030300030030300300300
+
+;0x789A6F76=~z~You owe Ray Boccino a lot of money. You should have paid.
+0x789A6F76=~z~You owe Ray Boccino a lot of money. You should have paid.
+
+;0x793E5B76=~z~You want the last thing to come out of your mouth to be a lie?
+0x793E5B76=~z~You want the last thing to come out of your mouth to be a lie?
+
+;0x7B4CC010=~z~Where's Teddy?
+0x7B4CC010=~z~Where's Teddy?
+
+;0x7CA4437B=RB1_IB
+0x7CA4437B=RB1_IB
+
+;0x7E08B4F7=~z~Okay...
+0x7E08B4F7=~z~Okay...
+
+;0x82773DC8=~z~Fine. And you'll pay.
+0x82773DC8=~z~Fine. And you'll pay.
+
+;0x82D083E2=~z~Those putos too old. They finished, fool.
+0x82D083E2=~z~Those putos too old. They finished, fool.
+
+;0x83C204B8=RB1_KA
+0x83C204B8=RB1_KA
+
+;0x83C83B5F=~z~Why go through all this? Why stick your neck out? Why do all this work?
+0x83C83B5F=~z~Why go through all this? Why stick your neck out? Why do all this work?
+
+;0x83E770C8=~z~Shit, man.
+0x83E770C8=~z~Shit, man.
+
+;0x870E53B3=200020200
+0x870E53B3=200020200
+
+;0x8736AE3A=RB1_LA
+0x8736AE3A=RB1_LA
+
+;0x88C8455B=~z~That you're reliable.
+0x88C8455B=~z~That you're reliable.
+
+;0x89A1279D=RB1_AF
+0x89A1279D=RB1_AF
+
+;0x8A3E1947=~z~I think he's moving in, man? Yo, you moving in?
+0x8A3E1947=~z~I think he's moving in, man? Yo, you moving in?
+
+;0x8B85CC56=~z~Ah, go fuck yourself!
+0x8B85CC56=~z~Ah, go fuck yourself!
+
+;0x8B955010=~z~Name is Teddy Benevides.
+0x8B955010=~z~Name is Teddy Benevides.
+
+;0x8C45E85F=300
+0x8C45E85F=300
+
+;0x8DD7BA9C=RB1_LB
+0x8DD7BA9C=RB1_LB
+
+;0x9090A91E=~z~Hey, Ray. I lost Teddy. I couldn't send that message of yours.
+0x9090A91E=~z~Hey, Ray. I lost Teddy. I couldn't send that message of yours.
+
+;0x980834DB=~z~Hey, man. Who are you? What are you doing here?
+0x980834DB=~z~Hey, man. Who are you? What are you doing here?
+
+;0x983EF750=RB1_IA
+0x983EF750=RB1_IA
+
+;0x99756835=~z~Fuck you!
+0x99756835=~z~Fuck you!
+
+;0x9C8FF310=~z~What are you talking about? Ted, who's he? I'm sorry to hear about your loss. I'll be in touch, Nicky.
+0x9C8FF310=~z~What are you talking about? Ted, who's he? I'm sorry to hear about your loss. I'll be in touch, Nicky.
+
+;0xA23AED2B=~z~Ray, I've made some noise in these projects. I don't think I'm going to be able to find your boy, Teddy.
+0xA23AED2B=~z~Ray, I've made some noise in these projects. I don't think I'm going to be able to find your boy, Teddy.
+
+;0xA55AD58D=500650560
+0xA55AD58D=500650560
+
+;0xA6DE5482=RB1_FD
+0xA6DE5482=RB1_FD
+
+;0xA76296C9=010100
+0xA76296C9=010100
+
+;0xAAC490F1=~z~Oh, Ray? Why didn't you say so? Ray's a beautiful man, you know what I mean?
+0xAAC490F1=~z~Oh, Ray? Why didn't you say so? Ray's a beautiful man, you know what I mean?
+
+;0xAB53920B=~z~Good.
+0xAB53920B=~z~Good.
+
+;0xACEAD816=~z~This city don't belong to them no more. I wouldn't pay them shit.
+0xACEAD816=~z~This city don't belong to them no more. I wouldn't pay them shit.
+
+;0xB36D00FC=RB1_AE
+0xB36D00FC=RB1_AE
+
+;0xB81CB9AE=RB1_MA
+0xB81CB9AE=RB1_MA
+
+;0xB853A5F5=~z~Fuck off, maricon.
+0xB853A5F5=~z~Fuck off, maricon.
+
+;0xBADC1DFD=~z~Maybe them micks was wrong about you, Nicky. I hope for your sake they wasn't.
+0xBADC1DFD=~z~Maybe them micks was wrong about you, Nicky. I hope for your sake they wasn't.
+
+;0xBC7CFDC4=~z~If he's moving in where's his stuff?
+0xBC7CFDC4=~z~If he's moving in where's his stuff?
+
+;0xBC91348A=~z~He's in the back.
+0xBC91348A=~z~He's in the back.
+
+;0xBEEE7033=RB1_CC
+0xBEEE7033=RB1_CC
+
+;0xC0D93937=~z~Bad things are gonna happen.
+0xC0D93937=~z~Bad things are gonna happen.
+
+;0xC23F6FFD=100
+0xC23F6FFD=100
+
+;0xC83A494D=~z~Somebody gets burnt, so be it.
+0xC83A494D=~z~Somebody gets burnt, so be it.
+
+;0xC87EB942=~z~Come see me.
+0xC87EB942=~z~Come see me.
+
+;0xCCA10242=~z~You know what apartment Teddy Benavidez is in?
+0xCCA10242=~z~You know what apartment Teddy Benavidez is in?
+
+;0xCE051FB3=RB1_FA
+0xCE051FB3=RB1_FA
+
+;0xCF1C599C=~z~Fine.
+0xCF1C599C=~z~Fine.
+
+;0xD0D1169C=~z~Yo, T Dog, someone's coming up. Don't know how, but he knows where your apartment is.
+0xD0D1169C=~z~Yo, T Dog, someone's coming up. Don't know how, but he knows where your apartment is.
+
+;0xD4A25D06=~z~So anyways, I got this friend,
+0xD4A25D06=~z~So anyways, I got this friend,
+
+;0xD5E464A1=~z~Do what you gotta do.
+0xD5E464A1=~z~Do what you gotta do.
+
+;0xD6F5B17B=100010100100
+0xD6F5B17B=100010100100
+
+;0xD8627A2E=~z~Who the fuck are you?
+0xD8627A2E=~z~Who the fuck are you?
+
+;0xD94FF1B1=100
+0xD94FF1B1=100
+
+;0xDC167394=~z~I'm here for someone. I'm here for Ray.
+0xDC167394=~z~I'm here for someone. I'm here for Ray.
+
+;0xDDE643C8=~z~Maybe them micks was wrong about you, Nicky. I hope for your sake they wasn't.
+0xDDE643C8=~z~Maybe them micks was wrong about you, Nicky. I hope for your sake they wasn't.
+
+;0xE0786073=RB1_XA
+0xE0786073=RB1_XA
+
+;0xE19DFE9F=~z~That mick bastard friend of yours says you're okay.
+0xE19DFE9F=~z~That mick bastard friend of yours says you're okay.
+
+;0xE8AAEFF7=RB1_AA
+0xE8AAEFF7=RB1_AA
+
+;0xE9C5A8E7=~z~Too slow, mama'o.
+0xE9C5A8E7=~z~Too slow, mama'o.
+
+;0xEC380FF8=~z~But, you mess up?
+0xEC380FF8=~z~But, you mess up?
+
+;0xEC410C4F=~z~And because I'm good at it.
+0xEC410C4F=~z~And because I'm good at it.
+
+;0xEF2CE655=~z~Come see me.
+0xEF2CE655=~z~Come see me.
+
+;0xF439803C=RB1_AG
+0xF439803C=RB1_AG
+
+;0xF7E3C523=~z~Aaaaargh! Fuck!
+0xF7E3C523=~z~Aaaaargh! Fuck!
+
+;0xF81FC292=~z~~s~
+0xF81FC292=~z~~s~
+
+;0xFA2D0332=100
+0xFA2D0332=100
+
+;0xFFFFB9F2=~z~Ted is dead.
+0xFFFFB9F2=~z~Ted is dead.
+

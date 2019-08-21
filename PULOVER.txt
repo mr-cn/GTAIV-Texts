@@ -1,0 +1,82 @@
+﻿[PULOVER]
+;0x059D35DB=~r~The vans were not pulled over in time.~s~
+0x059D35DB=~r~The vans were not pulled over in time.~s~
+
+;0x196CDB4A=Get back in the ~B~car.
+0x196CDB4A=Get back in the ~B~car.
+
+;0x217A924B=~s~The ~b~vans~S~ are in transit. Find them and pull them over.
+0x217A924B=~s~The ~b~vans~S~ are in transit. Find them and pull them over.
+
+;0x2BAFFEB0=~r~The van was not delivered to the lockup.~s~
+0x2BAFFEB0=~r~The van was not delivered to the lockup.~s~
+
+;0x3601935B=~s~Pull over the ~b~van.
+0x3601935B=~s~Pull over the ~b~van.
+
+;0x38689B75=Find a cop car that doesn't have a busted siren.
+0x38689B75=Find a cop car that doesn't have a busted siren.
+
+;0x52E5506E=Lose the wanted before delivering the van.
+0x52E5506E=Lose the wanted before delivering the van.
+
+;0x53894F8A=~S~Take the van to the ~Y~lockup.
+0x53894F8A=~S~Take the van to the ~Y~lockup.
+
+;0x5A46DB06=Get closer to the ~b~van.
+0x5A46DB06=Get closer to the ~b~van.
+
+;0x69267CF0=Lose your wanted level.
+0x69267CF0=Lose your wanted level.
+
+;0x6CC07FF9=Park up and approach the driver's window.
+0x6CC07FF9=Park up and approach the driver's window.
+
+;0x6FF40A8B=Get back into the ~b~van.
+0x6FF40A8B=Get back into the ~b~van.
+
+;0x7BF8EF28=~s~Find and pull over the ~b~vans~S~ before they reach their destinations.
+0x7BF8EF28=~s~Find and pull over the ~b~vans~S~ before they reach their destinations.
+
+;0x7DC4710B=~S~Check out what's in the back of the van.
+0x7DC4710B=~S~Check out what's in the back of the van.
+
+;0x898F3A75=~s~Stay close to the ~b~van~s~ to make it pull over.
+0x898F3A75=~s~Stay close to the ~b~van~s~ to make it pull over.
+
+;0xACD2A95D=~s~Find and pull over the ~b~van~S~ before it reaches its destination.
+0xACD2A95D=~s~Find and pull over the ~b~van~S~ before it reaches its destination.
+
+;0xAFC307F8=Pull over the other ~B~vans.
+0xAFC307F8=Pull over the other ~B~vans.
+
+;0xB64213D6=Press ~PAD_LB~ to close van doors.
+0xB64213D6=Press ~PAD_LB~ to close van doors.
+
+;0xC852B7F7=Stop and search the other vans.
+0xC852B7F7=Stop and search the other vans.
+
+;0xC930FF37=~S~You need a cop car to pull over the vans.
+0xC930FF37=~S~You need a cop car to pull over the vans.
+
+;0xCDCC886E=~S~Find a cop car.
+0xCDCC886E=~S~Find a cop car.
+
+;0xD0964882=~s~Steal the ~b~van.
+0xD0964882=~s~Steal the ~b~van.
+
+;0xD45620A5=Press ~INPUT_VEH_HORN~ to turn on the siren and pull the van over.
+0xD45620A5=Press ~INPUT_VEH_HORN~ to turn on the siren and pull the van over.
+
+;0xE0CCE8EB=~r~The content of the van wasn't checked.~s~
+0xE0CCE8EB=~r~The content of the van wasn't checked.~s~
+
+;0xE21F6CB0=~S~Get out of the van.
+0xE21F6CB0=~S~Get out of the van.
+
+;0xE2F3ED3D=~s~Drive to the ~y~lockup.
+0xE2F3ED3D=~s~Drive to the ~y~lockup.
+
+;0xECE38118=~R~The van got away.~s~
+0xECE38118=~R~The van got away.~s~
+

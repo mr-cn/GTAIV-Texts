@@ -1,0 +1,631 @@
+﻿[R3AUD]
+;0x025FFE4D=R3_CF
+0x025FFE4D=R3_CF
+
+;0x02AAFB7B=R3_CE
+0x02AAFB7B=R3_CE
+
+;0x02E4B819=020100100210120010100210120100200020200120100210
+0x02E4B819=020100100210120010100210120100200020200120100210
+
+;0x041BAF8F=R3_CR
+0x041BAF8F=R3_CR
+
+;0x045CE573=R3_MC
+0x045CE573=R3_MC
+
+;0x05AF8060=~z~He looks like he can't afford to eat.
+0x05AF8060=~z~He looks like he can't afford to eat.
+
+;0x05E7556E=~z~Take the cab. She's got a friend with her.
+0x05E7556E=~z~Take the cab. She's got a friend with her.
+
+;0x07EAC9FA=R3_CW
+0x07EAC9FA=R3_CW
+
+;0x07FB598A=~z~Well why would you want me then?
+0x07FB598A=~z~Well why would you want me then?
+
+;0x0A7C727C=R3_BF
+0x0A7C727C=R3_BF
+
+;0x0E084FB5=R3_CN
+0x0E084FB5=R3_CN
+
+;0x0FC4F811=~z~He was going to stab me.
+0x0FC4F811=~z~He was going to stab me.
+
+;0x13880482=~z~I think he looks fine the way he is.
+0x13880482=~z~I think he looks fine the way he is.
+
+;0x1583A098=R3_FC
+0x1583A098=R3_FC
+
+;0x16A73E03=R3_BM
+0x16A73E03=R3_BM
+
+;0x17468714=~z~Come on, ~c~asshole!~s~
+0x17468714=~z~Come on, ~c~asshole!~s~
+
+;0x17789A9C=~z~My place is over on Mohawk Avenue.
+0x17789A9C=~z~My place is over on Mohawk Avenue.
+
+;0x18497B92=~z~Look at this mess. Screwed! Again.
+0x18497B92=~z~Look at this mess. Screwed! Again.
+
+;0x19E8FD65=~z~Huh? Do what?
+0x19E8FD65=~z~Huh? Do what?
+
+;0x1B334C1A=~z~He's not my friend... he's my loan shark...
+0x1B334C1A=~z~He's not my friend... he's my loan shark...
+
+;0x1FE50AC9=~z~Hey, beautiful! Huh? Yeah... great.
+0x1FE50AC9=~z~Hey, beautiful! Huh? Yeah... great.
+
+;0x2049E573=R3_CP
+0x2049E573=R3_CP
+
+;0x20CFB610=R3_FB
+0x20CFB610=R3_FB
+
+;0x20EE5F0D=R3_BI
+0x20EE5F0D=R3_BI
+
+;0x21B3C0FC=~z~What's wrong with you Niko?
+0x21B3C0FC=~z~What's wrong with you Niko?
+
+;0x2335A3DD=~z~Handsome man like you should get some new threads.
+0x2335A3DD=~z~Handsome man like you should get some new threads.
+
+;0x24CBDCF7=~z~You're settling in pretty good, aren't you, Niko? You're staying with Roman, he got you a good job
+0x24CBDCF7=~z~You're settling in pretty good, aren't you, Niko? You're staying with Roman, he got you a good job
+
+;0x25586064=~z~Where's your Russian friend now, eh?
+0x25586064=~z~Where's your Russian friend now, eh?
+
+;0x2875D0E3=R3_BH
+0x2875D0E3=R3_BH
+
+;0x29FB2A6C=010010100100
+0x29FB2A6C=010010100100
+
+;0x2BDABC78=~z~Mallorie! So, Niko, you haven't seen any crime since you've been here, have you?
+0x2BDABC78=~z~Mallorie! So, Niko, you haven't seen any crime since you've been here, have you?
+
+;0x2BDBA221=~z~Go and get something a bit more twenty-first century.
+0x2BDBA221=~z~Go and get something a bit more twenty-first century.
+
+;0x2CA659AD=R3_XB
+0x2CA659AD=R3_XB
+
+;0x2D601724=R3_CU
+0x2D601724=R3_CU
+
+;0x2DEBDAAF=R3_NA
+0x2DEBDAAF=R3_NA
+
+;0x2EF4F149=~z~and all he needs to do now is find you a woman... what you think of Michelle here?
+0x2EF4F149=~z~and all he needs to do now is find you a woman... what you think of Michelle here?
+
+;0x2F166442=100200020
+0x2F166442=100200020
+
+;0x2FAB9863=R3_CV
+0x2FAB9863=R3_CV
+
+;0x310FE4D6=R3_AC
+0x310FE4D6=R3_AC
+
+;0x31FDAEFA=~z~It's because of shit like this.
+0x31FDAEFA=~z~It's because of shit like this.
+
+;0x322C5959=~z~I don't know, I think he looks... interesting... foreign.
+0x322C5959=~z~I don't know, I think he looks... interesting... foreign.
+
+;0x3356E62B=R3_BA
+0x3356E62B=R3_BA
+
+;0x350C7CF7=010100100
+0x350C7CF7=010100100
+
+;0x35675E1F=R3_FD
+0x35675E1F=R3_FD
+
+;0x35AA4F27=200120200020100
+0x35AA4F27=200120200020100
+
+;0x36ADA23E=R3_EC
+0x36ADA23E=R3_EC
+
+;0x3742A471=R3_CL
+0x3742A471=R3_CL
+
+;0x3950ADF9=R3_OA
+0x3950ADF9=R3_OA
+
+;0x3ABDC07A=~z~Fuck him.
+0x3ABDC07A=~z~Fuck him.
+
+;0x3E9510D5=~z~Roman, I am sorry, but Mallorie... she got hurt.
+0x3E9510D5=~z~Roman, I am sorry, but Mallorie... she got hurt.
+
+;0x3F7ADC67=~z~Niko, you know what? You need someone to show you a good time. Michelle, how about you?
+0x3F7ADC67=~z~Niko, you know what? You need someone to show you a good time. Michelle, how about you?
+
+;0x402207A3=R3_GA
+0x402207A3=R3_GA
+
+;0x41EFB9A6=R3_EB
+0x41EFB9A6=R3_EB
+
+;0x430E5086=~z~I know just the place for you, it's on Mohawk in Hove.
+0x430E5086=~z~I know just the place for you, it's on Mohawk in Hove.
+
+;0x43307B61=~z~Well, you look like the kind of guy I'd like to get to know, Niko.
+0x43307B61=~z~Well, you look like the kind of guy I'd like to get to know, Niko.
+
+;0x44BFED02=R3_AE
+0x44BFED02=R3_AE
+
+;0x44DB9F76=~z~Who are you?
+0x44DB9F76=~z~Who are you?
+
+;0x45526CD3=R3_BN
+0x45526CD3=R3_BN
+
+;0x46CD70A9=R3_BO
+0x46CD70A9=R3_BO
+
+;0x485F70F5=R3_BP
+0x485F70F5=R3_BP
+
+;0x49A126A1=~z~I can find it.
+0x49A126A1=~z~I can find it.
+
+;0x49E89455=R3_CD
+0x49E89455=R3_CD
+
+;0x49F09341=R3_XA
+0x49F09341=R3_XA
+
+;0x49FCD002=~z~Thanks for the lift, Niko.
+0x49FCD002=~z~Thanks for the lift, Niko.
+
+;0x4AD90158=~z~I live on Rotterdam Hill, up on Mohawk Avenue. You know where that is?
+0x4AD90158=~z~I live on Rotterdam Hill, up on Mohawk Avenue. You know where that is?
+
+;0x4D1F653D=~z~Oh great... Mallorie.
+0x4D1F653D=~z~Oh great... Mallorie.
+
+;0x4E76B2AC=~z~Stop this.
+0x4E76B2AC=~z~Stop this.
+
+;0x4F9B8545=~z~It looks like they brought the stuff in from the Old Country though.
+0x4F9B8545=~z~It looks like they brought the stuff in from the Old Country though.
+
+;0x528A59D0=R3_CM
+0x528A59D0=R3_CM
+
+;0x536EA437=R3_AA
+0x536EA437=R3_AA
+
+;0x54E83D7B=~z~Cousin, no. I should have driven her. Shit.
+0x54E83D7B=~z~Cousin, no. I should have driven her. Shit.
+
+;0x5515F495=~z~The friend gave me her number, but I don't think Mallorie likes my clothes so much.
+0x5515F495=~z~The friend gave me her number, but I don't think Mallorie likes my clothes so much.
+
+;0x55629A24=~z~~c~My god!
+0x55629A24=~z~~c~My god!
+
+;0x56B18401=~z~I know you are, sweetie, and I just don't get it.
+0x56B18401=~z~I know you are, sweetie, and I just don't get it.
+
+;0x5707D446=R3_CO
+0x5707D446=R3_CO
+
+;0x5789F8B2=~z~Yeah...
+0x5789F8B2=~z~Yeah...
+
+;0x5A2CA6C1=R3_JA
+0x5A2CA6C1=R3_JA
+
+;0x5ACC8E1B=~z~Get out of here now! And if you come back,
+0x5ACC8E1B=~z~Get out of here now! And if you come back,
+
+;0x5BED954C=~z~Come on you guys. You're both single, you're adults. Take her number, Niko.
+0x5BED954C=~z~Come on you guys. You're both single, you're adults. Take her number, Niko.
+
+;0x5C6FCA77=~z~Now I'm really in the doghouse. Thanks a lot, cousin.
+0x5C6FCA77=~z~Now I'm really in the doghouse. Thanks a lot, cousin.
+
+;0x5C954C89=~z~I do not mean to keep Roman away from you.
+0x5C954C89=~z~I do not mean to keep Roman away from you.
+
+;0x5DDE21CA=~z~Hey Roman, I got some clothes.
+0x5DDE21CA=~z~Hey Roman, I got some clothes.
+
+;0x5E13ADA5=~z~Where I am from, it is difficult to avoid. The same is true here it seems.
+0x5E13ADA5=~z~Where I am from, it is difficult to avoid. The same is true here it seems.
+
+;0x5E2F0D6E=R3_DC
+0x5E2F0D6E=R3_DC
+
+;0x60749249=~z~Hi. How are you?
+0x60749249=~z~Hi. How are you?
+
+;0x65B2A3E7=~z~I'll kill you! You understand?
+0x65B2A3E7=~z~I'll kill you! You understand?
+
+;0x661CC3AE=R3_BT
+0x661CC3AE=R3_BT
+
+;0x66646027=~z~I know you don't. He just loves you is all. And I think Michelle might too.
+0x66646027=~z~I know you don't. He just loves you is all. And I think Michelle might too.
+
+;0x67491990=~z~Uh... listen, I'm having a bit of a problem at the office...
+0x67491990=~z~Uh... listen, I'm having a bit of a problem at the office...
+
+;0x67598ACB=~z~See you soon, Michelle.
+0x67598ACB=~z~See you soon, Michelle.
+
+;0x69132AAC=~z~Oh, my arm. Oh!
+0x69132AAC=~z~Oh, my arm. Oh!
+
+;0x69E14489=010010100100
+0x69E14489=010010100100
+
+;0x6A3931E3=~z~Mallorie. Stop it!
+0x6A3931E3=~z~Mallorie. Stop it!
+
+;0x6B60AD5F=~z~I'm easily impressed.
+0x6B60AD5F=~z~I'm easily impressed.
+
+;0x6BD94930=~z~You're not into that whole gangster thing, are you, Niko?
+0x6BD94930=~z~You're not into that whole gangster thing, are you, Niko?
+
+;0x6FDA29BF=010100
+0x6FDA29BF=010100
+
+;0x7256FA60=~z~Come on, Dardan, what's your problem?
+0x7256FA60=~z~Come on, Dardan, what's your problem?
+
+;0x73032928=R3_CQ
+0x73032928=R3_CQ
+
+;0x775F4740=~z~You forgot this, you Albanian pricks!
+0x775F4740=~z~You forgot this, you Albanian pricks!
+
+;0x7866CE3E=~z~Hey, I'd like to see you again, Niko. You look like that kind of guy I want to get to know.
+0x7866CE3E=~z~Hey, I'd like to see you again, Niko. You look like that kind of guy I want to get to know.
+
+;0x7907BD0D=~z~Umm, I can't do it - Niko can do it...
+0x7907BD0D=~z~Umm, I can't do it - Niko can do it...
+
+;0x798E49BA=~z~How you going to impress a classy girl like Michelle?
+0x798E49BA=~z~How you going to impress a classy girl like Michelle?
+
+;0x7A14D8EB=~z~I've been told that immigrants have a real problem being targeted by criminal gangs.
+0x7A14D8EB=~z~I've been told that immigrants have a real problem being targeted by criminal gangs.
+
+;0x7AFCCE7F=~z~And what about you?
+0x7AFCCE7F=~z~And what about you?
+
+;0x7E1576BF=R3_BQ
+0x7E1576BF=R3_BQ
+
+;0x7F36115B=~z~Roman, I have taken your Mallorie and her friend where they wanted to go.
+0x7F36115B=~z~Roman, I have taken your Mallorie and her friend where they wanted to go.
+
+;0x8265E7C3=090101101100101100201
+0x8265E7C3=090101101100101100201
+
+;0x8284565C=~z~Hey Niko, thanks for coming.
+0x8284565C=~z~Hey Niko, thanks for coming.
+
+;0x85A6E3D3=~z~Help me! Help me!
+0x85A6E3D3=~z~Help me! Help me!
+
+;0x86FE3A13=R3_BL
+0x86FE3A13=R3_BL
+
+;0x87FE851C=~z~It sounds like we aren't being given much of a choice on this one.
+0x87FE851C=~z~It sounds like we aren't being given much of a choice on this one.
+
+;0x883AF537=~z~I do not think I will have trouble with that.
+0x883AF537=~z~I do not think I will have trouble with that.
+
+;0x88B9ADD6=R3_BJ
+0x88B9ADD6=R3_BJ
+
+;0x891C8D13=010100
+0x891C8D13=010100
+
+;0x89772959=R3_LA
+0x89772959=R3_LA
+
+;0x8A75EB89=~z~I don't think he even changed out of those things on the journey.
+0x8A75EB89=~z~I don't think he even changed out of those things on the journey.
+
+;0x8AA526E1=~z~Cousin, the car got screwed. I couldn't get your woman to her place.
+0x8AA526E1=~z~Cousin, the car got screwed. I couldn't get your woman to her place.
+
+;0x8BF92B4C=~z~I'm trying to get you two together so Niko will stop taking up all of Roman's time.
+0x8BF92B4C=~z~I'm trying to get you two together so Niko will stop taking up all of Roman's time.
+
+;0x8C769131=R3_BS
+0x8C769131=R3_BS
+
+;0x8C86629E=~z~Oh, man, look at this crap. My computer and everything.
+0x8C86629E=~z~Oh, man, look at this crap. My computer and everything.
+
+;0x8DB403CB=R3_CJ
+0x8DB403CB=R3_CJ
+
+;0x8E452AA3=~z~Cousin, I'm sorry. The girls have some injuries.
+0x8E452AA3=~z~Cousin, I'm sorry. The girls have some injuries.
+
+;0x8FA3B236=~z~Michelle, gave me her number.
+0x8FA3B236=~z~Michelle, gave me her number.
+
+;0x90A6F2A1=~z~I should have known Roman would find some excuse not to turn up.
+0x90A6F2A1=~z~I should have known Roman would find some excuse not to turn up.
+
+;0x91748EB4=R3_CK
+0x91748EB4=R3_CK
+
+;0x921D0905=R3_KA
+0x921D0905=R3_KA
+
+;0x929196A0=~z~Vlad isn't so bad.
+0x929196A0=~z~Vlad isn't so bad.
+
+;0x93C58C4C=~z~or people being extremely rich? There's so much more to life here than that.
+0x93C58C4C=~z~or people being extremely rich? There's so much more to life here than that.
+
+;0x94169BE2=010010100100
+0x94169BE2=010010100100
+
+;0x943B7368=~z~-Assholes threatening me.~n~-Shut up!
+0x943B7368=~z~-Assholes threatening me.~n~-Shut up!
+
+;0x94AAE56D=~z~Yeah, thanks. Gimme a call sometime.
+0x94AAE56D=~z~Yeah, thanks. Gimme a call sometime.
+
+;0x94F78763=~z~Not exactly what I expected.
+0x94F78763=~z~Not exactly what I expected.
+
+;0x95CA9DEC=R3_FA
+0x95CA9DEC=R3_FA
+
+;0x96F431D5=SFX_PAUSE_250
+0x96F431D5=SFX_PAUSE_250
+
+;0x9932481E=~z~-Niko...~n~-Yes.
+0x9932481E=~z~-Niko...~n~-Yes.
+
+;0x99BAE60F=R3_EB_QQQ1
+0x99BAE60F=R3_EB_QQQ1
+
+;0x9AB9AA92=~z~No, I guess not.
+0x9AB9AA92=~z~No, I guess not.
+
+;0x9C0E4B0B=~z~I know a good place for you on Mohawk in Hove Beach. Get something a bit more American.
+0x9C0E4B0B=~z~I know a good place for you on Mohawk in Hove Beach. Get something a bit more American.
+
+;0x9C974747=~z~Niko, what am I to do? I need to trust you with some things.
+0x9C974747=~z~Niko, what am I to do? I need to trust you with some things.
+
+;0x9E17B08D=100
+0x9E17B08D=100
+
+;0xA13033DD=~z~Hey, I'd like it if you called me. You must get bored hanging out with your cousin and that asshole boss of his.
+0xA13033DD=~z~Hey, I'd like it if you called me. You must get bored hanging out with your cousin and that asshole boss of his.
+
+;0xA130A722=~z~Show Niko what Liberty City is all about then. Not so much the violence but maybe a bit of the...
+0xA130A722=~z~Show Niko what Liberty City is all about then. Not so much the violence but maybe a bit of the...
+
+;0xA33523DE=~z~How're you finding America, Niko?
+0xA33523DE=~z~How're you finding America, Niko?
+
+;0xA37A7443=R3_BK
+0xA37A7443=R3_BK
+
+;0xA3EE116D=~z~Great girl... can you do me a favor? Mallorie needs a lift.
+0xA3EE116D=~z~Great girl... can you do me a favor? Mallorie needs a lift.
+
+;0xA6AA342D=SFX_PAUSE_250
+0xA6AA342D=SFX_PAUSE_250
+
+;0xA8E17868=R3_EA
+0xA8E17868=R3_EA
+
+;0xAAE1E3DC=~z~It better not be nothing serious.
+0xAAE1E3DC=~z~It better not be nothing serious.
+
+;0xAAF3EBA1=~z~Get out of here.
+0xAAF3EBA1=~z~Get out of here.
+
+;0xAB881A97=~z~Hey, Roman. Maybe I shouldn't be trusted to do my own shopping.
+0xAB881A97=~z~Hey, Roman. Maybe I shouldn't be trusted to do my own shopping.
+
+;0xB0DE5B60=R3_BR
+0xB0DE5B60=R3_BR
+
+;0xB123565D=R3_CC
+0xB123565D=R3_CC
+
+;0xB24377E0=~z~Come on, Mallorie. This is embarrassing. Are you trying to set us up?
+0xB24377E0=~z~Come on, Mallorie. This is embarrassing. Are you trying to set us up?
+
+;0xB31ACC42=~z~Anyway, you have Michelle. A classy girl for your arm. You should definitely keep dating her.
+0xB31ACC42=~z~Anyway, you have Michelle. A classy girl for your arm. You should definitely keep dating her.
+
+;0xB51BBB8A=~z~This is Michelle.
+0xB51BBB8A=~z~This is Michelle.
+
+;0xB55EB44E=~z~Well screw you, then.
+0xB55EB44E=~z~Well screw you, then.
+
+;0xBA5CED5F=R3_GB
+0xBA5CED5F=R3_GB
+
+;0xBB6972AF=R3_AB
+0xBB6972AF=R3_AB
+
+;0xBB7ADDE9=~z~Cousin, Mallorie's friend, Michelle... had an accident.
+0xBB7ADDE9=~z~Cousin, Mallorie's friend, Michelle... had an accident.
+
+;0xBBFCE972=~z~Boring, stop talking about that. Talk about what it's like to be here.
+0xBBFCE972=~z~Boring, stop talking about that. Talk about what it's like to be here.
+
+;0xBEC11333=~z~Don't be a dick, man... come o...
+0xBEC11333=~z~Don't be a dick, man... come o...
+
+;0xC0E868C8=~z~I hope it wasn't too serious. I thought you two would get on. I will call Mallorie.
+0xC0E868C8=~z~I hope it wasn't too serious. I thought you two would get on. I will call Mallorie.
+
+;0xC15A68C1=~z~We must take what we get. When the big money rolls in, then we will look real classy.
+0xC15A68C1=~z~We must take what we get. When the big money rolls in, then we will look real classy.
+
+;0xC2576383=R3_BG
+0xC2576383=R3_BG
+
+;0xC38EF774=R3_JC
+0xC38EF774=R3_JC
+
+;0xC4AC6E19=~z~How come all the TV shows about Liberty City are either about rampant sex or mindless violence
+0xC4AC6E19=~z~How come all the TV shows about Liberty City are either about rampant sex or mindless violence
+
+;0xC4D29CFE=~z~Alright, but you like him, right? You both like each other so why don't you just go on a date?
+0xC4D29CFE=~z~Alright, but you like him, right? You both like each other so why don't you just go on a date?
+
+;0xC514858D=210210120200200020
+0xC514858D=210210120200200020
+
+;0xC6D64282=200
+0xC6D64282=200
+
+;0xC7E2D34C=~z~Niko, what am I to do? I need to trust you with some things.
+0xC7E2D34C=~z~Niko, what am I to do? I need to trust you with some things.
+
+;0xC8C416CB=010100
+0xC8C416CB=010100
+
+;0xC927EAD0=~z~Bledar! Help me!
+0xC927EAD0=~z~Bledar! Help me!
+
+;0xC9712893=~z~I don't have problem. You do.
+0xC9712893=~z~I don't have problem. You do.
+
+;0xC9FAA6DF=~z~This is a good first step. The next step is to get some clothes that will impress.
+0xC9FAA6DF=~z~This is a good first step. The next step is to get some clothes that will impress.
+
+;0xCAA43F01=R3_CT
+0xCAA43F01=R3_CT
+
+;0xCBF169ED=R3_DB
+0xCBF169ED=R3_DB
+
+;0xCCFD9261=R3_CH
+0xCCFD9261=R3_CH
+
+;0xCD916B9D=R3_MB
+0xCD916B9D=R3_MB
+
+;0xCDAA9057=~z~It never hurt anyone. Here's her number, Niko.
+0xCDAA9057=~z~It never hurt anyone. Here's her number, Niko.
+
+;0xCE0BF42C=R3_BE
+0xCE0BF42C=R3_BE
+
+;0xCEAB6EF1=R3_MA
+0xCEAB6EF1=R3_MA
+
+;0xD33001FA=R3_MD
+0xD33001FA=R3_MD
+
+;0xD555CB1C=R3_IA
+0xD555CB1C=R3_IA
+
+;0xD6641BFE=R3_JB
+0xD6641BFE=R3_JB
+
+;0xD6C67113=~z~Me and the shop assistant had a difference in opinion over the pricing.
+0xD6C67113=~z~Me and the shop assistant had a difference in opinion over the pricing.
+
+;0xD8B5A671=R3_CB
+0xD8B5A671=R3_CB
+
+;0xD92FDDEF=100010100210100200100100210120100210120
+0xD92FDDEF=100010100210100200100100210120100210120
+
+;0xE07EB5FF=~z~Get yourself some nice clothes. You gotta look good if you're going to date a girl like Michelle.
+0xE07EB5FF=~z~Get yourself some nice clothes. You gotta look good if you're going to date a girl like Michelle.
+
+;0xE247AA7F=R3_AD
+0xE247AA7F=R3_AD
+
+;0xE7BE262C=R3_BD
+0xE7BE262C=R3_BD
+
+;0xE90D1C91=~z~Cousin, I dropped the girls off.
+0xE90D1C91=~z~Cousin, I dropped the girls off.
+
+;0xE95A9C55=~z~Can you go pick her up at the Hove Beach subway station?
+0xE95A9C55=~z~Can you go pick her up at the Hove Beach subway station?
+
+;0xE97E5A80=R3_HB
+0xE97E5A80=R3_HB
+
+;0xEA1B9F37=~z~You want to know why I'm not living in a nice condo, banging four women?
+0xEA1B9F37=~z~You want to know why I'm not living in a nice condo, banging four women?
+
+;0xEB6A49B6=R3_CI
+0xEB6A49B6=R3_CI
+
+;0xEB732844=~z~Get in, ladies.
+0xEB732844=~z~Get in, ladies.
+
+;0xF2E2791D=~z~Come on.
+0xF2E2791D=~z~Come on.
+
+;0xF2EFAA0B=200
+0xF2EFAA0B=200
+
+;0xF40EB1BD=~z~-Maybe someone you can date!~n~-Fuck you.
+0xF40EB1BD=~z~-Maybe someone you can date!~n~-Fuck you.
+
+;0xF43AFAE2=010010100100
+0xF43AFAE2=010010100100
+
+;0xF5DA3F12=R3_DA
+0xF5DA3F12=R3_DA
+
+;0xF618C4B9=~z~Shit, Niko - what did you do?
+0xF618C4B9=~z~Shit, Niko - what did you do?
+
+;0xF83504A7=R3_JC
+0xF83504A7=R3_JC
+
+;0xF87B4E69=~z~You look like you just jumped off the boat, Niko.
+0xF87B4E69=~z~You look like you just jumped off the boat, Niko.
+
+;0xF8E63CCC=~z~Now he's going to kill you!
+0xF8E63CCC=~z~Now he's going to kill you!
+
+;0xFA09FD0F=R3_HA
+0xFA09FD0F=R3_HA
+
+;0xFA39B7F9=~z~It better not be nothing serious.
+0xFA39B7F9=~z~It better not be nothing serious.
+
+;0xFCC10B4E=R3_IB
+0xFCC10B4E=R3_IB
+
+;0xFE090F2F=R3_JB
+0xFE090F2F=R3_JB
+
+;0xFE322748=R3_CS
+0xFE322748=R3_CS
+

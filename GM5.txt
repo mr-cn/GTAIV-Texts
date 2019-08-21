@@ -1,0 +1,76 @@
+﻿[GM5]
+;0x0130893D=~s~Take out ~r~Bulgarin's men.
+0x0130893D=~s~Take out ~r~Bulgarin's men.
+
+;0x0866218A=~s~Take down the ~r~reinforcements.
+0x0866218A=~s~Take down the ~r~reinforcements.
+
+;0x1624DDD5=~s~When on a ladder, use ~INPUT_SPRINT~ and ~PAD_LSTICK_DOWN~ to slide down quickly.~s~
+0x1624DDD5=~s~When on a ladder, use ~INPUT_SPRINT~ and ~PAD_LSTICK_DOWN~ to slide down quickly.~s~
+
+;0x2245B5AE=~s~ Take Packie back to his ~y~Ma's House~s~ in Dukes.
+0x2245B5AE=~s~ Take Packie back to his ~y~Ma's House~s~ in Dukes.
+
+;0x33A4DDF5=~s~When on a ladder, press ~INPUT_SPRINT~ and use ~PAD_LSTICK_DOWN~ to slide down quickly.~s~
+0x33A4DDF5=~s~When on a ladder, press ~INPUT_SPRINT~ and use ~PAD_LSTICK_DOWN~ to slide down quickly.~s~
+
+;0x35A2E04D=~s~When on a ladder, press ~PAD_Y~ to slide down quickly.~s~
+0x35A2E04D=~s~When on a ladder, press ~PAD_Y~ to slide down quickly.~s~
+
+;0x3C5C8B62=~s~Continue to the ~y~Charge Island Sewage Works.
+0x3C5C8B62=~s~Continue to the ~y~Charge Island Sewage Works.
+
+;0x47EB8294=~s~Continue to the ~y~exchange point.
+0x47EB8294=~s~Continue to the ~y~exchange point.
+
+;0x4ABB9B85=~s~Get back into ~b~Packie's car.
+0x4ABB9B85=~s~Get back into ~b~Packie's car.
+
+;0x4E5B3633=~r~ Gracie drowned.
+0x4E5B3633=~r~ Gracie drowned.
+
+;0x53636499=~s~Follow ~b~Packie.
+0x53636499=~s~Follow ~b~Packie.
+
+;0x7F2E0469=~s~Go to ~b~Packie's car~s~ in Northwood.
+0x7F2E0469=~s~Go to ~b~Packie's car~s~ in Northwood.
+
+;0x802B199A=~r~Gracie is dead.
+0x802B199A=~r~Gracie is dead.
+
+;0x860D124F=~s~Go around the back to the ~y~exchange point.
+0x860D124F=~s~Go around the back to the ~y~exchange point.
+
+;0x87222788=~r~ The car was destroyed.
+0x87222788=~r~ The car was destroyed.
+
+;0x8D6BA0E4=~s~Drive to the ~y~Charge Island Sewage Works.
+0x8D6BA0E4=~s~Drive to the ~y~Charge Island Sewage Works.
+
+;0xAAA9EE97=~r~ Packie and Gracie are dead.
+0xAAA9EE97=~r~ Packie and Gracie are dead.
+
+;0xAB390798=~s~ Take Packie back to his ~y~Ma's House~s~ in Dukes.
+0xAB390798=~s~ Take Packie back to his ~y~Ma's House~s~ in Dukes.
+
+;0xB1D169D7=~s~Make your way across to the ~y~walkway.
+0xB1D169D7=~s~Make your way across to the ~y~walkway.
+
+;0xBC81FF10=~s~Wait for ~b~Packie~s~ to get in the car.
+0xBC81FF10=~s~Wait for ~b~Packie~s~ to get in the car.
+
+;0xEF616F45=~s~Go to the ~y~meeting point~s~ upstairs.
+0xEF616F45=~s~Go to the ~y~meeting point~s~ upstairs.
+
+;0xF038C3F2=~s~Take out the last of ~r~Bulgarin's men.
+0xF038C3F2=~s~Take out the last of ~r~Bulgarin's men.
+
+;0xF0B3C01E=~s~ You are too far away from ~b~Packie.~s~ Go back and get him.
+0xF0B3C01E=~s~ You are too far away from ~b~Packie.~s~ Go back and get him.
+
+;0xF1AF7CA1=~r~Packie is dead.
+0xF1AF7CA1=~r~Packie is dead.
+
+;0xF8E4D9E8=~s~Lose your wanted level.
+0xF8E4D9E8=~s~Lose your wanted level.
+

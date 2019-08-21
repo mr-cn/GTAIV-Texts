@@ -1,0 +1,376 @@
+﻿[BRP5AU]
+;0x0301EF9F=~z~I got one, Nicky. Win it though. Okay? Believe in yourself, man. Don't settle anything for but a win, baby.
+0x0301EF9F=~z~I got one, Nicky. Win it though. Okay? Believe in yourself, man. Don't settle anything for but a win, baby.
+
+;0x077CAD2A=~z~You European prick!
+0x077CAD2A=~z~You European prick!
+
+;0x0C6EC36B=BRP5_FA
+0x0C6EC36B=BRP5_FA
+
+;0x0C8449C8=010
+0x0C8449C8=010
+
+;0x0DF4FA87=~z~I'd like to see you try an take one of my cars NB, not a fuckin' chance baby!
+0x0DF4FA87=~z~I'd like to see you try an take one of my cars NB, not a fuckin' chance baby!
+
+;0x131C7A9E=~z~You're a fuckin' alpha male man, you take what you need, and I love it!
+0x131C7A9E=~z~You're a fuckin' alpha male man, you take what you need, and I love it!
+
+;0x189F5F4D=~z~You're a fucking adrenaline junky, man. But there ain't nothing goin' on. Call me later, bro.
+0x189F5F4D=~z~You're a fucking adrenaline junky, man. But there ain't nothing goin' on. Call me later, bro.
+
+;0x1C41D01F=BRp5_AD
+0x1C41D01F=BRp5_AD
+
+;0x20305195=~z~Hey, Brucie. You know of any races?
+0x20305195=~z~Hey, Brucie. You know of any races?
+
+;0x20F5FD39=~z~You'll be racing on the airport run, bro. Do it, Nicky. You're number one.
+0x20F5FD39=~z~You'll be racing on the airport run, bro. Do it, Nicky. You're number one.
+
+;0x2A3D1123=~z~Nicky, I got another one for you. You destroyed the last one. I love you, man.
+0x2A3D1123=~z~Nicky, I got another one for you. You destroyed the last one. I love you, man.
+
+;0x2C0A1140=~z~Hey, there'll be more races. I'll call you soon.
+0x2C0A1140=~z~Hey, there'll be more races. I'll call you soon.
+
+;0x2CE5839B=BRP5_RA
+0x2CE5839B=BRP5_RA
+
+;0x2D5D7907=~z~Don't push me man!
+0x2D5D7907=~z~Don't push me man!
+
+;0x3506A187=100
+0x3506A187=100
+
+;0x36B63DB0=BRp5_IA
+0x36B63DB0=BRp5_IA
+
+;0x36BB41DB=~z~Shit Niko, your car skills, and my body, people are gonna be petrified of us!
+0x36BB41DB=~z~Shit Niko, your car skills, and my body, people are gonna be petrified of us!
+
+;0x37133287=~z~You got a hard body and the skills to back it up, baby.
+0x37133287=~z~You got a hard body and the skills to back it up, baby.
+
+;0x37804D9D=~z~Spot the genetically superior one!
+0x37804D9D=~z~Spot the genetically superior one!
+
+;0x39732A26=BRp5_AC
+0x39732A26=BRp5_AC
+
+;0x3D25A1BB=~z~It's a street race through Star Junction. You love it, man.
+0x3D25A1BB=~z~It's a street race through Star Junction. You love it, man.
+
+;0x3D794772=100
+0x3D794772=100
+
+;0x3E9E1B70=~z~Whaddya doin Nicky?
+0x3E9E1B70=~z~Whaddya doin Nicky?
+
+;0x3F0E2C26=~z~Sorry, Nicky. There ain't nothing going on at the moment. Maybe you call later.
+0x3F0E2C26=~z~Sorry, Nicky. There ain't nothing going on at the moment. Maybe you call later.
+
+;0x3FCF0F8F=BRP5_OA
+0x3FCF0F8F=BRP5_OA
+
+;0x406D9DEF=~z~The fuck you doin?
+0x406D9DEF=~z~The fuck you doin?
+
+;0x406F3A0A=~z~Remind me to not call you when you're juicing, Brucie. Talk to you later.
+0x406F3A0A=~z~Remind me to not call you when you're juicing, Brucie. Talk to you later.
+
+;0x411BA02B=100
+0x411BA02B=100
+
+;0x429B4F09=BRp5_DA
+0x429B4F09=BRp5_DA
+
+;0x4541E920=~z~Niiiice!
+0x4541E920=~z~Niiiice!
+
+;0x4BCC35CC=~z~NB, what the fuck?
+0x4BCC35CC=~z~NB, what the fuck?
+
+;0x4BF86C55=~z~Hell - yeah NB! Take that shit, just like we take the bitches we want in the clubs!
+0x4BF86C55=~z~Hell - yeah NB! Take that shit, just like we take the bitches we want in the clubs!
+
+;0x4C7E0995=BRP5_QA
+0x4C7E0995=BRP5_QA
+
+;0x4EF2AF21=~z~Yo, Brucie. I'm in the mood to do some racing. Is there one going on?
+0x4EF2AF21=~z~Yo, Brucie. I'm in the mood to do some racing. Is there one going on?
+
+;0x51B14207=~z~Peace, man.
+0x51B14207=~z~Peace, man.
+
+;0x551E7E33=100
+0x551E7E33=100
+
+;0x58DBD42F=100
+0x58DBD42F=100
+
+;0x5A49D2C7=~z~NB, don't make me angry!
+0x5A49D2C7=~z~NB, don't make me angry!
+
+;0x5B45C749=BRp5_AD
+0x5B45C749=BRp5_AD
+
+;0x5D7313E4=BRp5_KA
+0x5D7313E4=BRp5_KA
+
+;0x611C7224=010
+0x611C7224=010
+
+;0x6173FBFB=~z~Okay, Brucie. Whatever. Talk to you later.
+0x6173FBFB=~z~Okay, Brucie. Whatever. Talk to you later.
+
+;0x61D47CD4=~z~Calm down, man. It's not a big deal. I'll talk to you soon.
+0x61D47CD4=~z~Calm down, man. It's not a big deal. I'll talk to you soon.
+
+;0x66576531=BRp5_AA
+0x66576531=BRp5_AA
+
+;0x6841D3AD=~z~Any time you want to race, give me a call and I'll hit you up with a location.
+0x6841D3AD=~z~Any time you want to race, give me a call and I'll hit you up with a location.
+
+;0x68ED0E86=~z~Domination. That's all. Domination.
+0x68ED0E86=~z~Domination. That's all. Domination.
+
+;0x6A50B335=~z~NB's a winner!
+0x6A50B335=~z~NB's a winner!
+
+;0x6DE857DC=100
+0x6DE857DC=100
+
+;0x70A03D0B=~z~The cats are gonna blast along Dukes Boulevard. Hit it up, you winner.
+0x70A03D0B=~z~The cats are gonna blast along Dukes Boulevard. Hit it up, you winner.
+
+;0x70F4005C=BRp5_CA
+0x70F4005C=BRp5_CA
+
+;0x725F216A=~z~No one, I mean no one can touch us up here.
+0x725F216A=~z~No one, I mean no one can touch us up here.
+
+;0x72DF5753=~z~Brucie, man. I can't do that race anymore. Sorry.
+0x72DF5753=~z~Brucie, man. I can't do that race anymore. Sorry.
+
+;0x75898946=~z~Don't be a cock!
+0x75898946=~z~Don't be a cock!
+
+;0x77285BE9=BRp5_NA
+0x77285BE9=BRp5_NA
+
+;0x77A2A713=BRp5_LA
+0x77A2A713=BRp5_LA
+
+;0x77E4B415=BRp5_HA
+0x77E4B415=BRp5_HA
+
+;0x7BE78E52=100
+0x7BE78E52=100
+
+;0x7F095CB2=~z~Look at that baby!
+0x7F095CB2=~z~Look at that baby!
+
+;0x7F83EFC7=BRp5_BA
+0x7F83EFC7=BRp5_BA
+
+;0x800EDEB1=~z~He's genetically superior, like me!
+0x800EDEB1=~z~He's genetically superior, like me!
+
+;0x8107BE3F=100
+0x8107BE3F=100
+
+;0x8664BCAE=100100010100100
+0x8664BCAE=100100010100100
+
+;0x86C42BBB=~z~Stop fuckin' around NB.
+0x86C42BBB=~z~Stop fuckin' around NB.
+
+;0x87DCF1C1=BRP5_PA
+0x87DCF1C1=BRP5_PA
+
+;0x8A2AC852=BRp5_MA
+0x8A2AC852=BRp5_MA
+
+;0x8BCE9AC6=~z~They liked your shit, man.
+0x8BCE9AC6=~z~They liked your shit, man.
+
+;0x8C670A66=~z~Hey, Brucie. I'm not going to be on the starting grid. I have to pull out of the race you organized.
+0x8C670A66=~z~Hey, Brucie. I'm not going to be on the starting grid. I have to pull out of the race you organized.
+
+;0x8CA002D9=~z~Yo, there's one going. I don't want no more losses though, bro. You're the man, Nicky. Fucking destroy this one.
+0x8CA002D9=~z~Yo, there's one going. I don't want no more losses though, bro. You're the man, Nicky. Fucking destroy this one.
+
+;0x8CCCF839=~z~Winner! Hello!
+0x8CCCF839=~z~Winner! Hello!
+
+;0x8D66DF3D=~z~All eyes are on us, Nicky. All eyes, baby.
+0x8D66DF3D=~z~All eyes are on us, Nicky. All eyes, baby.
+
+;0x91034039=~z~You don't wanna make me angry homie!
+0x91034039=~z~You don't wanna make me angry homie!
+
+;0x939005BF=~z~Spot the alpha male!
+0x939005BF=~z~Spot the alpha male!
+
+;0x9690E9CD=~z~It's lonely at the top, NB. Lonely, baby.
+0x9690E9CD=~z~It's lonely at the top, NB. Lonely, baby.
+
+;0x9727DE2D=BRp5_AE
+0x9727DE2D=BRp5_AE
+
+;0x9A10B74A=~z~Cool, I guess.
+0x9A10B74A=~z~Cool, I guess.
+
+;0x9EC1AF1B=~z~Hey man, you've got to let the other racers know I can't compete right now.
+0x9EC1AF1B=~z~Hey man, you've got to let the other racers know I can't compete right now.
+
+;0x9EC686E5=100100010100100
+0x9EC686E5=100100010100100
+
+;0x9FCEA8CE=BRP5_SA
+0x9FCEA8CE=BRP5_SA
+
+;0xA169FA12=100
+0xA169FA12=100
+
+;0xA40F66CE=~z~They liked your shit, man.
+0xA40F66CE=~z~They liked your shit, man.
+
+;0xA5DB5CC0=BRp5_GA
+0xA5DB5CC0=BRp5_GA
+
+;0xAAF9B5D2=100
+0xAAF9B5D2=100
+
+;0xAD18F2C2=BRp5_AE
+0xAD18F2C2=BRp5_AE
+
+;0xAD569758=~z~You are number one, man. The greatest of all time. There's another one for you, bro.
+0xAD569758=~z~You are number one, man. The greatest of all time. There's another one for you, bro.
+
+;0xAF0547A3=~z~Yeah, Nicky. But win it this time. You're a fucking champion, man.
+0xAF0547A3=~z~Yeah, Nicky. But win it this time. You're a fucking champion, man.
+
+;0xB1CE024B=~z~Nicky, you animal. The guys we raced the other day want a rematch.
+0xB1CE024B=~z~Nicky, you animal. The guys we raced the other day want a rematch.
+
+;0xB20344CB=~z~You're racing on the road to Bohan, baby. Win that shit.
+0xB20344CB=~z~You're racing on the road to Bohan, baby. Win that shit.
+
+;0xB5EB0DA2=~z~The race goes through South Broker. Dominate it.
+0xB5EB0DA2=~z~The race goes through South Broker. Dominate it.
+
+;0xB931E0D5=100100
+0xB931E0D5=100100
+
+;0xBA9466C0=~z~Brucie, man. Someone else is going to have to dominate that race you organized. I'm pulling out.
+0xBA9466C0=~z~Brucie, man. Someone else is going to have to dominate that race you organized. I'm pulling out.
+
+;0xBC0234AF=~z~I'm getting altitude sickness because the top of the pile is so fuckin' high. Yeah.
+0xBC0234AF=~z~I'm getting altitude sickness because the top of the pile is so fuckin' high. Yeah.
+
+;0xBDA62864=BRp5_AB
+0xBDA62864=BRp5_AB
+
+;0xBE26CCCD=~z~You're going through Alderney, Nicky. Be the best.
+0xBE26CCCD=~z~You're going through Alderney, Nicky. Be the best.
+
+;0xBE2A7F7D=~z~Nicky, you animal. The guys we raced the other day want a rematch.
+0xBE2A7F7D=~z~Nicky, you animal. The guys we raced the other day want a rematch.
+
+;0xC5AE1AD1=~z~Win this shit for me, man. I got one for you.
+0xC5AE1AD1=~z~Win this shit for me, man. I got one for you.
+
+;0xC8692F81=~z~Any time you want to race, give me a call and I'll hit you up with a location.
+0xC8692F81=~z~Any time you want to race, give me a call and I'll hit you up with a location.
+
+;0xCB7AC505=~z~Shit, man, there's nothing on at the moment. Try again soon, alright?
+0xCB7AC505=~z~Shit, man, there's nothing on at the moment. Try again soon, alright?
+
+;0xCD309D8D=~z~Peace, man.
+0xCD309D8D=~z~Peace, man.
+
+;0xCF5BE022=BRp5_EA
+0xCF5BE022=BRp5_EA
+
+;0xD0EE5E87=~z~You ate them alive last time and you're still hungry. Well, open up Nicky because I'm about to feed you another.
+0xD0EE5E87=~z~You ate them alive last time and you're still hungry. Well, open up Nicky because I'm about to feed you another.
+
+;0xD642CB34=~z~Cool, I guess.
+0xD642CB34=~z~Cool, I guess.
+
+;0xD74EBE12=~z~Nicky, I was hoping you'd want to do this shit. Intense.
+0xD74EBE12=~z~Nicky, I was hoping you'd want to do this shit. Intense.
+
+;0xD7725FA5=100
+0xD7725FA5=100
+
+;0xD785F375=010
+0xD785F375=010
+
+;0xD9BC6188=~z~Nicky, you animal. They must be scared of you because nothing's going down, bro. Call another time.
+0xD9BC6188=~z~Nicky, you animal. They must be scared of you because nothing's going down, bro. Call another time.
+
+;0xDA4ED001=100
+0xDA4ED001=100
+
+;0xDAA9CE76=BRp5_JA
+0xDAA9CE76=BRp5_JA
+
+;0xDC91CE94=BRp5_AB
+0xDC91CE94=BRp5_AB
+
+;0xDCF5AEB9=100
+0xDCF5AEB9=100
+
+;0xDE33CDF3=BRp5_AC
+0xDE33CDF3=BRp5_AC
+
+;0xDE5D0788=100
+0xDE5D0788=100
+
+;0xE028FCFC=~z~A fucking champion like you can race as much as he wants. I know about one.
+0xE028FCFC=~z~A fucking champion like you can race as much as he wants. I know about one.
+
+;0xE1075F20=~z~What the fuck?
+0xE1075F20=~z~What the fuck?
+
+;0xE3E53166=~z~You still got an appetite even though you didn't win that last one. I love it. I've got something for you, bro.
+0xE3E53166=~z~You still got an appetite even though you didn't win that last one. I love it. I've got something for you, bro.
+
+;0xE87A255A=~z~You make that shit look easy baby, you're a fuckin' animal!
+0xE87A255A=~z~You make that shit look easy baby, you're a fuckin' animal!
+
+;0xEBB0044D=~z~You'll be racing in South Algonquin. Punish those bitches.
+0xEBB0044D=~z~You'll be racing in South Algonquin. Punish those bitches.
+
+;0xEBBD68B0=~z~Hey man, I feel like winning something. You got any races?
+0xEBBD68B0=~z~Hey man, I feel like winning something. You got any races?
+
+;0xEC9F84BD=~z~The race is through South Alderney. Yeah, push it to the limit and take it to the top.
+0xEC9F84BD=~z~The race is through South Alderney. Yeah, push it to the limit and take it to the top.
+
+;0xEDA77AE1=BRp5_CB
+0xEDA77AE1=BRp5_CB
+
+;0xF0588289=~z~It's a race around North Alderney. Take them down.
+0xF0588289=~z~It's a race around North Alderney. Take them down.
+
+;0xF9329096=~z~Not cool man.
+0xF9329096=~z~Not cool man.
+
+;0xFDE90D07=~z~Brucie, are there any races going on at the moment?
+0xFDE90D07=~z~Brucie, are there any races going on at the moment?
+
+;0xFEB43A12=~z~Alpha males, baby.
+0xFEB43A12=~z~Alpha males, baby.
+
+;0xFF7E2B07=BRp5_AA
+0xFF7E2B07=BRp5_AA
+
+;0xFFB65E0A=~z~Well done my friend, well done!
+0xFFB65E0A=~z~Well done my friend, well done!
+

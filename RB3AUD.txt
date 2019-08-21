@@ -1,0 +1,319 @@
+﻿[RB3AUD]
+;0x00A5934D=~z~Right.
+0x00A5934D=~z~Right.
+
+;0x03059193=RB3_AC
+0x03059193=RB3_AC
+
+;0x03E89B9F=~z~I just wanted you to get the ice back. I didn't say nothing to you about killing those boys.
+0x03E89B9F=~z~I just wanted you to get the ice back. I didn't say nothing to you about killing those boys.
+
+;0x0DE82166=010100100010100
+0x0DE82166=010100100010100
+
+;0x115278F0=RB3_BG
+0x115278F0=RB3_BG
+
+;0x18E884CC=RB3_GD
+0x18E884CC=RB3_GD
+
+;0x1E3D5048=~z~I took out Luca's crew and I got your diamonds.
+0x1E3D5048=~z~I took out Luca's crew and I got your diamonds.
+
+;0x2148950D=~z~Let's have a little talk, Nicky. Come see me when you can.
+0x2148950D=~z~Let's have a little talk, Nicky. Come see me when you can.
+
+;0x22A5DFAC=RB3_GA
+0x22A5DFAC=RB3_GA
+
+;0x23280765=~z~None of you Russians got no respect for nothing.
+0x23280765=~z~None of you Russians got no respect for nothing.
+
+;0x2E446970=RB3_AB
+0x2E446970=RB3_AB
+
+;0x319EF70B=~z~What do you mean, you took 'em out?
+0x319EF70B=~z~What do you mean, you took 'em out?
+
+;0x31F925D0=RB3_FA
+0x31F925D0=RB3_FA
+
+;0x330B31E1=RB3_AC
+0x330B31E1=RB3_AC
+
+;0x3350A50B=~z~What do you mean, you took 'em out?
+0x3350A50B=~z~What do you mean, you took 'em out?
+
+;0x34BA2A89=~z~Ray ain't never gonna trust a fucking rat. Remember that.
+0x34BA2A89=~z~Ray ain't never gonna trust a fucking rat. Remember that.
+
+;0x38478C46=~z~Las Venturas, baby. We'll be our own bosses.
+0x38478C46=~z~Las Venturas, baby. We'll be our own bosses.
+
+;0x39588AF5=RB3_GC
+0x39588AF5=RB3_GC
+
+;0x3ADEC404=RB3_HA
+0x3ADEC404=RB3_HA
+
+;0x432CAC8F=~z~Ah, I didn't mean nothin' by it.
+0x432CAC8F=~z~Ah, I didn't mean nothin' by it.
+
+;0x439F952A=100011101011201201190
+0x439F952A=100011101011201201190
+
+;0x43F2550F=RB3_AB
+0x43F2550F=RB3_AB
+
+;0x45ADE0CB=RB3_AC
+0x45ADE0CB=RB3_AC
+
+;0x46A228FB=~z~Luca, I need that ice back.
+0x46A228FB=~z~Luca, I need that ice back.
+
+;0x4C68DD38=~z~You and me can go to Venturas, no one's ever gonna find us.
+0x4C68DD38=~z~You and me can go to Venturas, no one's ever gonna find us.
+
+;0x50E94808=~z~You know me, and I know you.
+0x50E94808=~z~You know me, and I know you.
+
+;0x52BD7314=RB3_FC
+0x52BD7314=RB3_FC
+
+;0x53FD9137=RB3_IA
+0x53FD9137=RB3_IA
+
+;0x5774C2B6=~z~I was planning for an easy life. It don't matter too much, bring me the score at Drusilla's.
+0x5774C2B6=~z~I was planning for an easy life. It don't matter too much, bring me the score at Drusilla's.
+
+;0x57B4707D=~z~You're a piece of shit, Nicky. You ratted us out.
+0x57B4707D=~z~You're a piece of shit, Nicky. You ratted us out.
+
+;0x5A9F79A5=~z~You gotta make a play for yourself. Jesus.
+0x5A9F79A5=~z~You gotta make a play for yourself. Jesus.
+
+;0x5D08F87B=~z~I took out Luca's crew and I got your diamonds.
+0x5D08F87B=~z~I took out Luca's crew and I got your diamonds.
+
+;0x5E670DD8=RB3_GA
+0x5E670DD8=RB3_GA
+
+;0x5FCF65D4=~z~Hey, Phil, listen.
+0x5FCF65D4=~z~Hey, Phil, listen.
+
+;0x6022657F=RB3_BB
+0x6022657F=RB3_BB
+
+;0x6081D308=~z~Maybe you're in on it.
+0x6081D308=~z~Maybe you're in on it.
+
+;0x6A5AE6F2=~z~Yeah.
+0x6A5AE6F2=~z~Yeah.
+
+;0x6C48600A=202
+0x6C48600A=202
+
+;0x6D01EC08=~z~Hey, hey! I left them with the stuff to bring to you, as instructed.
+0x6D01EC08=~z~Hey, hey! I left them with the stuff to bring to you, as instructed.
+
+;0x6DAD9FCA=010100100
+0x6DAD9FCA=010100100
+
+;0x6F391CDB=~z~Whatever, they're dead and I've got the stuff.
+0x6F391CDB=~z~Whatever, they're dead and I've got the stuff.
+
+;0x71DAC9B1=400400040
+0x71DAC9B1=400400040
+
+;0x7874DA88=010010100100
+0x7874DA88=010010100100
+
+;0x78E3D272=RB3_XB
+0x78E3D272=RB3_XB
+
+;0x791FD1CE=RB3_XA
+0x791FD1CE=RB3_XA
+
+;0x7982990E=~z~Okay. I'm sorry. Goodbye.
+0x7982990E=~z~Okay. I'm sorry. Goodbye.
+
+;0x7B53B510=~z~I just wanted you to get the ice back. I didn't say nothing to you about killing those boys.
+0x7B53B510=~z~I just wanted you to get the ice back. I didn't say nothing to you about killing those boys.
+
+;0x7D5B927F=~z~Ray, Luca's crew gave me the shake.
+0x7D5B927F=~z~Ray, Luca's crew gave me the shake.
+
+;0x7F581A62=~z~The game's up, boys. We're outta here.
+0x7F581A62=~z~The game's up, boys. We're outta here.
+
+;0x820D1FD0=~z~Fuck you, you cabbage-eating prick. Who says it weren't you that made off with 'em?
+0x820D1FD0=~z~Fuck you, you cabbage-eating prick. Who says it weren't you that made off with 'em?
+
+;0x844B9A9F=~z~Option two, Luca and his buddies ripped us both off.
+0x844B9A9F=~z~Option two, Luca and his buddies ripped us both off.
+
+;0x84565001=~z~Thanks for the advice.
+0x84565001=~z~Thanks for the advice.
+
+;0x85321E34=~z~You were planning to let them live?
+0x85321E34=~z~You were planning to let them live?
+
+;0x874CB4A2=~z~Hey listen tell Jimmy I said hello.
+0x874CB4A2=~z~Hey listen tell Jimmy I said hello.
+
+;0x8875FB02=RB3_EA
+0x8875FB02=RB3_EA
+
+;0x8EC3DE9B=~z~I'm gonna clip you then I'm gonna go clip Ray Bo - fucking - ccino.
+0x8EC3DE9B=~z~I'm gonna clip you then I'm gonna go clip Ray Bo - fucking - ccino.
+
+;0x8ED4B6EC=RB3_GGC
+0x8ED4B6EC=RB3_GGC
+
+;0x8F3BBA2D=~z~That's what I'm telling Ray.
+0x8F3BBA2D=~z~That's what I'm telling Ray.
+
+;0x8F62E32B=~z~We'll split the ice. You'll be a rich man, Nicky.
+0x8F62E32B=~z~We'll split the ice. You'll be a rich man, Nicky.
+
+;0x90EBE2EB=~z~Shove this up your ass.
+0x90EBE2EB=~z~Shove this up your ass.
+
+;0x913349CC=RB3_BE
+0x913349CC=RB3_BE
+
+;0x92ACB761=~z~I got two options. Option one, you ripped me off.
+0x92ACB761=~z~I got two options. Option one, you ripped me off.
+
+;0x94F1E84C=~z~You want to get your hands on it, come meet me at the bridge in Middle Park.
+0x94F1E84C=~z~You want to get your hands on it, come meet me at the bridge in Middle Park.
+
+;0x95905129=~z~Hey, take it easy. Oh, Phil, take it easy.
+0x95905129=~z~Hey, take it easy. Oh, Phil, take it easy.
+
+;0x968B48CC=~z~I dunno what you talkin' bout, Nicky. I gave every one of those diamonds to Ray.
+0x968B48CC=~z~I dunno what you talkin' bout, Nicky. I gave every one of those diamonds to Ray.
+
+;0x97C4C191=~z~Luca hangs out in Castle Gardens.
+0x97C4C191=~z~Luca hangs out in Castle Gardens.
+
+;0x9974D80F=RB3_BC
+0x9974D80F=RB3_BC
+
+;0x9C4D137B=RB3_GC
+0x9C4D137B=RB3_GC
+
+;0x9F11107A=~z~You're making things real hard on yourself.
+0x9F11107A=~z~You're making things real hard on yourself.
+
+;0xA2A5865E=~z~Fuck you, Nicky, fuck you.
+0xA2A5865E=~z~Fuck you, Nicky, fuck you.
+
+;0xA2F01C65=090
+0xA2F01C65=090
+
+;0xA5549D23=~z~Shit. I'm starting to think you guys are in bed together. You better prove me wrong.
+0xA5549D23=~z~Shit. I'm starting to think you guys are in bed together. You better prove me wrong.
+
+;0xA5D8F1B7=RB3_BD
+0xA5D8F1B7=RB3_BD
+
+;0xA9BEA7B2=RB3_GE
+0xA9BEA7B2=RB3_GE
+
+;0xABCE7352=~z~Now we all know that that's not true.
+0xABCE7352=~z~Now we all know that that's not true.
+
+;0xB15B7A33=010100100010010
+0xB15B7A33=010100100010010
+
+;0xBB6988DA=~z~Maybe I am, but if you thought that, I wouldn't be standing here right now.
+0xBB6988DA=~z~Maybe I am, but if you thought that, I wouldn't be standing here right now.
+
+;0xBE653EEB=RB3_CA
+0xBE653EEB=RB3_CA
+
+;0xC00DA62B=~z~Who? You and me?
+0xC00DA62B=~z~Who? You and me?
+
+;0xC5EEB422=RB3_BF
+0xC5EEB422=RB3_BF
+
+;0xC97DA502=~z~Go see him, go get my stuff back so everyone can get paid. Now.
+0xC97DA502=~z~Go see him, go get my stuff back so everyone can get paid. Now.
+
+;0xCD72F833=RB3_AB
+0xCD72F833=RB3_AB
+
+;0xCFE93807=~z~Ray, Luca's crew gave me the shake.
+0xCFE93807=~z~Ray, Luca's crew gave me the shake.
+
+;0xD38E7996=~z~You're going to have to do without.
+0xD38E7996=~z~You're going to have to do without.
+
+;0xD5D37DFE=~z~I'm going to find you, Luca.
+0xD5D37DFE=~z~I'm going to find you, Luca.
+
+;0xD7D49279=RB3_BA
+0xD7D49279=RB3_BA
+
+;0xD8B5C932=~z~Let's have a little talk, Nicky. Come see me when you can.
+0xD8B5C932=~z~Let's have a little talk, Nicky. Come see me when you can.
+
+;0xDD97DA4D=RB3_GGD
+0xDD97DA4D=RB3_GGD
+
+;0xDEEFCC14=RB3_HA
+0xDEEFCC14=RB3_HA
+
+;0xE225DC80=~z~Shit. I'm starting to think you guys are in bed together. You better prove me wrong.
+0xE225DC80=~z~Shit. I'm starting to think you guys are in bed together. You better prove me wrong.
+
+;0xE7F79457=~z~Ray ain't gonna give you shit for helping him out, Nicky.
+0xE7F79457=~z~Ray ain't gonna give you shit for helping him out, Nicky.
+
+;0xE83061D0=010100100
+0xE83061D0=010100100
+
+;0xE9C6A606=~z~Hey Ray, the diamonds - I'm not going to be able to get my hands on them.
+0xE9C6A606=~z~Hey Ray, the diamonds - I'm not going to be able to get my hands on them.
+
+;0xEA5DA712=~z~Luca, come out and we'll talk about this.
+0xEA5DA712=~z~Luca, come out and we'll talk about this.
+
+;0xEB4D7220=RB3_GB
+0xEB4D7220=RB3_GB
+
+;0xEBBCFD89=~z~We got a problem.
+0xEBBCFD89=~z~We got a problem.
+
+;0xEC73203D=~z~Thanks, Nicky.
+0xEC73203D=~z~Thanks, Nicky.
+
+;0xED2B6C5D=~z~You ain't as dumb as you look.
+0xED2B6C5D=~z~You ain't as dumb as you look.
+
+;0xED42F24C=~z~Shit. I'm starting to think you guys are in bed together. You better prove me wrong.
+0xED42F24C=~z~Shit. I'm starting to think you guys are in bed together. You better prove me wrong.
+
+;0xED980167=~z~Yeah, yeah, yeah. Sure, Phil, sure.
+0xED980167=~z~Yeah, yeah, yeah. Sure, Phil, sure.
+
+;0xEE128431=100
+0xEE128431=100
+
+;0xF3E47FFD=~z~Let's have a little talk, Nicky. Come see me when you can.
+0xF3E47FFD=~z~Let's have a little talk, Nicky. Come see me when you can.
+
+;0xF64130EA=~z~You can have Tuna and Johnny's cut. Come on.
+0xF64130EA=~z~You can have Tuna and Johnny's cut. Come on.
+
+;0xFC36B96C=RB3_FB
+0xFC36B96C=RB3_FB
+
+;0xFE2BCCEF=RB3_GB
+0xFE2BCCEF=RB3_GB
+
+;0xFE99C48A=~z~I guess you never know who's gonna stab you in the back, eh?
+0xFE99C48A=~z~I guess you never know who's gonna stab you in the back, eh?
+

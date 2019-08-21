@@ -1,0 +1,148 @@
+﻿[SHOW6AU]
+;0x0434BD3B=~z~~x~acetone and a little camper fuel. And that will take you to the moon.
+0x0434BD3B=~z~~x~acetone and a little camper fuel. And that will take you to the moon.
+
+;0x052D56AD=~z~~x~Ladies and gentlemen, I, Kleinman the Magician,
+0x052D56AD=~z~~x~Ladies and gentlemen, I, Kleinman the Magician,
+
+;0x0EFB9B22=~z~~x~I'm tweaking in the morning
+0x0EFB9B22=~z~~x~I'm tweaking in the morning
+
+;0x20C13EAD=~z~~x~I'm tweaking in the afternoon
+0x20C13EAD=~z~~x~I'm tweaking in the afternoon
+
+;0x2A761D8E=~z~~x~Oh! This was not expected. Umm, let's go to next show!
+0x2A761D8E=~z~~x~Oh! This was not expected. Umm, let's go to next show!
+
+;0x2E7AA94B=~z~~x~Master of the Unexplainable, the Mysterious and the Unknown,
+0x2E7AA94B=~z~~x~Master of the Unexplainable, the Mysterious and the Unknown,
+
+;0x34393114=~z~~x~Steel, spinning towards my gonads, but I am not afraid!
+0x34393114=~z~~x~Steel, spinning towards my gonads, but I am not afraid!
+
+;0x3C12ACF6=~z~~x~This is a story about my best friend. we met in a truckstop... bathroom.
+0x3C12ACF6=~z~~x~This is a story about my best friend. we met in a truckstop... bathroom.
+
+;0x46998729=~z~~x~Oh, I'll tweak in the morning, daddy, yeah
+0x46998729=~z~~x~Oh, I'll tweak in the morning, daddy, yeah
+
+;0x4B0D6270=~z~~x~Perestroika! Put lips together for Incredible Kleinman!
+0x4B0D6270=~z~~x~Perestroika! Put lips together for Incredible Kleinman!
+
+;0x536CDBAA=~z~~x~Have you ever been to the moon? All you've got to do is get some household cleaners,
+0x536CDBAA=~z~~x~Have you ever been to the moon? All you've got to do is get some household cleaners,
+
+;0x60CFF670=~z~~x~cough medicine - that pseudoephedrine or whatever the hell you call it -
+0x60CFF670=~z~~x~cough medicine - that pseudoephedrine or whatever the hell you call it -
+
+;0x61AB8BF8=~z~~x~No man can look death in the face and laugh.
+0x61AB8BF8=~z~~x~No man can look death in the face and laugh.
+
+;0x68461CE1=~z~~x~Laurel, you filthy cretin, put down that whiskey.
+0x68461CE1=~z~~x~Laurel, you filthy cretin, put down that whiskey.
+
+;0x712ADC4B=~z~~x~And I'll tweak in the afternoon...
+0x712ADC4B=~z~~x~And I'll tweak in the afternoon...
+
+;0x73A52FEB=~z~~x~Soon I will be quite secure. No man could escape this saw!
+0x73A52FEB=~z~~x~Soon I will be quite secure. No man could escape this saw!
+
+;0x760BB86C=~z~~x~And speaking of which, please welcome...my lovely assistant, the lovely Laurel.
+0x760BB86C=~z~~x~And speaking of which, please welcome...my lovely assistant, the lovely Laurel.
+
+;0x7F614763=~z~~x~Laurel, start the saw. Prepare to be amazed!
+0x7F614763=~z~~x~Laurel, start the saw. Prepare to be amazed!
+
+;0x84B2D5BA=~z~~x~Will blow your mind clean off!
+0x84B2D5BA=~z~~x~Will blow your mind clean off!
+
+;0x8D4ECF71=~z~~x~He got me all sweaty and I was, like, on the moon.
+0x8D4ECF71=~z~~x~He got me all sweaty and I was, like, on the moon.
+
+;0x8D95151F=~z~~x~Well, yeah...
+0x8D95151F=~z~~x~Well, yeah...
+
+;0x8DEC1901=~z~~x~No, no, no, no, no, no...
+0x8DEC1901=~z~~x~No, no, no, no, no, no...
+
+;0x8E4319B3=~z~~x~This bathtub meth sure is fun
+0x8E4319B3=~z~~x~This bathtub meth sure is fun
+
+;0x92717137=~z~~x~like a woman with an eeee-ahhh and a zing-zing, if you know what I mean.
+0x92717137=~z~~x~like a woman with an eeee-ahhh and a zing-zing, if you know what I mean.
+
+;0x9543240F=~z~~x~Aw, aw shit... aw shit, another tooth just gone.
+0x9543240F=~z~~x~Aw, aw shit... aw shit, another tooth just gone.
+
+;0x98BF7A1F=~z~~x~No man but me!
+0x98BF7A1F=~z~~x~No man but me!
+
+;0x9BDEB1B2=~z~~x~You'll sleep with your brother, your mother, your cousin Beth
+0x9BDEB1B2=~z~~x~You'll sleep with your brother, your mother, your cousin Beth
+
+;0xA0E88E25=~z~~x~You know, death be not proud.
+0xA0E88E25=~z~~x~You know, death be not proud.
+
+;0xAA18CE26=~z~~x~You'll get so horny on that crystal meth
+0xAA18CE26=~z~~x~You'll get so horny on that crystal meth
+
+;0xAFAA2BA8=~z~~x~And put out that cigarette.
+0xAFAA2BA8=~z~~x~And put out that cigarette.
+
+;0xB65EB561=~z~~x~My filthy assistant will now strap me in.
+0xB65EB561=~z~~x~My filthy assistant will now strap me in.
+
+;0xB8513952=~z~~x~But it will not take me!
+0xB8513952=~z~~x~But it will not take me!
+
+;0xB8AB6B4B=~z~~x~Yeah... oh, oh, I'm tweaking now
+0xB8AB6B4B=~z~~x~Yeah... oh, oh, I'm tweaking now
+
+;0xBBC774B7=~z~~x~Oh, but baby, don't worry about that erectile dysfunction
+0xBBC774B7=~z~~x~Oh, but baby, don't worry about that erectile dysfunction
+
+;0xBBDA74E1=~z~~x~Well...
+0xBBDA74E1=~z~~x~Well...
+
+;0xBDDD308D=~z~~x~But I'm just in love with that bathtub meth.
+0xBDDD308D=~z~~x~But I'm just in love with that bathtub meth.
+
+;0xC3127FAD=~z~~x~She's sexiest junky in Hove Beach. Ms Bluesy St. John!
+0xC3127FAD=~z~~x~She's sexiest junky in Hove Beach. Ms Bluesy St. John!
+
+;0xC8400DAC=~z~~x~And hide that gun soon
+0xC8400DAC=~z~~x~And hide that gun soon
+
+;0xCA80DDB1=~z~~x~It takes children, scholars and hobos.
+0xCA80DDB1=~z~~x~It takes children, scholars and hobos.
+
+;0xD00EE8C1=~z~~x~The saw of death has claimed many lives over the years.
+0xD00EE8C1=~z~~x~The saw of death has claimed many lives over the years.
+
+;0xD8D3AED3=~z~~x~Yeah, daddy. Go hide that gun
+0xD8D3AED3=~z~~x~Yeah, daddy. Go hide that gun
+
+;0xE1DFC0EB=~z~~x~Oh, oh, yeah baby
+0xE1DFC0EB=~z~~x~Oh, oh, yeah baby
+
+;0xE6FA82C7=~z~~x~mix it up in your bathtub with some Iodine, red phosphorus, which is my favorite,
+0xE6FA82C7=~z~~x~mix it up in your bathtub with some Iodine, red phosphorus, which is my favorite,
+
+;0xEA7F09D4=~z~~x~Let me tell you about staying up all night, horny as hell.
+0xEA7F09D4=~z~~x~Let me tell you about staying up all night, horny as hell.
+
+;0xF1725CD8=~z~~x~No, don't wear a frown. Yeah
+0xF1725CD8=~z~~x~No, don't wear a frown. Yeah
+
+;0xF55E67E8=~z~~x~Well, you'd better cover up those windows, daddy
+0xF55E67E8=~z~~x~Well, you'd better cover up those windows, daddy
+
+;0xF7199EF2=~z~~x~Great song about American pastime. Drug abuse!
+0xF7199EF2=~z~~x~Great song about American pastime. Drug abuse!
+
+;0xF7982406=~z~~x~Taking apart your washing machine or your TV or picking the carpet for a little piece.
+0xF7982406=~z~~x~Taking apart your washing machine or your TV or picking the carpet for a little piece.
+
+;0xFF38F865=~z~~x~Cause you know you're never ever coming down
+0xFF38F865=~z~~x~Cause you know you're never ever coming down
+

@@ -1,0 +1,46 @@
+﻿[VLAD4]
+;0x10E65C46=~s~Hold ~INPUT_SPRINT~ while climbing a ladder to climb faster.
+0x10E65C46=~s~Hold ~INPUT_SPRINT~ while climbing a ladder to climb faster.
+
+;0x1113AE6A=~r~Ivan got away.
+0x1113AE6A=~r~Ivan got away.
+
+;0x1A17D265=~s~When an enemy's icon flashes between blue and red you have the choice between killing them and letting them live. Your decision could have repercussions.
+0x1A17D265=~s~When an enemy's icon flashes between blue and red you have the choice between killing them and letting them live. Your decision could have repercussions.
+
+;0x1BBD71F4=~s~Press ~INPUT_JUMP~ while running to jump between buildings.
+0x1BBD71F4=~s~Press ~INPUT_JUMP~ while running to jump between buildings.
+
+;0x21EBF7C1=~s~Go to ~y~Roman's garage.
+0x21EBF7C1=~s~Go to ~y~Roman's garage.
+
+;0x2AD70997=~r~Ivan~s~ is already making an escape. Chase him.
+0x2AD70997=~r~Ivan~s~ is already making an escape. Chase him.
+
+;0x3D7FAEE8=~s~Chase ~r~Ivan.
+0x3D7FAEE8=~s~Chase ~r~Ivan.
+
+;0x4116DB10=~s~Choose ~b~Ivan's~s~ fate.
+0x4116DB10=~s~Choose ~b~Ivan's~s~ fate.
+
+;0x6E2716CA=~s~Press ~INPUT_ENTER~ to mount the ladder. Use ~PAD_LSTICK_UPDOWN~ to move up and down on the ladder.
+0x6E2716CA=~s~Press ~INPUT_ENTER~ to mount the ladder. Use ~PAD_LSTICK_UPDOWN~ to move up and down on the ladder.
+
+;0x77E42A44=~s~Use the ladders to chase Ivan through the building site.
+0x77E42A44=~s~Use the ladders to chase Ivan through the building site.
+
+;0x956CD959=~r~Ivan~s~ is escaping into the construction site. Chase him.
+0x956CD959=~r~Ivan~s~ is escaping into the construction site. Chase him.
+
+;0xAD66EF29=~s~Choose ~r~Ivan's~s~ fate.
+0xAD66EF29=~s~Choose ~r~Ivan's~s~ fate.
+
+;0xBF2438C3=~s~Press ~INPUT_JUMP~ to climb over objects or walls.
+0xBF2438C3=~s~Press ~INPUT_JUMP~ to climb over objects or walls.
+
+;0xE9965FD5=~s~Use ~INPUT_SPRINT~ while climbing a ladder to climb faster.
+0xE9965FD5=~s~Use ~INPUT_SPRINT~ while climbing a ladder to climb faster.
+
+;0xED7B9571=~s~Press ~INPUT_PICKUP~ to help Ivan up. Press ~INPUT_MELEE_KICK~ to kick Ivan off the edge.
+0xED7B9571=~s~Press ~INPUT_PICKUP~ to help Ivan up. Press ~INPUT_MELEE_KICK~ to kick Ivan off the edge.
+

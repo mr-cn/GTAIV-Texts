@@ -1,0 +1,52 @@
+﻿[EBK13]
+;0x0B3E1751=Dear Oleg,
+0x0B3E1751=Dear Oleg,
+
+;0x0FF26380=I can't give you any more of the information you want. I am emailing my contacts in the Caspian and keep getting reports that the addresses no longer exist. Also, the companies you want info on seem to be owned by umbrella corporations which are owned by even more umbrella corporations. Tracing the money I reach dead ends in either the Caymans or Switzerland.
+0x0FF26380=I can't give you any more of the information you want. I am emailing my contacts in the Caspian and keep getting reports that the addresses no longer exist. Also, the companies you want info on seem to be owned by umbrella corporations which are owned by even more umbrella corporations. Tracing the money I reach dead ends in either the Caymans or Switzerland.
+
+;0x26204D15=Dear Oleg,
+0x26204D15=Dear Oleg,
+
+;0x2CC4890D=Sorry I cannot help you further.
+0x2CC4890D=Sorry I cannot help you further.
+
+;0x3469E9A8=Dear Oleg,
+0x3469E9A8=Dear Oleg,
+
+;0x4FD7A083=Dear Oleg,
+0x4FD7A083=Dear Oleg,
+
+;0x903ACFF8=Sorry I cannot help you further.
+0x903ACFF8=Sorry I cannot help you further.
+
+;0x9E826C87=Sorry I cannot help you further.
+0x9E826C87=Sorry I cannot help you further.
+
+;0xACB208F2=Sorry I cannot help you further.
+0xACB208F2=Sorry I cannot help you further.
+
+;0xB0D29127=Sorry I cannot help you further.
+0xB0D29127=Sorry I cannot help you further.
+
+;0xB422691B=Dear Oleg,
+0xB422691B=Dear Oleg,
+
+;0xC78BBE99=Sorry I cannot help you further.
+0xC78BBE99=Sorry I cannot help you further.
+
+;0xD18B23EC=Dear Oleg,
+0xD18B23EC=Dear Oleg,
+
+;0xD54D5A1C=Sorry I cannot help you further.
+0xD54D5A1C=Sorry I cannot help you further.
+
+;0xEC2B87D8=Sorry I cannot help you further.
+0xEC2B87D8=Sorry I cannot help you further.
+
+;0xEDA25C1A=Dear Oleg,
+0xEDA25C1A=Dear Oleg,
+
+;0xFCFFFAD5=Dear Oleg,
+0xFCFFFAD5=Dear Oleg,
+

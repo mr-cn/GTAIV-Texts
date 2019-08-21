@@ -1,0 +1,7 @@
+﻿[WI_JEF3]
+;0x04601902=~r~Jeff was abandonded.~s~
+0x04601902=~r~Jeff was abandonded.~s~
+
+;0x862C9C9D=Jeff has been killed in an accident.
+0x862C9C9D=Jeff has been killed in an accident.
+

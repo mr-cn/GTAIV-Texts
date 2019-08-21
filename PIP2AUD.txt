@@ -1,0 +1,283 @@
+﻿[PIP2AUD]
+;0x02E792DE=~z~This ain't easy at all.
+0x02E792DE=~z~This ain't easy at all.
+
+;0x0748E9F5=PIP2_EK
+0x0748E9F5=PIP2_EK
+
+;0x08287040=210
+0x08287040=210
+
+;0x0B921C1C=PIP2_FC
+0x0B921C1C=PIP2_FC
+
+;0x0C8C264F=~z~Man.
+0x0C8C264F=~z~Man.
+
+;0x125C824B=PIP2_HB
+0x125C824B=PIP2_HB
+
+;0x12888A2C=~z~Get yourself stitched up. Good luck, man.
+0x12888A2C=~z~Get yourself stitched up. Good luck, man.
+
+;0x14913631=~z~Damn, this hurts.
+0x14913631=~z~Damn, this hurts.
+
+;0x17E5C7EC=~z~What are you, his backing singer?
+0x17E5C7EC=~z~What are you, his backing singer?
+
+;0x1DED05A6=~z~Oh shit, I'm down.
+0x1DED05A6=~z~Oh shit, I'm down.
+
+;0x21567548=PIP2_EB
+0x21567548=PIP2_EB
+
+;0x21D7BCDA=100010100010100100100100100010100100
+0x21D7BCDA=100010100010100100100100100010100100
+
+;0x24B32E81=~z~You definitely getting a note on my album sleeve. Thanking you right after God and my momma.
+0x24B32E81=~z~You definitely getting a note on my album sleeve. Thanking you right after God and my momma.
+
+;0x25B4CCC8=100100010
+0x25B4CCC8=100100010
+
+;0x2920EA62=~z~You sad your boyfriend got hurt?
+0x2920EA62=~z~You sad your boyfriend got hurt?
+
+;0x298DC4D0=~z~You gotta get me to the hospital before I bleed out up in here.
+0x298DC4D0=~z~You gotta get me to the hospital before I bleed out up in here.
+
+;0x34E09466=~z~Yo, but we all need some scars and shit. We can only talk so much.
+0x34E09466=~z~Yo, but we all need some scars and shit. We can only talk so much.
+
+;0x3EF3971E=~z~Just need to get my soul out there. This could be the way.
+0x3EF3971E=~z~Just need to get my soul out there. This could be the way.
+
+;0x41BFC3F3=200
+0x41BFC3F3=200
+
+;0x42F03085=~z~I respect the man who walks away from a fight without bullets in him.
+0x42F03085=~z~I respect the man who walks away from a fight without bullets in him.
+
+;0x431B30D7=~z~This is mad painful up in here. You ever been shot?
+0x431B30D7=~z~This is mad painful up in here. You ever been shot?
+
+;0x437CCFC5=PIP2_FL
+0x437CCFC5=PIP2_FL
+
+;0x465BB9DE=PIP2_FI
+0x465BB9DE=PIP2_FI
+
+;0x4D050BBE=~z~Maybe some more people will pay attention to it now that you've got some scars?
+0x4D050BBE=~z~Maybe some more people will pay attention to it now that you've got some scars?
+
+;0x4DCB73E9=PIP2_EL
+0x4DCB73E9=PIP2_EL
+
+;0x51DDBCF2=~z~I'm sure.
+0x51DDBCF2=~z~I'm sure.
+
+;0x5246CF2E=~z~Yo son, take me to the hospital.
+0x5246CF2E=~z~Yo son, take me to the hospital.
+
+;0x56E90F09=PIP2_AA
+0x56E90F09=PIP2_AA
+
+;0x57B262FB=PIP2_EI
+0x57B262FB=PIP2_EI
+
+;0x58955B64=~z~Hear some gangster raps about real pain.
+0x58955B64=~z~Hear some gangster raps about real pain.
+
+;0x5BD7EE76=PIP2_EF
+0x5BD7EE76=PIP2_EF
+
+;0x5C23F0F2=PIP2_FG
+0x5C23F0F2=PIP2_FG
+
+;0x5DAFBBBA=PIP2_FA
+0x5DAFBBBA=PIP2_FA
+
+;0x5DE41871=PIP2_HC
+0x5DE41871=PIP2_HC
+
+;0x5EA6AF01=~z~Hell, you right.
+0x5EA6AF01=~z~Hell, you right.
+
+;0x608B6BB7=~z~I respect a man who can take the pain.
+0x608B6BB7=~z~I respect a man who can take the pain.
+
+;0x655F74F8=~z~This ain't no commercial shit.
+0x655F74F8=~z~This ain't no commercial shit.
+
+;0x6872C299=~z~I've seen a few gunshot wounds and I think you're going to be okay.
+0x6872C299=~z~I've seen a few gunshot wounds and I think you're going to be okay.
+
+;0x6E2B5FCE=PIP2_GA
+0x6E2B5FCE=PIP2_GA
+
+;0x7379E74A=~z~It's just you need to get the rhymes out there. Make people listen in the first place. Blow them the fuck away.
+0x7379E74A=~z~It's just you need to get the rhymes out there. Make people listen in the first place. Blow them the fuck away.
+
+;0x73A3FBDF=100
+0x73A3FBDF=100
+
+;0x74064D26=~z~Son. You done helped Pathos again.
+0x74064D26=~z~Son. You done helped Pathos again.
+
+;0x750233CF=~z~I been hit, son.
+0x750233CF=~z~I been hit, son.
+
+;0x781361DA=~z~Shit, I better be. I ain't even begun to produce my best work.
+0x781361DA=~z~Shit, I better be. I ain't even begun to produce my best work.
+
+;0x7A533B31=PIP2_FJ
+0x7A533B31=PIP2_FJ
+
+;0x7AB984D3=PIP2_CA
+0x7AB984D3=PIP2_CA
+
+;0x7B8E9469=PIP2_JA
+0x7B8E9469=PIP2_JA
+
+;0x7C61A36B=~z~Pathos don't need to prove nothing. His rhymes speak for themself.
+0x7C61A36B=~z~Pathos don't need to prove nothing. His rhymes speak for themself.
+
+;0x7DFD43A5=PIP2_FK
+0x7DFD43A5=PIP2_FK
+
+;0x81A3839D=~z~Your wound might do the trick then.
+0x81A3839D=~z~Your wound might do the trick then.
+
+;0x823F4E49=~z~Motherfucker shot my ass.
+0x823F4E49=~z~Motherfucker shot my ass.
+
+;0x87AFA704=~z~Now you can write some real gangster raps.
+0x87AFA704=~z~Now you can write some real gangster raps.
+
+;0x882B5326=PIP2_DA
+0x882B5326=PIP2_DA
+
+;0x89AC050B=~z~Once the people start to listen to the shit that I spit, they going to freak the fuck out.
+0x89AC050B=~z~Once the people start to listen to the shit that I spit, they going to freak the fuck out.
+
+;0x8C794808=PIP2_EE
+0x8C794808=PIP2_EE
+
+;0x8E208D46=PIP2_EJ
+0x8E208D46=PIP2_EJ
+
+;0x8FB3E932=~z~Pathos been slept.
+0x8FB3E932=~z~Pathos been slept.
+
+;0x8FB879D9=PIP2_HA
+0x8FB879D9=PIP2_HA
+
+;0x8FBD64B2=190
+0x8FBD64B2=190
+
+;0x96D5AE01=~z~Just need to get my rhymes on the street. This could be the way.
+0x96D5AE01=~z~Just need to get my rhymes on the street. This could be the way.
+
+;0x98402BB8=~z~Son, son, get my ass a car. I'm dying here! On the fucking street!
+0x98402BB8=~z~Son, son, get my ass a car. I'm dying here! On the fucking street!
+
+;0x9982DDAD=~z~If that's something you feel you need to prove.
+0x9982DDAD=~z~If that's something you feel you need to prove.
+
+;0xA44CE03E=~z~Damn, that made me feel good.
+0xA44CE03E=~z~Damn, that made me feel good.
+
+;0xA68A4D6A=~z~Damn it hurts though.
+0xA68A4D6A=~z~Damn it hurts though.
+
+;0xA6ACCCA7=PIP2_FB
+0xA6ACCCA7=PIP2_FB
+
+;0xA7B57A12=~z~We got to show people the struggle, man. Show my journey. Prove my suffering.
+0xA7B57A12=~z~We got to show people the struggle, man. Show my journey. Prove my suffering.
+
+;0xABAF5934=PIP2_KA
+0xABAF5934=PIP2_KA
+
+;0xB0708B21=~z~Listen to Pathos if you tired of that club shit.
+0xB0708B21=~z~Listen to Pathos if you tired of that club shit.
+
+;0xB3A458FB=~z~Perceptions will be altered, for real.
+0xB3A458FB=~z~Perceptions will be altered, for real.
+
+;0xB4F02465=PIP2_FE
+0xB4F02465=PIP2_FE
+
+;0xBA3EAE0E=PIP2_FH
+0xBA3EAE0E=PIP2_FH
+
+;0xBB8C8F3B=~z~He ain't never getting a record deal now.
+0xBB8C8F3B=~z~He ain't never getting a record deal now.
+
+;0xBD38F77F=PIP2_FD
+0xBD38F77F=PIP2_FD
+
+;0xBF97296E=~z~This be intelligent hip hop.
+0xBF97296E=~z~This be intelligent hip hop.
+
+;0xC080B6E6=PIP2_EG
+0xC080B6E6=PIP2_EG
+
+;0xC55FFC72=~z~I don't wanna go commercial or nothing,
+0xC55FFC72=~z~I don't wanna go commercial or nothing,
+
+;0xCC1E3835=190
+0xCC1E3835=190
+
+;0xCDA4B36B=~z~You a rapper too, loser?
+0xCDA4B36B=~z~You a rapper too, loser?
+
+;0xD10D13D0=~z~but I'm too intelligent to be missing out on a marketing opportunity like this.
+0xD10D13D0=~z~but I'm too intelligent to be missing out on a marketing opportunity like this.
+
+;0xD2A06434=100
+0xD2A06434=100
+
+;0xD53D43AF=~z~Damn it hurts though.
+0xD53D43AF=~z~Damn it hurts though.
+
+;0xD5AADD0E=PIP2_EC
+0xD5AADD0E=PIP2_EC
+
+;0xD5B67E16=PIP2_FM
+0xD5B67E16=PIP2_FM
+
+;0xDF31CB9B=~z~Ahhhh.
+0xDF31CB9B=~z~Ahhhh.
+
+;0xE0147BF9=PIP2_FF
+0xE0147BF9=PIP2_FF
+
+;0xE20A6E54=~z~Put my CD in your deck if you want your world turned upside down.
+0xE20A6E54=~z~Put my CD in your deck if you want your world turned upside down.
+
+;0xE8B315F7=100100100100010100100010100100010100100
+0xE8B315F7=100100100100010100100010100100010100100
+
+;0xE970EBA2=PIP2_EA
+0xE970EBA2=PIP2_EA
+
+;0xF01D785C=~z~You going down just like this fake ass rapper here.
+0xF01D785C=~z~You going down just like this fake ass rapper here.
+
+;0xF0806E38=~z~Shit, son.
+0xF0806E38=~z~Shit, son.
+
+;0xF1567A54=~z~I wouldn't mind doing a bid just so you'd shut up.
+0xF1567A54=~z~I wouldn't mind doing a bid just so you'd shut up.
+
+;0xF32B9B4F=PIP2_EH
+0xF32B9B4F=PIP2_EH
+
+;0xFBF7A867=PIP2_ED
+0xFBF7A867=PIP2_ED
+
+;0xFBFD229C=~z~I knew getting shot hurt and shit, but I had no idea.
+0xFBFD229C=~z~I knew getting shot hurt and shit, but I had no idea.
+

@@ -1,0 +1,7 @@
+﻿[BELL1]
+;0x07AC129B=~s~Go to the Target's ~y~Safe House.
+0x07AC129B=~s~Go to the Target's ~y~Safe House.
+
+;0x3FDC031E=~s~Kill the ~r~target~s~.
+0x3FDC031E=~s~Kill the ~r~target~s~.
+

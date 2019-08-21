@@ -1,0 +1,265 @@
+﻿[RACES]
+;0x030DBB37=Scrapes Only
+0x030DBB37=Scrapes Only
+
+;0x098F12B0=Track
+0x098F12B0=Track
+
+;0x0AFDA7D3=Waiting for players to finish...
+0x0AFDA7D3=Waiting for players to finish...
+
+;0x0B767FC5=Donut Dash
+0x0B767FC5=Donut Dash
+
+;0x0F1D1552=Road to Bohan
+0x0F1D1552=Road to Bohan
+
+;0x10791957=Back Breaker
+0x10791957=Back Breaker
+
+;0x15EBEF91=Big Dip
+0x15EBEF91=Big Dip
+
+;0x1BA3BBE9=Rize in the East
+0x1BA3BBE9=Rize in the East
+
+;0x1D4AB1AD=Stars in your Eyes
+0x1D4AB1AD=Stars in your Eyes
+
+;0x26C045E5=Coming Down
+0x26C045E5=Coming Down
+
+;0x3060A47A=Boogie Down
+0x3060A47A=Boogie Down
+
+;0x32A8DC69=Horse Punch
+0x32A8DC69=Horse Punch
+
+;0x39915BFA=In the Drink
+0x39915BFA=In the Drink
+
+;0x46C77666=Drive-thru
+0x46C77666=Drive-thru
+
+;0x48028869=Track Marks
+0x48028869=Track Marks
+
+;0x48068724=Bawhan Dash
+0x48068724=Bawhan Dash
+
+;0x4893532A=Random
+0x4893532A=Random
+
+;0x4A13E25F=The race is ending soon.
+0x4A13E25F=The race is ending soon.
+
+;0x50340947=Long Way Round
+0x50340947=Long Way Round
+
+;0x5533DF82=Normal
+0x5533DF82=Normal
+
+;0x5642239B=Bogan's Run
+0x5642239B=Bogan's Run
+
+;0x575AA91C=Bohan Job
+0x575AA91C=Bohan Job
+
+;0x58B9B614=Short Circuit
+0x58B9B614=Short Circuit
+
+;0x5BB6FB26=Hard Eight
+0x5BB6FB26=Hard Eight
+
+;0x5BDC13E3=Color
+0x5BDC13E3=Color
+
+;0x5D6E9884=Annihilator
+0x5D6E9884=Annihilator
+
+;0x5E1F251D=Cargo Haul
+0x5E1F251D=Cargo Haul
+
+;0x5EC1B5E7=D-Day
+0x5EC1B5E7=D-Day
+
+;0x67356399=Grand Tour
+0x67356399=Grand Tour
+
+;0x6BECC0B8=Random
+0x6BECC0B8=Random
+
+;0x6CA086C0=Enters 1ST
+0x6CA086C0=Enters 1ST
+
+;0x6CEC523C=Heart Stopper
+0x6CEC523C=Heart Stopper
+
+;0x6D6DDF7C=Drag Kings
+0x6D6DDF7C=Drag Kings
+
+;0x6F22A201=Home Turf
+0x6F22A201=Home Turf
+
+;0x72A35C5D=Southern Switch
+0x72A35C5D=Southern Switch
+
+;0x73E6C574=Off
+0x73E6C574=Off
+
+;0x7DB10006=Driving While High
+0x7DB10006=Driving While High
+
+;0x80B7F886=Round the Block
+0x80B7F886=Round the Block
+
+;0x82FE8ADD=Duck and Weave
+0x82FE8ADD=Duck and Weave
+
+;0x831E7EA0=Sinner & Saint
+0x831E7EA0=Sinner & Saint
+
+;0x837C015E=Taxiing
+0x837C015E=Taxiing
+
+;0x83FFE55A=Track
+0x83FFE55A=Track
+
+;0x840ACBBD=Random
+0x840ACBBD=Random
+
+;0x871C869C=Random
+0x871C869C=Random
+
+;0x8D6E5CDF=Get Wrecked
+0x8D6E5CDF=Get Wrecked
+
+;0x8E739401=Terminal Velocity
+0x8E739401=Terminal Velocity
+
+;0x9138A751=Don't Look Down
+0x9138A751=Don't Look Down
+
+;0x98E27350=Track
+0x98E27350=Track
+
+;0x991A1B0E=Pilgrim's Progress
+0x991A1B0E=Pilgrim's Progress
+
+;0x9B26F850=A.B.K. Endurance
+0x9B26F850=A.B.K. Endurance
+
+;0x9B7A3B98=Random
+0x9B7A3B98=Random
+
+;0xA18B4DD5=New Personal Best
+0xA18B4DD5=New Personal Best
+
+;0xA5FCAB75=Pistols
+0xA5FCAB75=Pistols
+
+;0xA694EAA1=Business Trip
+0xA694EAA1=Business Trip
+
+;0xA70436E2=Docking
+0xA70436E2=Docking
+
+;0xA7F9CA59=Riverside Drive
+0xA7F9CA59=Riverside Drive
+
+;0xAB9CCE53=Quick Knives
+0xAB9CCE53=Quick Knives
+
+;0xABA04FA3=Strip Off
+0xABA04FA3=Strip Off
+
+;0xAD771711=Vehicle Damage
+0xAD771711=Vehicle Damage
+
+;0xB4BDD255=Getting Wood
+0xB4BDD255=Getting Wood
+
+;0xB4CB6E76=Industrial Action
+0xB4CB6E76=Industrial Action
+
+;0xB83A4FF0=SMGs
+0xB83A4FF0=SMGs
+
+;0xB965EB2E=Black Gold
+0xB965EB2E=Black Gold
+
+;0xBB3B6D90=Heel-and-Toe
+0xBB3B6D90=Heel-and-Toe
+
+;0xBCD4F722=Laps
+0xBCD4F722=Laps
+
+;0xBE4E3E9E=Beat the Bitch
+0xBE4E3E9E=Beat the Bitch
+
+;0xBF0740E0=Track
+0xBF0740E0=Track
+
+;0xC179626E=Off
+0xC179626E=Off
+
+;0xC402806B=Highs & Lows
+0xC402806B=Highs & Lows
+
+;0xC63B5031=Noise Pollution
+0xC63B5031=Noise Pollution
+
+;0xC87CD530=Weapons
+0xC87CD530=Weapons
+
+;0xC96B7755=Weapons
+0xC96B7755=Weapons
+
+;0xCCEDF953=All Weapons
+0xCCEDF953=All Weapons
+
+;0xD08C631A=Water Hazard
+0xD08C631A=Water Hazard
+
+;0xD22D9110=Lap Time
+0xD22D9110=Lap Time
+
+;0xD3C006FB=Health Only
+0xD3C006FB=Health Only
+
+;0xD4EE12B1=Get it Pumped
+0xD4EE12B1=Get it Pumped
+
+;0xDA3525AB=Track
+0xDA3525AB=Track
+
+;0xDCCA7D4F=Buzz the Tower
+0xDCCA7D4F=Buzz the Tower
+
+;0xDD245B9C=Vehicle
+0xDD245B9C=Vehicle
+
+;0xE2B1091C=The 556 Connection
+0xE2B1091C=The 556 Connection
+
+;0xE870B058=All Guns
+0xE870B058=All Guns
+
+;0xED645F6B=Thunder Road
+0xED645F6B=Thunder Road
+
+;0xF346AA47=Smoke Screen
+0xF346AA47=Smoke Screen
+
+;0xF6FA7297=Exhaust Fumes
+0xF6FA7297=Exhaust Fumes
+
+;0xFAC33610=Take Off
+0xFAC33610=Take Off
+
+;0xFBDB572D=Guns & Grenades
+0xFBDB572D=Guns & Grenades
+
+;0xFF42C23F=Bohan Burning
+0xFF42C23F=Bohan Burning
+

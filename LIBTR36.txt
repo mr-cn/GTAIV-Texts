@@ -1,0 +1,31 @@
+﻿[LIBTR36]
+;0x0A20C567=Aisle Have Some of That!
+0x0A20C567=Aisle Have Some of That!
+
+;0x553979A6=Given that her first marriage lasted just two hours and her ex-husband walked away with over half a billion dollars, few were shocked when famous-for-being-rich celebutante Cloe Parker demanded that her former backing dancer and now fiancée sign an extensive pre-nuptial agreement. However, the pony-tailed backing dancer caught everybody by surprise when he responded yesterday with a dowry request for a staggering $3 million. "I've been in all the celebrity news lately and I'm as famous as she is right now - two can play at that game," he quipped in an interview on meTV last night, "I just want to get all this money stuff out of the way so I can focus on getting a reality TV show and blog made about my life."
+0x553979A6=Given that her first marriage lasted just two hours and her ex-husband walked away with over half a billion dollars, few were shocked when famous-for-being-rich celebutante Cloe Parker demanded that her former backing dancer and now fiancée sign an extensive pre-nuptial agreement. However, the pony-tailed backing dancer caught everybody by surprise when he responded yesterday with a dowry request for a staggering $3 million. "I've been in all the celebrity news lately and I'm as famous as she is right now - two can play at that game," he quipped in an interview on meTV last night, "I just want to get all this money stuff out of the way so I can focus on getting a reality TV show and blog made about my life."
+
+;0x59EB9ACD=Elizabeta Torres, a drug dealer from South Bohan, was handed a record prison sentence at the Civic Citadel yesterday. Liberty City Judge, Mitt Burrows, slapped her with a 300 year stretch for thirty counts of cocaine distribution. It is also believed that Torres murdered Bohan community leader, Manny Escuela, and documentary film maker, Jay Hamilton. They have been missing for several weeks but police cannot bring charges until their bodies are discovered. The District Attorney submitted hundreds of hours of surveillance audio in the trial. These tapes provided evidence of her working with international drug rings. The last tape before her arrest, played at her trial yesterday, features a heated conversation between her, a Jamaican man and an Eastern European man. Authorities have been unable to locate either of these individuals.
+0x59EB9ACD=Elizabeta Torres, a drug dealer from South Bohan, was handed a record prison sentence at the Civic Citadel yesterday. Liberty City Judge, Mitt Burrows, slapped her with a 300 year stretch for thirty counts of cocaine distribution. It is also believed that Torres murdered Bohan community leader, Manny Escuela, and documentary film maker, Jay Hamilton. They have been missing for several weeks but police cannot bring charges until their bodies are discovered. The District Attorney submitted hundreds of hours of surveillance audio in the trial. These tapes provided evidence of her working with international drug rings. The last tape before her arrest, played at her trial yesterday, features a heated conversation between her, a Jamaican man and an Eastern European man. Authorities have been unable to locate either of these individuals.
+
+;0x6F4B5720=Mary Williamson
+0x6F4B5720=Mary Williamson
+
+;0x75506041=Tony J Smith
+0x75506041=Tony J Smith
+
+;0x92180379=Is romance dead?
+0x92180379=Is romance dead?
+
+;0xBA1A2E01=Torres sentenced
+0xBA1A2E01=Torres sentenced
+
+;0xD275741C=The golden couple's relationship has been front-page news ever since Parker bought her lover a sperm whale for their first week anniversary. His lawyer told the Liberty Tree, "If the trend of female celebrities marrying good old-fashioned hard-working blue collar guys completely unaffected by fame and any of its trappings continues, we're going to see a lot more dowry deals on the table. They've always worked well in India." According to sources close to the couple, talks are underway to spin the controversy into a movie deal and musical.
+0xD275741C=The golden couple's relationship has been front-page news ever since Parker bought her lover a sperm whale for their first week anniversary. His lawyer told the Liberty Tree, "If the trend of female celebrities marrying good old-fashioned hard-working blue collar guys completely unaffected by fame and any of its trappings continues, we're going to see a lot more dowry deals on the table. They've always worked well in India." According to sources close to the couple, talks are underway to spin the controversy into a movie deal and musical.
+
+;0xF32153FC=300 Year Itch
+0xF32153FC=300 Year Itch
+
+;0xFD133BB7=History made as massive sentence is handed down
+0xFD133BB7=History made as massive sentence is handed down
+

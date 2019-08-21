@@ -1,0 +1,67 @@
+﻿[FAUST8]
+;0x02F68E19=~s~You can use free aim to shoot by lightly holding ~PAD_LT~.
+0x02F68E19=~s~You can use free aim to shoot by lightly holding ~PAD_LT~.
+
+;0x13C0453C=~s~Lose your wanted level.
+0x13C0453C=~s~Lose your wanted level.
+
+;0x2D99F9DB=~s~You can aim as normal when in cover by using ~INPUT_AIM~.
+0x2D99F9DB=~s~You can aim as normal when in cover by using ~INPUT_AIM~.
+
+;0x300FEB7F=~s~You can change the aiming sensitivity in the front end menu screen by going to the controls section and selecting Mouse Sensitivity.
+0x300FEB7F=~s~You can change the aiming sensitivity in the front end menu screen by going to the controls section and selecting Mouse Sensitivity.
+
+;0x39937B52=~s~The cops are here. Get Jacob back to the ~y~Homebrew Cafe.
+0x39937B52=~s~The cops are here. Get Jacob back to the ~y~Homebrew Cafe.
+
+;0x3D1C97F4=~s~You've left ~b~Little Jacob~s~ behind.
+0x3D1C97F4=~s~You've left ~b~Little Jacob~s~ behind.
+
+;0x41F821AB=~s~Wait for ~b~Little Jacob.
+0x41F821AB=~s~Wait for ~b~Little Jacob.
+
+;0x5B0B646C=~s~Use ~INPUT_AIM~ to aim.
+0x5B0B646C=~s~Use ~INPUT_AIM~ to aim.
+
+;0x6920DD9C=~s~When in cover, use ~PAD_LSTICK_LEFTRIGHT~ to move.
+0x6920DD9C=~s~When in cover, use ~PAD_LSTICK_LEFTRIGHT~ to move.
+
+;0x713E8373=~s~You can lock onto enemies as normal when in cover by pulling ~PAD_LT~.
+0x713E8373=~s~You can lock onto enemies as normal when in cover by pulling ~PAD_LT~.
+
+;0x79647E23=~s~When in cover, press ~INPUT_ATTACK~ to blind fire. Blind fire is less accurate than aimed fire.
+0x79647E23=~s~When in cover, press ~INPUT_ATTACK~ to blind fire. Blind fire is less accurate than aimed fire.
+
+;0x7AA100A0=~s~Press ~PAD_RSTICK_NONE~ to zoom-in when locked on.
+0x7AA100A0=~s~Press ~PAD_RSTICK_NONE~ to zoom-in when locked on.
+
+;0x8CDFA51D=~s~Press ~INPUT_COVER~ to take cover behind a vehicle when near one.
+0x8CDFA51D=~s~Press ~INPUT_COVER~ to take cover behind a vehicle when near one.
+
+;0x8F7BBFED=If you move to the limit of your cover position, you can shoot around it.
+0x8F7BBFED=If you move to the limit of your cover position, you can shoot around it.
+
+;0x97E4D0B7=~s~Take Little Jacob back to his ~y~cafe.
+0x97E4D0B7=~s~Take Little Jacob back to his ~y~cafe.
+
+;0xB1026D4E=~s~Meet ~b~Little Jacob ~s~in East Hook.
+0xB1026D4E=~s~Meet ~b~Little Jacob ~s~in East Hook.
+
+;0xB2346FC6=Sustained firing of your weapon will cause recoil and bullets will spread inaccurately. The aiming reticule will grow larger to indicate this is happening.
+0xB2346FC6=Sustained firing of your weapon will cause recoil and bullets will spread inaccurately. The aiming reticule will grow larger to indicate this is happening.
+
+;0xCEF21DED=~s~Get back to ~b~Jacob.
+0xCEF21DED=~s~Get back to ~b~Jacob.
+
+;0xE1A26439=~r~Little Jacob is out of action.
+0xE1A26439=~r~Little Jacob is out of action.
+
+;0xE6DC5915=~s~Wipe out Bulgarin's ~r~men.
+0xE6DC5915=~s~Wipe out Bulgarin's ~r~men.
+
+;0xEDABC17F=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.
+0xEDABC17F=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.
+
+;0xF028013C=~s~Little Jacob is taking damage.
+0xF028013C=~s~Little Jacob is taking damage.
+

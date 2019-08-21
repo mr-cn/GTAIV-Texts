@@ -1,0 +1,31 @@
+﻿[WI_BR3]
+;0x093B07B1=~r~Brian was abandoned.~s~
+0x093B07B1=~r~Brian was abandoned.~s~
+
+;0x286EC600=You left ~b~Brian~s~ behind.
+0x286EC600=You left ~b~Brian~s~ behind.
+
+;0x3416DD68=Get a vehicle.
+0x3416DD68=Get a vehicle.
+
+;0x3672E220=Pick ~b~Brian~s~ up.
+0x3672E220=Pick ~b~Brian~s~ up.
+
+;0x3F7EE30F=~r~The deal was disrupted by police presence.~s~
+0x3F7EE30F=~r~The deal was disrupted by police presence.~s~
+
+;0x623239A2=Take out the ~r~dealers~s~ attacking Brian.
+0x623239A2=Take out the ~r~dealers~s~ attacking Brian.
+
+;0x75694EE3=Take Brian ~y~home~s~.
+0x75694EE3=Take Brian ~y~home~s~.
+
+;0x7DDDF0F9=Lose your wanted level.
+0x7DDDF0F9=Lose your wanted level.
+
+;0xB3FC5D35=~r~The deal was disrupted.~s~
+0xB3FC5D35=~r~The deal was disrupted.~s~
+
+;0xD683A22B=Take Brian to his ~y~dealer.
+0xD683A22B=Take Brian to his ~y~dealer.
+

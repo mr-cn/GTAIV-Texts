@@ -1,0 +1,19 @@
+﻿[DWAYNE3]
+;0x2036604B=Take out the three strip club managers.
+0x2036604B=Take out the three strip club managers.
+
+;0x31A0031E=Go to the ~y~strip club.
+0x31A0031E=Go to the ~y~strip club.
+
+;0x68ABF135=Locate the managers by listening in on conversations.
+0x68ABF135=Locate the managers by listening in on conversations.
+
+;0x7B599690=The ~R~manager~s~ is trying to escape.
+0x7B599690=The ~R~manager~s~ is trying to escape.
+
+;0x8D9ABB12=~r~The target escaped.
+0x8D9ABB12=~r~The target escaped.
+
+;0x9FED5FB7=The ~R~managers~s~ are trying to escape.
+0x9FED5FB7=The ~R~managers~s~ are trying to escape.
+

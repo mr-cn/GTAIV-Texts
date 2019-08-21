@@ -1,0 +1,52 @@
+﻿[EBK2]
+;0x06CE953C=Thanks For shopping with us
+0x06CE953C=Thanks For shopping with us
+
+;0x226104EB=Hello Customer
+0x226104EB=Hello Customer
+
+;0x37A19080=We are pleased to inform you that your new Toshi C6000 phone has arrived at our store in South Bohan. At your soonest convenience please come in to pick it up from one of our friendly service staff. Thank you for doing business with us and remember that it is our pleasure to Tinkle in your ear.
+0x37A19080=We are pleased to inform you that your new Toshi C6000 phone has arrived at our store in South Bohan. At your soonest convenience please come in to pick it up from one of our friendly service staff. Thank you for doing business with us and remember that it is our pleasure to Tinkle in your ear.
+
+;0x4C78A08F=Thanks For shopping with us
+0x4C78A08F=Thanks For shopping with us
+
+;0x6235CC09=Thanks For shopping with us
+0x6235CC09=Thanks For shopping with us
+
+;0x62840534=Hello Customer
+0x62840534=Hello Customer
+
+;0x710B69B4=Thanks For shopping with us
+0x710B69B4=Thanks For shopping with us
+
+;0x740E2848=Hello Customer
+0x740E2848=Hello Customer
+
+;0x877E4F28=Hello Customer
+0x877E4F28=Hello Customer
+
+;0x87B016FD=Thanks For shopping with us
+0x87B016FD=Thanks For shopping with us
+
+;0x956AB272=Thanks For shopping with us
+0x956AB272=Thanks For shopping with us
+
+;0xA40B0841=Hello Customer
+0xA40B0841=Hello Customer
+
+;0xABF4DF86=Thanks For shopping with us
+0xABF4DF86=Thanks For shopping with us
+
+;0xB9B87B0D=Thanks For shopping with us
+0xB9B87B0D=Thanks For shopping with us
+
+;0xB9EA33FF=Hello Customer
+0xB9EA33FF=Hello Customer
+
+;0xCB88D73C=Hello Customer
+0xCB88D73C=Hello Customer
+
+;0xDD3AFAA0=Hello Customer
+0xDD3AFAA0=Hello Customer
+

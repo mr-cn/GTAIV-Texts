@@ -1,0 +1,115 @@
+﻿[GUNINTR]
+;0x0841107C=Use ~PAD_RSTICK_DOWN~ while locked onto a target to focus your aim on his leg.
+0x0841107C=Use ~PAD_RSTICK_DOWN~ while locked onto a target to focus your aim on his leg.
+
+;0x146149AC=Use ~PAD_RSTICK_UP~ while locked onto a target to focus your aim on his leg.
+0x146149AC=Use ~PAD_RSTICK_UP~ while locked onto a target to focus your aim on his leg.
+
+;0x190F2703=~r~You left Dimitri in the shop.~s~
+0x190F2703=~r~You left Dimitri in the shop.~s~
+
+;0x22F366D0=With ~INPUT_AIM~ held down halfway, use ~PAD_RSTICK_ALL~ to ~h~free aim.
+0x22F366D0=With ~INPUT_AIM~ held down halfway, use ~PAD_RSTICK_ALL~ to ~h~free aim.
+
+;0x266EF18D=Take Dimitri to the ~y~sex shop~s~ on Delaware Avenue.
+0x266EF18D=Take Dimitri to the ~y~sex shop~s~ on Delaware Avenue.
+
+;0x28237882=Go get ~b~Dimitri~s~ and bring him back to Faustin's house.
+0x28237882=Go get ~b~Dimitri~s~ and bring him back to Faustin's house.
+
+;0x2A22DC6C=~s~Lose your wanted level.
+0x2A22DC6C=~s~Lose your wanted level.
+
+;0x2DBB505B=~r~The porn shop guys were injured.~s~
+0x2DBB505B=~r~The porn shop guys were injured.~s~
+
+;0x344DD291=Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to ~h~aim.
+0x344DD291=Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to ~h~aim.
+
+;0x3B0423F3=Follow ~b~Dimitri~s~ out of the shop.
+0x3B0423F3=Follow ~b~Dimitri~s~ out of the shop.
+
+;0x51975F72=Use ~PAD_RSTICK_ALL~ while aiming to focus your aim on his leg.
+0x51975F72=Use ~PAD_RSTICK_ALL~ while aiming to focus your aim on his leg.
+
+;0x58785130=Don't leave ~b~Dimitri~s~ in the shop.
+0x58785130=Don't leave ~b~Dimitri~s~ in the shop.
+
+;0x672656FF=~s~You left ~b~Dimitri~s~ behind.
+0x672656FF=~s~You left ~b~Dimitri~s~ behind.
+
+;0x6743F74E=Injure the Joseph's associates, not Joseph.
+0x6743F74E=Injure the Joseph's associates, not Joseph.
+
+;0x7252BB15=~s~Lose your wanted level.
+0x7252BB15=~s~Lose your wanted level.
+
+;0x76F414CA=Go with Dimitri to the ~y~gun store.
+0x76F414CA=Go with Dimitri to the ~y~gun store.
+
+;0x8C4B4340=With ~INPUT_ATTACK~ held, use ~INPUT_AIM~ and the ~PAD_RSTICK_ALL~ to free aim while firing.
+0x8C4B4340=With ~INPUT_ATTACK~ held, use ~INPUT_AIM~ and the ~PAD_RSTICK_ALL~ to free aim while firing.
+
+;0x8E7BFE06=Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at targets.
+0x8E7BFE06=Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at targets.
+
+;0x90DB4AC8=Head into the ~y~gun store.
+0x90DB4AC8=Head into the ~y~gun store.
+
+;0x987FDA09=Dimitri is dead.
+0x987FDA09=Dimitri is dead.
+
+;0x9A92DBAB=Hold ~INPUT_AIM~ to lock onto a target.
+0x9A92DBAB=Hold ~INPUT_AIM~ to lock onto a target.
+
+;0x9D3764D8=Placeholder for MOCAP cutscene.
+0x9D3764D8=Placeholder for MOCAP cutscene.
+
+;0xA029E965=Purchase a ~g~Micro SMG.
+0xA029E965=Purchase a ~g~Micro SMG.
+
+;0xA08BE9D9=Get back to ~b~Dimitri.
+0xA08BE9D9=Get back to ~b~Dimitri.
+
+;0xA4103D03=~r~You were supposed to shoot him in the leg.~s~
+0xA4103D03=~r~You were supposed to shoot him in the leg.~s~
+
+;0xAEF87EDC=With ~PAD_LB~ held, use the ~PAD_RSTICK_ALL~ free aim while firing.
+0xAEF87EDC=With ~PAD_LB~ held, use the ~PAD_RSTICK_ALL~ free aim while firing.
+
+;0xB8009A7A=Target the ~r~guy~s~ in the middle.
+0xB8009A7A=Target the ~r~guy~s~ in the middle.
+
+;0xBF5A1C2C=Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at a target.
+0xBF5A1C2C=Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at a target.
+
+;0xCA2E3ED5=Target ~r~Joseph~s~ to intimidate him.
+0xCA2E3ED5=Target ~r~Joseph~s~ to intimidate him.
+
+;0xCAE6BCC2=Use ~PAD_RSTICK_LEFTRIGHT~ while locked on to aim at targets to the left and right of the current target.
+0xCAE6BCC2=Use ~PAD_RSTICK_LEFTRIGHT~ while locked on to aim at targets to the left and right of the current target.
+
+;0xCDB7C5E8=Shoot the ~r~porn actor~s~ in the leg.
+0xCDB7C5E8=Shoot the ~r~porn actor~s~ in the leg.
+
+;0xCE6591B1=~r~All of your ammo was wasted.~s~
+0xCE6591B1=~r~All of your ammo was wasted.~s~
+
+;0xD556865B=Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to focus your aim on his leg.
+0xD556865B=Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to focus your aim on his leg.
+
+;0xE00434EE=~r~Dimitri is dead.~s~
+0xE00434EE=~r~Dimitri is dead.~s~
+
+;0xE54F717F=Visit the Gun Store whenever you need guns and ammo.
+0xE54F717F=Visit the Gun Store whenever you need guns and ammo.
+
+;0xE96A7865=Enter the ~y~shop.
+0xE96A7865=Enter the ~y~shop.
+
+;0xF5B09429=Take Dimitri to ~y~Faustin's house.
+0xF5B09429=Take Dimitri to ~y~Faustin's house.
+
+;0xFFF774D4=~r~The gun shop worker was injured.~s~
+0xFFF774D4=~r~The gun shop worker was injured.~s~
+

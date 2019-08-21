@@ -1,0 +1,103 @@
+﻿[CIA5]
+;0x0035E5EC=Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude.
+0x0035E5EC=Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude.
+
+;0x0AC0095A=Hold ~INPUT_VEH_CIN_CAM~ while in a vehicle to focus on the target chopper.
+0x0AC0095A=Hold ~INPUT_VEH_CIN_CAM~ while in a vehicle to focus on the target chopper.
+
+;0x157DAB2E=~r~The helicopter got away.~s~
+0x157DAB2E=~r~The helicopter got away.~s~
+
+;0x3167FFB9=Let the ~r~helicopter~s~ land, then move in to take it.
+0x3167FFB9=Let the ~r~helicopter~s~ land, then move in to take it.
+
+;0x3A19A793=Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to descend.
+0x3A19A793=Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to descend.
+
+;0x3C3B47F2=The helicopter got away.
+0x3C3B47F2=The helicopter got away.
+
+;0x4BD2CB05=Use ~PAD_LSTICK_ALL~ to steady the helicopter.
+0x4BD2CB05=Use ~PAD_LSTICK_ALL~ to steady the helicopter.
+
+;0x58494A6D=Press ~INPUT_ENTER~ to enter the helicopter.
+0x58494A6D=Press ~INPUT_ENTER~ to enter the helicopter.
+
+;0x5C44B765=Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to descend.
+0x5C44B765=Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to descend.
+
+;0x5C946C88=Press ~INPUT_VEH_FLY_YAW_LEFT~ and ~INPUT_VEH_FLY_YAW_RIGHT~ to line up the landing.
+0x5C946C88=Press ~INPUT_VEH_FLY_YAW_LEFT~ and ~INPUT_VEH_FLY_YAW_RIGHT~ to line up the landing.
+
+;0x69E70BC9=Use ~PAD_SIXAXIS_ROLL~ to bank the helicopter in the direction you wish to move.
+0x69E70BC9=Use ~PAD_SIXAXIS_ROLL~ to bank the helicopter in the direction you wish to move.
+
+;0x6AF254C0=Use ~PAD_SIXAXIS_ROLL~ and ~PAD_SIXAXIS_DRIVE~ to steady the helicopter.
+0x6AF254C0=Use ~PAD_SIXAXIS_ROLL~ and ~PAD_SIXAXIS_DRIVE~ to steady the helicopter.
+
+;0x717E8947=Follow the ~r~helicopter.
+0x717E8947=Follow the ~r~helicopter.
+
+;0x752BFD9B=The helicopter was destroyed.
+0x752BFD9B=The helicopter was destroyed.
+
+;0x76B36B6E=Use ~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~ to steady the helicopter.
+0x76B36B6E=Use ~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~ to steady the helicopter.
+
+;0x83652D14=Fly to the ~y~dropoff point~s~ on the south side of the Airport.
+0x83652D14=Fly to the ~y~dropoff point~s~ on the south side of the Airport.
+
+;0x91430808=Use ~PAD_LSTICK_ALL~ to bank the helicopter in the direction you wish to move.
+0x91430808=Use ~PAD_LSTICK_ALL~ to bank the helicopter in the direction you wish to move.
+
+;0x966D894A=~r~The helicopter was destroyed.~s~
+0x966D894A=~r~The helicopter was destroyed.~s~
+
+;0x9EECE423=Get a vehicle and go to the ~y~Civilization Plaza.
+0x9EECE423=Get a vehicle and go to the ~y~Civilization Plaza.
+
+;0x9F22DEA0=Use ~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~ to bank the helicopter in the direction you wish to move.
+0x9F22DEA0=Use ~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~ to bank the helicopter in the direction you wish to move.
+
+;0xA382AC87=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the helicopter left or right.
+0xA382AC87=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the helicopter left or right.
+
+;0xA6DBE5BE=Land the helicopter next to the Cargo Yard.
+0xA6DBE5BE=Land the helicopter next to the Cargo Yard.
+
+;0xB15A1AB2=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the helicopter left or right.
+0xB15A1AB2=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the helicopter left or right.
+
+;0xB6F90A34=~r~The target was spooked.~s~
+0xB6F90A34=~r~The target was spooked.~s~
+
+;0xBBA2B403=Leave the helicopter.
+0xBBA2B403=Leave the helicopter.
+
+;0xCAC91778=Get a vehicle.
+0xCAC91778=Get a vehicle.
+
+;0xD624D292=The meeting has finished. Take the ~b~helicopter~s~ before it takes off.
+0xD624D292=The meeting has finished. Take the ~b~helicopter~s~ before it takes off.
+
+;0xD788E70F=Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude.
+0xD788E70F=Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude.
+
+;0xD8EEDCFD=Take the ~b~helicopter.~s~
+0xD8EEDCFD=Take the ~b~helicopter.~s~
+
+;0xDB535CF7=Fly to the ~y~dropoff point.
+0xDB535CF7=Fly to the ~y~dropoff point.
+
+;0xE7EA761D=The helicopter is leaving, track it to its destination.
+0xE7EA761D=The helicopter is leaving, track it to its destination.
+
+;0xECA0581E=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to line up the landing.
+0xECA0581E=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to line up the landing.
+
+;0xED11F829=You're losing the ~r~helicopter.~s~
+0xED11F829=You're losing the ~r~helicopter.~s~
+
+;0xFE578F16=Get back in the ~b~helicopter.
+0xFE578F16=Get back in the ~b~helicopter.
+

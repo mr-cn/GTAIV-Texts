@@ -1,0 +1,289 @@
+﻿[FIN1BAU]
+;0x06FA3B9F=FIN1B_QC
+0x06FA3B9F=FIN1B_QC
+
+;0x0A7BEF7D=200
+0x0A7BEF7D=200
+
+;0x0E468156=~z~Hey, you ain't got no business here.
+0x0E468156=~z~Hey, you ain't got no business here.
+
+;0x11F48FF1=~z~We have other business to finish.
+0x11F48FF1=~z~We have other business to finish.
+
+;0x129BD473=FIN1B_ID
+0x129BD473=FIN1B_ID
+
+;0x12AAF8C4=~z~You don't need to do this.
+0x12AAF8C4=~z~You don't need to do this.
+
+;0x1384E6F9=FIN1B_IE
+0x1384E6F9=FIN1B_IE
+
+;0x145593F0=~z~I'll be there Roman, don't worry.
+0x145593F0=~z~I'll be there Roman, don't worry.
+
+;0x176198DE=FIN1B_KA
+0x176198DE=FIN1B_KA
+
+;0x1E3E8FE7=~z~I didn't mean nothing. Please.
+0x1E3E8FE7=~z~I didn't mean nothing. Please.
+
+;0x23CC2D97=FIN1D_VA_XXX1
+0x23CC2D97=FIN1D_VA_XXX1
+
+;0x2402B40D=~z~Hey Dimitri, I don't think I'll be doing this deal with you.
+0x2402B40D=~z~Hey Dimitri, I don't think I'll be doing this deal with you.
+
+;0x2584364D=~z~I will see you at the wedding, yes? Remember to wear a suit.
+0x2584364D=~z~I will see you at the wedding, yes? Remember to wear a suit.
+
+;0x27CFA309=~z~It was a long time ago that I pissed you off. Forget about it.
+0x27CFA309=~z~It was a long time ago that I pissed you off. Forget about it.
+
+;0x2B907CC6=~z~We have intruder, lock down cargo hold.
+0x2B907CC6=~z~We have intruder, lock down cargo hold.
+
+;0x2C3EBD46=~z~You don't belong here, Slav.
+0x2C3EBD46=~z~You don't belong here, Slav.
+
+;0x2D7346EE=~z~America does not change everyone.
+0x2D7346EE=~z~America does not change everyone.
+
+;0x3A425DF4=FIN1B_IA
+0x3A425DF4=FIN1B_IA
+
+;0x3C7E2B73=490
+0x3C7E2B73=490
+
+;0x3E151539=~z~I told you to piss off.
+0x3E151539=~z~I told you to piss off.
+
+;0x3FB66B74=~z~Niko, it's been a long time. I thought your time in America might have calmed you down.
+0x3FB66B74=~z~Niko, it's been a long time. I thought your time in America might have calmed you down.
+
+;0x41CBD346=590
+0x41CBD346=590
+
+;0x4AEAD1D8=FIN1B_IH
+0x4AEAD1D8=FIN1B_IH
+
+;0x4B1E8244=~z~That is what you will be when you die here.
+0x4B1E8244=~z~That is what you will be when you die here.
+
+;0x4B746A52=~z~Go easy on me. We were friends, remember?
+0x4B746A52=~z~Go easy on me. We were friends, remember?
+
+;0x4D1C16F6=~z~~c~Stupid motherfucker.
+0x4D1C16F6=~z~~c~Stupid motherfucker.
+
+;0x4DD55A1E=490
+0x4DD55A1E=490
+
+;0x4ECED033=~z~Your ship has sailed, Rascalov.
+0x4ECED033=~z~Your ship has sailed, Rascalov.
+
+;0x4FA773A0=~z~Don't do it.
+0x4FA773A0=~z~Don't do it.
+
+;0x4FF438F7=~z~Dimitri say I have to kill you now, too bad.
+0x4FF438F7=~z~Dimitri say I have to kill you now, too bad.
+
+;0x50C65EEF=FIN1B_IG
+0x50C65EEF=FIN1B_IG
+
+;0x52000F48=~z~I guess you did what you felt you had to do. No deal, no money, no hot tubs and models.
+0x52000F48=~z~I guess you did what you felt you had to do. No deal, no money, no hot tubs and models.
+
+;0x5D7A26FB=~z~Look at you, you arrived in this country a spineless rat who would sell out his friends.
+0x5D7A26FB=~z~Look at you, you arrived in this country a spineless rat who would sell out his friends.
+
+;0x5D8F4290=FIN1B_NC
+0x5D8F4290=FIN1B_NC
+
+;0x614DADE3=~z~So it seems it ends where it began.
+0x614DADE3=~z~So it seems it ends where it began.
+
+;0x61A9DC62=~z~You should have listened you dumb Slav, now you dead.
+0x61A9DC62=~z~You should have listened you dumb Slav, now you dead.
+
+;0x6412341B=~z~~c~Get all of the heroin packed. We're shipping it tonight.
+0x6412341B=~z~~c~Get all of the heroin packed. We're shipping it tonight.
+
+;0x670DB2EB=~z~Get out of here, we don't need no more hands.
+0x670DB2EB=~z~Get out of here, we don't need no more hands.
+
+;0x703296CE=~z~Dimtri, where are you, you rat?
+0x703296CE=~z~Dimtri, where are you, you rat?
+
+;0x78DFDDC6=~z~~c~Shut up this Balkan cock sucker.
+0x78DFDDC6=~z~~c~Shut up this Balkan cock sucker.
+
+;0x7A59F171=~z~You're the one who's going to learn a lesson. People aren't going to be happy if you kill me.
+0x7A59F171=~z~You're the one who's going to learn a lesson. People aren't going to be happy if you kill me.
+
+;0x7CD7DE7F=~z~I got orders that says you don't come on this ship.
+0x7CD7DE7F=~z~I got orders that says you don't come on this ship.
+
+;0x7ECAE8DD=~z~But Dimitri will not bother you again.
+0x7ECAE8DD=~z~But Dimitri will not bother you again.
+
+;0x8108B4A6=~z~I have been looking forward to killing you for so long, Rascalov.
+0x8108B4A6=~z~I have been looking forward to killing you for so long, Rascalov.
+
+;0x856E37BE=FIN1B_JA
+0x856E37BE=FIN1B_JA
+
+;0x857D87B8=~z~You're about to learn a lesson, actions have consequences.
+0x857D87B8=~z~You're about to learn a lesson, actions have consequences.
+
+;0x87F8C286=~z~Come on Dimtri, I'm here to end this.
+0x87F8C286=~z~Come on Dimtri, I'm here to end this.
+
+;0x8860F591=~z~Dimitri don't want to see you.
+0x8860F591=~z~Dimitri don't want to see you.
+
+;0x8A64A321=FIN1B_OA
+0x8A64A321=FIN1B_OA
+
+;0x8B03C6E5=FIN1B_IB
+0x8B03C6E5=FIN1B_IB
+
+;0x8E84D63F=010010010100100010
+0x8E84D63F=010010010100100010
+
+;0x90DCAA0A=FIN1B_NB
+0x90DCAA0A=FIN1B_NB
+
+;0x9213178C=~z~A man is on the boat, watch for him.
+0x9213178C=~z~A man is on the boat, watch for him.
+
+;0x92D00C02=~z~We must stop him from getting into the hold.
+0x92D00C02=~z~We must stop him from getting into the hold.
+
+;0x9ADED233=100010010100010010010100
+0x9ADED233=100010010100010010010100
+
+;0x9B5A0BCC=~z~You're fucking a lot of people over by killing me.
+0x9B5A0BCC=~z~You're fucking a lot of people over by killing me.
+
+;0x9D234171=FIN1B_PA
+0x9D234171=FIN1B_PA
+
+;0x9DC8C862=FIN1B_NF
+0x9DC8C862=FIN1B_NF
+
+;0x9DFEB8BA=~z~I've never been popular. I don't mean to start now.
+0x9DFEB8BA=~z~I've never been popular. I don't mean to start now.
+
+;0x9E42EF1A=~z~I would never have trusted you again, you snake.
+0x9E42EF1A=~z~I would never have trusted you again, you snake.
+
+;0xA2A69FF9=092
+0xA2A69FF9=092
+
+;0xA93838D6=~z~He is going for Dimitri.
+0xA93838D6=~z~He is going for Dimitri.
+
+;0xA9714F9F=~z~Shame that'll be the second last thing that goes into your head. Goodbye.
+0xA9714F9F=~z~Shame that'll be the second last thing that goes into your head. Goodbye.
+
+;0xAA604007=~z~I killed Dimitri, it's over. He was on the Platypus, the boat I arrived in Liberty City on.
+0xAA604007=~z~I killed Dimitri, it's over. He was on the Platypus, the boat I arrived in Liberty City on.
+
+;0xAAF1C846=100
+0xAAF1C846=100
+
+;0xAC150141=FIN1B_LA
+0xAC150141=FIN1B_LA
+
+;0xAC748CF1=FIN1B_QE
+0xAC748CF1=FIN1B_QE
+
+;0xAC94AE41=~z~Think about Pegorino, he's got nothing without this deal.
+0xAC94AE41=~z~Think about Pegorino, he's got nothing without this deal.
+
+;0xAE8202AB=~z~Secure the cargo hold. There is an unknown on the ship.
+0xAE8202AB=~z~Secure the cargo hold. There is an unknown on the ship.
+
+;0xB27E270E=010010100100100010
+0xB27E270E=010010100100100010
+
+;0xB4A51963=FIN1B_IC
+0xB4A51963=FIN1B_IC
+
+;0xB88FDBB5=~z~I should have put you out of your misery a long time ago. Goodbye, Dimitri.
+0xB88FDBB5=~z~I should have put you out of your misery a long time ago. Goodbye, Dimitri.
+
+;0xBB65DD31=~z~Protect Dimitri and the heroin.
+0xBB65DD31=~z~Protect Dimitri and the heroin.
+
+;0xBC3A26F0=FIN1B_QD
+0xBC3A26F0=FIN1B_QD
+
+;0xBC7C29D0=FIN1B_QB
+0xBC7C29D0=FIN1B_QB
+
+;0xBE6AF03B=~z~We have intruder on the ship, beware.
+0xBE6AF03B=~z~We have intruder on the ship, beware.
+
+;0xC017A5D6=~z~The shipment must be protected, lock down cargo hold.
+0xC017A5D6=~z~The shipment must be protected, lock down cargo hold.
+
+;0xC0C43BD4=FIN1B_MA
+0xC0C43BD4=FIN1B_MA
+
+;0xC1928CAD=FIN1B_NA
+0xC1928CAD=FIN1B_NA
+
+;0xC61B4AE7=FIN1B_IF
+0xC61B4AE7=FIN1B_IF
+
+;0xC70DC530=FIN1B_RA
+0xC70DC530=FIN1B_RA
+
+;0xD2D6CB54=~z~Secure the hold, secure cargo hold. Enter lock down.
+0xD2D6CB54=~z~Secure the hold, secure cargo hold. Enter lock down.
+
+;0xD5A05802=090
+0xD5A05802=090
+
+;0xD6D42A64=~z~You screwed me over, now you're paying for it.
+0xD6D42A64=~z~You screwed me over, now you're paying for it.
+
+;0xDC0BD124=~z~You had the warning, now you get the bullets.
+0xDC0BD124=~z~You had the warning, now you get the bullets.
+
+;0xE2AB53D2=FIN1B_NE
+0xE2AB53D2=FIN1B_NE
+
+;0xE3117622=FIN1B_QA
+0xE3117622=FIN1B_QA
+
+;0xE5211DB1=~z~Hey, come on, we got history.
+0xE5211DB1=~z~Hey, come on, we got history.
+
+;0xE6265BA8=FIN1B_ND
+0xE6265BA8=FIN1B_ND
+
+;0xE71F03BD=FIN1B_QF
+0xE71F03BD=FIN1B_QF
+
+;0xEDC04EE5=~z~There is an intruder on the ship.
+0xEDC04EE5=~z~There is an intruder on the ship.
+
+;0xEE5E75C9=~z~I promised myself I wouldn't kill nobody today. By coming on ship, you have made me break promise!
+0xEE5E75C9=~z~I promised myself I wouldn't kill nobody today. By coming on ship, you have made me break promise!
+
+;0xEED8311F=~z~Niko, it's not too late, we can work this out!
+0xEED8311F=~z~Niko, it's not too late, we can work this out!
+
+;0xF5561052=~z~Secure the shipment, lock down the cargo hold.
+0xF5561052=~z~Secure the shipment, lock down the cargo hold.
+
+;0xF6BEC0EC=~z~It was never my idea to set you up.
+0xF6BEC0EC=~z~It was never my idea to set you up.
+
+;0xFCFAB18D=200
+0xFCFAB18D=200
+

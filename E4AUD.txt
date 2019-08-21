@@ -1,0 +1,250 @@
+﻿[E4AUD]
+;0x00E9B8CD=~z~Had a few problems with sick bodies.
+0x00E9B8CD=~z~Had a few problems with sick bodies.
+
+;0x036BEDB3=E4_EA
+0x036BEDB3=E4_EA
+
+;0x07561B83=~z~Shit, Jacob, I'm sorry. I'm already hanging out with two friends.
+0x07561B83=~z~Shit, Jacob, I'm sorry. I'm already hanging out with two friends.
+
+;0x07DDC6B9=~z~Of course, seems like a bullet in the head is as natural as it gets in this town.
+0x07DDC6B9=~z~Of course, seems like a bullet in the head is as natural as it gets in this town.
+
+;0x0C05FC0C=E4_BA
+0x0C05FC0C=E4_BA
+
+;0x0C7C687A=010100
+0x0C7C687A=010100
+
+;0x14757571=~z~Being tough in a man's world...
+0x14757571=~z~Being tough in a man's world...
+
+;0x157CDDE3=~z~Yo, Niko, what you doing here?
+0x157CDDE3=~z~Yo, Niko, what you doing here?
+
+;0x1613B8FE=~z~Wanna get some food?
+0x1613B8FE=~z~Wanna get some food?
+
+;0x16149ABF=100100010010010
+0x16149ABF=100100010010010
+
+;0x17A0E22B=~z~Can you help me clean this mess up?
+0x17A0E22B=~z~Can you help me clean this mess up?
+
+;0x198D5CAA=010100100
+0x198D5CAA=010100100
+
+;0x1992EA23=~z~Natural causes?
+0x1992EA23=~z~Natural causes?
+
+;0x1DBF083C=~z~So, my life is over!
+0x1DBF083C=~z~So, my life is over!
+
+;0x1DFA1744=~z~Well, at least you'll live on through your documentary.
+0x1DFA1744=~z~Well, at least you'll live on through your documentary.
+
+;0x2562832A=~z~Whatever.
+0x2562832A=~z~Whatever.
+
+;0x26CCBECC=E4_FA
+0x26CCBECC=E4_FA
+
+;0x28EDA983=E4_DB
+0x28EDA983=E4_DB
+
+;0x2C74B439=~z~Oops, we nearly lost you two.
+0x2C74B439=~z~Oops, we nearly lost you two.
+
+;0x2DE0C1BC=E4_EB
+0x2DE0C1BC=E4_EB
+
+;0x35CDA54C=~z~Elizabeta, something happened. The mess didn't get cleaned up. I have had to leave it pretty close to your apartment.
+0x35CDA54C=~z~Elizabeta, something happened. The mess didn't get cleaned up. I have had to leave it pretty close to your apartment.
+
+;0x379CD461=E4_BB
+0x379CD461=E4_BB
+
+;0x39BEAA76=~z~No.
+0x39BEAA76=~z~No.
+
+;0x39FD94BC=E4_CC
+0x39FD94BC=E4_CC
+
+;0x3B97AF94=~z~Open up, man.
+0x3B97AF94=~z~Open up, man.
+
+;0x3BB41509=E4_CB
+0x3BB41509=E4_CB
+
+;0x432EB946=~z~I am not in the mood for this right now.
+0x432EB946=~z~I am not in the mood for this right now.
+
+;0x43FF54BC=~z~All this work... for nothing, man.
+0x43FF54BC=~z~All this work... for nothing, man.
+
+;0x476AD0BF=~z~maybe he'll actually be doing it now.
+0x476AD0BF=~z~maybe he'll actually be doing it now.
+
+;0x5029D340=~z~-Rolling, rolling.~n~-What is this Manny? For fuck's sake.
+0x5029D340=~z~-Rolling, rolling.~n~-What is this Manny? For fuck's sake.
+
+;0x51E58C04=~z~The doctor has that stuff.
+0x51E58C04=~z~The doctor has that stuff.
+
+;0x53C82429=010100100
+0x53C82429=010100100
+
+;0x544703DD=~z~I wouldn't want the cops seeing you guys.
+0x544703DD=~z~I wouldn't want the cops seeing you guys.
+
+;0x55111348=E4_EC
+0x55111348=E4_EC
+
+;0x58B37350=~z~He'd been trying to help the streets his whole life...
+0x58B37350=~z~He'd been trying to help the streets his whole life...
+
+;0x5D66F1C6=~z~They weren't sick, were they?
+0x5D66F1C6=~z~They weren't sick, were they?
+
+;0x5EF4764D=~z~Not me.
+0x5EF4764D=~z~Not me.
+
+;0x63D68996=~z~They're gonna help a lot a folks.
+0x63D68996=~z~They're gonna help a lot a folks.
+
+;0x669D002A=~z~Hey, yo, Jay, you catching this?
+0x669D002A=~z~Hey, yo, Jay, you catching this?
+
+;0x68E10A2A=~z~Now, word up, bitch, you betta stop slinging that shit on my streets, yo.
+0x68E10A2A=~z~Now, word up, bitch, you betta stop slinging that shit on my streets, yo.
+
+;0x697D1FB7=~z~So? So? So... so I'm going to go to prison, for a long time!
+0x697D1FB7=~z~So? So? So... so I'm going to go to prison, for a long time!
+
+;0x6989B1E1=E4_ED
+0x6989B1E1=E4_ED
+
+;0x6C2D90BF=~z~Alright, man. This is what Manny's all about, man.
+0x6C2D90BF=~z~Alright, man. This is what Manny's all about, man.
+
+;0x7129A43C=~z~Sure. I'll have these organs out on the street in no time.
+0x7129A43C=~z~Sure. I'll have these organs out on the street in no time.
+
+;0x71F0CC1A=~z~The heat is closing in, Niko. This particular party is ending.
+0x71F0CC1A=~z~The heat is closing in, Niko. This particular party is ending.
+
+;0x79A13FFF=~z~So?
+0x79A13FFF=~z~So?
+
+;0x79AE4019=~z~The police are all over me. I can feel them.
+0x79AE4019=~z~The police are all over me. I can feel them.
+
+;0x7C9C8F32=~z~I couldn't get those things to the doctor.
+0x7C9C8F32=~z~I couldn't get those things to the doctor.
+
+;0x7EFAB0E5=~z~The streets have spoken. Now leave my people alone!
+0x7EFAB0E5=~z~The streets have spoken. Now leave my people alone!
+
+;0x81904509=~z~Fine. Can I leave you with these or what?
+0x81904509=~z~Fine. Can I leave you with these or what?
+
+;0x81D5BC0F=~z~Who is it?
+0x81D5BC0F=~z~Who is it?
+
+;0x877D1BCF=~z~I've kind of got my hands full looking after them.
+0x877D1BCF=~z~I've kind of got my hands full looking after them.
+
+;0x87C44948=~z~Shit, what are you doing? This ain't good. Come back to see me, yah?
+0x87C44948=~z~Shit, what are you doing? This ain't good. Come back to see me, yah?
+
+;0x897D6E49=~z~Shit, were you guys trying to make a break for it?
+0x897D6E49=~z~Shit, were you guys trying to make a break for it?
+
+;0x8C14E4E6=~z~Hey. Man, this is getting out of control.
+0x8C14E4E6=~z~Hey. Man, this is getting out of control.
+
+;0x8FDEE1A6=~z~And the price of eyes is through the roof at the moment.
+0x8FDEE1A6=~z~And the price of eyes is through the roof at the moment.
+
+;0x9291DC1F=~z~Know what I mean?
+0x9291DC1F=~z~Know what I mean?
+
+;0x978FE783=~z~It's the streets, man.
+0x978FE783=~z~It's the streets, man.
+
+;0x9A629013=~z~I can't believe I've got a genuine celebrity in the back of my car.
+0x9A629013=~z~I can't believe I've got a genuine celebrity in the back of my car.
+
+;0x9EFC69E1=090
+0x9EFC69E1=090
+
+;0xA9CA6069=~z~We should do something soon though.
+0xA9CA6069=~z~We should do something soon though.
+
+;0xAD86BD76=E4_EE
+0xAD86BD76=E4_EE
+
+;0xAE26F246=~z~I got enough on my plate to be worrying about this as well.
+0xAE26F246=~z~I got enough on my plate to be worrying about this as well.
+
+;0xB7AFA7C6=~z~We don't want it anymore.
+0xB7AFA7C6=~z~We don't want it anymore.
+
+;0xBC273A3A=~z~No.
+0xBC273A3A=~z~No.
+
+;0xBE063E04=~z~looks like the bullet went right through this one's eye.
+0xBE063E04=~z~looks like the bullet went right through this one's eye.
+
+;0xBFD44C30=~z~Jorge turned state's... everyone's a rat!
+0xBFD44C30=~z~Jorge turned state's... everyone's a rat!
+
+;0xC095E967=~z~Good, one less thing to bother me.
+0xC095E967=~z~Good, one less thing to bother me.
+
+;0xC4B32835=E4_CA
+0xC4B32835=E4_CA
+
+;0xCD03DBFF=~z~Shit...
+0xCD03DBFF=~z~Shit...
+
+;0xCDBF4E75=~z~There's a doctor in Broker who can help. Come on, let's put 'em in my car.
+0xCDBF4E75=~z~There's a doctor in Broker who can help. Come on, let's put 'em in my car.
+
+;0xD3A48292=~z~Hey, aren't you that guy from the TV?
+0xD3A48292=~z~Hey, aren't you that guy from the TV?
+
+;0xD71EC439=~z~You just missed out on a payday.
+0xD71EC439=~z~You just missed out on a payday.
+
+;0xDA240F41=E4_DA
+0xDA240F41=E4_DA
+
+;0xDB296EB9=~z~Manny... Manny, Manny, Manny.
+0xDB296EB9=~z~Manny... Manny, Manny, Manny.
+
+;0xDE62F528=~z~Okay. Hold on.
+0xDE62F528=~z~Okay. Hold on.
+
+;0xE1F1B7A4=E4_BC
+0xE1F1B7A4=E4_BC
+
+;0xE4485568=~z~Wha'gwan me brother, it's me, Jacob.
+0xE4485568=~z~Wha'gwan me brother, it's me, Jacob.
+
+;0xE9EA06BE=~z~Well he said he was going to bust a dealer...
+0xE9EA06BE=~z~Well he said he was going to bust a dealer...
+
+;0xEE1728B5=~z~I guess I wasn't so tough, huh?
+0xEE1728B5=~z~I guess I wasn't so tough, huh?
+
+;0xEF3A956F=~z~No one wants a liver if it's riddled with tumors, huh?
+0xEF3A956F=~z~No one wants a liver if it's riddled with tumors, huh?
+
+;0xF2A31C44=~z~I've heard you'll take care of them?
+0xF2A31C44=~z~I've heard you'll take care of them?
+
+;0xF61D2338=~z~I've got some bodies in here.
+0xF61D2338=~z~I've got some bodies in here.
+

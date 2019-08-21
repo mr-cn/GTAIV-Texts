@@ -1,0 +1,58 @@
+﻿[EBK19]
+;0x160A7063=Hey man, word up!
+0x160A7063=Hey man, word up!
+
+;0x1C1399D2=Peace and love, your man,
+0x1C1399D2=Peace and love, your man,
+
+;0x25D00FE2=Hey man, word up!
+0x25D00FE2=Hey man, word up!
+
+;0x2DD23D4F=Peace and love, your man,
+0x2DD23D4F=Peace and love, your man,
+
+;0x2FDCD456=Good to see you backing up the streets today, dog, and backing up what's right - my music is the message man, and i always like meeting cats from other countries who realize that shit. You did a good thing today dog when we wasted them fools - the world is too full of haters, and we liquidated some of them to good effect.
+0x2FDCD456=Good to see you backing up the streets today, dog, and backing up what's right - my music is the message man, and i always like meeting cats from other countries who realize that shit. You did a good thing today dog when we wasted them fools - the world is too full of haters, and we liquidated some of them to good effect.
+
+;0x321EA87F=Hey man, word up!
+0x321EA87F=Hey man, word up!
+
+;0x411CC687=Hey man, word up!
+0x411CC687=Hey man, word up!
+
+;0x4EDE620A=Hey man, word up!
+0x4EDE620A=Hey man, word up!
+
+;0x4F216284=Hey man, word up!
+0x4F216284=Hey man, word up!
+
+;0x74E74B1C=Peace and love, your man,
+0x74E74B1C=Peace and love, your man,
+
+;0x9B3097AE=Peace and love, your man,
+0x9B3097AE=Peace and love, your man,
+
+;0xA9843455=Peace and love, your man,
+0xA9843455=Peace and love, your man,
+
+;0xA9FEB9FA=I was just trying to help a man in need. Maybe the music thing ain't for you. - N
+0xA9FEB9FA=I was just trying to help a man in need. Maybe the music thing ain't for you. - N
+
+;0xB7D1D0F0=Peace and love, your man,
+0xB7D1D0F0=Peace and love, your man,
+
+;0xCEE2E215=Hey man, word up!
+0xCEE2E215=Hey man, word up!
+
+;0xD4E88FB5=You're right. We taught these people everything they need to know about finding a non violent path in this town. As you say, peace and love. Niko. PS if the music thing doesn't work out, you should try a career in politics. You seem cut out for it.
+0xD4E88FB5=You're right. We taught these people everything they need to know about finding a non violent path in this town. As you say, peace and love. Niko. PS if the music thing doesn't work out, you should try a career in politics. You seem cut out for it.
+
+;0xE6DF2F6A=Peace and love, your man,
+0xE6DF2F6A=Peace and love, your man,
+
+;0xECCC1DE7=Hey man, word up!
+0xECCC1DE7=Hey man, word up!
+
+;0xF031420E=Peace and love, your man,
+0xF031420E=Peace and love, your man,
+

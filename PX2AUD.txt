@@ -1,0 +1,301 @@
+﻿[PX2AUD]
+;0x031C91EA=~z~That's the oppressors limiting your mind.
+0x031C91EA=~z~That's the oppressors limiting your mind.
+
+;0x0B0F68CD=~z~Yeah big deal. Damn right! Until I discover, that same motherfucker?
+0x0B0F68CD=~z~Yeah big deal. Damn right! Until I discover, that same motherfucker?
+
+;0x0C7D75D6=~z~Yeah.
+0x0C7D75D6=~z~Yeah.
+
+;0x0D2792FD=PX2_CB
+0x0D2792FD=PX2_CB
+
+;0x1189E6AE=~z~Homie ain't too brolic, but he ain't scrawny neither.
+0x1189E6AE=~z~Homie ain't too brolic, but he ain't scrawny neither.
+
+;0x15ED487C=PX2_HA
+0x15ED487C=PX2_HA
+
+;0x17E2826F=~z~Some motherfucker's been calling me a phoney, calling me a snitch,
+0x17E2826F=~z~Some motherfucker's been calling me a phoney, calling me a snitch,
+
+;0x18D9BD64=~z~Ain't there something more elevated you can conversate on?
+0x18D9BD64=~z~Ain't there something more elevated you can conversate on?
+
+;0x1938E671=PX2_GB
+0x1938E671=PX2_GB
+
+;0x23746113=010100100
+0x23746113=010100100
+
+;0x2578F4B1=PX2_DB
+0x2578F4B1=PX2_DB
+
+;0x28525C55=~z~... and that's why the Penetrators ain't doin' nothing this season. They got no one who can work the lanes, man.
+0x28525C55=~z~... and that's why the Penetrators ain't doin' nothing this season. They got no one who can work the lanes, man.
+
+;0x2CD49D43=~z~I mean, he ain't too bummy, but he grimy too.
+0x2CD49D43=~z~I mean, he ain't too bummy, but he grimy too.
+
+;0x30564062=100010
+0x30564062=100010
+
+;0x31F1E02F=PX2_EA
+0x31F1E02F=PX2_EA
+
+;0x33879BE6=PX2_GC
+0x33879BE6=PX2_GC
+
+;0x39F6FF9E=~z~You conforming to stereotypes, cousin. All you talk about is the rap game and basketball game.
+0x39F6FF9E=~z~You conforming to stereotypes, cousin. All you talk about is the rap game and basketball game.
+
+;0x3A690086=~z~You 'bout as stereo fucking typical as they come.
+0x3A690086=~z~You 'bout as stereo fucking typical as they come.
+
+;0x3B413A1C=~z~Eh?
+0x3B413A1C=~z~Eh?
+
+;0x44353210=PX2_AC
+0x44353210=PX2_AC
+
+;0x448F14F7=~z~I shot at the guys by the courts.
+0x448F14F7=~z~I shot at the guys by the courts.
+
+;0x44E947EF=PX2_FA
+0x44E947EF=PX2_FA
+
+;0x46B150FC=~z~Well, son ain't too diesel or nothing, he a regular lookin' dude, nahmean?
+0x46B150FC=~z~Well, son ain't too diesel or nothing, he a regular lookin' dude, nahmean?
+
+;0x4A1766D8=~z~No...
+0x4A1766D8=~z~No...
+
+;0x4C497CE0=~z~For real... listen, G. Dwayne ain't the only thing I got on my mind...
+0x4C497CE0=~z~For real... listen, G. Dwayne ain't the only thing I got on my mind...
+
+;0x4EFB8248=~z~Give him time. He's just out of prison.
+0x4EFB8248=~z~Give him time. He's just out of prison.
+
+;0x4F9E428A=PX2_AL
+0x4F9E428A=PX2_AL
+
+;0x50DB2D6A=~z~My mind ain't trapped. I just like hearing cats spit rhymes and I know you like pushing rocks on the corner.
+0x50DB2D6A=~z~My mind ain't trapped. I just like hearing cats spit rhymes and I know you like pushing rocks on the corner.
+
+;0x542943D3=PX2_HB
+0x542943D3=PX2_HB
+
+;0x5696F0C7=~z~And he be stylin' on 'em a little, ya dig?
+0x5696F0C7=~z~And he be stylin' on 'em a little, ya dig?
+
+;0x58E3DE65=PX2_AA
+0x58E3DE65=PX2_AA
+
+;0x5DCC0C01=~z~And that's a little gift for you.
+0x5DCC0C01=~z~And that's a little gift for you.
+
+;0x61DBC836=PX2_EB
+0x61DBC836=PX2_EB
+
+;0x637452C1=~z~I didn't even tell you what Marlon looked like. Get it together and come see me.
+0x637452C1=~z~I didn't even tell you what Marlon looked like. Get it together and come see me.
+
+;0x6514E4FC=PX2_DA
+0x6514E4FC=PX2_DA
+
+;0x65BAAFC6=~z~Mostly?
+0x65BAAFC6=~z~Mostly?
+
+;0x660E0FB5=~z~but you can see it in his eye, that he a hustler.
+0x660E0FB5=~z~but you can see it in his eye, that he a hustler.
+
+;0x665ACB92=PX2_AG
+0x665ACB92=PX2_AG
+
+;0x6686D8C1=~z~What you talking about? You a drug dealing gang banger.
+0x6686D8C1=~z~What you talking about? You a drug dealing gang banger.
+
+;0x719690E0=100010
+0x719690E0=100010
+
+;0x72060D79=PX2_AB
+0x72060D79=PX2_AB
+
+;0x7219F00C=~z~What you doing, man? You not thinking.
+0x7219F00C=~z~What you doing, man? You not thinking.
+
+;0x7622FD02=100010
+0x7622FD02=100010
+
+;0x778D141B=PX2_AJ
+0x778D141B=PX2_AJ
+
+;0x7BA88869=130130
+0x7BA88869=130130
+
+;0x8076653D=~z~But whatever... we spoke about that shit already.
+0x8076653D=~z~But whatever... we spoke about that shit already.
+
+;0x81F31C47=~z~Who you eye ballin', fool?
+0x81F31C47=~z~Who you eye ballin', fool?
+
+;0x845B8519=010100100
+0x845B8519=010100100
+
+;0x86ADCED7=PX2_FB
+0x86ADCED7=PX2_FB
+
+;0x8A69390B=PX2_AF
+0x8A69390B=PX2_AF
+
+;0x8E91C438=PX2_AE
+0x8E91C438=PX2_AE
+
+;0x8FCC6331=~z~Now he don't flash his guap too much,
+0x8FCC6331=~z~Now he don't flash his guap too much,
+
+;0x91707349=~z~Here, take this, head down there, take a photo,
+0x91707349=~z~Here, take this, head down there, take a photo,
+
+;0x9365BF2C=~z~Peace out, cousins.
+0x9365BF2C=~z~Peace out, cousins.
+
+;0x9534D09E=PX2_AD
+0x9534D09E=PX2_AD
+
+;0x9623109E=~z~Well, mostly good.
+0x9623109E=~z~Well, mostly good.
+
+;0x982B0302=~z~Not bad. So, you need this guy silenced?
+0x982B0302=~z~Not bad. So, you need this guy silenced?
+
+;0x9EED498D=~z~So shut the fuck up.
+0x9EED498D=~z~So shut the fuck up.
+
+;0xA29A0F02=PX2_BA
+0xA29A0F02=PX2_BA
+
+;0xA6D19E0F=~z~Jesus.
+0xA6D19E0F=~z~Jesus.
+
+;0xA6DAA061=~z~Yeah. He hangs out with his team near the courts on Exeter between X and W.
+0xA6DAA061=~z~Yeah. He hangs out with his team near the courts on Exeter between X and W.
+
+;0xA72F7DC6=~z~Come see me when you can handle the shit I got for you to do.
+0xA72F7DC6=~z~Come see me when you can handle the shit I got for you to do.
+
+;0xABDC3C10=~z~Wassup, money?
+0xABDC3C10=~z~Wassup, money?
+
+;0xABF79FDE=~z~You the man, son. You money. You my ice-cold Slavic killer! See you soon.
+0xABF79FDE=~z~You the man, son. You money. You my ice-cold Slavic killer! See you soon.
+
+;0xAF8356F6=~z~Marlon's the one dressed like a damn canary. Wearing that yellow jacket and shit. Get rid of him.
+0xAF8356F6=~z~Marlon's the one dressed like a damn canary. Wearing that yellow jacket and shit. Get rid of him.
+
+;0xAFC4B66C=210120120120210210210210120
+0xAFC4B66C=210120120120210210210210120
+
+;0xB365CB23=~z~Yeah, Dwayne's been getting on my nerves... pushing me, man.
+0xB365CB23=~z~Yeah, Dwayne's been getting on my nerves... pushing me, man.
+
+;0xB5587663=~z~Whatever you say, fool. I'm free.
+0xB5587663=~z~Whatever you say, fool. I'm free.
+
+;0xB9D5C41B=~z~jewels, and he stay fresh with the clean sneakers, nahmean?
+0xB9D5C41B=~z~jewels, and he stay fresh with the clean sneakers, nahmean?
+
+;0xB9DAC421=~z~Fine.
+0xB9DAC421=~z~Fine.
+
+;0xBA139627=PX2_AK
+0xBA139627=PX2_AK
+
+;0xBDFF8766=~z~Sure.
+0xBDFF8766=~z~Sure.
+
+;0xBE1EC42C=~z~Marlon is dead.
+0xBE1EC42C=~z~Marlon is dead.
+
+;0xBF3E512C=~z~calling me all kinds of bullshit.
+0xBF3E512C=~z~calling me all kinds of bullshit.
+
+;0xC0085D3C=~z~My body is forced to rob and deal in order to sustain my own well bein' and that of my immediate family.
+0xC0085D3C=~z~My body is forced to rob and deal in order to sustain my own well bein' and that of my immediate family.
+
+;0xC246FE25=PX2_CA
+0xC246FE25=PX2_CA
+
+;0xC28D3481=~z~Your man got away.
+0xC28D3481=~z~Your man got away.
+
+;0xC2BB62A2=~z~Shit, Lieutenant, that's something I was forced into from the necessity of my financial situation.
+0xC2BB62A2=~z~Shit, Lieutenant, that's something I was forced into from the necessity of my financial situation.
+
+;0xC3C5DA37=~z~Okay. What does he look like?
+0xC3C5DA37=~z~Okay. What does he look like?
+
+;0xC55E88A8=PX2_AH
+0xC55E88A8=PX2_AH
+
+;0xC769F32B=~z~Chilling... s'all good.
+0xC769F32B=~z~Chilling... s'all good.
+
+;0xC84360F2=~z~send it to me, and I'll point out which one of them motherfuckers it is.
+0xC84360F2=~z~send it to me, and I'll point out which one of them motherfuckers it is.
+
+;0xD58537B6=210120
+0xD58537B6=210120
+
+;0xD6037EB6=~z~Big deal...
+0xD6037EB6=~z~Big deal...
+
+;0xD8C1A972=~z~I'll do it.
+0xD8C1A972=~z~I'll do it.
+
+;0xDA38FF33=PX2_BB
+0xDA38FF33=PX2_BB
+
+;0xDD066973=~z~I thought you was my boy, Niko? I thought you knew how to chase down them dollar bills?
+0xDD066973=~z~I thought you was my boy, Niko? I thought you knew how to chase down them dollar bills?
+
+;0xDE728D54=~z~Look. I need more than that to go on.
+0xDE728D54=~z~Look. I need more than that to go on.
+
+;0xE2478876=~z~So, he's the average one?
+0xE2478876=~z~So, he's the average one?
+
+;0xE6D61B82=PX2_FC
+0xE6D61B82=PX2_FC
+
+;0xE7E08A37=010100
+0xE7E08A37=010100
+
+;0xE8FF2EDA=~z~Money, Marlon's the man in blue. Ice that bitch.
+0xE8FF2EDA=~z~Money, Marlon's the man in blue. Ice that bitch.
+
+;0xEC3663D3=~z~Yo, money. Marlon's the one in the black jacket. Smoke him.
+0xEC3663D3=~z~Yo, money. Marlon's the one in the black jacket. Smoke him.
+
+;0xEC90298F=~z~And sometimes a bandana.
+0xEC90298F=~z~And sometimes a bandana.
+
+;0xEDAF16FA=PX2_GA
+0xEDAF16FA=PX2_GA
+
+;0xF18735BD=~z~Well... he's got some real loose lips.
+0xF18735BD=~z~Well... he's got some real loose lips.
+
+;0xF7F0B3C8=~z~Look. He's brown skinned, B.
+0xF7F0B3C8=~z~Look. He's brown skinned, B.
+
+;0xFA9F5995=~z~Not much, how are you?
+0xFA9F5995=~z~Not much, how are you?
+
+;0xFC2ACB04=~z~No?
+0xFC2ACB04=~z~No?
+
+;0xFED3418D=~z~Motherfucker be rockin' baggy clothes all that -
+0xFED3418D=~z~Motherfucker be rockin' baggy clothes all that -
+

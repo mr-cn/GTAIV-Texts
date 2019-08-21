@@ -1,0 +1,607 @@
+﻿[B3AUD]
+;0x008C01B6=~z~When you've taken care of something for me, call me on my cellular, but no specifics.
+0x008C01B6=~z~When you've taken care of something for me, call me on my cellular, but no specifics.
+
+;0x00A25E0F=B3_AD
+0x00A25E0F=B3_AD
+
+;0x00A70CBB=B3_VA
+0x00A70CBB=B3_VA
+
+;0x01FE3C98=~z~This is a down period, man. I haven't got anything for you.
+0x01FE3C98=~z~This is a down period, man. I haven't got anything for you.
+
+;0x0244390B=B3_TB
+0x0244390B=B3_TB
+
+;0x029A611F=B3_AE
+0x029A611F=B3_AE
+
+;0x03BC36C5=B3_BA
+0x03BC36C5=B3_BA
+
+;0x04D1C183=100100
+0x04D1C183=100100
+
+;0x04FBD982=~z~The target you require is on top of the Booth Tunnel.
+0x04FBD982=~z~The target you require is on top of the Booth Tunnel.
+
+;0x05B343CD=B3_A_DA
+0x05B343CD=B3_A_DA
+
+;0x086879A0=~z~Yes, brother.
+0x086879A0=~z~Yes, brother.
+
+;0x086C4283=B3_TA
+0x086C4283=B3_TA
+
+;0x09A49A50=~z~Hey, is there anything you need done?
+0x09A49A50=~z~Hey, is there anything you need done?
+
+;0x09B5208B=100100
+0x09B5208B=100100
+
+;0x0AFE761B=B3_GA
+0x0AFE761B=B3_GA
+
+;0x0BBF713A=B3_A_CB
+0x0BBF713A=B3_A_CB
+
+;0x0D0FF668=B3_JA
+0x0D0FF668=B3_JA
+
+;0x0E311CC8=~z~Just like everyone else in this city. What's your deal?
+0x0E311CC8=~z~Just like everyone else in this city. What's your deal?
+
+;0x125A4A07=100100
+0x125A4A07=100100
+
+;0x1273A585=~z~I get you.
+0x1273A585=~z~I get you.
+
+;0x12A3D67A=~z~The city is at rest for the time being.
+0x12A3D67A=~z~The city is at rest for the time being.
+
+;0x149878BF=~z~Go to Alderney City.
+0x149878BF=~z~Go to Alderney City.
+
+;0x154FAD63=B3_LB
+0x154FAD63=B3_LB
+
+;0x15C55F0D=~z~It's done, brother.
+0x15C55F0D=~z~It's done, brother.
+
+;0x166F8115=B3_A_KB
+0x166F8115=B3_A_KB
+
+;0x17540A91=B3_ZA
+0x17540A91=B3_ZA
+
+;0x175F4DE5=010
+0x175F4DE5=010
+
+;0x17ADB662=~z~I'm looking to earn some money, friend.
+0x17ADB662=~z~I'm looking to earn some money, friend.
+
+;0x1A290E2C=100100
+0x1A290E2C=100100
+
+;0x1A768B1B=B3_AB
+0x1A768B1B=B3_AB
+
+;0x1CBBA5F6=~z~Fill your day with something other than killing.
+0x1CBBA5F6=~z~Fill your day with something other than killing.
+
+;0x1FF4511F=~z~Contact me on the outside line for more jobs.
+0x1FF4511F=~z~Contact me on the outside line for more jobs.
+
+;0x23A347AC=~z~Niko Bellic, I know who you are, brother. You're after some money.
+0x23A347AC=~z~Niko Bellic, I know who you are, brother. You're after some money.
+
+;0x2402098F=100100
+0x2402098F=100100
+
+;0x249A8E00=~z~I understand. This is not the type of thing you want to develop a taste for.
+0x249A8E00=~z~I understand. This is not the type of thing you want to develop a taste for.
+
+;0x24A9FA86=~z~There's nothing on my desk, my brother.
+0x24A9FA86=~z~There's nothing on my desk, my brother.
+
+;0x24F753AF=B3_RB
+0x24F753AF=B3_RB
+
+;0x26005307=~z~Alright, man. You got any work for me?
+0x26005307=~z~Alright, man. You got any work for me?
+
+;0x2653F4F1=B3_A_FB
+0x2653F4F1=B3_A_FB
+
+;0x27C2B6F9=100100
+0x27C2B6F9=100100
+
+;0x2EE79224=B3_UB
+0x2EE79224=B3_UB
+
+;0x2F1BD5D4=~z~If you're in need of another file we can discuss it -
+0x2F1BD5D4=~z~If you're in need of another file we can discuss it -
+
+;0x31701666=~z~My end of this deal is complete.
+0x31701666=~z~My end of this deal is complete.
+
+;0x31B7E3D5=~z~I come to people like you when I need someone handled. Do you get me, brother?
+0x31B7E3D5=~z~I come to people like you when I need someone handled. Do you get me, brother?
+
+;0x327129AD=~z~A man loses taste for this kind of work after a time. I can't run that risk with a partner.
+0x327129AD=~z~A man loses taste for this kind of work after a time. I can't run that risk with a partner.
+
+;0x3492790E=~z~The turkey flew the nest before we could have our thanksgiving dinner, brother. I hate to disappoint.
+0x3492790E=~z~The turkey flew the nest before we could have our thanksgiving dinner, brother. I hate to disappoint.
+
+;0x37434F51=~z~It's three men, they've been lured to an old building in Alderney City.
+0x37434F51=~z~It's three men, they've been lured to an old building in Alderney City.
+
+;0x3808A0B7=~z~but you can't disappoint the client like you did last time.
+0x3808A0B7=~z~but you can't disappoint the client like you did last time.
+
+;0x3A79C05A=~z~I'll give you the job. You need to be confident that it'll go smooth this time though.
+0x3A79C05A=~z~I'll give you the job. You need to be confident that it'll go smooth this time though.
+
+;0x3B88ACAC=~z~Keep your head like you did the last time and everyone walks away happy.
+0x3B88ACAC=~z~Keep your head like you did the last time and everyone walks away happy.
+
+;0x3BD02159=~z~I have a client with a problem.
+0x3BD02159=~z~I have a client with a problem.
+
+;0x3EB9B0F9=~z~Everything is taken care of, brother.
+0x3EB9B0F9=~z~Everything is taken care of, brother.
+
+;0x3EC97E30=~z~Phil's good at that. I only talk business on a hard line.
+0x3EC97E30=~z~Phil's good at that. I only talk business on a hard line.
+
+;0x40027690=B3_LA
+0x40027690=B3_LA
+
+;0x40AD9E60=100100
+0x40AD9E60=100100
+
+;0x42116B71=B3_A_JB
+0x42116B71=B3_A_JB
+
+;0x42C62FAC=B3_YA
+0x42C62FAC=B3_YA
+
+;0x43FA7CBE=B3_AG
+0x43FA7CBE=B3_AG
+
+;0x44E890D3=~z~I'd like some work, my friend. You got anything?
+0x44E890D3=~z~I'd like some work, my friend. You got anything?
+
+;0x450FBB9D=B3_A_AA
+0x450FBB9D=B3_A_AA
+
+;0x459089A6=~z~There are files available, but they will need to be closed.
+0x459089A6=~z~There are files available, but they will need to be closed.
+
+;0x46C4D254=~z~Be cool, brother. Keep your senses alert and you might make retirement.
+0x46C4D254=~z~Be cool, brother. Keep your senses alert and you might make retirement.
+
+;0x471F0EA3=~z~People come to me when they need something handled.
+0x471F0EA3=~z~People come to me when they need something handled.
+
+;0x4748CF31=~z~The target is in a car, they're moving around Alderney.
+0x4748CF31=~z~The target is in a car, they're moving around Alderney.
+
+;0x49B8FC88=B3_QA
+0x49B8FC88=B3_QA
+
+;0x4C3E9109=B3_ZB
+0x4C3E9109=B3_ZB
+
+;0x4CC764F5=~z~Alright brother.
+0x4CC764F5=~z~Alright brother.
+
+;0x4E2FBC83=B3_YB
+0x4E2FBC83=B3_YB
+
+;0x4EAD9923=100100
+0x4EAD9923=100100
+
+;0x50ED857A=~z~Get me on the hard line if you still think this is your game.
+0x50ED857A=~z~Get me on the hard line if you still think this is your game.
+
+;0x5116E2CD=~z~Take them out.
+0x5116E2CD=~z~Take them out.
+
+;0x51E9392C=100100
+0x51E9392C=100100
+
+;0x5250B0B4=100100
+0x5250B0B4=100100
+
+;0x52FA4BA8=B3_A_GB
+0x52FA4BA8=B3_A_GB
+
+;0x545510B6=~z~I only get you the prices I do because I am known for reliability.
+0x545510B6=~z~I only get you the prices I do because I am known for reliability.
+
+;0x552D2A12=~z~The target's over in the Acter Industrial Park.
+0x552D2A12=~z~The target's over in the Acter Industrial Park.
+
+;0x58E9AF0D=100100
+0x58E9AF0D=100100
+
+;0x58FE5936=~z~Get me on the outside line if you are still interested in working for me.
+0x58FE5936=~z~Get me on the outside line if you are still interested in working for me.
+
+;0x5C2D6BE0=~z~Tell the client that they don't need to worry.
+0x5C2D6BE0=~z~Tell the client that they don't need to worry.
+
+;0x5D2D3D1B=100100
+0x5D2D3D1B=100100
+
+;0x5E9A7C43=100100
+0x5E9A7C43=100100
+
+;0x606E2D60=~z~The target's on a boat trip in the canal between Tudor and Acter.
+0x606E2D60=~z~The target's on a boat trip in the canal between Tudor and Acter.
+
+;0x63750101=100100
+0x63750101=100100
+
+;0x63814C8A=100100
+0x63814C8A=100100
+
+;0x64D8D695=B3_FA
+0x64D8D695=B3_FA
+
+;0x6590725A=~z~I've made provisions for this, brother.
+0x6590725A=~z~I've made provisions for this, brother.
+
+;0x68387A29=~z~You'll get your normal rate to assist them with it.
+0x68387A29=~z~You'll get your normal rate to assist them with it.
+
+;0x690F2AB0=100100
+0x690F2AB0=100100
+
+;0x6D660D3D=B3_A_AB
+0x6D660D3D=B3_A_AB
+
+;0x75DAF600=B3_KF
+0x75DAF600=B3_KF
+
+;0x7657C1C4=B3_A_KA
+0x7657C1C4=B3_A_KA
+
+;0x777A1F99=~z~There's a job available,
+0x777A1F99=~z~There's a job available,
+
+;0x787F7163=~z~Uhhh... hello? I'm a friend of Phil's.
+0x787F7163=~z~Uhhh... hello? I'm a friend of Phil's.
+
+;0x79592637=~z~It is now time to collect from the client.
+0x79592637=~z~It is now time to collect from the client.
+
+;0x79A2D757=B3_A_HA
+0x79A2D757=B3_A_HA
+
+;0x7BC7FE95=~z~I'd like some work, brother.
+0x7BC7FE95=~z~I'd like some work, brother.
+
+;0x8010C4EB=~z~Can't use you no more though.
+0x8010C4EB=~z~Can't use you no more though.
+
+;0x80A8535A=100100
+0x80A8535A=100100
+
+;0x81C8672F=~z~Alright, I'll bring another team into play.
+0x81C8672F=~z~Alright, I'll bring another team into play.
+
+;0x820D3BCA=B3_UA
+0x820D3BCA=B3_UA
+
+;0x8284BAA7=~z~There's a job.
+0x8284BAA7=~z~There's a job.
+
+;0x82A5DAB9=100100
+0x82A5DAB9=100100
+
+;0x838BEF4E=100100
+0x838BEF4E=100100
+
+;0x847ACEC8=B3_HA
+0x847ACEC8=B3_HA
+
+;0x853876F4=~z~Make sure they don't come back.
+0x853876F4=~z~Make sure they don't come back.
+
+;0x8782610F=B3_JB
+0x8782610F=B3_JB
+
+;0x87EEA62B=B3_IA
+0x87EEA62B=B3_IA
+
+;0x88199A76=B3_VB
+0x88199A76=B3_VB
+
+;0x8AE24E6C=~z~Enjoy the peace and quiet.
+0x8AE24E6C=~z~Enjoy the peace and quiet.
+
+;0x8EB9071F=B3_A_HB
+0x8EB9071F=B3_A_HB
+
+;0x9145A6C3=B3_AA
+0x9145A6C3=B3_AA
+
+;0x91B1F806=B3_A_BB
+0x91B1F806=B3_A_BB
+
+;0x946CD778=B3_XB
+0x946CD778=B3_XB
+
+;0x964EB853=B3_KB
+0x964EB853=B3_KB
+
+;0x9A62CD6C=~z~The client will be pleased to hear that.
+0x9A62CD6C=~z~The client will be pleased to hear that.
+
+;0x9A9586ED=100
+0x9A9586ED=100
+
+;0x9BB9E46D=B3_CA
+0x9BB9E46D=B3_CA
+
+;0x9C402382=B3_DB
+0x9C402382=B3_DB
+
+;0x9F2ECB60=B3_RA
+0x9F2ECB60=B3_RA
+
+;0x9F84FC8F=B3_CB
+0x9F84FC8F=B3_CB
+
+;0xA05D38D6=B3_AF
+0xA05D38D6=B3_AF
+
+;0xA09B49C2=100100
+0xA09B49C2=100100
+
+;0xA2396585=B3_EB
+0xA2396585=B3_EB
+
+;0xA2C04404=~z~You cannot leave them open like you did last time.
+0xA2C04404=~z~You cannot leave them open like you did last time.
+
+;0xA46FE186=~z~If you want more files, you can reach me on the outside line.
+0xA46FE186=~z~If you want more files, you can reach me on the outside line.
+
+;0xA59044CA=B3_A_IB
+0xA59044CA=B3_A_IB
+
+;0xAB51865D=B3_XA
+0xAB51865D=B3_XA
+
+;0xABBE935F=100100
+0xABBE935F=100100
+
+;0xAE37A095=~z~The target is in Alderney City. You're being relied on to eliminate it.
+0xAE37A095=~z~The target is in Alderney City. You're being relied on to eliminate it.
+
+;0xAF68EB5F=B3_KC
+0xAF68EB5F=B3_KC
+
+;0xB08F3A9A=B3_AC
+0xB08F3A9A=B3_AC
+
+;0xB2D7BAA0=100100
+0xB2D7BAA0=100100
+
+;0xB32EDDFC=~z~on the hard line.
+0xB32EDDFC=~z~on the hard line.
+
+;0xB392E10C=B3_FB
+0xB392E10C=B3_FB
+
+;0xB6BF30D3=100
+0xB6BF30D3=100
+
+;0xB82AF756=~z~Alright brother, I'm in need of a job.
+0xB82AF756=~z~Alright brother, I'm in need of a job.
+
+;0xB84162A2=~z~Right on, brother. I'll collect the funds.
+0xB84162A2=~z~Right on, brother. I'll collect the funds.
+
+;0xB84819F7=B3_A_FA
+0xB84819F7=B3_A_FA
+
+;0xB9690ED2=100100
+0xB9690ED2=100100
+
+;0xBAD43263=B3_A_EA
+0xBAD43263=B3_A_EA
+
+;0xBBDA47C0=~z~The target is at the police station in Leftwood.
+0xBBDA47C0=~z~The target is at the police station in Leftwood.
+
+;0xC18623FC=~z~Reach me on the outside line if you think you're up for another job.
+0xC18623FC=~z~Reach me on the outside line if you think you're up for another job.
+
+;0xC1FF8B07=~z~Hey, you got any work for me?
+0xC1FF8B07=~z~Hey, you got any work for me?
+
+;0xC28BED22=~z~I've got work for you, but it needs to be done.
+0xC28BED22=~z~I've got work for you, but it needs to be done.
+
+;0xC3B1D4F3=B3_WB
+0xC3B1D4F3=B3_WB
+
+;0xC7F038DD=B3_OA
+0xC7F038DD=B3_OA
+
+;0xC831909F=010
+0xC831909F=010
+
+;0xC92A571D=~z~Not many in this game cross that line. So long.
+0xC92A571D=~z~Not many in this game cross that line. So long.
+
+;0xC97022C7=~z~I am afraid those eggs got broken before we could make an omelet.
+0xC97022C7=~z~I am afraid those eggs got broken before we could make an omelet.
+
+;0xCAB3A540=B3_SA
+0xCAB3A540=B3_SA
+
+;0xCAC1984D=~z~There's a file for you, brother.
+0xCAC1984D=~z~There's a file for you, brother.
+
+;0xCB1B8856=~z~If you want more work, contact me on the hard line.
+0xCB1B8856=~z~If you want more work, contact me on the hard line.
+
+;0xCBB6D0D5=100100
+0xCBB6D0D5=100100
+
+;0xCD296A5E=~z~There's some heat on this one.
+0xCD296A5E=~z~There's some heat on this one.
+
+;0xCD5147C9=~z~I'll see what I can do about this.
+0xCD5147C9=~z~I'll see what I can do about this.
+
+;0xCDC6D434=~z~There's nothing out there right now, brother.
+0xCDC6D434=~z~There's nothing out there right now, brother.
+
+;0xCE49AD9B=~z~Righteous. I'll get our payment.
+0xCE49AD9B=~z~Righteous. I'll get our payment.
+
+;0xCE945224=B3_A_DB
+0xCE945224=B3_A_DB
+
+;0xCED1A4AB=~z~Hey brother, is there anything that needs to be handled?
+0xCED1A4AB=~z~Hey brother, is there anything that needs to be handled?
+
+;0xD432C24A=B3_IB
+0xD432C24A=B3_IB
+
+;0xD9231AF6=B3_A_JA
+0xD9231AF6=B3_A_JA
+
+;0xD9401A15=B3_DA
+0xD9401A15=B3_DA
+
+;0xD9DF84AA=B3_WA
+0xD9DF84AA=B3_WA
+
+;0xDADDE93F=~z~I closed that file for you, brother.
+0xDADDE93F=~z~I closed that file for you, brother.
+
+;0xDB3DC662=~z~A red sock got in with the white wash. You're going to look like a dick.
+0xDB3DC662=~z~A red sock got in with the white wash. You're going to look like a dick.
+
+;0xDDDD5CAA=~z~I'll have to outsource this to a cleanup crew.
+0xDDDD5CAA=~z~I'll have to outsource this to a cleanup crew.
+
+;0xDE7FDF31=B3_EA
+0xDE7FDF31=B3_EA
+
+;0xDF2BB90A=B3_AH
+0xDF2BB90A=B3_AH
+
+;0xDF64ABE2=~z~You need to eliminate three targets at the refinery in the Acter Industrial Park.
+0xDF64ABE2=~z~You need to eliminate three targets at the refinery in the Acter Industrial Park.
+
+;0xE1F349B3=B3_KE
+0xE1F349B3=B3_KE
+
+;0xE22B9BE1=100100
+0xE22B9BE1=100100
+
+;0xE24FD7A0=B3_SB
+0xE24FD7A0=B3_SB
+
+;0xE264B3AF=100100
+0xE264B3AF=100100
+
+;0xE35598F7=B3_PA
+0xE35598F7=B3_PA
+
+;0xE5933BB6=~z~The target you're after is on a boat at the northern mouth of the West River.
+0xE5933BB6=~z~The target you're after is on a boat at the northern mouth of the West River.
+
+;0xE5DCD99A=B3_KD
+0xE5DCD99A=B3_KD
+
+;0xE756B7F0=010100010100100010100100
+0xE756B7F0=010100010100100010100100
+
+;0xE86FCC02=B3_A_EB
+0xE86FCC02=B3_A_EB
+
+;0xE884B1E5=~z~Finish them there.
+0xE884B1E5=~z~Finish them there.
+
+;0xE8D62A91=~z~I'll inform the accountant of your success.
+0xE8D62A91=~z~I'll inform the accountant of your success.
+
+;0xE91B05B9=~z~I baked the bread for you, my friend.
+0xE91B05B9=~z~I baked the bread for you, my friend.
+
+;0xEA5AC135=~z~I haven't got any jobs for you right now.
+0xEA5AC135=~z~I haven't got any jobs for you right now.
+
+;0xEB298430=B3_A_GA
+0xEB298430=B3_A_GA
+
+;0xEC1821E9=010
+0xEC1821E9=010
+
+;0xED391FAA=~z~You've done good, brother. Cleared a lot of files from my desk.
+0xED391FAA=~z~You've done good, brother. Cleared a lot of files from my desk.
+
+;0xEDDE2698=100100
+0xEDDE2698=100100
+
+;0xF1939BC3=~z~Just relax.
+0xF1939BC3=~z~Just relax.
+
+;0xF658A034=~z~The kids are in bed and the dishes are done.
+0xF658A034=~z~The kids are in bed and the dishes are done.
+
+;0xF661E377=100100100010100100
+0xF661E377=100100100010100100
+
+;0xF7214727=~z~This is a regular account.
+0xF7214727=~z~This is a regular account.
+
+;0xF740DF11=~z~Take it out.
+0xF740DF11=~z~Take it out.
+
+;0xF977F5B9=~z~A quick, smooth job like the last one is what we need.
+0xF977F5B9=~z~A quick, smooth job like the last one is what we need.
+
+;0xFABA9A9D=B3_QB
+0xFABA9A9D=B3_QB
+
+;0xFAED5EAA=~z~Handle this like you did the last one and we'll collect our money without problems.
+0xFAED5EAA=~z~Handle this like you did the last one and we'll collect our money without problems.
+
+;0xFB02895E=B3_A_BA
+0xFB02895E=B3_A_BA
+
+;0xFB0E233E=~z~Reach me on the hard line if you want another pass at a job, brother.
+0xFB0E233E=~z~Reach me on the hard line if you want another pass at a job, brother.
+
+;0xFD46FACE=B3_KA
+0xFD46FACE=B3_KA
+
+;0xFD7B57D6=B3_A_CA
+0xFD7B57D6=B3_A_CA
+
+;0xFDB2FB1F=~z~Make this quiet.
+0xFDB2FB1F=~z~Make this quiet.
+
+;0xFEC8F60A=B3_A_IA
+0xFEC8F60A=B3_A_IA
+
+;0xFFB5BAE5=100100
+0xFFB5BAE5=100100
+
+;0xFFF18FCD=~z~Sorry, brother. The milk went sour. You're going to have to drink your coffee black.
+0xFFF18FCD=~z~Sorry, brother. The milk went sour. You're going to have to drink your coffee black.
+

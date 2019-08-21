@@ -1,0 +1,391 @@
+﻿[F3AUD]
+;0x047DA16E=~z~Sergei told me that a friend of his in the courts told him
+0x047DA16E=~z~Sergei told me that a friend of his in the courts told him
+
+;0x06462759=~z~Hey! My brother, and Niko. Good.
+0x06462759=~z~Hey! My brother, and Niko. Good.
+
+;0x0679AAD2=~z~-but he didn't buy the pot.~n~-That's Lenny.
+0x0679AAD2=~z~-but he didn't buy the pot.~n~-That's Lenny.
+
+;0x079F275D=~z~Get out of here.
+0x079F275D=~z~Get out of here.
+
+;0x0B308195=F3_CC
+0x0B308195=F3_CC
+
+;0x0F552D43=~z~Faustin ain't nobody. Fuck off.
+0x0F552D43=~z~Faustin ain't nobody. Fuck off.
+
+;0x112418B2=~z~Do what my papa pays you to do. Shit.
+0x112418B2=~z~Do what my papa pays you to do. Shit.
+
+;0x12B21C46=F3_AB
+0x12B21C46=F3_AB
+
+;0x1362C260=~z~You,
+0x1362C260=~z~You,
+
+;0x148C312F=~z~I cannot talk just now. Do what you have to do.
+0x148C312F=~z~I cannot talk just now. Do what you have to do.
+
+;0x16153617=F3_HC
+0x16153617=F3_HC
+
+;0x19054A29=~z~Keep it warm. I won't be too long.
+0x19054A29=~z~Keep it warm. I won't be too long.
+
+;0x1D125803=~z~We're going to have to calm things right down for a while.
+0x1D125803=~z~We're going to have to calm things right down for a while.
+
+;0x1D9EC9D6=~z~He's enough of a somebody to get you killed.
+0x1D9EC9D6=~z~He's enough of a somebody to get you killed.
+
+;0x1FEB5AA3=~z~Um.... Mikhail, we've got something we need to talk about.
+0x1FEB5AA3=~z~Um.... Mikhail, we've got something we need to talk about.
+
+;0x209BE05E=~z~It could be you.
+0x209BE05E=~z~It could be you.
+
+;0x24A76F79=~z~-You have to play by the rules.~n~-Stop. I said stop.
+0x24A76F79=~z~-You have to play by the rules.~n~-Stop. I said stop.
+
+;0x24C02A4B=F3_GA
+0x24C02A4B=F3_GA
+
+;0x26185485=~z~I'm into more shit than Mikhail could even imagine. Why would I rat?
+0x26185485=~z~I'm into more shit than Mikhail could even imagine. Why would I rat?
+
+;0x26DAD5CC=~z~Just one second, Mikhail. It's nobody.
+0x26DAD5CC=~z~Just one second, Mikhail. It's nobody.
+
+;0x29A9EEEE=~z~You pathetic idiot.
+0x29A9EEEE=~z~You pathetic idiot.
+
+;0x2DE2C809=F3_CB
+0x2DE2C809=F3_CB
+
+;0x2EEBF8A4=~z~Little delicious, my little knish...
+0x2EEBF8A4=~z~Little delicious, my little knish...
+
+;0x31F442B6=F3_FA
+0x31F442B6=F3_FA
+
+;0x3702F6CB=F3_DB
+0x3702F6CB=F3_DB
+
+;0x39D7E931=F3_AA
+0x39D7E931=F3_AA
+
+;0x3B1A7F01=F3_HB
+0x3B1A7F01=F3_HB
+
+;0x3EE11CE8=~z~Think for a second. This has been going on for months.
+0x3EE11CE8=~z~Think for a second. This has been going on for months.
+
+;0x3F15969D=~z~So.
+0x3F15969D=~z~So.
+
+;0x3F3B89D1=010100100100
+0x3F3B89D1=010100100100
+
+;0x3F709AAC=~z~You and Mikhail will be killed if anything happens to me.
+0x3F709AAC=~z~You and Mikhail will be killed if anything happens to me.
+
+;0x40A59F29=~z~I saw it in his eyes... you know?
+0x40A59F29=~z~I saw it in his eyes... you know?
+
+;0x410B9DB1=~z~-Mikhail, please, don't do this.~n~-Shut up.
+0x410B9DB1=~z~-Mikhail, please, don't do this.~n~-Shut up.
+
+;0x43B19853=~z~Ah... Lenny, got away. Maybe this is a sign?
+0x43B19853=~z~Ah... Lenny, got away. Maybe this is a sign?
+
+;0x457730C0=~z~-Why don't you listen?~n~-You want to play games?
+0x457730C0=~z~-Why don't you listen?~n~-You want to play games?
+
+;0x4BDB8A7A=F3_CD
+0x4BDB8A7A=F3_CD
+
+;0x4D7CFD10=F3_GD
+0x4D7CFD10=F3_GD
+
+;0x4DD2BACB=~z~Think? Look where your thinking has got us.
+0x4DD2BACB=~z~Think? Look where your thinking has got us.
+
+;0x4EDDC5B9=120
+0x4EDDC5B9=120
+
+;0x4EE8396A=~z~Head up there, and call me, me personally, when you get there.
+0x4EE8396A=~z~Head up there, and call me, me personally, when you get there.
+
+;0x4F533C84=~z~It's that fucking guy, yeah, I know it is.
+0x4F533C84=~z~It's that fucking guy, yeah, I know it is.
+
+;0x50A43D13=~z~Haven't you heard of my father, Kenny Petrovic?
+0x50A43D13=~z~Haven't you heard of my father, Kenny Petrovic?
+
+;0x51F7B4DF=~z~You let him go? You disobeyed me? Maybe it is you I should have killed. You and Dimitri.
+0x51F7B4DF=~z~You let him go? You disobeyed me? Maybe it is you I should have killed. You and Dimitri.
+
+;0x530FC3FD=~z~That guy.
+0x530FC3FD=~z~That guy.
+
+;0x53C6C567=~z~Who is the rat?
+0x53C6C567=~z~Who is the rat?
+
+;0x55E2FE6A=010
+0x55E2FE6A=010
+
+;0x593CCD2D=~z~Mikhail.
+0x593CCD2D=~z~Mikhail.
+
+;0x5AE65197=~z~This isn't meant to be happening.
+0x5AE65197=~z~This isn't meant to be happening.
+
+;0x6308DE83=~z~Shit.
+0x6308DE83=~z~Shit.
+
+;0x6804BAC8=F3_CF
+0x6804BAC8=F3_CF
+
+;0x6E68F89C=~z~You and Faustin have gotta be crazy.
+0x6E68F89C=~z~You and Faustin have gotta be crazy.
+
+;0x720AC2A3=F3_GC
+0x720AC2A3=F3_GC
+
+;0x7267FCED=~z~-Please?~n~-Okay.
+0x7267FCED=~z~-Please?~n~-Okay.
+
+;0x7369026B=~z~-I...~n~-Shut the fuck up.
+0x7369026B=~z~-I...~n~-Shut the fuck up.
+
+;0x76239356=100010
+0x76239356=100010
+
+;0x77738CC0=~z~Making too much noise. This was inevitable.
+0x77738CC0=~z~Making too much noise. This was inevitable.
+
+;0x77790E17=~z~You, kill him.
+0x77790E17=~z~You, kill him.
+
+;0x77E68B97=~z~Faustin's out of control.
+0x77E68B97=~z~Faustin's out of control.
+
+;0x79DE75A9=~z~Mr. Faustin, do you want to call this off?
+0x79DE75A9=~z~Mr. Faustin, do you want to call this off?
+
+;0x7AB76A0B=F3_DD
+0x7AB76A0B=F3_DD
+
+;0x7B3D79AF=F3_DC
+0x7B3D79AF=F3_DC
+
+;0x7EF98A40=010100100
+0x7EF98A40=010100100
+
+;0x7F45069F=~z~Dimitri, should I do this? Should I kill this boy for Mr. Faustin?
+0x7F45069F=~z~Dimitri, should I do this? Should I kill this boy for Mr. Faustin?
+
+;0x832A3C57=~z~Very good. I'm proud of you. Good.
+0x832A3C57=~z~Very good. I'm proud of you. Good.
+
+;0x8354A242=~z~Don't question my loyalty.
+0x8354A242=~z~Don't question my loyalty.
+
+;0x856528A3=~z~It's no one. It's just the way we have been behaving.
+0x856528A3=~z~It's no one. It's just the way we have been behaving.
+
+;0x85BAAA9A=~z~Are you sure?
+0x85BAAA9A=~z~Are you sure?
+
+;0x8740106C=~z~No, I never change my mind. I've heard he's at the Guantanamo Avenue station.
+0x8740106C=~z~No, I never change my mind. I've heard he's at the Guantanamo Avenue station.
+
+;0x8A582D21=~z~The feds, or someone are all over us.
+0x8A582D21=~z~The feds, or someone are all over us.
+
+;0x8A59B07D=~z~Stay away from me.
+0x8A59B07D=~z~Stay away from me.
+
+;0x8ABDA5E6=F3_HA
+0x8ABDA5E6=F3_HA
+
+;0x8C5D33A5=~z~Girls, can you give us a minute, huh?
+0x8C5D33A5=~z~Girls, can you give us a minute, huh?
+
+;0x9197D932=~z~Hey, Dimitri, I took care of that thing for you.
+0x9197D932=~z~Hey, Dimitri, I took care of that thing for you.
+
+;0x93CACD66=~z~-don't do this. ~n~-Go.
+0x93CACD66=~z~-don't do this. ~n~-Go.
+
+;0x9421C768=~z~Sure? No, I am not.
+0x9421C768=~z~Sure? No, I am not.
+
+;0x94630CE3=F3_GB
+0x94630CE3=F3_GB
+
+;0x9891C994=~z~We've got police trouble.
+0x9891C994=~z~We've got police trouble.
+
+;0x9C986F33=~z~Hi, Dimitri.
+0x9C986F33=~z~Hi, Dimitri.
+
+;0x9CD81083=~z~I'm sorry Niko. Thank you. At least you are loyal. We will work together again, come to see me at my house.
+0x9CD81083=~z~I'm sorry Niko. Thank you. At least you are loyal. We will work together again, come to see me at my house.
+
+;0xA04CB49A=F3_CA
+0xA04CB49A=F3_CA
+
+;0xA187622F=~z~I don't trust him.
+0xA187622F=~z~I don't trust him.
+
+;0xA20C69E9=~z~-I... I'm begging you... please,~n~-I said shut the fuck up.
+0xA20C69E9=~z~-I... I'm begging you... please,~n~-I said shut the fuck up.
+
+;0xA26063E5=~z~Right now, I am wondering if it's him or you.
+0xA26063E5=~z~Right now, I am wondering if it's him or you.
+
+;0xA59DE705=~z~You shouldn't be fucking with my father.
+0xA59DE705=~z~You shouldn't be fucking with my father.
+
+;0xA8A66C37=~z~-come on, no big deal.~n~-Not that, in private?
+0xA8A66C37=~z~-come on, no big deal.~n~-Not that, in private?
+
+;0xA8D56A1B=~z~What is it?
+0xA8D56A1B=~z~What is it?
+
+;0xAA1F8A45=~z~-So nice to meet you.~n~-Oh, my pleasure.
+0xAA1F8A45=~z~-So nice to meet you.~n~-Oh, my pleasure.
+
+;0xAF77B5C2=~z~Lenny, the boy, he's dead.
+0xAF77B5C2=~z~Lenny, the boy, he's dead.
+
+;0xB2DDF52B=~z~Hold on a second.
+0xB2DDF52B=~z~Hold on a second.
+
+;0xB2F00C0C=~z~-This is not a game.~n~-Hey, give me break.
+0xB2F00C0C=~z~-This is not a game.~n~-Hey, give me break.
+
+;0xB6C75CF7=F3_DA
+0xB6C75CF7=F3_DA
+
+;0xB8F1A7E9=~z~Dimitri, Dimitri, hey, hey, uh... meet my girl, Natasha.
+0xB8F1A7E9=~z~Dimitri, Dimitri, hey, hey, uh... meet my girl, Natasha.
+
+;0xBA6E907D=~z~Then don't question my orders.
+0xBA6E907D=~z~Then don't question my orders.
+
+;0xBB8311D4=~z~-Have a drink.~n~-Oh, baby...
+0xBB8311D4=~z~-Have a drink.~n~-Oh, baby...
+
+;0xBDDA6D68=F3_DE
+0xBDDA6D68=F3_DE
+
+;0xBF879E37=~z~What? I just told you...
+0xBF879E37=~z~What? I just told you...
+
+;0xC0E256B8=010100100100
+0xC0E256B8=010100100100
+
+;0xC1C2DA58=~z~Shut up Dimitri, I don't care who he is. It is too late anyway. Niko has killed him. Stop your whining.
+0xC1C2DA58=~z~Shut up Dimitri, I don't care who he is. It is too late anyway. Niko has killed him. Stop your whining.
+
+;0xC7993F78=100
+0xC7993F78=100
+
+;0xC86A46DA=~z~No problem.
+0xC86A46DA=~z~No problem.
+
+;0xC9ED4293=100010
+0xC9ED4293=100010
+
+;0xCD9CB607=~z~Okay, you can have Vera, I take Katerina,
+0xCD9CB607=~z~Okay, you can have Vera, I take Katerina,
+
+;0xCDA82ABF=~z~My dad pays you to ice crazy bitches like this guy.
+0xCDA82ABF=~z~My dad pays you to ice crazy bitches like this guy.
+
+;0xCDC93ABA=~z~He knows too much.
+0xCDC93ABA=~z~He knows too much.
+
+;0xCE2799D2=F3_AD
+0xCE2799D2=F3_AD
+
+;0xD0AE0D4F=010
+0xD0AE0D4F=010
+
+;0xD4229B32=F3_EA
+0xD4229B32=F3_EA
+
+;0xD46A46B4=~z~That guy, who bought the coke...
+0xD46A46B4=~z~That guy, who bought the coke...
+
+;0xD638E277=~z~Dimitri, thank you for take care of that thing for me.
+0xD638E277=~z~Dimitri, thank you for take care of that thing for me.
+
+;0xD827B3A1=010100
+0xD827B3A1=010100
+
+;0xD865B921=~z~The decision has been made.
+0xD865B921=~z~The decision has been made.
+
+;0xD9544E48=~z~prove you're loyal. Go, and kill the guy.
+0xD9544E48=~z~prove you're loyal. Go, and kill the guy.
+
+;0xD9C44E56=~z~Move up ladies. Move up.
+0xD9C44E56=~z~Move up ladies. Move up.
+
+;0xDAC59E45=~z~Hey, Lenny.
+0xDAC59E45=~z~Hey, Lenny.
+
+;0xDC68D49A=~z~My father's Kenny Petrovic.
+0xDC68D49A=~z~My father's Kenny Petrovic.
+
+;0xE7CF4C41=F3_AC
+0xE7CF4C41=F3_AC
+
+;0xEADBB5E2=F3_FB
+0xEADBB5E2=F3_FB
+
+;0xEBF2D9B4=~z~Mikhail Faustin don't like you no more. It's nothing personal.
+0xEBF2D9B4=~z~Mikhail Faustin don't like you no more. It's nothing personal.
+
+;0xEC9574CA=~z~He lives on Guantanamo Avenue in Bohan.
+0xEC9574CA=~z~He lives on Guantanamo Avenue in Bohan.
+
+;0xED59DC9E=~z~Go to the platform and get rid of that rat.
+0xED59DC9E=~z~Go to the platform and get rid of that rat.
+
+;0xEEBB5055=120200
+0xEEBB5055=120200
+
+;0xEEE4F965=~z~You were in charge of security. Good job. Well done, Dimitri.
+0xEEE4F965=~z~You were in charge of security. Good job. Well done, Dimitri.
+
+;0xF0030836=~z~You're signing your death warrant, asshole.
+0xF0030836=~z~You're signing your death warrant, asshole.
+
+;0xF55A60C5=~z~Hey, Lenny. Mr. Faustin thinks you're a rat. He ain't taking no risks.
+0xF55A60C5=~z~Hey, Lenny. Mr. Faustin thinks you're a rat. He ain't taking no risks.
+
+;0xF667889B=~z~Kenny Petrovic - don't that mean anything to you?
+0xF667889B=~z~Kenny Petrovic - don't that mean anything to you?
+
+;0xF6B805E3=~z~they've been authorized to tap our phones and they know about the pot we stole.
+0xF6B805E3=~z~they've been authorized to tap our phones and they know about the pot we stole.
+
+;0xF7F00DBF=~z~He's my cousin's boyfriend. It's not him. Yes, he's a moron, yes, but he's okay.
+0xF7F00DBF=~z~He's my cousin's boyfriend. It's not him. Yes, he's a moron, yes, but he's okay.
+
+;0xFA8BF702=~z~Shut up Dimitri, for the last time...
+0xFA8BF702=~z~Shut up Dimitri, for the last time...
+
+;0xFA92CC03=~z~You would still be in a fucking Gulag if it wasn't for me. You'd be drilling for oil in the tundra.
+0xFA92CC03=~z~You would still be in a fucking Gulag if it wasn't for me. You'd be drilling for oil in the tundra.
+
+;0xFB7FC5E4=010
+0xFB7FC5E4=010
+

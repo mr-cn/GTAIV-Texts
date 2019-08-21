@@ -1,0 +1,7 @@
+﻿[WI_MSHL]
+;0x189B18BA=Take out ~r~Clarence.~s~
+0x189B18BA=Take out ~r~Clarence.~s~
+
+;0x292BAFCF=~r~Clarence is still out there.~s~
+0x292BAFCF=~r~Clarence is still out there.~s~
+

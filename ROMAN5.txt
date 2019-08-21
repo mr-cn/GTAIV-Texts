@@ -1,0 +1,61 @@
+﻿[ROMAN5]
+;0x0511665B=The area the cops search in is represented by the flashing zone on the Radar. Cops in this zone are marked by flashing red and blue icons.
+0x0511665B=The area the cops search in is represented by the flashing zone on the Radar. Cops in this zone are marked by flashing red and blue icons.
+
+;0x2ECF0802=~r~Roman's car was trashed.
+0x2ECF0802=~r~Roman's car was trashed.
+
+;0x4F7745B7=You have evaded the cops. Stay out of trouble to completely lose your wanted level.
+0x4F7745B7=You have evaded the cops. Stay out of trouble to completely lose your wanted level.
+
+;0x5FAE985C=To lose your wanted level escape the flashing zone and keep a low profile.
+0x5FAE985C=To lose your wanted level escape the flashing zone and keep a low profile.
+
+;0x63827858=~S~Reverse out of the garage.
+0x63827858=~S~Reverse out of the garage.
+
+;0x6D18B330=If you are seen leaving the zone by the cops then they will refocus their search and a new zone will be created.
+0x6D18B330=If you are seen leaving the zone by the cops then they will refocus their search and a new zone will be created.
+
+;0x8ECE46AF=~S~You can use the Pay 'n' Spray to clear your wanted level as long as the cops don't see you entering.
+0x8ECE46AF=~S~You can use the Pay 'n' Spray to clear your wanted level as long as the cops don't see you entering.
+
+;0x9E5E6F0B=~S~~INPUT_VEH_EXIT~ exit vehicle.
+0x9E5E6F0B=~S~~INPUT_VEH_EXIT~ exit vehicle.
+
+;0xA0E56ADD=~S~Drive into the ~Y~Pay 'n' Spray.
+0xA0E56ADD=~S~Drive into the ~Y~Pay 'n' Spray.
+
+;0xAFF23B12=Anyone seen performing a crime will gain a wanted level and the cops will attempt to hunt them down.
+0xAFF23B12=Anyone seen performing a crime will gain a wanted level and the cops will attempt to hunt them down.
+
+;0xB2A08E5F=~S~It will repair and re-spray your vehicle and three hours will pass.
+0xB2A08E5F=~S~It will repair and re-spray your vehicle and three hours will pass.
+
+;0xB535E764=~S~Drive to ~Y~Rotterdam Hill~S~ and meet Roman's customer.
+0xB535E764=~S~Drive to ~Y~Rotterdam Hill~S~ and meet Roman's customer.
+
+;0xCF403CC7=~r~Jermaine is dead.
+0xCF403CC7=~r~Jermaine is dead.
+
+;0xCF659DEF=~S~Take Jermaine to ~Y~Masterson St.
+0xCF659DEF=~S~Take Jermaine to ~Y~Masterson St.
+
+;0xD0433ED1=~r~You have abandoned Jermaine.~s~
+0xD0433ED1=~r~You have abandoned Jermaine.~s~
+
+;0xD7700B19=Your wanted level is represented by the number of stars on screen. The more stars the harder cops will try to catch you.
+0xD7700B19=Your wanted level is represented by the number of stars on screen. The more stars the harder cops will try to catch you.
+
+;0xDAAE53A3=~r~The vehicle is stuck.~s~
+0xDAAE53A3=~r~The vehicle is stuck.~s~
+
+;0xDD273972=~S~Lose your wanted level.
+0xDD273972=~S~Lose your wanted level.
+
+;0xE2F3FF87=~S~You have lost your wanted level, take Jermaine to ~Y~Gibson Street.
+0xE2F3FF87=~S~You have lost your wanted level, take Jermaine to ~Y~Gibson Street.
+
+;0xE62F020F=~S~Get in Roman's ~B~car.
+0xE62F020F=~S~Get in Roman's ~B~car.
+

@@ -1,0 +1,46 @@
+﻿[WI_BAD1]
+;0x0183C007=Leave the car and waste the guys down the ~y~allyway.~s~
+0x0183C007=Leave the car and waste the guys down the ~y~allyway.~s~
+
+;0x134D639A=Take out the ~r~thugs.
+0x134D639A=Take out the ~r~thugs.
+
+;0x29248F48=Waste all the ~r~thugs.
+0x29248F48=Waste all the ~r~thugs.
+
+;0x36FB2AF5=You are too far away from ~b~Badman.~s~ Get closer so you can interact with him.
+0x36FB2AF5=You are too far away from ~b~Badman.~s~ Get closer so you can interact with him.
+
+;0x58108BA9=Pick ~b~Badman~s~ up.
+0x58108BA9=Pick ~b~Badman~s~ up.
+
+;0x5A4A1018=You left ~b~Badman~s~ behind.
+0x5A4A1018=You left ~b~Badman~s~ behind.
+
+;0x5AA17235=The Russian gang members have been wiped out.
+0x5AA17235=The Russian gang members have been wiped out.
+
+;0x6DD0B729=Lose your wanted level.
+0x6DD0B729=Lose your wanted level.
+
+;0x71093D96=Get a vehicle.
+0x71093D96=Get a vehicle.
+
+;0x7403438E=The ~r~Russian gang members~s~ are in the alleyway just off Carrollton Street doing a deal. Take Badman to them.
+0x7403438E=The ~r~Russian gang members~s~ are in the alleyway just off Carrollton Street doing a deal. Take Badman to them.
+
+;0x93A802D3=~r~One of the thugs got away.~s~
+0x93A802D3=~r~One of the thugs got away.~s~
+
+;0xCCF7D6E0=Take Badman down to the alleyway just off ~y~Carrollton Street.~s~
+0xCCF7D6E0=Take Badman down to the alleyway just off ~y~Carrollton Street.~s~
+
+;0xDABE726D=Get rid of Badman's ~r~problem.~s~
+0xDABE726D=Get rid of Badman's ~r~problem.~s~
+
+;0xF03F1D7E=~r~Badman has been killed.
+0xF03F1D7E=~r~Badman has been killed.
+
+;0xFD81B803=~r~Badman was abandoned.~s~
+0xFD81B803=~r~Badman was abandoned.~s~
+

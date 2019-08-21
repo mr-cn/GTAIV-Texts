@@ -1,0 +1,16 @@
+﻿[WEAZL21]
+;0x05AD06D8=Goldberg Gunned Down
+0x05AD06D8=Goldberg Gunned Down
+
+;0x824BEF40=So-called civil rights activist, Tom Goldberg, was the victim of a gruesome murder facilitated by laws he pushed for as a partner in the law firm Goldberg, Ligner and Shyster. The firm is famous for trying to stand up for so-called civil rights, weak on terror, wooly on immigration and far too Draconian on gun control. Mayor Julio Ochoa's liberal agenda is not giving Liberty City the protection it needs in this climate of anarchy.
+0x824BEF40=So-called civil rights activist, Tom Goldberg, was the victim of a gruesome murder facilitated by laws he pushed for as a partner in the law firm Goldberg, Ligner and Shyster. The firm is famous for trying to stand up for so-called civil rights, weak on terror, wooly on immigration and far too Draconian on gun control. Mayor Julio Ochoa's liberal agenda is not giving Liberty City the protection it needs in this climate of anarchy.
+
+;0xB36B2AAA=Darling of the liberals found dead in office
+0xB36B2AAA=Darling of the liberals found dead in office
+
+;0xFC751CEA=Lawlessness he encouraged claims lawyer
+0xFC751CEA=Lawlessness he encouraged claims lawyer
+
+;0xFFEB7C69=Eugene White
+0xFFEB7C69=Eugene White
+

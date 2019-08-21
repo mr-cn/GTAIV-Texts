@@ -1,0 +1,145 @@
+﻿[VLAD1]
+;0x0CB2C7A3=~s~Press ~INPUT_MELEE_ATTACK2~ or ~INPUT_MELEE_ATTACK3~ to perform a melee attack.
+0x0CB2C7A3=~s~Press ~INPUT_MELEE_ATTACK2~ or ~INPUT_MELEE_ATTACK3~ to perform a melee attack.
+
+;0x0D68F848=~r~Vlad is dead.
+0x0D68F848=~r~Vlad is dead.
+
+;0x116C3636=~s~Throw something through the ~r~window~s~ to show the owner you're serious.
+0x116C3636=~s~Throw something through the ~r~window~s~ to show the owner you're serious.
+
+;0x13046B31=~s~Get to the ~b~owner.
+0x13046B31=~s~Get to the ~b~owner.
+
+;0x14E2D7FF=~s~Smash the ~r~vases.
+0x14E2D7FF=~s~Smash the ~r~vases.
+
+;0x16E71E7F=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim.
+0x16E71E7F=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim.
+
+;0x19FC0135=~s~When on foot press ~INPUT_PICKUP~ to hail a cab.
+0x19FC0135=~s~When on foot press ~INPUT_PICKUP~ to hail a cab.
+
+;0x1A8F635C=~s~Press R3 to look behind.
+0x1A8F635C=~s~Press R3 to look behind.
+
+;0x1AE504EA=~s~Hold ~INPUT_AIM~ to auto aim and use ~PAD_RSTICK_ALL~ to change targets.
+0x1AE504EA=~s~Hold ~INPUT_AIM~ to auto aim and use ~PAD_RSTICK_ALL~ to change targets.
+
+;0x2279732C=~s~Press and hold ~INPUT_AIM~ to target the ~r~vases.
+0x2279732C=~s~Press and hold ~INPUT_AIM~ to target the ~r~vases.
+
+;0x22B058BE=~s~Beat up the ~r~son.
+0x22B058BE=~s~Beat up the ~r~son.
+
+;0x3176301D=~s~Hold ~INPUT_ENTER~ to enter a cab as a passenger.
+0x3176301D=~s~Hold ~INPUT_ENTER~ to enter a cab as a passenger.
+
+;0x317BF759=~s~Collect the ~b~money~s~ and take it back to Vlad.
+0x317BF759=~s~Collect the ~b~money~s~ and take it back to Vlad.
+
+;0x3451FC01=~s~Convince the ~b~owner~s~ to pay.
+0x3451FC01=~s~Convince the ~b~owner~s~ to pay.
+
+;0x34CBB377=~s~Hold ~INPUT_AIM~ to auto aim. Half hold ~INPUT_AIM~ to free aim. Use ~PAD_RSTICK_ALL~ to aim.
+0x34CBB377=~s~Hold ~INPUT_AIM~ to auto aim. Half hold ~INPUT_AIM~ to free aim. Use ~PAD_RSTICK_ALL~ to aim.
+
+;0x3CADCCCC=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to target the ~r~son.
+0x3CADCCCC=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to target the ~r~son.
+
+;0x4728BC8E=~s~Press ~INPUT_NEXT_WEAPON~ cycle through available weapons. Equip your baseball bat.
+0x4728BC8E=~s~Press ~INPUT_NEXT_WEAPON~ cycle through available weapons. Equip your baseball bat.
+
+;0x473EDEB9=~s~Hold ~INPUT_AIM~ and use ~PAD_RSTICK_ALL~ to free aim.
+0x473EDEB9=~s~Hold ~INPUT_AIM~ and use ~PAD_RSTICK_ALL~ to free aim.
+
+;0x538EB402=~s~Get the cash from the ~b~owner.
+0x538EB402=~s~Get the cash from the ~b~owner.
+
+;0x58337DA3=~s~A cab's been hailed.
+0x58337DA3=~s~A cab's been hailed.
+
+;0x5980033B=~s~Press and release ~INPUT_ATTACK~ to throw. The longer you hold ~INPUT_ATTACK~ the further you will throw.
+0x5980033B=~s~Press and release ~INPUT_ATTACK~ to throw. The longer you hold ~INPUT_ATTACK~ the further you will throw.
+
+;0x5BB9CAD0=~s~The shop is locked.
+0x5BB9CAD0=~s~The shop is locked.
+
+;0x5F721D62=~s~The open palm icon shows that you have an object in your hand that can be thrown.
+0x5F721D62=~s~The open palm icon shows that you have an object in your hand that can be thrown.
+
+;0x6E016F5F=~s~Go to the ~y~shop.
+0x6E016F5F=~s~Go to the ~y~shop.
+
+;0x7285C385=~s~Press ~INPUT_PICKUP~ to pick up an object. Only small objects can be picked up.
+0x7285C385=~s~Press ~INPUT_PICKUP~ to pick up an object. Only small objects can be picked up.
+
+;0x76A4BA89=~s~You can get a cab to take you around the city.
+0x76A4BA89=~s~You can get a cab to take you around the city.
+
+;0x7F8DB7CE=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to free aim.
+0x7F8DB7CE=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to free aim.
+
+;0x8460673A=~s~Throw the object through the ~r~window~s~ to show the owner you're serious.
+0x8460673A=~s~Throw the object through the ~r~window~s~ to show the owner you're serious.
+
+;0x92EB044F=~s~Hold ~INPUT_AIM~ to target the ~r~son.
+0x92EB044F=~s~Hold ~INPUT_AIM~ to target the ~r~son.
+
+;0x98D166BC=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to target the ~r~vases.
+0x98D166BC=~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to target the ~r~vases.
+
+;0xA3071520=~s~Press ~INPUT_AIM~ to free aim. Use ~PAD_RSTICK_ALL~ to aim.
+0xA3071520=~s~Press ~INPUT_AIM~ to free aim. Use ~PAD_RSTICK_ALL~ to aim.
+
+;0xA5783C40=~s~Use ~INPUT_AIM~ to enter free aim. Use ~PAD_RSTICK_ALL~ to aim at targets.
+0xA5783C40=~s~Use ~INPUT_AIM~ to enter free aim. Use ~PAD_RSTICK_ALL~ to aim at targets.
+
+;0xB83683CC=~s~Take the money back to ~y~Vlad.
+0xB83683CC=~s~Take the money back to ~y~Vlad.
+
+;0xBD9559A3=~s~Press ~INPUT_MELEE_ATTACK2~ or ~INPUT_MELEE_ATTACK3~ to perform a melee attack.
+0xBD9559A3=~s~Press ~INPUT_MELEE_ATTACK2~ or ~INPUT_MELEE_ATTACK3~ to perform a melee attack.
+
+;0xC8945F9A=~s~Convince the ~b~owner~s~ to pay.
+0xC8945F9A=~s~Convince the ~b~owner~s~ to pay.
+
+;0xD2910471=~s~Take the money back to ~y~Vlad.
+0xD2910471=~s~Take the money back to ~y~Vlad.
+
+;0xD57D0B6B=~r~Vlad is dead.
+0xD57D0B6B=~r~Vlad is dead.
+
+;0xDBBA4AD3=~s~Now smash the other ~r~window.
+0xDBBA4AD3=~s~Now smash the other ~r~window.
+
+;0xDC0B958A=~r~The shop owner's son is dead.
+0xDC0B958A=~r~The shop owner's son is dead.
+
+;0xDF0687EA=~s~Press and release ~INPUT_ATTACK~ to throw. The longer you hold ~INPUT_ATTACK~ the further you will throw.
+0xDF0687EA=~s~Press and release ~INPUT_ATTACK~ to throw. The longer you hold ~INPUT_ATTACK~ the further you will throw.
+
+;0xE4485E3A=~s~Make peace with the ~b~owner.
+0xE4485E3A=~s~Make peace with the ~b~owner.
+
+;0xE4788C00=~s~Use ~INPUT_AIM~ to aim.
+0xE4788C00=~s~Use ~INPUT_AIM~ to aim.
+
+;0xEA9FE89E=~s~Make peace with the ~b~owner.
+0xEA9FE89E=~s~Make peace with the ~b~owner.
+
+;0xEBAA37C5=~r~The shop owner is dead.
+0xEBAA37C5=~r~The shop owner is dead.
+
+;0xEEB56FB5=~s~Go to the ~y~shop.
+0xEEB56FB5=~s~Go to the ~y~shop.
+
+;0xF552C818=~r~The shop owner is dead.
+0xF552C818=~r~The shop owner is dead.
+
+;0xF7C6CE0D=~s~Find ~g~something~s~ to throw through the shop window.
+0xF7C6CE0D=~s~Find ~g~something~s~ to throw through the shop window.
+
+;0xFF3391C5=~s~Get the money from the ~b~owner.
+0xFF3391C5=~s~Get the money from the ~b~owner.
+

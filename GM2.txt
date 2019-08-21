@@ -1,0 +1,31 @@
+﻿[GM2]
+;0x0138CD20=Placeholder for Mocap Cutscene.
+0x0138CD20=Placeholder for Mocap Cutscene.
+
+;0x10A86BFF=Find the ~y~meeting point.
+0x10A86BFF=Find the ~y~meeting point.
+
+;0x29A19DE5=~r~You changed out of the hood's clothing.
+0x29A19DE5=~r~You changed out of the hood's clothing.
+
+;0x36F33888=~r~The hood's bike was destroyed.
+0x36F33888=~r~The hood's bike was destroyed.
+
+;0x5A887FB2=~r~The bike was abandoned.
+0x5A887FB2=~r~The bike was abandoned.
+
+;0x8DA621DD=~r~Frankie Garone survived.~s~
+0x8DA621DD=~r~Frankie Garone survived.~s~
+
+;0xA51194C7=Take out ~r~Frankie Garone.
+0xA51194C7=Take out ~r~Frankie Garone.
+
+;0xAC1222D4=Get on the ~b~motorbike.
+0xAC1222D4=Get on the ~b~motorbike.
+
+;0xBF68C975=Find a motorbike.
+0xBF68C975=Find a motorbike.
+
+;0xF5D7365D=Go to the ~y~meeting point.
+0xF5D7365D=Go to the ~y~meeting point.
+

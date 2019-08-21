@@ -1,0 +1,112 @@
+﻿[CSTEAL]
+;0x05EAA663=Location
+0x05EAA663=Location
+
+;0x138D813F=Get the car to the ~y~dropoff point.
+0x138D813F=Get the car to the ~y~dropoff point.
+
+;0x25FC7849=All of the parking spaces were successfully filled.
+0x25FC7849=All of the parking spaces were successfully filled.
+
+;0x2F1DBDAE=Car Type
+0x2F1DBDAE=Car Type
+
+;0x2FB91684=Off
+0x2FB91684=Off
+
+;0x32488833=You have destroyed the vehicle.
+0x32488833=You have destroyed the vehicle.
+
+;0x35B4E2A6=Close
+0x35B4E2A6=Close
+
+;0x3D8BB229=Hard
+0x3D8BB229=Hard
+
+;0x3E85C79C=Delivered Car
+0x3E85C79C=Delivered Car
+
+;0x4896B632=Get the car to the final ~y~dropoff point.
+0x4896B632=Get the car to the final ~y~dropoff point.
+
+;0x57C42880=10 mins
+0x57C42880=10 mins
+
+;0x58C70636=Alderney
+0x58C70636=Alderney
+
+;0x5B53EDB9=Normal
+0x5B53EDB9=Normal
+
+;0x667E45F4=15 mins
+0x667E45F4=15 mins
+
+;0x6C84CCCB=Go and collect a ~g~vehicle.
+0x6C84CCCB=Go and collect a ~g~vehicle.
+
+;0x6D66B6EC=Car Spotted
+0x6D66B6EC=Car Spotted
+
+;0x7297005B=Go and get the ~b~Car.
+0x7297005B=Go and get the ~b~Car.
+
+;0x7DC26F46=Go and get a ~b~vehicle.
+0x7DC26F46=Go and get a ~b~vehicle.
+
+;0x8754E351=Random
+0x8754E351=Random
+
+;0x8BA01A1B=Sports
+0x8BA01A1B=Sports
+
+;0x8BAD121A=Car Spawning
+0x8BAD121A=Car Spawning
+
+;0x9E85BFE6=Regular
+0x9E85BFE6=Regular
+
+;0xA5D55D7A=A ~g~vehicle~s~ containing drugs has been spotted. Go and get it.
+0xA5D55D7A=A ~g~vehicle~s~ containing drugs has been spotted. Go and get it.
+
+;0xB1CC8A5D=Take the car to a ~y~dropoff.
+0xB1CC8A5D=Take the car to a ~y~dropoff.
+
+;0xB989EC0A=30 mins
+0xB989EC0A=30 mins
+
+;0xC45AAB98=Car Destroyed
+0xC45AAB98=Car Destroyed
+
+;0xC5B282A3=Far
+0xC5B282A3=Far
+
+;0xD21B8CFF=A vehicle has been stolen and is being taken to a ~y~dropoff.
+0xD21B8CFF=A vehicle has been stolen and is being taken to a ~y~dropoff.
+
+;0xD46FC12C=Take the car to the ~y~dropoff.
+0xD46FC12C=Take the car to the ~y~dropoff.
+
+;0xDF63936D=Algonquin
+0xDF63936D=Algonquin
+
+;0xE45BEFAA=A.I. Level
+0xE45BEFAA=A.I. Level
+
+;0xEAE5384D=Duration
+0xEAE5384D=Duration
+
+;0xEBE5AE91=Car Entered
+0xEBE5AE91=Car Entered
+
+;0xF174378E=Dukes/Broker
+0xF174378E=Dukes/Broker
+
+;0xF42A113C=The target car has been destroyed.
+0xF42A113C=The target car has been destroyed.
+
+;0xF67A4B20=A vehicle is being taken to the final ~y~dropoff.
+0xF67A4B20=A vehicle is being taken to the final ~y~dropoff.
+
+;0xFF15F515=Get the car stuffed with drugs to the ~y~dropoff point.
+0xFF15F515=Get the car stuffed with drugs to the ~y~dropoff point.
+

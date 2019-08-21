@@ -1,0 +1,55 @@
+﻿[FIN1A]
+;0x17042D16=~s~Go and meet ~b~Phil.
+0x17042D16=~s~Go and meet ~b~Phil.
+
+;0x223344D8=~s~Wait for ~b~Phil.
+0x223344D8=~s~Wait for ~b~Phil.
+
+;0x27D1CEB1=~s~Steal the money from the ~y~office.
+0x27D1CEB1=~s~Steal the money from the ~y~office.
+
+;0x2FE2E037=~s~Phil is in trouble.
+0x2FE2E037=~s~Phil is in trouble.
+
+;0x358F6A2C=~s~Head inside the ~y~docks.
+0x358F6A2C=~s~Head inside the ~y~docks.
+
+;0x3FD08012=~s~Get back to ~b~Phil.
+0x3FD08012=~s~Get back to ~b~Phil.
+
+;0x419C8246=~s~Go to the ~y~docks.
+0x419C8246=~s~Go to the ~y~docks.
+
+;0x4A859420=~b~Phil~s~ is in trouble.
+0x4A859420=~b~Phil~s~ is in trouble.
+
+;0x544428F9=~s~Collect the ~g~money.
+0x544428F9=~s~Collect the ~g~money.
+
+;0x5C1C374D=~s~Take Phil back to ~y~Tudor.
+0x5C1C374D=~s~Take Phil back to ~y~Tudor.
+
+;0x606DBFE8=~s~Follow ~b~Phil.
+0x606DBFE8=~s~Follow ~b~Phil.
+
+;0x6B87577F=~s~Lose your wanted level.
+0x6B87577F=~s~Lose your wanted level.
+
+;0x6E395B7F=~s~Chase after the ~r~buyer.
+0x6E395B7F=~s~Chase after the ~r~buyer.
+
+;0x78C7F200=~r~The buyer got away.
+0x78C7F200=~r~The buyer got away.
+
+;0x7AC37493=~s~Go and help ~b~Phil.
+0x7AC37493=~s~Go and help ~b~Phil.
+
+;0xB33A1E0B=~r~The meeting was broken up.
+0xB33A1E0B=~r~The meeting was broken up.
+
+;0xC19CBAD0=~r~Phil is out of action.
+0xC19CBAD0=~r~Phil is out of action.
+
+;0xF962F1D4=~s~You've left ~b~Phil~s~ behind.
+0xF962F1D4=~s~You've left ~b~Phil~s~ behind.
+

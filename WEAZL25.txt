@@ -1,0 +1,16 @@
+﻿[WEAZL25]
+;0x4CF8956E=Bastardized Benjamins Used To Buy Bombs?
+0x4CF8956E=Bastardized Benjamins Used To Buy Bombs?
+
+;0x7BA7BB24=Fake currency a new terrorist enemy
+0x7BA7BB24=Fake currency a new terrorist enemy
+
+;0x9C6BB56B=Leslie Mitchell
+0x9C6BB56B=Leslie Mitchell
+
+;0xA27525BD=National Office of Security Enforcement agents have intercepted some high quality counterfeit 100-dollar bills abroad. The government is calling these bills 'supernotes' because of the quality of ink and paper being used in their production. While they have only so far been found in Amsterdam and Belfast, authorities believe that the notes are being manufactured with the backing of a national government. Speculation is rampant that this is the work of a terrorist state or a communist power. To this reporter, however, a campaign this cowardly and vindictive points to only one possible perpetrator - France.
+0xA27525BD=National Office of Security Enforcement agents have intercepted some high quality counterfeit 100-dollar bills abroad. The government is calling these bills 'supernotes' because of the quality of ink and paper being used in their production. While they have only so far been found in Amsterdam and Belfast, authorities believe that the notes are being manufactured with the backing of a national government. Speculation is rampant that this is the work of a terrorist state or a communist power. To this reporter, however, a campaign this cowardly and vindictive points to only one possible perpetrator - France.
+
+;0xC741327B=Supernotes found
+0xC741327B=Supernotes found
+

@@ -1,0 +1,67 @@
+﻿[NOOSE]
+;0x093D4CA6=You have collected Petrovic. Take him to the ~Y~safe zone.~S~
+0x093D4CA6=You have collected Petrovic. Take him to the ~Y~safe zone.~S~
+
+;0x1504C65B=Keep the N.O.O.S.E. team away from the jet.
+0x1504C65B=Keep the N.O.O.S.E. team away from the jet.
+
+;0x1700E82D=Petrovic is in the ~B~chopper.~s~ Get in.
+0x1700E82D=Petrovic is in the ~B~chopper.~s~ Get in.
+
+;0x23BA63C6=Find a vehicle and bring it back to Petrovic's jet.
+0x23BA63C6=Find a vehicle and bring it back to Petrovic's jet.
+
+;0x2EB59796=~B~Petrovic~S~ is making a break for the transport. Once he's in, get outta there.
+0x2EB59796=~B~Petrovic~S~ is making a break for the transport. Once he's in, get outta there.
+
+;0x3C70330B=One of your crew has got some transport and it's on its way. Keep ~b~Petrovic~s~ alive until it gets here.
+0x3C70330B=One of your crew has got some transport and it's on its way. Keep ~b~Petrovic~s~ alive until it gets here.
+
+;0x3EE6B41E=The transport is full. Petrovic won't leave the jet unless there is a free seat.
+0x3EE6B41E=The transport is full. Petrovic won't leave the jet unless there is a free seat.
+
+;0x406193C7=~S~Destroy the ~R~pursuing helicopters.~S~
+0x406193C7=~S~Destroy the ~R~pursuing helicopters.~S~
+
+;0x428C614A=Someone has to collect ~B~Petrovic~S~ and take him to the safe zone.
+0x428C614A=Someone has to collect ~B~Petrovic~S~ and take him to the safe zone.
+
+;0x5D14965A=You must find another vehicle to get Petrovic to the ~Y~safe zone.~S~
+0x5D14965A=You must find another vehicle to get Petrovic to the ~Y~safe zone.~S~
+
+;0x5DF4F614=You have got transport, take it back to ~y~Petrovic's jet.~S~
+0x5DF4F614=You have got transport, take it back to ~y~Petrovic's jet.~S~
+
+;0x6F53BAD8=Wait here for the rest of your crew.
+0x6F53BAD8=Wait here for the rest of your crew.
+
+;0x74B9239C=Protect ~B~Petrovic~S~ and find him some transport.
+0x74B9239C=Protect ~B~Petrovic~S~ and find him some transport.
+
+;0x7C5314FE=Clear the area. Petrovic won't come out until it's safe.
+0x7C5314FE=Clear the area. Petrovic won't come out until it's safe.
+
+;0x84CF3488=~B~Petrovic~S~ is vulnerable. Get some transport to the extraction point.
+0x84CF3488=~B~Petrovic~S~ is vulnerable. Get some transport to the extraction point.
+
+;0x894ACCBF=Wait until everyone is in a vehicle and then get out of here.
+0x894ACCBF=Wait until everyone is in a vehicle and then get out of here.
+
+;0xA5EB280E=~S~One of your crew has collected Petrovic. Make your way to the ~Y~safe zone.~S~
+0xA5EB280E=~S~One of your crew has collected Petrovic. Make your way to the ~Y~safe zone.~S~
+
+;0xA9586F08=You must secure the area. Petrovic won't leave the jet while there are cops nearby.
+0xA9586F08=You must secure the area. Petrovic won't leave the jet while there are cops nearby.
+
+;0xC162A1B1=~R~Petrovic is dead.~S~
+0xC162A1B1=~R~Petrovic is dead.~S~
+
+;0xC5933F50=~R~The chopper's been destroyed.~S~
+0xC5933F50=~R~The chopper's been destroyed.~S~
+
+;0xE5C685B9=Petrovic is vulnerable. Get some transport to the ~Y~extraction point.~S~
+0xE5C685B9=Petrovic is vulnerable. Get some transport to the ~Y~extraction point.~S~
+
+;0xFCFA562B=~S~Take Petrovic back to the ~Y~safe zone.~S~
+0xFCFA562B=~S~Take Petrovic back to the ~Y~safe zone.~S~
+

@@ -1,0 +1,136 @@
+﻿[ROMAN9]
+;0x04740CCC=~s~To logout of the computer press ~INPUT_PICKUP~, ~CANCEL~, or click the "LOGOUT" icon on the desktop.
+0x04740CCC=~s~To logout of the computer press ~INPUT_PICKUP~, ~CANCEL~, or click the "LOGOUT" icon on the desktop.
+
+;0x0933180F=~s~Press ~INPUT_MOUSE_LMB~ to click on the "WEB" icon.
+0x0933180F=~s~Press ~INPUT_MOUSE_LMB~ to click on the "WEB" icon.
+
+;0x0B3D2785=~s~This is your Email Inbox. Your Inbox lists all the emails you have received.
+0x0B3D2785=~s~This is your Email Inbox. Your Inbox lists all the emails you have received.
+
+;0x0CF7D82E=~s~Go and use one of the computer terminals.
+0x0CF7D82E=~s~Go and use one of the computer terminals.
+
+;0x147C9244=~s~Move the Pointer to the "WEB" icon, it will change to a Hand when over the icon.
+0x147C9244=~s~Move the Pointer to the "WEB" icon, it will change to a Hand when over the icon.
+
+;0x16B83154=~s~Press ~INPUT_PICKUP~ to go back to the desktop.
+0x16B83154=~s~Press ~INPUT_PICKUP~ to go back to the desktop.
+
+;0x1D0B4B21=~s~To open an email, move the pointer over the sender's name and click by pressing ~ACCEPT~.
+0x1D0B4B21=~s~To open an email, move the pointer over the sender's name and click by pressing ~ACCEPT~.
+
+;0x23274A32=~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
+0x23274A32=~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
+
+;0x2EF5FA0D=~s~Press ~INPUT_FRONTEND_PAUSE~ to go back to the previous page or click the back arrow icon on the browser bar.
+0x2EF5FA0D=~s~Press ~INPUT_FRONTEND_PAUSE~ to go back to the previous page or click the back arrow icon on the browser bar.
+
+;0x3050D780=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to scroll up and down the web page.
+0x3050D780=~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to scroll up and down the web page.
+
+;0x34BE928A=~s~Click the "CHECK MAIL" link to view your mailbox or the envelope icon on the browser bar.
+0x34BE928A=~s~Click the "CHECK MAIL" link to view your mailbox or the envelope icon on the browser bar.
+
+;0x34CD1F84=~s~Go and speak to the ~b~assistant~s~ in the cafe.
+0x34CD1F84=~s~Go and speak to the ~b~assistant~s~ in the cafe.
+
+;0x3534EE4D=~s~The account has been activated.
+0x3534EE4D=~s~The account has been activated.
+
+;0x438FA308=~s~The account has been activated.
+0x438FA308=~s~The account has been activated.
+
+;0x487D8838=~s~To open an email, move the pointer over the sender's name and click by pressing ~ACCEPT~.
+0x487D8838=~s~To open an email, move the pointer over the sender's name and click by pressing ~ACCEPT~.
+
+;0x51F40D2E=~s~Press ~ACCEPT~ to click on the "WEB" icon.
+0x51F40D2E=~s~Press ~ACCEPT~ to click on the "WEB" icon.
+
+;0x578276EE=~s~Leave the internet cafe.
+0x578276EE=~s~Leave the internet cafe.
+
+;0x583BA7B4=~s~This is your Email Inbox. Your Inbox lists all the emails you have received.
+0x583BA7B4=~s~This is your Email Inbox. Your Inbox lists all the emails you have received.
+
+;0x59CDE07C=~s~You're now online. This is the main homepage.
+0x59CDE07C=~s~You're now online. This is the main homepage.
+
+;0x5ECD2D12=~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
+0x5ECD2D12=~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
+
+;0x602FA9A5=~s~Clicking this icon will log you out of the computer.
+0x602FA9A5=~s~Clicking this icon will log you out of the computer.
+
+;0x60365C55=~s~Press ~INPUT_PICKUP~ to go back to the desktop.
+0x60365C55=~s~Press ~INPUT_PICKUP~ to go back to the desktop.
+
+;0x6DE684DD=~s~You're now online. This is the main homepage.
+0x6DE684DD=~s~You're now online. This is the main homepage.
+
+;0x71B6FF56=~s~To logout of the computer press ~INPUT_PICKUP~, ~CANCEL~, or click the "LOGOUT" icon on the desktop.
+0x71B6FF56=~s~To logout of the computer press ~INPUT_PICKUP~, ~CANCEL~, or click the "LOGOUT" icon on the desktop.
+
+;0x7CDE0C7A=~s~Reply to this email and the account will be activated.
+0x7CDE0C7A=~s~Reply to this email and the account will be activated.
+
+;0x7FC76E76=~s~Press ~INPUT_FRONTEND_PAUSE~ to go back to the previous page or click the back arrow icon on the browser bar.
+0x7FC76E76=~s~Press ~INPUT_FRONTEND_PAUSE~ to go back to the previous page or click the back arrow icon on the browser bar.
+
+;0x8676F633=~s~Use ~PAD_LSTICK_ALL~ to move the pointer.
+0x8676F633=~s~Use ~PAD_LSTICK_ALL~ to move the pointer.
+
+;0x89D25442=~s~Clicking the home icon on the browser bar will take you back to the main homepage.
+0x89D25442=~s~Clicking the home icon on the browser bar will take you back to the main homepage.
+
+;0x937CEBFD=~s~The flashing icon on the radar shows the location of the internet cafe.
+0x937CEBFD=~s~The flashing icon on the radar shows the location of the internet cafe.
+
+;0x9607C7FF=~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
+0x9607C7FF=~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
+
+;0xA730611E=~s~You can reply to certain emails using the icons on the right hand side.
+0xA730611E=~s~You can reply to certain emails using the icons on the right hand side.
+
+;0xA76A8F72=~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
+0xA76A8F72=~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
+
+;0xC298B24C=~s~From here you can access your email, view news, weather, dating websites, etc....
+0xC298B24C=~s~From here you can access your email, view news, weather, dating websites, etc....
+
+;0xC8715730=~s~Clicking this will send a "Negative" reply.
+0xC8715730=~s~Clicking this will send a "Negative" reply.
+
+;0xC8A93A61=~s~From here you can access your email, view news, weather, dating websites, etc....
+0xC8A93A61=~s~From here you can access your email, view news, weather, dating websites, etc....
+
+;0xCE0B4931=~s~Click the "CHECK MAIL" link to view your mailbox or the envelope icon on the browser bar.
+0xCE0B4931=~s~Click the "CHECK MAIL" link to view your mailbox or the envelope icon on the browser bar.
+
+;0xD27B2F77=~s~Go back to the internet cafe.
+0xD27B2F77=~s~Go back to the internet cafe.
+
+;0xD5BEF1BF=~s~Clicking this will send a "Positive" reply.
+0xD5BEF1BF=~s~Clicking this will send a "Positive" reply.
+
+;0xDB62DFD4=~s~Use ~PAD_RSTICK_UPDOWN~ to scroll up and down the web page.
+0xDB62DFD4=~s~Use ~PAD_RSTICK_UPDOWN~ to scroll up and down the web page.
+
+;0xDEFCAD6B=~s~Clicking the home icon on the browser bar will take you back to the main homepage.
+0xDEFCAD6B=~s~Clicking the home icon on the browser bar will take you back to the main homepage.
+
+;0xE058EDCC=~s~Use ~PAD_RSTICK_UPDOWN~ to scroll up and down the web page.
+0xE058EDCC=~s~Use ~PAD_RSTICK_UPDOWN~ to scroll up and down the web page.
+
+;0xE0C34740=~s~To logout of the computer press ~INPUT_PICKUP~, ~INPUT_FRONTEND_PAUSE~, or click the "LOGOUT" icon on the desktop.
+0xE0C34740=~s~To logout of the computer press ~INPUT_PICKUP~, ~INPUT_FRONTEND_PAUSE~, or click the "LOGOUT" icon on the desktop.
+
+;0xF0001660=~s~Use ~PAD_RSTICK_ALL~ to move the pointer.
+0xF0001660=~s~Use ~PAD_RSTICK_ALL~ to move the pointer.
+
+;0xF2F54823=~s~To open an email, move the pointer over the sender's name and click by pressing ~INPUT_MOUSE_LMB~.
+0xF2F54823=~s~To open an email, move the pointer over the sender's name and click by pressing ~INPUT_MOUSE_LMB~.
+
+;0xF498614E=~s~Go to the internet cafe.
+0xF498614E=~s~Go to the internet cafe.
+

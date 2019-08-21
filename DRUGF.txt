@@ -1,0 +1,34 @@
+﻿[DRUGF]
+;0x0A76696E=Make your way to ~Y~the deal.~S~
+0x0A76696E=Make your way to ~Y~the deal.~S~
+
+;0x0A95FF66=Some bikers are escaping by boat. There are boats moored around the shoreline should you need them.
+0x0A95FF66=Some bikers are escaping by boat. There are boats moored around the shoreline should you need them.
+
+;0x2ED33227=Take a look around. Find the deal.
+0x2ED33227=Take a look around. Find the deal.
+
+;0x35C8810C=Get back to the ~Y~rendezvous point.~S~
+0x35C8810C=Get back to the ~Y~rendezvous point.~S~
+
+;0x37F8BF09=~R~Some of the witnesses escaped.~S~
+0x37F8BF09=~R~Some of the witnesses escaped.~S~
+
+;0x545212DD=Collect all of the ~G~drugs~S~ the targets drop.
+0x545212DD=Collect all of the ~G~drugs~S~ the targets drop.
+
+;0x62852F43=You've found the deal. The ~r~targets~s~ are spread over every floor of this building. Work your way up, clear them out.
+0x62852F43=You've found the deal. The ~r~targets~s~ are spread over every floor of this building. Work your way up, clear them out.
+
+;0x9B4D20D6=Eliminate the fleeing ~R~bikers.~S~
+0x9B4D20D6=Eliminate the fleeing ~R~bikers.~S~
+
+;0x9FA2D44F=Wait here for the rest of your crew to arrive.
+0x9FA2D44F=Wait here for the rest of your crew to arrive.
+
+;0xD566950C=You've taken the drugs and eliminated the witnesses. Get to the ~Y~rendezvous point.~S~
+0xD566950C=You've taken the drugs and eliminated the witnesses. Get to the ~Y~rendezvous point.~S~
+
+;0xD8CC1BD3=The remaining ~R~Angels of Death~S~ are fleeing. Eliminate them.
+0xD8CC1BD3=The remaining ~R~Angels of Death~S~ are fleeing. Eliminate them.
+

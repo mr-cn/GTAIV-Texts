@@ -1,0 +1,22 @@
+﻿[JIMMY2]
+;0x04DBA6C7=Wipe ~r~them~s~ all out.
+0x04DBA6C7=Wipe ~r~them~s~ all out.
+
+;0x0A70325C=Chase the ~r~Pavanos.
+0x0A70325C=Chase the ~r~Pavanos.
+
+;0x1E6DD9EB=~r~The Pavanos got away.
+0x1E6DD9EB=~r~The Pavanos got away.
+
+;0x234AE3A5=You will need a vehicle.
+0x234AE3A5=You will need a vehicle.
+
+;0x4F30BB70=Drive to the ~y~diner.
+0x4F30BB70=Drive to the ~y~diner.
+
+;0xE89FEE48=Lose your wanted level.
+0xE89FEE48=Lose your wanted level.
+
+;0xF1E100D2=Get out of the showroom before the cops arrive.
+0xF1E100D2=Get out of the showroom before the cops arrive.
+

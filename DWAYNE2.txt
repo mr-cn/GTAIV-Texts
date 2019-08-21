@@ -1,0 +1,22 @@
+﻿[DWAYNE2]
+;0x2A55C02A=~s~ Find Jayvon and Bernice in the ~y~arcade~s~!
+0x2A55C02A=~s~ Find Jayvon and Bernice in the ~y~arcade~s~!
+
+;0x3D3FE745=~s~Get out of the Arcade!
+0x3D3FE745=~s~Get out of the Arcade!
+
+;0xA15F6257=~s~Kill the ~r~Gang~s~!
+0xA15F6257=~s~Kill the ~r~Gang~s~!
+
+;0xAF3A06BE=~s~Go downstairs to the ~y~Office~s~!
+0xAF3A06BE=~s~Go downstairs to the ~y~Office~s~!
+
+;0xB0811D17=~s~Get Dwayne's ~r~Ex~s~!
+0xB0811D17=~s~Get Dwayne's ~r~Ex~s~!
+
+;0xD89D3A78=~s~Go to the ~y~video arcade~s~!
+0xD89D3A78=~s~Go to the ~y~video arcade~s~!
+
+;0xDB299E24=~s~Take out the ~r~gang~s~!
+0xDB299E24=~s~Take out the ~r~gang~s~!
+

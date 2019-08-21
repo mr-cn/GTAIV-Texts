@@ -1,0 +1,112 @@
+﻿[MANNY1]
+;0x01D71795=~s~Get in a vehicle other than a boat.
+0x01D71795=~s~Get in a vehicle other than a boat.
+
+;0x0B6D80B4=Don't get too close or the dealer will spot you.
+0x0B6D80B4=Don't get too close or the dealer will spot you.
+
+;0x0F37B885=To immediately equip weapons use quick swap.~n~Hold ~INPUT_PICKUP~ and press a direction on ~PAD_DPAD_ALL~.
+0x0F37B885=To immediately equip weapons use quick swap.~n~Hold ~INPUT_PICKUP~ and press a direction on ~PAD_DPAD_ALL~.
+
+;0x16A3475C=Press ~PAD_DPAD_RIGHT~ for projectiles, press ~PAD_DPAD_DOWN~ for shotguns, press ~PAD_DPAD_LEFT~ for pistols, and press ~PAD_DPAD_UP~ to switch between assault rifle and submachine gun.
+0x16A3475C=Press ~PAD_DPAD_RIGHT~ for projectiles, press ~PAD_DPAD_DOWN~ for shotguns, press ~PAD_DPAD_LEFT~ for pistols, and press ~PAD_DPAD_UP~ to switch between assault rifle and submachine gun.
+
+;0x1B8EC614=~r~The dealer saw you.~s~
+0x1B8EC614=~r~The dealer saw you.~s~
+
+;0x29ABB5F9=~s~Leave the warehouse.
+0x29ABB5F9=~s~Leave the warehouse.
+
+;0x3E520B83=~s~Shoot out the ~g~door.~s~
+0x3E520B83=~s~Shoot out the ~g~door.~s~
+
+;0x4B1DA5A6=~s~The ~r~dealer~s~ went into the warehouse, get him.
+0x4B1DA5A6=~s~The ~r~dealer~s~ went into the warehouse, get him.
+
+;0x54FE60CB=~s~The door is locked.
+0x54FE60CB=~s~The door is locked.
+
+;0x565B926B=Press ~PAD_X~ to focus on the dealer's car.
+0x565B926B=Press ~PAD_X~ to focus on the dealer's car.
+
+;0x5CE153D7=Each direction on ~PAD_DPAD_ALL~ will bring up a different type of weapon.
+0x5CE153D7=Each direction on ~PAD_DPAD_ALL~ will bring up a different type of weapon.
+
+;0x5FD6B352=~s~Get back to ~b~Manny~s~ before he leaves.
+0x5FD6B352=~s~Get back to ~b~Manny~s~ before he leaves.
+
+;0x73853E7D=~r~The dealer got away.~s~
+0x73853E7D=~r~The dealer got away.~s~
+
+;0x80726AC0=Don't fire your weapon or do anything to attract attention.
+0x80726AC0=Don't fire your weapon or do anything to attract attention.
+
+;0x92C31E87=~s~Go to the ~y~dealer's place~s~ with Manny.
+0x92C31E87=~s~Go to the ~y~dealer's place~s~ with Manny.
+
+;0x97CC4CC0=~s~Shoot out the door.
+0x97CC4CC0=~s~Shoot out the door.
+
+;0x9DE93073=~s~Follow the ~r~dealer~s~ to the meet, don't let him know you're following him.
+0x9DE93073=~s~Follow the ~r~dealer~s~ to the meet, don't let him know you're following him.
+
+;0xA0335DD1=~s~Wipe out all the ~r~dealers.
+0xA0335DD1=~s~Wipe out all the ~r~dealers.
+
+;0xA1744AF4=~s~Choose the ~b~last man's~s~ fate.
+0xA1744AF4=~s~Choose the ~b~last man's~s~ fate.
+
+;0xAC3B1C57=~r~You've lost Manny.~s~
+0xAC3B1C57=~r~You've lost Manny.~s~
+
+;0xB037B8F0=~r~You damaged the dealer's car.~s~
+0xB037B8F0=~r~You damaged the dealer's car.~s~
+
+;0xB312DF73=~r~You spooked the dealer.~s~
+0xB312DF73=~r~You spooked the dealer.~s~
+
+;0xBCC139DC=~s~Lose your wanted level.
+0xBCC139DC=~s~Lose your wanted level.
+
+;0xBE06EF24=PLACEHOLDER FOR MOCAP CUTSCENE
+0xBE06EF24=PLACEHOLDER FOR MOCAP CUTSCENE
+
+;0xC046A69A=~s~Get in a vehicle other than a bus.
+0xC046A69A=~s~Get in a vehicle other than a bus.
+
+;0xC40A7596=~s~Get in a vehicle with Manny.
+0xC40A7596=~s~Get in a vehicle with Manny.
+
+;0xC5B81132=~r~Manny is dead.~s~
+0xC5B81132=~r~Manny is dead.~s~
+
+;0xC644149F=~s~Choose the ~r~last man's~s~ fate.
+0xC644149F=~s~Choose the ~r~last man's~s~ fate.
+
+;0xCD8D615F=~s~Park ~y~behind~s~ the dealer.
+0xCD8D615F=~s~Park ~y~behind~s~ the dealer.
+
+;0xDA95D83F=~s~Don't get too close to the ~r~dealer~s~ or he'll spot you. Back off.
+0xDA95D83F=~s~Don't get too close to the ~r~dealer~s~ or he'll spot you. Back off.
+
+;0xDB2C3131=~r~You left the deal.~s~
+0xDB2C3131=~r~You left the deal.~s~
+
+;0xDEE99D92=~s~Follow the ~r~dealer~s~ to the meet.
+0xDEE99D92=~s~Follow the ~r~dealer~s~ to the meet.
+
+;0xDFB2EA54=~s~Get in a vehicle other than a helicopter.
+0xDFB2EA54=~s~Get in a vehicle other than a helicopter.
+
+;0xE9D2C690=~s~Take down the ~r~dealer.
+0xE9D2C690=~s~Take down the ~r~dealer.
+
+;0xEB4C2643=~s~Make sure the ~y~warehouse~s~ is clear.
+0xEB4C2643=~s~Make sure the ~y~warehouse~s~ is clear.
+
+;0xED440C81=~r~You got a wanted level.~s~
+0xED440C81=~r~You got a wanted level.~s~
+
+;0xF7A7686B=~s~Don't leave ~b~Manny~s~ behind.
+0xF7A7686B=~s~Don't leave ~b~Manny~s~ behind.
+

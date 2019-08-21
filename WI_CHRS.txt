@@ -1,0 +1,31 @@
+﻿[WI_CHRS]
+;0x0E3CEE4F=Wait for Cherise.
+0x0E3CEE4F=Wait for Cherise.
+
+;0x2497FBC3=~r~Cherise's boyfriend is still out there.
+0x2497FBC3=~r~Cherise's boyfriend is still out there.
+
+;0x32519896=Pick up ~b~Cherise.
+0x32519896=Pick up ~b~Cherise.
+
+;0xAE38AE48=Take Cherise to ~y~Frankfort Ave.
+0xAE38AE48=Take Cherise to ~y~Frankfort Ave.
+
+;0xBCAB4B2D=Get a vehicle.
+0xBCAB4B2D=Get a vehicle.
+
+;0xC80ACEEA=~r~Cherise's boyfriend is dead.
+0xC80ACEEA=~r~Cherise's boyfriend is dead.
+
+;0xE05DAE1B=~r~Cherise is dead.
+0xE05DAE1B=~r~Cherise is dead.
+
+;0xE362189A=Go and talk to ~b~Cherise.
+0xE362189A=Go and talk to ~b~Cherise.
+
+;0xF1FF9EB7=~r~You injured Cherise.
+0xF1FF9EB7=~r~You injured Cherise.
+
+;0xFFE5D1A1=Go and talk to ~r~Cherise's boyfriend.
+0xFFE5D1A1=Go and talk to ~r~Cherise's boyfriend.
+

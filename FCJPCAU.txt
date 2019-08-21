@@ -1,0 +1,697 @@
+﻿[FCJPCAU]
+;0x001AA9F4=~z~Mek we play pool again? So soon? Nah man.
+0x001AA9F4=~z~Mek we play pool again? So soon? Nah man.
+
+;0x00D1966E=FCJ_ACT_CALL_DRINK_NO_GENERAL
+0x00D1966E=FCJ_ACT_CALL_DRINK_NO_GENERAL
+
+;0x02E15B4E=~z~Nah, man. Maybe later.
+0x02E15B4E=~z~Nah, man. Maybe later.
+
+;0x03E68778=010
+0x03E68778=010
+
+;0x0414EC51=100
+0x0414EC51=100
+
+;0x044A98B5=~z~Great - see you in a bit Jacob.
+0x044A98B5=~z~Great - see you in a bit Jacob.
+
+;0x04DAB7AC=~z~Nah man, we went drinking the other day, man. Maybe a next time.
+0x04DAB7AC=~z~Nah man, we went drinking the other day, man. Maybe a next time.
+
+;0x04FAC1D1=~z~Again? What's wrong with you, Niko? Him love the skettels y'know! Maybe later.
+0x04FAC1D1=~z~Again? What's wrong with you, Niko? Him love the skettels y'know! Maybe later.
+
+;0x05039000=~z~Alright den, maybe a next time. Gwan man.
+0x05039000=~z~Alright den, maybe a next time. Gwan man.
+
+;0x0685373D=~z~I got some free time. You wanna go to a show?
+0x0685373D=~z~I got some free time. You wanna go to a show?
+
+;0x07512845=~z~Not now, rasta, maybe later.
+0x07512845=~z~Not now, rasta, maybe later.
+
+;0x082FB1CD=~z~Niko, me tink you dead or something!
+0x082FB1CD=~z~Niko, me tink you dead or something!
+
+;0x0833CAF1=FCJ_ACT_CALL_DRINK_YES
+0x0833CAF1=FCJ_ACT_CALL_DRINK_YES
+
+;0x0A7B43C2=~z~Why don't you and me hit up a gentlemen's club?
+0x0A7B43C2=~z~Why don't you and me hit up a gentlemen's club?
+
+;0x0B1071CE=~z~Yeah man, me hungry, man. Me need some food. Pick me up in about a hour.
+0x0B1071CE=~z~Yeah man, me hungry, man. Me need some food. Pick me up in about a hour.
+
+;0x0DE3FCD6=~z~Niko? Me can't hear from you. Me tink you inna trouble or something?
+0x0DE3FCD6=~z~Niko? Me can't hear from you. Me tink you inna trouble or something?
+
+;0x0FAA0062=~z~Niko, me think you gwan away, man. You haven't called in a long time.
+0x0FAA0062=~z~Niko, me think you gwan away, man. You haven't called in a long time.
+
+;0x1054C631=100
+0x1054C631=100
+
+;0x109AF266=FCJ_ACT_PLJ_CALL_DARTS
+0x109AF266=FCJ_ACT_PLJ_CALL_DARTS
+
+;0x10E186EB=SFX_MACHINE_BEEP
+0x10E186EB=SFX_MACHINE_BEEP
+
+;0x11DC4D77=~z~Nah man, did we nuh just play, man? Maybe later.
+0x11DC4D77=~z~Nah man, did we nuh just play, man? Maybe later.
+
+;0x12D4A453=FCJ_ACT_CALL_POOL_YES
+0x12D4A453=FCJ_ACT_CALL_POOL_YES
+
+;0x134825F3=~z~Jacob, I'm sorry, I ain't going to be making the meal. Something has come up.
+0x134825F3=~z~Jacob, I'm sorry, I ain't going to be making the meal. Something has come up.
+
+;0x13EB610B=~z~No problem, star - another time.
+0x13EB610B=~z~No problem, star - another time.
+
+;0x1541C3A5=FCJ_ACT_CALL_POOL_NO_GENERAL
+0x1541C3A5=FCJ_ACT_CALL_POOL_NO_GENERAL
+
+;0x162518CB=~z~Mek we go the strip club? Nah, ram goat.
+0x162518CB=~z~Mek we go the strip club? Nah, ram goat.
+
+;0x16BE79E2=100
+0x16BE79E2=100
+
+;0x17D89897=100
+0x17D89897=100
+
+;0x191F8A01=~z~No, me play recent - maybe later, star.
+0x191F8A01=~z~No, me play recent - maybe later, star.
+
+;0x192AF8A0=100
+0x192AF8A0=100
+
+;0x19C355D5=FCJ_ACT_PLJ_CALL_DARTS_CANCEL
+0x19C355D5=FCJ_ACT_PLJ_CALL_DARTS_CANCEL
+
+;0x1B7660AB=~z~Mek we play pool? Maybe later?
+0x1B7660AB=~z~Mek we play pool? Maybe later?
+
+;0x1C38E73D=~z~I feel like checking some girls out. You want to go to a strip club with me?
+0x1C38E73D=~z~I feel like checking some girls out. You want to go to a strip club with me?
+
+;0x1D5EDC2B=~z~Me man still alive here, rasta?
+0x1D5EDC2B=~z~Me man still alive here, rasta?
+
+;0x1F314AB9=FCJ_ACT_CALL_STRIP_YES
+0x1F314AB9=FCJ_ACT_CALL_STRIP_YES
+
+;0x1FD2D9B3=~z~Hello, Jacob.
+0x1FD2D9B3=~z~Hello, Jacob.
+
+;0x21D6870C=~z~No pool right now - mek we play a lickle later or something.
+0x21D6870C=~z~No pool right now - mek we play a lickle later or something.
+
+;0x2389068B=010
+0x2389068B=010
+
+;0x23B4F91B=~z~I'm a lickle busy just now, y'know - maybe later, star.
+0x23B4F91B=~z~I'm a lickle busy just now, y'know - maybe later, star.
+
+;0x2421FA5B=FCJ_ACT_PLJ_CALL_EAT
+0x2421FA5B=FCJ_ACT_PLJ_CALL_EAT
+
+;0x24D4E510=FCJ_ACT_PLJ_CALL_REJECTED
+0x24D4E510=FCJ_ACT_PLJ_CALL_REJECTED
+
+;0x2664EACF=FCJ_ACT_CALL_IRATE
+0x2664EACF=FCJ_ACT_CALL_IRATE
+
+;0x2667E21B=~z~Everything cook and curry, so why not, star?
+0x2667E21B=~z~Everything cook and curry, so why not, star?
+
+;0x28307E57=~z~All you wanna do is drink, man - maybe later.
+0x28307E57=~z~All you wanna do is drink, man - maybe later.
+
+;0x2962BF46=~z~Me can't go look pon some umoden right now y'know, ram goat. Maybe later.
+0x2962BF46=~z~Me can't go look pon some umoden right now y'know, ram goat. Maybe later.
+
+;0x2998F775=100
+0x2998F775=100
+
+;0x2A6E17FB=FCJ_ACT_PLJ_CALL_POOL_CANCEL
+0x2A6E17FB=FCJ_ACT_PLJ_CALL_POOL_CANCEL
+
+;0x2A8506BB=~z~No, rasta, not now, maybe later.
+0x2A8506BB=~z~No, rasta, not now, maybe later.
+
+;0x2AAD51C9=~z~Yes, rasta, for sure. I and I wait an hour for the I, seen.
+0x2AAD51C9=~z~Yes, rasta, for sure. I and I wait an hour for the I, seen.
+
+;0x2B6D2E9C=~z~No star - we play recently - another time.
+0x2B6D2E9C=~z~No star - we play recently - another time.
+
+;0x2CDE4ED7=~z~Mek me look at the girl den. Why not.
+0x2CDE4ED7=~z~Mek me look at the girl den. Why not.
+
+;0x2D1FF44D=~z~Jacob, it's me, Niko.
+0x2D1FF44D=~z~Jacob, it's me, Niko.
+
+;0x2D68899C=~z~You want to come to a strip club with me?
+0x2D68899C=~z~You want to come to a strip club with me?
+
+;0x2DD73330=100100100
+0x2DD73330=100100100
+
+;0x300993A6=~z~Nah, man. All ya wanna do is full me belly up, man - maybe later.
+0x300993A6=~z~Nah, man. All ya wanna do is full me belly up, man - maybe later.
+
+;0x32F14F1E=~z~Sure, rasta - pick me up in about a hour.
+0x32F14F1E=~z~Sure, rasta - pick me up in about a hour.
+
+;0x35F1192F=~z~Okay, Jacob. I'll call again soon.
+0x35F1192F=~z~Okay, Jacob. I'll call again soon.
+
+;0x36E18279=~z~Any chance you can play a bit of pool?
+0x36E18279=~z~Any chance you can play a bit of pool?
+
+;0x371B6A7A=~z~You wanna get something to eat?
+0x371B6A7A=~z~You wanna get something to eat?
+
+;0x38A1A5A2=FCJ_ACT_CALL_LIKEYES
+0x38A1A5A2=FCJ_ACT_CALL_LIKEYES
+
+;0x3A31A474=010
+0x3A31A474=010
+
+;0x3ABAB8D4=~z~No, I and I too busy for pool just now, y'know. Call me later or something.
+0x3ABAB8D4=~z~No, I and I too busy for pool just now, y'know. Call me later or something.
+
+;0x3BED645B=~z~Maybe later, ram goat. Me too busy for that right now.
+0x3BED645B=~z~Maybe later, ram goat. Me too busy for that right now.
+
+;0x3C1EED58=~z~Sure thing, ram goat. I wait for an hour for the I.
+0x3C1EED58=~z~Sure thing, ram goat. I wait for an hour for the I.
+
+;0x3CFD8A1A=~z~Good. I'll be there in a bit.
+0x3CFD8A1A=~z~Good. I'll be there in a bit.
+
+;0x3FC5AE56=~z~You feel like coming to a strip club with me? Relieve some tension...
+0x3FC5AE56=~z~You feel like coming to a strip club with me? Relieve some tension...
+
+;0x447A4C53=~z~No, star. Me a lickle busy, man. Call me later.
+0x447A4C53=~z~No, star. Me a lickle busy, man. Call me later.
+
+;0x44CD6547=~z~Sure, me hungry, man. Just pick me up.
+0x44CD6547=~z~Sure, me hungry, man. Just pick me up.
+
+;0x4524F4A9=FCJ_ACT_PLJ_CALL_LOLIKE
+0x4524F4A9=FCJ_ACT_PLJ_CALL_LOLIKE
+
+;0x459BBECA=~z~Niko. Maybe later.
+0x459BBECA=~z~Niko. Maybe later.
+
+;0x45C487CC=~z~You want to get a meal or something?
+0x45C487CC=~z~You want to get a meal or something?
+
+;0x48A52600=~z~You wanna play some pool, man?
+0x48A52600=~z~You wanna play some pool, man?
+
+;0x48AE4310=~z~Nah, breda - me not have time for deal with the I y'know, still vexed with I y'know, star, for real. Call me back after me done fe? Let me relax or something.
+0x48AE4310=~z~Nah, breda - me not have time for deal with the I y'know, still vexed with I y'know, star, for real. Call me back after me done fe? Let me relax or something.
+
+;0x4988E479=FCJ_ACT_PLJ_CALL_EAT_CANCEL
+0x4988E479=FCJ_ACT_PLJ_CALL_EAT_CANCEL
+
+;0x4A455AA8=FCJ_ACT_PLJ_CALL_GREET
+0x4A455AA8=FCJ_ACT_PLJ_CALL_GREET
+
+;0x4C82D7E0=100
+0x4C82D7E0=100
+
+;0x4F342E87=~z~Good - I'll come get you.
+0x4F342E87=~z~Good - I'll come get you.
+
+;0x4F940371=100
+0x4F940371=100
+
+;0x4F961849=010
+0x4F961849=010
+
+;0x51003A02=FCJ_ACT_PLJ_CALL_DRINK
+0x51003A02=FCJ_ACT_PLJ_CALL_DRINK
+
+;0x5181D050=~z~Okay, no problem. Another time.
+0x5181D050=~z~Okay, no problem. Another time.
+
+;0x51E587AA=FCJ_ACT_CALL_EAT_NO_GENERAL
+0x51E587AA=FCJ_ACT_CALL_EAT_NO_GENERAL
+
+;0x52171D0C=~z~So, you wanna go for a drink?
+0x52171D0C=~z~So, you wanna go for a drink?
+
+;0x52C6505C=010
+0x52C6505C=010
+
+;0x53972371=~z~You wanna get some food, man?
+0x53972371=~z~You wanna get some food, man?
+
+;0x54545A59=~z~Maybe later, star.
+0x54545A59=~z~Maybe later, star.
+
+;0x54BC53B6=~z~I'm bored. You got time to go to a show?
+0x54BC53B6=~z~I'm bored. You got time to go to a show?
+
+;0x553DF660=FCJ_ACT_PLJ_CALL_HILIKE
+0x553DF660=FCJ_ACT_PLJ_CALL_HILIKE
+
+;0x5634162B=010
+0x5634162B=010
+
+;0x56F8C3D2=010
+0x56F8C3D2=010
+
+;0x57B0F7D3=~z~Yeah - me asleep, man. Call me back 'bout two o'clock or something, seen?
+0x57B0F7D3=~z~Yeah - me asleep, man. Call me back 'bout two o'clock or something, seen?
+
+;0x58F56E0B=~z~I won't be able to make that show, man.
+0x58F56E0B=~z~I won't be able to make that show, man.
+
+;0x5938BFC8=FCJ_ACT_PLJ_CALL_SLEEPING
+0x5938BFC8=FCJ_ACT_PLJ_CALL_SLEEPING
+
+;0x5948FD77=~z~Yeah, I'm busy. Call me back.
+0x5948FD77=~z~Yeah, I'm busy. Call me back.
+
+;0x5B05E7BF=~z~Nah man, me not take no more disrespect from you, man. Just call me back after me relax or something.
+0x5B05E7BF=~z~Nah man, me not take no more disrespect from you, man. Just call me back after me relax or something.
+
+;0x5C0F8F86=FCJ_ACT_PLJ_CALL_LIFT_CANCEL
+0x5C0F8F86=FCJ_ACT_PLJ_CALL_LIFT_CANCEL
+
+;0x5C35AE7E=010
+0x5C35AE7E=010
+
+;0x5C56351A=~z~Sure, why not? Come get me inna the next hour.
+0x5C56351A=~z~Sure, why not? Come get me inna the next hour.
+
+;0x612A579F=~z~Yeah, man. Pick me up inna my place inna one hour.
+0x612A579F=~z~Yeah, man. Pick me up inna my place inna one hour.
+
+;0x61ED6E18=~z~You want to go a show or something?
+0x61ED6E18=~z~You want to go a show or something?
+
+;0x629F5EE0=~z~Not now, star - another time.
+0x629F5EE0=~z~Not now, star - another time.
+
+;0x63EAF986=~z~No - me can't play darts right now, star, maybe later.
+0x63EAF986=~z~No - me can't play darts right now, star, maybe later.
+
+;0x6642613A=~z~Any interest in playing pool?
+0x6642613A=~z~Any interest in playing pool?
+
+;0x6710420C=FCJ_ACT_PLJ_CALL_POOL
+0x6710420C=FCJ_ACT_PLJ_CALL_POOL
+
+;0x677158CC=100
+0x677158CC=100
+
+;0x685138E6=100
+0x685138E6=100
+
+;0x6945538E=FCJ_ACT_CALL_EAT_NO_RECENT
+0x6945538E=FCJ_ACT_CALL_EAT_NO_RECENT
+
+;0x6F04F354=~z~Why not, rasta? Be at my place for one hour.
+0x6F04F354=~z~Why not, rasta? Be at my place for one hour.
+
+;0x71571A88=~z~Maybe later, star. Me can't deal with them tings again so soon.
+0x71571A88=~z~Maybe later, star. Me can't deal with them tings again so soon.
+
+;0x770F62A1=FCJ_ACT_CALL_STRIP_NO_GENERAL
+0x770F62A1=FCJ_ACT_CALL_STRIP_NO_GENERAL
+
+;0x774AB712=~z~Yeah man, me asleep man. Call me back 'bout two o'clock, seen?
+0x774AB712=~z~Yeah man, me asleep man. Call me back 'bout two o'clock, seen?
+
+;0x780B09B6=~z~I won't be making the trip to the skin club, Jacob. I'm having a few problems.
+0x780B09B6=~z~I won't be making the trip to the skin club, Jacob. I'm having a few problems.
+
+;0x7AC3301D=FCJ_ACT_CALL_STRIP_NO_RECENT
+0x7AC3301D=FCJ_ACT_CALL_STRIP_NO_RECENT
+
+;0x7BD76462=~z~Nah, ram goat, maybe later.
+0x7BD76462=~z~Nah, ram goat, maybe later.
+
+;0x7F0D5E97=~z~Jacob, listen, I'm sorry, but I ain't going to be able to go out drinking.
+0x7F0D5E97=~z~Jacob, listen, I'm sorry, but I ain't going to be able to go out drinking.
+
+;0x821A90B1=010
+0x821A90B1=010
+
+;0x83A2B495=~z~Okay, man. Another time.
+0x83A2B495=~z~Okay, man. Another time.
+
+;0x844CEC23=~z~Some other time - did we nuh just go a' the show?
+0x844CEC23=~z~Some other time - did we nuh just go a' the show?
+
+;0x851041FA=~z~Again? So soon? Ram goat - maybe later.
+0x851041FA=~z~Again? So soon? Ram goat - maybe later.
+
+;0x8511498B=~z~Why not? Pick me up in about a hour - me play.
+0x8511498B=~z~Why not? Pick me up in about a hour - me play.
+
+;0x85694A7C=~z~So, you got any interest in a game of darts?
+0x85694A7C=~z~So, you got any interest in a game of darts?
+
+;0x87601EDE=~z~Great - see you soon.
+0x87601EDE=~z~Great - see you soon.
+
+;0x87E96793=~z~Did we nuh just play arrows?
+0x87E96793=~z~Did we nuh just play arrows?
+
+;0x8AECC329=~z~No problem, let's play soon.
+0x8AECC329=~z~No problem, let's play soon.
+
+;0x8C39C138=100
+0x8C39C138=100
+
+;0x8C9D026C=~z~Niko, sure - pick me up.
+0x8C9D026C=~z~Niko, sure - pick me up.
+
+;0x8D413AF4=FCJ_ACT_PLJ_CALL_SHOW_CANCEL
+0x8D413AF4=FCJ_ACT_PLJ_CALL_SHOW_CANCEL
+
+;0x8D6E2F1C=FCJ_ACT_CALL_SHOW_NO_RECENT
+0x8D6E2F1C=FCJ_ACT_CALL_SHOW_NO_RECENT
+
+;0x8E8E7B25=010
+0x8E8E7B25=010
+
+;0x8F2CB86D=~z~Hey there, Jacob.
+0x8F2CB86D=~z~Hey there, Jacob.
+
+;0x8F3A938E=~z~Rasta want a ketchy shuby? Sure thing. Pick me up in about a hour.
+0x8F3A938E=~z~Rasta want a ketchy shuby? Sure thing. Pick me up in about a hour.
+
+;0x90953071=100
+0x90953071=100
+
+;0x91263B5D=010
+0x91263B5D=010
+
+;0x95A980DC=~z~Me a lickle bit busy right now y'know, breda. Maybe later.
+0x95A980DC=~z~Me a lickle bit busy right now y'know, breda. Maybe later.
+
+;0x96DEA935=FCJ_ACT_CALL_DARTS_YES
+0x96DEA935=FCJ_ACT_CALL_DARTS_YES
+
+;0x97335250=FCJ_ACT_PLJ_CALL_MEDLIKE
+0x97335250=FCJ_ACT_PLJ_CALL_MEDLIKE
+
+;0x98522981=~z~You wanna have a drink man?
+0x98522981=~z~You wanna have a drink man?
+
+;0x989B43BE=~z~Yeah man, everything cris now, ye done know. Pick me up later, rudeboy.
+0x989B43BE=~z~Yeah man, everything cris now, ye done know. Pick me up later, rudeboy.
+
+;0x99A7436C=~z~Excellent - I am on my way, Jacob.
+0x99A7436C=~z~Excellent - I am on my way, Jacob.
+
+;0x99D82BB8=FCJ_ACT_CALL_SHOW_NO_GENERAL
+0x99D82BB8=FCJ_ACT_CALL_SHOW_NO_GENERAL
+
+;0x9B41762C=~z~You wanna go play darts man?
+0x9B41762C=~z~You wanna go play darts man?
+
+;0x9BF11B6B=~z~Not too soon, rasta, another time.
+0x9BF11B6B=~z~Not too soon, rasta, another time.
+
+;0x9D613704=~z~You wanna get some food?
+0x9D613704=~z~You wanna get some food?
+
+;0x9DCD4F2A=~z~Alright, thanks for that, yeah? Me apprieciate that, yeah, yeah, uhuh, yeah alright, cool.
+0x9DCD4F2A=~z~Alright, thanks for that, yeah? Me apprieciate that, yeah, yeah, uhuh, yeah alright, cool.
+
+;0x9EC7A6C1=~z~Okay, man, pick me up in about a hour.
+0x9EC7A6C1=~z~Okay, man, pick me up in about a hour.
+
+;0xA2EFDA94=~z~You got time for a game of pool?
+0xA2EFDA94=~z~You got time for a game of pool?
+
+;0xA495F2E7=100
+0xA495F2E7=100
+
+;0xA5C44465=~z~Wanna hang out, have a drink or something?
+0xA5C44465=~z~Wanna hang out, have a drink or something?
+
+;0xA5F50520=~z~No worries, man - everything cris.
+0xA5F50520=~z~No worries, man - everything cris.
+
+;0xA8E2EA7C=FCJ_ACT_CALL_SLEEP_REPLY
+0xA8E2EA7C=FCJ_ACT_CALL_SLEEP_REPLY
+
+;0xAB2015E9=~z~You got time for a quick game of darts?
+0xAB2015E9=~z~You got time for a quick game of darts?
+
+;0xAE759BE1=010
+0xAE759BE1=010
+
+;0xAED83574=~z~Mek we play darts? Did we nuh just play recent?
+0xAED83574=~z~Mek we play darts? Did we nuh just play recent?
+
+;0xAF5C7859=~z~Yo, no feel no way, but me can't have a drink right now.
+0xAF5C7859=~z~Yo, no feel no way, but me can't have a drink right now.
+
+;0xB006139D=~z~Nah, man. All you wanna do is eat, eat, eat, eat, eat, eat - maybe later.
+0xB006139D=~z~Nah, man. All you wanna do is eat, eat, eat, eat, eat, eat - maybe later.
+
+;0xB100CB33=~z~Mek we go a' de show? Why not. Pick me up.
+0xB100CB33=~z~Mek we go a' de show? Why not. Pick me up.
+
+;0xB159D465=FCJ_ACT_ANSWER_PHONE
+0xB159D465=FCJ_ACT_ANSWER_PHONE
+
+;0xB43AA78D=~z~Sure, man - just pick me up in about a hour.
+0xB43AA78D=~z~Sure, man - just pick me up in about a hour.
+
+;0xB4A75052=100
+0xB4A75052=100
+
+;0xB77D4F3E=~z~Sorry, I've got to back out of the drinking.
+0xB77D4F3E=~z~Sorry, I've got to back out of the drinking.
+
+;0xB8ADFB78=010
+0xB8ADFB78=010
+
+;0xB8DEB166=~z~You wanna play some darts?
+0xB8DEB166=~z~You wanna play some darts?
+
+;0xB8EC77ED=FCJ_ACT_CALL_SHOW_YES
+0xB8EC77ED=FCJ_ACT_CALL_SHOW_YES
+
+;0xB90D8C2E=~z~Jacob.
+0xB90D8C2E=~z~Jacob.
+
+;0xBA49F60B=100
+0xBA49F60B=100
+
+;0xBAB925C9=010
+0xBAB925C9=010
+
+;0xBAC7A4AE=~z~Nah, man - maybe later, man. Me full up.
+0xBAC7A4AE=~z~Nah, man - maybe later, man. Me full up.
+
+;0xBADD8E83=FCJ_ACT_CALL_EAT_YES
+0xBADD8E83=FCJ_ACT_CALL_EAT_YES
+
+;0xBB1232A7=FCJ_ACT_CALL_POOL_NO_RECENT
+0xBB1232A7=FCJ_ACT_CALL_POOL_NO_RECENT
+
+;0xBB5D79B4=100
+0xBB5D79B4=100
+
+;0xBCC40D1A=100
+0xBCC40D1A=100
+
+;0xBE06A8D0=FCJ_ACT_PLJ_CALL_STRIP_CANCEL
+0xBE06A8D0=FCJ_ACT_PLJ_CALL_STRIP_CANCEL
+
+;0xBEA454A2=100
+0xBEA454A2=100
+
+;0xC06A13EA=100
+0xC06A13EA=100
+
+;0xC06B06FB=FCJ_ACT_PLJ_CALL_STRIP
+0xC06B06FB=FCJ_ACT_PLJ_CALL_STRIP
+
+;0xC1ABE47E=FCJ_ACT_PLJ_CALL_DRINK_CANCEL
+0xC1ABE47E=FCJ_ACT_PLJ_CALL_DRINK_CANCEL
+
+;0xC1AF71F3=FCJ_ACT_CALL_DARTS_NO_RECENT
+0xC1AF71F3=FCJ_ACT_CALL_DARTS_NO_RECENT
+
+;0xC2199285=100
+0xC2199285=100
+
+;0xC2EE7EB9=~z~You got time to have a drink with me?
+0xC2EE7EB9=~z~You got time to have a drink with me?
+
+;0xC2FD026A=~z~Okay, me breda. Me love play darts, y'know. Come on my place in about an hour.
+0xC2FD026A=~z~Okay, me breda. Me love play darts, y'know. Come on my place in about an hour.
+
+;0xC5CB6E8C=SFX_MACHINE_BEEP
+0xC5CB6E8C=SFX_MACHINE_BEEP
+
+;0xC8DB40D5=~z~Nah, man. Me have nuff food inna me belly, man, to last a week - maybe later.
+0xC8DB40D5=~z~Nah, man. Me have nuff food inna me belly, man, to last a week - maybe later.
+
+;0xC8E91D69=~z~Sorry, Jacob - I didn't realize what the time was.
+0xC8E91D69=~z~Sorry, Jacob - I didn't realize what the time was.
+
+;0xC9B225EB=~z~Yeah man, me done now, so me ready fe link up with de man again, seen?
+0xC9B225EB=~z~Yeah man, me done now, so me ready fe link up with de man again, seen?
+
+;0xCA372707=FCJ_ACT_PLJ_CALL_SHOW
+0xCA372707=FCJ_ACT_PLJ_CALL_SHOW
+
+;0xCAE0BB96=100
+0xCAE0BB96=100
+
+;0xCB76EC76=~z~Nah, Niko - me kinda busy just now, man - maybe later.
+0xCB76EC76=~z~Nah, Niko - me kinda busy just now, man - maybe later.
+
+;0xCE3AFFFE=~z~All you wanna do is show, show, show, seen? Maybe another time.
+0xCE3AFFFE=~z~All you wanna do is show, show, show, seen? Maybe another time.
+
+;0xCE67ACEC=~z~Cool, Jacob - I'll be there in a bit.
+0xCE67ACEC=~z~Cool, Jacob - I'll be there in a bit.
+
+;0xCFC1B342=~z~Thanks! Me like hung around for nothing y'know?
+0xCFC1B342=~z~Thanks! Me like hung around for nothing y'know?
+
+;0xD047ED48=FCJ_ACT_CALL_VERYIRATE
+0xD047ED48=FCJ_ACT_CALL_VERYIRATE
+
+;0xD110D019=~z~Yo, me can't drink all the time y'know, Niko. Maybe a next time?
+0xD110D019=~z~Yo, me can't drink all the time y'know, Niko. Maybe a next time?
+
+;0xD208F4DD=010
+0xD208F4DD=010
+
+;0xD29BBF46=~z~It me, so listen Jacob.
+0xD29BBF46=~z~It me, so listen Jacob.
+
+;0xD2AD5D10=100
+0xD2AD5D10=100
+
+;0xD443C23B=FCJ_ACT_CALL_LIKENO
+0xD443C23B=FCJ_ACT_CALL_LIKENO
+
+;0xD754D8AE=100
+0xD754D8AE=100
+
+;0xD77BA413=~z~Okay ram goat! Just pick me up.
+0xD77BA413=~z~Okay ram goat! Just pick me up.
+
+;0xD79C6BDC=010
+0xD79C6BDC=010
+
+;0xD94A2F04=~z~You know me, Niko - me love play darts. One hour me wait.
+0xD94A2F04=~z~You know me, Niko - me love play darts. One hour me wait.
+
+;0xDA0E2E57=FCJ_ACT_CALL_DRINK_NO_RECENT
+0xDA0E2E57=FCJ_ACT_CALL_DRINK_NO_RECENT
+
+;0xDBD23D9E=~z~It's alright, man. Maybe a next time, it's alright.
+0xDBD23D9E=~z~It's alright, man. Maybe a next time, it's alright.
+
+;0xDCB25377=~z~Hey, Jacob.
+0xDCB25377=~z~Hey, Jacob.
+
+;0xDCCE78B4=~z~Yeah, man - me play pool, for real. Pick me up in about a hour.
+0xDCCE78B4=~z~Yeah, man - me play pool, for real. Pick me up in about a hour.
+
+;0xDF7CF6D2=~z~Nah, me nuh going to the strip club now, ram goat - maybe later.
+0xDF7CF6D2=~z~Nah, me nuh going to the strip club now, ram goat - maybe later.
+
+;0xE0BED19A=~z~I'm on my way.
+0xE0BED19A=~z~I'm on my way.
+
+;0xE13E1E2A=~z~Sure, I'm a lickle hungry y'know. Pick me up.
+0xE13E1E2A=~z~Sure, I'm a lickle hungry y'know. Pick me up.
+
+;0xE1D3F738=~z~Nah man, not again man. So soon?
+0xE1D3F738=~z~Nah man, not again man. So soon?
+
+;0xE341E092=~z~Mr. Jacob, it's Niko.
+0xE341E092=~z~Mr. Jacob, it's Niko.
+
+;0xE5BE7A9B=~z~Nah, man. Me full, star - but... maybe a lickle later.
+0xE5BE7A9B=~z~Nah, man. Me full, star - but... maybe a lickle later.
+
+;0xE6BF8113=~z~Maybe later. Did we nuh just eat, man?
+0xE6BF8113=~z~Maybe later. Did we nuh just eat, man?
+
+;0xE72F169A=~z~I'm afraid I won't be making the pool - sorry man.
+0xE72F169A=~z~I'm afraid I won't be making the pool - sorry man.
+
+;0xE849E3AD=FCJ_ACT_PLJ_CALL_ACCEPTED
+0xE849E3AD=FCJ_ACT_PLJ_CALL_ACCEPTED
+
+;0xE982B695=~z~Not again, star - another time, seen?
+0xE982B695=~z~Not again, star - another time, seen?
+
+;0xEB1D9552=~z~For sure, breda. Just pick me up.
+0xEB1D9552=~z~For sure, breda. Just pick me up.
+
+;0xEBCBF1AA=~z~Jacob, it's Niko.
+0xEBCBF1AA=~z~Jacob, it's Niko.
+
+;0xEC4E3D8A=100
+0xEC4E3D8A=100
+
+;0xEDD3E4DE=100
+0xEDD3E4DE=100
+
+;0xEE7D9FCF=010
+0xEE7D9FCF=010
+
+;0xEEA3B8F5=~z~Sure, just pick me up in a hour.
+0xEEA3B8F5=~z~Sure, just pick me up in a hour.
+
+;0xF0C59520=100
+0xF0C59520=100
+
+;0xF1FA7411=~z~Great. I'll head over to your place.
+0xF1FA7411=~z~Great. I'll head over to your place.
+
+;0xF29370BD=~z~Sorry, man.
+0xF29370BD=~z~Sorry, man.
+
+;0xF3309BA7=~z~Jacob I can't make the darts, sorry man.
+0xF3309BA7=~z~Jacob I can't make the darts, sorry man.
+
+;0xF421975D=~z~No, Star. Me full, man - maybe later.
+0xF421975D=~z~No, Star. Me full, man - maybe later.
+
+;0xF504AF24=FCJ_ACT_CALL_DARTS_NO_GENERAL
+0xF504AF24=FCJ_ACT_CALL_DARTS_NO_GENERAL
+
+;0xF69D9B32=~z~Ease up with the drinking now. Niko, maybe a next time?
+0xF69D9B32=~z~Ease up with the drinking now. Niko, maybe a next time?
+
+;0xF8B71BA1=~z~You got any interest in going to a show? I'm bored.
+0xF8B71BA1=~z~You got any interest in going to a show? I'm bored.
+
+;0xFA688A1D=~z~Yeah, man. Pick me up in about an hour, seen?
+0xFA688A1D=~z~Yeah, man. Pick me up in about an hour, seen?
+
+;0xFB061FCB=~z~Not again so soon, man. Me could play ya later, man.
+0xFB061FCB=~z~Not again so soon, man. Me could play ya later, man.
+
+;0xFD669483=~z~Jacob - sorry - I'm not going to be able to give you a lift.
+0xFD669483=~z~Jacob - sorry - I'm not going to be able to give you a lift.
+
+;0xFE1415CB=~z~No disrespect, but me can't meet up for a drink right now.
+0xFE1415CB=~z~No disrespect, but me can't meet up for a drink right now.
+

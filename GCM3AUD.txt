@@ -1,0 +1,868 @@
+﻿[GCM3AUD]
+;0x00176B52=~z~Can I come in?
+0x00176B52=~z~Can I come in?
+
+;0x00270CC9=~z~Man, it's good to be bad sometimes.
+0x00270CC9=~z~Man, it's good to be bad sometimes.
+
+;0x01CEBA9D=GCM_ACT_PMI_LEAVE_FAUSTINS_DENY
+0x01CEBA9D=GCM_ACT_PMI_LEAVE_FAUSTINS_DENY
+
+;0x01E0405B=~z~Yes, I don't want anyone to get burnt - how about a kiss?
+0x01E0405B=~z~Yes, I don't want anyone to get burnt - how about a kiss?
+
+;0x01F08DA2=100
+0x01F08DA2=100
+
+;0x02FBB51F=MI1_XA
+0x02FBB51F=MI1_XA
+
+;0x03473D4E=100
+0x03473D4E=100
+
+;0x0367BD65=~z~Whatever you like, lady.
+0x0367BD65=~z~Whatever you like, lady.
+
+;0x0390F164=~z~I always think that place is full of crooks - what do you like about it?
+0x0390F164=~z~I always think that place is full of crooks - what do you like about it?
+
+;0x04F203F3=~z~Here again Niko? Let's go for a stroll.
+0x04F203F3=~z~Here again Niko? Let's go for a stroll.
+
+;0x063670E5=~z~Well played, Niko.
+0x063670E5=~z~Well played, Niko.
+
+;0x07553946=100
+0x07553946=100
+
+;0x07964652=~z~I don't think you can afford me just yet, Niko.
+0x07964652=~z~I don't think you can afford me just yet, Niko.
+
+;0x07E1237C=~z~Thank you - for a fun time.
+0x07E1237C=~z~Thank you - for a fun time.
+
+;0x088E340A=GCM_ACT_DARTS_LEAVE_LOST
+0x088E340A=GCM_ACT_DARTS_LEAVE_LOST
+
+;0x09501889=~z~Great.
+0x09501889=~z~Great.
+
+;0x09B65710=GCM_ACT_LEAVE_VLADS_FIRST
+0x09B65710=GCM_ACT_LEAVE_VLADS_FIRST
+
+;0x0B55D24A=100
+0x0B55D24A=100
+
+;0x0BDEBC15=~z~The food was too good - I can't believe I ate all that.
+0x0BDEBC15=~z~The food was too good - I can't believe I ate all that.
+
+;0x0C1B6562=~z~That was really odd - and that place was full of crooks.
+0x0C1B6562=~z~That was really odd - and that place was full of crooks.
+
+;0x0E520B25=~z~I don't know, drinking maybe?
+0x0E520B25=~z~I don't know, drinking maybe?
+
+;0x0EBBB135=~z~Good night - that was fun.
+0x0EBBB135=~z~Good night - that was fun.
+
+;0x0F172A57=GCM_ACT_DARTS_LEAVE_ABANDON
+0x0F172A57=GCM_ACT_DARTS_LEAVE_ABANDON
+
+;0x118CC4C7=010
+0x118CC4C7=010
+
+;0x122D5AF0=~z~Okay, have fun on your own.
+0x122D5AF0=~z~Okay, have fun on your own.
+
+;0x1322D6EE=MI1_ZA
+0x1322D6EE=MI1_ZA
+
+;0x13E6C305=~z~Thanks - I love bars like that.
+0x13E6C305=~z~Thanks - I love bars like that.
+
+;0x14F52A12=~z~A tie is the best result, really.
+0x14F52A12=~z~A tie is the best result, really.
+
+;0x1564E1EF=~z~Niko are you aware of the consequences of that kind of thing? People get hurt, end up in court, you know.
+0x1564E1EF=~z~Niko are you aware of the consequences of that kind of thing? People get hurt, end up in court, you know.
+
+;0x15DB96DA=~z~Can I come in?
+0x15DB96DA=~z~Can I come in?
+
+;0x15FA77A3=~z~I really don't know about that sort of thing, Michelle.
+0x15FA77A3=~z~I really don't know about that sort of thing, Michelle.
+
+;0x17C427B8=MI1_A_LA
+0x17C427B8=MI1_A_LA
+
+;0x180D1B9B=GCM_ACT_PMI_END_REJECT_RESPONSE
+0x180D1B9B=GCM_ACT_PMI_END_REJECT_RESPONSE
+
+;0x19C49DCB=~z~That place is crawling with gangsters - what's the appeal to you?
+0x19C49DCB=~z~That place is crawling with gangsters - what's the appeal to you?
+
+;0x19C9980F=~z~Fun place, but I think it was full of gangsters!
+0x19C9980F=~z~Fun place, but I think it was full of gangsters!
+
+;0x1AE09BE4=~z~Sure, I like you, but let's be careful. Make sure no one gets burnt.
+0x1AE09BE4=~z~Sure, I like you, but let's be careful. Make sure no one gets burnt.
+
+;0x1B4A952E=~z~I'm new here. It's the only place I know, really.
+0x1B4A952E=~z~I'm new here. It's the only place I know, really.
+
+;0x1B9E22E0=~z~You think I'm a whore, is that it? I bet this'll end up on the internet. Fuck you.
+0x1B9E22E0=~z~You think I'm a whore, is that it? I bet this'll end up on the internet. Fuck you.
+
+;0x1BDAA50C=GCM_ACT_PMI_END_BONK
+0x1BDAA50C=GCM_ACT_PMI_END_BONK
+
+;0x1C4FD291=GCM_ACT_PMI_END_NO_RESPONSE
+0x1C4FD291=GCM_ACT_PMI_END_NO_RESPONSE
+
+;0x1C5BC532=~z~I hope I don't have my cholesterol checked any time soon.
+0x1C5BC532=~z~I hope I don't have my cholesterol checked any time soon.
+
+;0x1C9273DC=100
+0x1C9273DC=100
+
+;0x1CBAE389=GCM_ACT_PMI_LEAVE_IRISH_DENY
+0x1CBAE389=GCM_ACT_PMI_LEAVE_IRISH_DENY
+
+;0x1D320C18=~z~That was fun, but to me those girls looked like they were on drugs.
+0x1D320C18=~z~That was fun, but to me those girls looked like they were on drugs.
+
+;0x1D6E7151=100
+0x1D6E7151=100
+
+;0x1D70CE9F=~z~So, err, see you soon.
+0x1D70CE9F=~z~So, err, see you soon.
+
+;0x1E5BDA5D=100
+0x1E5BDA5D=100
+
+;0x1F4D7B35=~z~No problem - I respect you - maybe we can kiss?
+0x1F4D7B35=~z~No problem - I respect you - maybe we can kiss?
+
+;0x1F6D41B2=~z~Oh, Niko, this is our special place, let's go for a walk...
+0x1F6D41B2=~z~Oh, Niko, this is our special place, let's go for a walk...
+
+;0x20039BD9=~z~This is terrible.
+0x20039BD9=~z~This is terrible.
+
+;0x20B5368D=MI1_QA
+0x20B5368D=MI1_QA
+
+;0x20F3AFE6=~z~Hmm, I'm tired...
+0x20F3AFE6=~z~Hmm, I'm tired...
+
+;0x24D7085C=~z~That was great Niko but I think I'm all worn out.
+0x24D7085C=~z~That was great Niko but I think I'm all worn out.
+
+;0x265B0950=~z~No problem - I understand. I respect you. How about a kiss?
+0x265B0950=~z~No problem - I understand. I respect you. How about a kiss?
+
+;0x266D315E=~z~Thanks Niko - that was a lot of fun.
+0x266D315E=~z~Thanks Niko - that was a lot of fun.
+
+;0x270F769B=~z~Maybe. It's not my area of expertise.
+0x270F769B=~z~Maybe. It's not my area of expertise.
+
+;0x2810B644=~z~After today, sure, but if this ends up on the internet, I'll kill you.
+0x2810B644=~z~After today, sure, but if this ends up on the internet, I'll kill you.
+
+;0x2A6FBCCF=010
+0x2A6FBCCF=010
+
+;0x2CE0D9D0=100
+0x2CE0D9D0=100
+
+;0x2D11669D=~z~I really overdid it.
+0x2D11669D=~z~I really overdid it.
+
+;0x2D616E80=~z~See you soon, Michelle
+0x2D616E80=~z~See you soon, Michelle
+
+;0x2E739796=~z~Sorry, Niko.
+0x2E739796=~z~Sorry, Niko.
+
+;0x2F3426C4=~z~How about you take me home?
+0x2F3426C4=~z~How about you take me home?
+
+;0x2FBF186C=GCM_ACT_PMI_LEAVE_VLADS_PLAYER
+0x2FBF186C=GCM_ACT_PMI_LEAVE_VLADS_PLAYER
+
+;0x306C8530=~z~That food was fantastic.
+0x306C8530=~z~That food was fantastic.
+
+;0x3179C777=~z~Interesting place.
+0x3179C777=~z~Interesting place.
+
+;0x31DF1A4F=~z~Okay, lady.
+0x31DF1A4F=~z~Okay, lady.
+
+;0x32E2DB54=~z~Hey, Niko, let's find something else to do, we can't go back yet!
+0x32E2DB54=~z~Hey, Niko, let's find something else to do, we can't go back yet!
+
+;0x33289999=100
+0x33289999=100
+
+;0x3379EF61=~z~Why not?
+0x3379EF61=~z~Why not?
+
+;0x377E551F=~z~Sure, why not?
+0x377E551F=~z~Sure, why not?
+
+;0x382F2205=100
+0x382F2205=100
+
+;0x3841925B=GCM_ACT_PMI_LEAVE_IRISH_AGAIN
+0x3841925B=GCM_ACT_PMI_LEAVE_IRISH_AGAIN
+
+;0x389827C1=~z~Your loss.
+0x389827C1=~z~Your loss.
+
+;0x38B1ADFD=~z~Okay, no problem - how about a kiss?
+0x38B1ADFD=~z~Okay, no problem - how about a kiss?
+
+;0x39EEAA21=010
+0x39EEAA21=010
+
+;0x3A53535F=MI1_A_KA
+0x3A53535F=MI1_A_KA
+
+;0x3B91FD0C=~z~Great, but I hope you don't kiss and tell.
+0x3B91FD0C=~z~Great, but I hope you don't kiss and tell.
+
+;0x3BF5AC09=~z~I guess we're both tourists in this city, aren't we?
+0x3BF5AC09=~z~I guess we're both tourists in this city, aren't we?
+
+;0x4047DC3A=~z~Are you gonna take me back or what?
+0x4047DC3A=~z~Are you gonna take me back or what?
+
+;0x40CE23CD=MI1_VA
+0x40CE23CD=MI1_VA
+
+;0x4113267D=~z~That was great.
+0x4113267D=~z~That was great.
+
+;0x422791CB=~z~I'd love to finish pool one time.
+0x422791CB=~z~I'd love to finish pool one time.
+
+;0x42677F72=~z~Okay, Niko, I'm real tired now.
+0x42677F72=~z~Okay, Niko, I'm real tired now.
+
+;0x43DFD28B=~z~Err, bye then. Call me.
+0x43DFD28B=~z~Err, bye then. Call me.
+
+;0x452D7FE9=~z~I think we should stay out and have some more fun - you got any ideas?
+0x452D7FE9=~z~I think we should stay out and have some more fun - you got any ideas?
+
+;0x45C03733=GCM_ACT_PMI_END_KISS_AGREE
+0x45C03733=GCM_ACT_PMI_END_KISS_AGREE
+
+;0x4648C0AF=~z~It's really good to experience Liberty City with someone else who isn't from here.
+0x4648C0AF=~z~It's really good to experience Liberty City with someone else who isn't from here.
+
+;0x4786794E=~z~Why do we go to Comrades so often - seems full of criminals to me?
+0x4786794E=~z~Why do we go to Comrades so often - seems full of criminals to me?
+
+;0x47A7230B=~z~So, err, goodnight Michelle.
+0x47A7230B=~z~So, err, goodnight Michelle.
+
+;0x481DEB08=~z~We left too early - I was sort of enjoying that in a weird way.
+0x481DEB08=~z~We left too early - I was sort of enjoying that in a weird way.
+
+;0x48295029=100
+0x48295029=100
+
+;0x482A0AF7=~z~It's been interesting I guess, time to call it a night though.
+0x482A0AF7=~z~It's been interesting I guess, time to call it a night though.
+
+;0x4882CC57=MI1_UA
+0x4882CC57=MI1_UA
+
+;0x4924FD6C=~z~Can I come into your flat?
+0x4924FD6C=~z~Can I come into your flat?
+
+;0x4A77D0BD=~z~A tie is the most fun - let's play pool again soon.
+0x4A77D0BD=~z~A tie is the most fun - let's play pool again soon.
+
+;0x4AA32CF0=100
+0x4AA32CF0=100
+
+;0x4B32FAE9=~z~Strange crowd in that place.
+0x4B32FAE9=~z~Strange crowd in that place.
+
+;0x4BBC7996=010
+0x4BBC7996=010
+
+;0x4BBD1188=~z~Oh, you wanna go for a walk here again? Niko, you old romantic.
+0x4BBD1188=~z~Oh, you wanna go for a walk here again? Niko, you old romantic.
+
+;0x4D471352=~z~Irish mobsters? I'd have no idea about that.
+0x4D471352=~z~Irish mobsters? I'd have no idea about that.
+
+;0x4E9578D5=~z~Most American guys race a girl back to her place at the end of a date - what gives, Niko?
+0x4E9578D5=~z~Most American guys race a girl back to her place at the end of a date - what gives, Niko?
+
+;0x4F24BA83=100
+0x4F24BA83=100
+
+;0x4F3E8A20=~z~Is that all I am, a cheap fuck?
+0x4F3E8A20=~z~Is that all I am, a cheap fuck?
+
+;0x506CA6C1=~z~Great - hey, listen, I respect you.
+0x506CA6C1=~z~Great - hey, listen, I respect you.
+
+;0x50A8E9B1=~z~Can you take me home?
+0x50A8E9B1=~z~Can you take me home?
+
+;0x51431A12=~z~This is genius!
+0x51431A12=~z~This is genius!
+
+;0x522531C6=~z~Next time, can we finish a game?
+0x522531C6=~z~Next time, can we finish a game?
+
+;0x534DBCAE=GCM_ACT_LEAVE_CLUB_GENERIC
+0x534DBCAE=GCM_ACT_LEAVE_CLUB_GENERIC
+
+;0x53CD3069=~z~Hey, you beat me. Now you've got to tell me a secret about yourself.
+0x53CD3069=~z~Hey, you beat me. Now you've got to tell me a secret about yourself.
+
+;0x53D65B09=~z~Why do you like that place so much?
+0x53D65B09=~z~Why do you like that place so much?
+
+;0x556C157D=GCM_ACT_PMI_LEAVE_IRISH_PLAYER
+0x556C157D=GCM_ACT_PMI_LEAVE_IRISH_PLAYER
+
+;0x559A7600=~z~Call me soon.
+0x559A7600=~z~Call me soon.
+
+;0x56D98984=~z~I can't believe they call this shit entertainment.
+0x56D98984=~z~I can't believe they call this shit entertainment.
+
+;0x594DC215=100
+0x594DC215=100
+
+;0x5A54E741=GCM_ACT_LEAVE_VLADS_AGAIN
+0x5A54E741=GCM_ACT_LEAVE_VLADS_AGAIN
+
+;0x5B0342C9=~z~This is a great idea, Niko, I love seeing a bit of the city, we should go for a walk...
+0x5B0342C9=~z~This is a great idea, Niko, I love seeing a bit of the city, we should go for a walk...
+
+;0x5B8AEB33=~z~This really is a beautiful city, isn't it? Sometimes you can just forget about all the crime and stuff here, can't you?
+0x5B8AEB33=~z~This really is a beautiful city, isn't it? Sometimes you can just forget about all the crime and stuff here, can't you?
+
+;0x5BAE1F5F=010
+0x5BAE1F5F=010
+
+;0x5E1EBF14=~z~Niko, you remembered, this is our place!
+0x5E1EBF14=~z~Niko, you remembered, this is our place!
+
+;0x5E9AD388=GCM_ACT_POOL_LEAVE_LOST
+0x5E9AD388=GCM_ACT_POOL_LEAVE_LOST
+
+;0x604B7F44=~z~God, Niko, I'm exhausted, you've tired me out.
+0x604B7F44=~z~God, Niko, I'm exhausted, you've tired me out.
+
+;0x60F86647=~z~I am such a pig.
+0x60F86647=~z~I am such a pig.
+
+;0x612D948C=~z~Hey, I won. As a reward can you tell me some stuff about what you did before you got here?
+0x612D948C=~z~Hey, I won. As a reward can you tell me some stuff about what you did before you got here?
+
+;0x6130B9ED=~z~Oh my God - I can't believe this!
+0x6130B9ED=~z~Oh my God - I can't believe this!
+
+;0x662BFFB4=~z~You seem to like going to Perestroika. Why is that?
+0x662BFFB4=~z~You seem to like going to Perestroika. Why is that?
+
+;0x669EB887=GCM_ACT_POOL_LEAVE_DRAW
+0x669EB887=GCM_ACT_POOL_LEAVE_DRAW
+
+;0x67B84FB1=100
+0x67B84FB1=100
+
+;0x67F7C7CD=100
+0x67F7C7CD=100
+
+;0x681FBB61=~z~Can I come up for a nice hot coffee?
+0x681FBB61=~z~Can I come up for a nice hot coffee?
+
+;0x69A34DE9=~z~Well, it's been fun, but I can't stay out any longer.
+0x69A34DE9=~z~Well, it's been fun, but I can't stay out any longer.
+
+;0x69BD8655=GCM_ACT_DARTS_LEAVE_DRAW
+0x69BD8655=GCM_ACT_DARTS_LEAVE_DRAW
+
+;0x6BA24D52=GCM_ACT_PMI_END_REJECT
+0x6BA24D52=GCM_ACT_PMI_END_REJECT
+
+;0x6D6E862F=~z~Next time, we should play a proper game and finish it.
+0x6D6E862F=~z~Next time, we should play a proper game and finish it.
+
+;0x6E0A1AC1=~z~I'm really enjoying myself Niko, but I'm real tired.
+0x6E0A1AC1=~z~I'm really enjoying myself Niko, but I'm real tired.
+
+;0x6F0240B0=MI1_A_NA
+0x6F0240B0=MI1_A_NA
+
+;0x6F878B99=GCM_ACT_LEAVE_FASTFOOD
+0x6F878B99=GCM_ACT_LEAVE_FASTFOOD
+
+;0x6F96F960=100
+0x6F96F960=100
+
+;0x718BCEBA=~z~No you can't, I don't know you that well.
+0x718BCEBA=~z~No you can't, I don't know you that well.
+
+;0x722BE551=100
+0x722BE551=100
+
+;0x727540BB=~z~I don't find this exactly funny.
+0x727540BB=~z~I don't find this exactly funny.
+
+;0x728E6DEB=~z~Okay, you beat me at bowling. Now the least you can do is open up to me a little.
+0x728E6DEB=~z~Okay, you beat me at bowling. Now the least you can do is open up to me a little.
+
+;0x73729B02=~z~It's amazing that this city can be so pretty but so dangerous too, don't you think?
+0x73729B02=~z~It's amazing that this city can be so pretty but so dangerous too, don't you think?
+
+;0x74BDE42F=MI1_A_AA
+0x74BDE42F=MI1_A_AA
+
+;0x751A6C6C=GCM_ACT_LEAVE_PUB_GENERIC
+0x751A6C6C=GCM_ACT_LEAVE_PUB_GENERIC
+
+;0x76696F32=100
+0x76696F32=100
+
+;0x766CF30C=GCM_ACT_LEAVE_FAUSTINS_FIRST
+0x766CF30C=GCM_ACT_LEAVE_FAUSTINS_FIRST
+
+;0x775D5796=MI1_A_MA
+0x775D5796=MI1_A_MA
+
+;0x7878A451=~z~You really like that place, don't you?
+0x7878A451=~z~You really like that place, don't you?
+
+;0x7A8ABD70=~z~Can you drop me back at my place?
+0x7A8ABD70=~z~Can you drop me back at my place?
+
+;0x7C802638=GCM_ACT_PMI_END_YES
+0x7C802638=GCM_ACT_PMI_END_YES
+
+;0x7DCF58E1=~z~I'm getting a little antsy Niko, I hope we're gonna be there soon?
+0x7DCF58E1=~z~I'm getting a little antsy Niko, I hope we're gonna be there soon?
+
+;0x8162FB20=GCM_ACT_POOL_LEAVE_WON
+0x8162FB20=GCM_ACT_POOL_LEAVE_WON
+
+;0x81826EA7=~z~You think I'm that easy?
+0x81826EA7=~z~You think I'm that easy?
+
+;0x81ED9907=100
+0x81ED9907=100
+
+;0x841FE410=~z~This is funny - just not as they intended.
+0x841FE410=~z~This is funny - just not as they intended.
+
+;0x85D13FBF=~z~Liberty City is an amazing place, isn't it? That's probably why it attracts so many crooks, don't you think, Niko?
+0x85D13FBF=~z~Liberty City is an amazing place, isn't it? That's probably why it attracts so many crooks, don't you think, Niko?
+
+;0x861D8070=~z~Why'd you quit bowling, Niko? It's almost like you don't want me to find out about your life.
+0x861D8070=~z~Why'd you quit bowling, Niko? It's almost like you don't want me to find out about your life.
+
+;0x86A4DA73=~z~Weird crowd in that place - packed with criminals.
+0x86A4DA73=~z~Weird crowd in that place - packed with criminals.
+
+;0x88BD59D5=~z~Will you take me home?
+0x88BD59D5=~z~Will you take me home?
+
+;0x89168E60=100
+0x89168E60=100
+
+;0x89AA86D8=100
+0x89AA86D8=100
+
+;0x8B68C94B=GCM_ACT_LEAVE_FAUSTINS_AGAIN
+0x8B68C94B=GCM_ACT_LEAVE_FAUSTINS_AGAIN
+
+;0x8C33B03F=GCM_ACT_LEAVE_SHOW_CABARET
+0x8C33B03F=GCM_ACT_LEAVE_SHOW_CABARET
+
+;0x8CA8FF73=~z~I shouldn't, but I like you.
+0x8CA8FF73=~z~I shouldn't, but I like you.
+
+;0x8CAB261C=~z~This is a great spot, Niko, I can't remember when I last came here. Why don't we have a look around?
+0x8CAB261C=~z~This is a great spot, Niko, I can't remember when I last came here. Why don't we have a look around?
+
+;0x8E26B014=GCM_ACT_PMI_LEAVE_IRISH_REPLY
+0x8E26B014=GCM_ACT_PMI_LEAVE_IRISH_REPLY
+
+;0x8EA5FA8E=~z~Jeez Niko, you sure do pick your date locations, this is a long trip.
+0x8EA5FA8E=~z~Jeez Niko, you sure do pick your date locations, this is a long trip.
+
+;0x8F5E52D9=~z~Most of the time, I'm kind of depressed, but there are moments when I'm happy to be in Liberty City.
+0x8F5E52D9=~z~Most of the time, I'm kind of depressed, but there are moments when I'm happy to be in Liberty City.
+
+;0x8FD043F6=~z~I must have gained fifty pounds.
+0x8FD043F6=~z~I must have gained fifty pounds.
+
+;0x91DF85FE=~z~I've never been there before. But I think some of the guys in there might have been gangsters.
+0x91DF85FE=~z~I've never been there before. But I think some of the guys in there might have been gangsters.
+
+;0x92138152=MI1_YA
+0x92138152=MI1_YA
+
+;0x927F101F=~z~Can I come in?
+0x927F101F=~z~Can I come in?
+
+;0x929330CF=GCM_ACT_PMI_END_KISS_RESPONSE
+0x929330CF=GCM_ACT_PMI_END_KISS_RESPONSE
+
+;0x944BFAC8=~z~Well, now that you've lost to me at bowling you've got nothing to hide from me.
+0x944BFAC8=~z~Well, now that you've lost to me at bowling you've got nothing to hide from me.
+
+;0x96681205=GCM_ACT_LEAVE_STANDARD
+0x96681205=GCM_ACT_LEAVE_STANDARD
+
+;0x97DD23EF=~z~Okay, I guess you've got something important to do. What is it?
+0x97DD23EF=~z~Okay, I guess you've got something important to do. What is it?
+
+;0x98653779=~z~Hey, we tied. I like you, Niko. I'd like you even more if you were more honest about what you do for a living.
+0x98653779=~z~Hey, we tied. I like you, Niko. I'd like you even more if you were more honest about what you do for a living.
+
+;0x9905FA66=~z~Are you gonna escort me to my apartment?
+0x9905FA66=~z~Are you gonna escort me to my apartment?
+
+;0x99B210A6=~z~Are we gonna do something or what Niko?
+0x99B210A6=~z~Are we gonna do something or what Niko?
+
+;0x99CBC712=100
+0x99CBC712=100
+
+;0x9B9668EC=100
+0x9B9668EC=100
+
+;0x9D658BDF=090
+0x9D658BDF=090
+
+;0x9FB6C554=~z~Great - we'll have fun.
+0x9FB6C554=~z~Great - we'll have fun.
+
+;0xA57A6F4A=~z~I am so full.
+0xA57A6F4A=~z~I am so full.
+
+;0xA688171A=~z~You seem to like hanging out in Irish bars. Why?
+0xA688171A=~z~You seem to like hanging out in Irish bars. Why?
+
+;0xA6DCD366=GCM_ACT_SHOW_REACT_POS
+0xA6DCD366=GCM_ACT_SHOW_REACT_POS
+
+;0xA6F85ED1=GCM_ACT_PMI_END_RESPONSE
+0xA6F85ED1=GCM_ACT_PMI_END_RESPONSE
+
+;0xA8233EDD=~z~I haven't really thought about it.
+0xA8233EDD=~z~I haven't really thought about it.
+
+;0xA833404F=MI1_SA
+0xA833404F=MI1_SA
+
+;0xAB31B3A5=~z~Hmm, this sure is a long trip...
+0xAB31B3A5=~z~Hmm, this sure is a long trip...
+
+;0xAC147495=100
+0xAC147495=100
+
+;0xAD323A6D=MI1_RA
+0xAD323A6D=MI1_RA
+
+;0xAD68A32F=~z~Why don't you give me a lift home?
+0xAD68A32F=~z~Why don't you give me a lift home?
+
+;0xADC1D625=~z~It's been okay, Niko, but I'm beat.
+0xADC1D625=~z~It's been okay, Niko, but I'm beat.
+
+;0xAE64E2A9=010
+0xAE64E2A9=010
+
+;0xAEE58659=GCM_ACT_LEAVE_CLUB_FAVOURITE
+0xAEE58659=GCM_ACT_LEAVE_CLUB_FAVOURITE
+
+;0xAEF75579=~z~Don't you think this is funny, Niko?
+0xAEF75579=~z~Don't you think this is funny, Niko?
+
+;0xAF251CA2=~z~I'm beat Niko, I guess having fun does that to you.
+0xAF251CA2=~z~I'm beat Niko, I guess having fun does that to you.
+
+;0xAFED6C80=~z~Interesting bar - do you think those guys were crooks?
+0xAFED6C80=~z~Interesting bar - do you think those guys were crooks?
+
+;0xAFF05557=GCM_ACT_PMI_END_NO
+0xAFF05557=GCM_ACT_PMI_END_NO
+
+;0xB0CBA9D7=100
+0xB0CBA9D7=100
+
+;0xB2CDACCE=GCM_ACT_PMI_LEAVE_IRISH_FIRST
+0xB2CDACCE=GCM_ACT_PMI_LEAVE_IRISH_FIRST
+
+;0xB448110E=~z~No, no idea.
+0xB448110E=~z~No, no idea.
+
+;0xB590D9B8=~z~Doesn't everyone like them?
+0xB590D9B8=~z~Doesn't everyone like them?
+
+;0xB5A6B557=~z~What is it with you and the Irish?
+0xB5A6B557=~z~What is it with you and the Irish?
+
+;0xBA5EA9B8=010
+0xBA5EA9B8=010
+
+;0xBB560EFC=100
+0xBB560EFC=100
+
+;0xBCABF0E2=~z~This is hysterical!
+0xBCABF0E2=~z~This is hysterical!
+
+;0xBD80A572=MI1_TA
+0xBD80A572=MI1_TA
+
+;0xBDC70AAA=100
+0xBDC70AAA=100
+
+;0xBFD79000=100
+0xBFD79000=100
+
+;0xC0C0DFD0=~z~I don't know. It's the Eastern Bloc thing, I suppose.
+0xC0C0DFD0=~z~I don't know. It's the Eastern Bloc thing, I suppose.
+
+;0xC1C25838=100
+0xC1C25838=100
+
+;0xC21D8CA6=~z~You're not shy are you?
+0xC21D8CA6=~z~You're not shy are you?
+
+;0xC3A76BEA=100
+0xC3A76BEA=100
+
+;0xC3AECFBB=~z~Won't you take me home now?
+0xC3AECFBB=~z~Won't you take me home now?
+
+;0xC5B80100=~z~I don't think I'm ready to go home yet, you wanna do something else?
+0xC5B80100=~z~I don't think I'm ready to go home yet, you wanna do something else?
+
+;0xC5C7A6C0=~z~That was fun.
+0xC5C7A6C0=~z~That was fun.
+
+;0xC76CFE91=~z~I don't know.
+0xC76CFE91=~z~I don't know.
+
+;0xC8CD815C=100
+0xC8CD815C=100
+
+;0xC9DF3C3C=~z~Well, I don't know.
+0xC9DF3C3C=~z~Well, I don't know.
+
+;0xCAA30346=~z~Yeah, well, not what I expected.
+0xCAA30346=~z~Yeah, well, not what I expected.
+
+;0xCC40F5C3=~z~What's taking so long?
+0xCC40F5C3=~z~What's taking so long?
+
+;0xCCD804D4=~z~You going to invite me in?
+0xCCD804D4=~z~You going to invite me in?
+
+;0xCD5E520F=~z~I'd invite you in for some coffee, but it'd cost at least, say... $20m
+0xCD5E520F=~z~I'd invite you in for some coffee, but it'd cost at least, say... $20m
+
+;0xCF99C519=100
+0xCF99C519=100
+
+;0xCFD0280B=~z~Sure.
+0xCFD0280B=~z~Sure.
+
+;0xCFE96830=~z~I need to get back to my place, will you take me?
+0xCFE96830=~z~I need to get back to my place, will you take me?
+
+;0xD00A9CBC=010
+0xD00A9CBC=010
+
+;0xD089AA93=GCM_ACT_LEAVE_SHOW_EARLY
+0xD089AA93=GCM_ACT_LEAVE_SHOW_EARLY
+
+;0xD20D82B5=~z~It just reminds me of home, I guess.
+0xD20D82B5=~z~It just reminds me of home, I guess.
+
+;0xD3103E83=010
+0xD3103E83=010
+
+;0xD3307389=~z~That was weird.
+0xD3307389=~z~That was weird.
+
+;0xD4744AB9=GCM_ACT_PMI_LEAVE_FAUSTINS_PLAYER
+0xD4744AB9=GCM_ACT_PMI_LEAVE_FAUSTINS_PLAYER
+
+;0xD55F9A76=~z~Well I don't know about that.
+0xD55F9A76=~z~Well I don't know about that.
+
+;0xD6CC3A14=~z~That was naughty - I can't believe we ate all that crap!
+0xD6CC3A14=~z~That was naughty - I can't believe we ate all that crap!
+
+;0xD751E950=~z~I told you I was good at darts, Niko.
+0xD751E950=~z~I told you I was good at darts, Niko.
+
+;0xD78A2BAE=GCM_ACT_DARTS_LEAVE_WON
+0xD78A2BAE=GCM_ACT_DARTS_LEAVE_WON
+
+;0xD7D9ED2D=010
+0xD7D9ED2D=010
+
+;0xD8125CB6=100
+0xD8125CB6=100
+
+;0xD815D8A9=~z~Irish mobsters? I have no idea about that.
+0xD815D8A9=~z~Irish mobsters? I have no idea about that.
+
+;0xD9223845=GCM_ACT_SHOW_REACT_NEG
+0xD9223845=GCM_ACT_SHOW_REACT_NEG
+
+;0xD9317C6C=~z~What do you like about those Irish places?
+0xD9317C6C=~z~What do you like about those Irish places?
+
+;0xD9A77E18=~z~Okay, call me.
+0xD9A77E18=~z~Okay, call me.
+
+;0xDB90A245=~z~Are you going to invite me in? For a coffee, I mean?
+0xDB90A245=~z~Are you going to invite me in? For a coffee, I mean?
+
+;0xDBD31C1F=~z~You did well, Niko.
+0xDBD31C1F=~z~You did well, Niko.
+
+;0xDD455C6F=MI1_WA
+0xDD455C6F=MI1_WA
+
+;0xDD6CCE98=~z~Bye.
+0xDD6CCE98=~z~Bye.
+
+;0xDDDA08E0=~z~What a strange crowd - they all belonged in jail.
+0xDDDA08E0=~z~What a strange crowd - they all belonged in jail.
+
+;0xDE219851=~z~That wasn't very good.
+0xDE219851=~z~That wasn't very good.
+
+;0xDFD3D6AB=GCM_ACT_PMI_LEAVE_VLADS_DENY
+0xDFD3D6AB=GCM_ACT_PMI_LEAVE_VLADS_DENY
+
+;0xE1300D29=~z~Call me. Goodnight.
+0xE1300D29=~z~Call me. Goodnight.
+
+;0xE1409D4F=~z~We should have stayed to the end.
+0xE1409D4F=~z~We should have stayed to the end.
+
+;0xE2ABD522=~z~I told you I was great at pool.
+0xE2ABD522=~z~I told you I was great at pool.
+
+;0xE2CBF0E8=~z~Why did you stop? We weren't finished yet.
+0xE2CBF0E8=~z~Why did you stop? We weren't finished yet.
+
+;0xE354483E=~z~That was fun - you did well.
+0xE354483E=~z~That was fun - you did well.
+
+;0xE3A3DA7E=010
+0xE3A3DA7E=010
+
+;0xE50239BB=~z~Umm, I don't know about that kind of thing.
+0xE50239BB=~z~Umm, I don't know about that kind of thing.
+
+;0xE5575E31=~z~Nice seeing you.
+0xE5575E31=~z~Nice seeing you.
+
+;0xE6B855DB=~z~Anything for my country.
+0xE6B855DB=~z~Anything for my country.
+
+;0xE765B4F7=100
+0xE765B4F7=100
+
+;0xE7B3AEA1=100
+0xE7B3AEA1=100
+
+;0xE9268205=100
+0xE9268205=100
+
+;0xE98C1635=100
+0xE98C1635=100
+
+;0xE9DC42B6=100
+0xE9DC42B6=100
+
+;0xEA01293D=100
+0xEA01293D=100
+
+;0xEC118F49=~z~For coffee or something? I don't want to get burned Niko.
+0xEC118F49=~z~For coffee or something? I don't want to get burned Niko.
+
+;0xEE80CB01=~z~Alright, Niko...
+0xEE80CB01=~z~Alright, Niko...
+
+;0xF0503CAE=~z~I think I'm funnier than that guy.
+0xF0503CAE=~z~I think I'm funnier than that guy.
+
+;0xF121B3F4=~z~That was fun.
+0xF121B3F4=~z~That was fun.
+
+;0xF127CD73=~z~You going to invite me upstairs, for coffee or something?
+0xF127CD73=~z~You going to invite me upstairs, for coffee or something?
+
+;0xF1666676=GCM_ACT_PMI_END_KISS
+0xF1666676=GCM_ACT_PMI_END_KISS
+
+;0xF47406E4=~z~Interesting place - seems like the kind of place Irish mobsters would like to hang out, don't you think?
+0xF47406E4=~z~Interesting place - seems like the kind of place Irish mobsters would like to hang out, don't you think?
+
+;0xF4F1F9AE=~z~Unlucky Niko.
+0xF4F1F9AE=~z~Unlucky Niko.
+
+;0xF58849AA=~z~Uh, it's just the first place I went to.
+0xF58849AA=~z~Uh, it's just the first place I went to.
+
+;0xF59A26FC=100
+0xF59A26FC=100
+
+;0xF5B70146=100
+0xF5B70146=100
+
+;0xF6278CFF=GCM_ACT_POOL_LEAVE_ABANDON
+0xF6278CFF=GCM_ACT_POOL_LEAVE_ABANDON
+
+;0xF70122D7=100
+0xF70122D7=100
+
+;0xF70FEFB5=~z~Well played, you're great at pool.
+0xF70FEFB5=~z~Well played, you're great at pool.
+
+;0xF9F3FDD2=~z~I don't know about that kind of thing.
+0xF9F3FDD2=~z~I don't know about that kind of thing.
+
+;0xFA0D6022=GCM_ACT_LEAVE_SHOW_COMEDY
+0xFA0D6022=GCM_ACT_LEAVE_SHOW_COMEDY
+
+;0xFB2065F7=~z~Maybe!
+0xFB2065F7=~z~Maybe!
+
+;0xFB238A05=~z~That was fun, see you soon.
+0xFB238A05=~z~That was fun, see you soon.
+
+;0xFB826C94=~z~That was fun, is there something else you want to do?
+0xFB826C94=~z~That was fun, is there something else you want to do?
+
+;0xFC66E6CD=~z~I dunno, Niko...
+0xFC66E6CD=~z~I dunno, Niko...
+
+;0xFDFE2E85=100
+0xFDFE2E85=100
+
+;0xFEDF6C40=~z~It's fun, you know?
+0xFEDF6C40=~z~It's fun, you know?
+

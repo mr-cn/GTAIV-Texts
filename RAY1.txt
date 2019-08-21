@@ -1,0 +1,46 @@
+﻿[RAY1]
+;0x243323E5=~s~He's heading for the roof.
+0x243323E5=~s~He's heading for the roof.
+
+;0x3C0B5395=~s~Get into the ~y~elevator.
+0x3C0B5395=~s~Get into the ~y~elevator.
+
+;0x40EF998B=~r~Dead people can't talk.
+0x40EF998B=~r~Dead people can't talk.
+
+;0x4DC3F706=~s~The ~g~elevator~s~ can be used to reach the 20th floor.
+0x4DC3F706=~s~The ~g~elevator~s~ can be used to reach the 20th floor.
+
+;0x5E70985F=~s~Search the apartment, he must be here somewhere.
+0x5E70985F=~s~Search the apartment, he must be here somewhere.
+
+;0x713A3DF2=~s~Go to ~y~Teddy Benavidez's apartment.
+0x713A3DF2=~s~Go to ~y~Teddy Benavidez's apartment.
+
+;0x75D24722=~s~Use Ray's text message to help you find Alonzo.
+0x75D24722=~s~Use Ray's text message to help you find Alonzo.
+
+;0x84A8E4CF=~s~Take out ~r~Teddy Benavidez.
+0x84A8E4CF=~s~Take out ~r~Teddy Benavidez.
+
+;0x9745C626=~r~Teddy's goon escaped.
+0x9745C626=~r~Teddy's goon escaped.
+
+;0xA6F1657D=~r~Teddy got away.
+0xA6F1657D=~r~Teddy got away.
+
+;0xBAEBD154=~s~Go inside and look for ~y~Teddy Benavidez's apartment.
+0xBAEBD154=~s~Go inside and look for ~y~Teddy Benavidez's apartment.
+
+;0xCDBE76F9=~s~Go to the ~y~projects on Galveston.
+0xCDBE76F9=~s~Go to the ~y~projects on Galveston.
+
+;0xDB2D3069=~s~Press ~INPUT_PICKUP~ to call the elevator.
+0xDB2D3069=~s~Press ~INPUT_PICKUP~ to call the elevator.
+
+;0xDE78EA52=~s~Intimidate ~r~Alonzo.
+0xDE78EA52=~s~Intimidate ~r~Alonzo.
+
+;0xE9843F20=~s~Teddy's goons are everywhere, use cover and move through the building with caution.
+0xE9843F20=~s~Teddy's goons are everywhere, use cover and move through the building with caution.
+

@@ -1,0 +1,205 @@
+﻿[R13BAUD]
+;0x072E3376=~z~Get me to this place, my friend.
+0x072E3376=~z~Get me to this place, my friend.
+
+;0x0A7346C2=~z~Oh, I think, if I'm not wrong it's straight.
+0x0A7346C2=~z~Oh, I think, if I'm not wrong it's straight.
+
+;0x1416CD47=~z~You don't want to piss me off today, man.
+0x1416CD47=~z~You don't want to piss me off today, man.
+
+;0x1838E24D=~z~Okay then... ummm... straight.
+0x1838E24D=~z~Okay then... ummm... straight.
+
+;0x199A1DC6=~z~Ummm, I'm pretty sure it's right here.
+0x199A1DC6=~z~Ummm, I'm pretty sure it's right here.
+
+;0x1F1AFAB7=R13_B_HC
+0x1F1AFAB7=R13_B_HC
+
+;0x1F4E6CF0=~z~Let me retrace my steps then.
+0x1F4E6CF0=~z~Let me retrace my steps then.
+
+;0x240277B0=~z~I was really high when I last went to Bernie's place.
+0x240277B0=~z~I was really high when I last went to Bernie's place.
+
+;0x2764B95B=~z~Okay... I think you should maybe turn right.
+0x2764B95B=~z~Okay... I think you should maybe turn right.
+
+;0x307AF132=~z~Why have you left Roman behind, are you going to kill me?
+0x307AF132=~z~Why have you left Roman behind, are you going to kill me?
+
+;0x31C41333=~z~Now where was it again?
+0x31C41333=~z~Now where was it again?
+
+;0x33C23E74=~z~Okay, ummm, if I'm right Bernie's place is somewhere Uptown.
+0x33C23E74=~z~Okay, ummm, if I'm right Bernie's place is somewhere Uptown.
+
+;0x3933285F=201021021
+0x3933285F=201021021
+
+;0x3AB36E1B=R13_B_GA
+0x3AB36E1B=R13_B_GA
+
+;0x3DCAD7A4=291
+0x3DCAD7A4=291
+
+;0x47983EDB=~z~Ummmm. Ahhhh.
+0x47983EDB=~z~Ummmm. Ahhhh.
+
+;0x488BB7D0=~z~Uhhh, oh. Left.
+0x488BB7D0=~z~Uhhh, oh. Left.
+
+;0x5432B8A5=~z~Where's Roman? What's happening?
+0x5432B8A5=~z~Where's Roman? What's happening?
+
+;0x54AC6701=R13_B_HB
+0x54AC6701=R13_B_HB
+
+;0x5540DA2C=~z~Hmmm. Let me think about this.
+0x5540DA2C=~z~Hmmm. Let me think about this.
+
+;0x57B6C272=R13_B_EA
+0x57B6C272=R13_B_EA
+
+;0x58B0BEF2=~z~This is it. This is Bernie's place. Are you going to kill him?
+0x58B0BEF2=~z~This is it. This is Bernie's place. Are you going to kill him?
+
+;0x595C57D1=~z~I have been waiting ten years to find Florian. Get me there.
+0x595C57D1=~z~I have been waiting ten years to find Florian. Get me there.
+
+;0x5BD94543=~z~That is the most your friend can look forward to. Get out of here now. You've done your job.
+0x5BD94543=~z~That is the most your friend can look forward to. Get out of here now. You've done your job.
+
+;0x5C375F27=~z~Ahhh. Hmmm. How about left?
+0x5C375F27=~z~Ahhh. Hmmm. How about left?
+
+;0x5ED16F81=~z~Ohhh, you might have to keep going here.
+0x5ED16F81=~z~Ohhh, you might have to keep going here.
+
+;0x60BECDE1=R13_B_FA
+0x60BECDE1=R13_B_FA
+
+;0x642D7805=~z~Hmmm. Okay then.
+0x642D7805=~z~Hmmm. Okay then.
+
+;0x643C4931=291
+0x643C4931=291
+
+;0x66475CCE=~z~Why isn't Roman with us? What's going on?
+0x66475CCE=~z~Why isn't Roman with us? What's going on?
+
+;0x6AA1FBFC=~z~Ummm, okay. Maybe left.
+0x6AA1FBFC=~z~Ummm, okay. Maybe left.
+
+;0x6CF00BB2=~z~Ahhh. Try going straight here.
+0x6CF00BB2=~z~Ahhh. Try going straight here.
+
+;0x6D4D452B=~z~Well... ummm... okay... turn right. Turn right.
+0x6D4D452B=~z~Well... ummm... okay... turn right. Turn right.
+
+;0x7A51A459=~z~Alright. Bernie's place. Where was Bernie's place.
+0x7A51A459=~z~Alright. Bernie's place. Where was Bernie's place.
+
+;0x7C73BDA8=R13_B_BA
+0x7C73BDA8=R13_B_BA
+
+;0x8144559B=R13_B_CA
+0x8144559B=R13_B_CA
+
+;0x833EAD3D=~z~I think, umm... I'm pretty sure it's left.
+0x833EAD3D=~z~I think, umm... I'm pretty sure it's left.
+
+;0x83E33624=~z~You know, you try to block walks of shame out of your memory.
+0x83E33624=~z~You know, you try to block walks of shame out of your memory.
+
+;0x865BCFE7=R13_B_HA
+0x865BCFE7=R13_B_HA
+
+;0x898542C0=~z~Okay, think Talbot. Think.
+0x898542C0=~z~Okay, think Talbot. Think.
+
+;0x8A1921C6=~z~When I am done with Florian, he will be begging to die.
+0x8A1921C6=~z~When I am done with Florian, he will be begging to die.
+
+;0x8E9FCCED=~z~Bernie Crane. What have you gotten me into.
+0x8E9FCCED=~z~Bernie Crane. What have you gotten me into.
+
+;0x8F5E5F3B=291
+0x8F5E5F3B=291
+
+;0x924F49BE=~z~You better be taking us to the right place, Talbot.
+0x924F49BE=~z~You better be taking us to the right place, Talbot.
+
+;0x92FECCBD=~z~Maybe if you, ummm, took a left here.
+0x92FECCBD=~z~Maybe if you, ummm, took a left here.
+
+;0x99609D55=~z~Ummm, can you maybe go right.
+0x99609D55=~z~Ummm, can you maybe go right.
+
+;0x9D51DFC5=R13_B_IA
+0x9D51DFC5=R13_B_IA
+
+;0x9EE46D7E=~z~Oh. This isn't easy.
+0x9EE46D7E=~z~Oh. This isn't easy.
+
+;0xA0B06820=~z~Okay, okay, okay. Just go left.
+0xA0B06820=~z~Okay, okay, okay. Just go left.
+
+;0xA2B84437=R13_B_DA
+0xA2B84437=R13_B_DA
+
+;0xAE048124=~z~When I find Florian... when I find him...
+0xAE048124=~z~When I find Florian... when I find him...
+
+;0xAF4C4A15=291
+0xAF4C4A15=291
+
+;0xB0EE0EEB=291
+0xB0EE0EEB=291
+
+;0xBE45BB0E=200
+0xBE45BB0E=200
+
+;0xD1A1D51C=~z~Ahhhh. Just go straight here.
+0xD1A1D51C=~z~Ahhhh. Just go straight here.
+
+;0xD2790F89=~z~This is complicated. How about right?
+0xD2790F89=~z~This is complicated. How about right?
+
+;0xDA8F5A39=~z~Where is it? Why aren't we there yet?
+0xDA8F5A39=~z~Where is it? Why aren't we there yet?
+
+;0xDF457063=~z~Ummm, can you keep going straight.
+0xDF457063=~z~Ummm, can you keep going straight.
+
+;0xE049AB2A=~z~Okay then, I guess I'd turn right here.
+0xE049AB2A=~z~Okay then, I guess I'd turn right here.
+
+;0xECE3FEE2=~z~Talbot, if you screw me around you are a dead man.
+0xECE3FEE2=~z~Talbot, if you screw me around you are a dead man.
+
+;0xED2E8C39=~z~Alright, I'd keep going straight here.
+0xED2E8C39=~z~Alright, I'd keep going straight here.
+
+;0xEE0DC6B2=~z~Let me think. Umm, okay, right.
+0xEE0DC6B2=~z~Let me think. Umm, okay, right.
+
+;0xEEC8044A=~z~Well, how about you maybe go left and see where it takes us?
+0xEEC8044A=~z~Well, how about you maybe go left and see where it takes us?
+
+;0xEF892BDD=091
+0xEF892BDD=091
+
+;0xF610913B=~z~I don't want you to mess around. Get me to this place.
+0xF610913B=~z~I don't want you to mess around. Get me to this place.
+
+;0xFBC3621D=~z~Uhhh. Ummmm. Maybe right.
+0xFBC3621D=~z~Uhhh. Ummmm. Maybe right.
+
+;0xFCC72B6A=~z~Okay, it's straight I think.
+0xFCC72B6A=~z~Okay, it's straight I think.
+
+;0xFD1DA0F5=~z~I am almost positive that it might be left.
+0xFD1DA0F5=~z~I am almost positive that it might be left.
+

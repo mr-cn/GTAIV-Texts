@@ -1,0 +1,712 @@
+﻿[PIJAUD]
+;0x002FCB5E=~z~The kind of accident where you stab yourself fifty fucking times with a kitchen knife, you fucking whore.
+0x002FCB5E=~z~The kind of accident where you stab yourself fifty fucking times with a kitchen knife, you fucking whore.
+
+;0x00B1B704=~z~Good.
+0x00B1B704=~z~Good.
+
+;0x0311DCEF=010190190190
+0x0311DCEF=010190190190
+
+;0x033246E5=~z~Hey! Fuck you!
+0x033246E5=~z~Hey! Fuck you!
+
+;0x054B5585=~z~Hey!
+0x054B5585=~z~Hey!
+
+;0x0768CA2F=300
+0x0768CA2F=300
+
+;0x089E803D=PIJ_HA
+0x089E803D=PIJ_HA
+
+;0x09739A6B=~z~Hey man, I'm sorry but your wife gave me the slip.
+0x09739A6B=~z~Hey man, I'm sorry but your wife gave me the slip.
+
+;0x09A731B5=PIJ_FF
+0x09A731B5=PIJ_FF
+
+;0x09BF1F85=PIJ_EA
+0x09BF1F85=PIJ_EA
+
+;0x0C1990E4=~z~Have I told you how beautiful your eyes are?
+0x0C1990E4=~z~Have I told you how beautiful your eyes are?
+
+;0x0CD5BE11=~z~Me? My life's a fucking train wreck.
+0x0CD5BE11=~z~Me? My life's a fucking train wreck.
+
+;0x0DDBE3D1=~z~Hey, come on, calm down.
+0x0DDBE3D1=~z~Hey, come on, calm down.
+
+;0x0E1C9381=PIJ_WB
+0x0E1C9381=PIJ_WB
+
+;0x0E84674E=~z~Come on! Here they come. Here's my card.
+0x0E84674E=~z~Come on! Here they come. Here's my card.
+
+;0x1044B3D4=~z~You crazy bastard, she'll never get over this.
+0x1044B3D4=~z~You crazy bastard, she'll never get over this.
+
+;0x11006285=~z~Sure. Whatever.
+0x11006285=~z~Sure. Whatever.
+
+;0x13AB04D1=~z~You another one of Jeff's PIs? Stop harassing her! She's been through enough.
+0x13AB04D1=~z~You another one of Jeff's PIs? Stop harassing her! She's been through enough.
+
+;0x13B64BD2=~z~What?
+0x13B64BD2=~z~What?
+
+;0x16117B8B=~z~Take a photo of this.
+0x16117B8B=~z~Take a photo of this.
+
+;0x170678FB=~z~What's going on?
+0x170678FB=~z~What's going on?
+
+;0x18EC1D0B=~z~-I swear I feel I can tell you things.~n~-Please, don't.
+0x18EC1D0B=~z~-I swear I feel I can tell you things.~n~-Please, don't.
+
+;0x1C7C7979=~z~Okay, but its going to cost you. Five grand.
+0x1C7C7979=~z~Okay, but its going to cost you. Five grand.
+
+;0x1EDEF42B=~z~Not even memories.
+0x1EDEF42B=~z~Not even memories.
+
+;0x1F200645=~z~Hey, you okay? Hey come on, calm down.
+0x1F200645=~z~Hey, you okay? Hey come on, calm down.
+
+;0x201D490D=~z~This don't necessarily mean she's cheating on you.
+0x201D490D=~z~This don't necessarily mean she's cheating on you.
+
+;0x20B1D6FF=PIJ_WM
+0x20B1D6FF=PIJ_WM
+
+;0x20E4D11B=PIJ_IA
+0x20E4D11B=PIJ_IA
+
+;0x22608CDA=~z~fucking some prick behind my back.
+0x22608CDA=~z~fucking some prick behind my back.
+
+;0x22F60670=~z~Give me the keys. Put the gun away.
+0x22F60670=~z~Give me the keys. Put the gun away.
+
+;0x23FFB24B=~z~Look, I'm bloody sorry about this but I think I've run some poor chap over. He looks dead.
+0x23FFB24B=~z~Look, I'm bloody sorry about this but I think I've run some poor chap over. He looks dead.
+
+;0x244D3CF9=PIJ_CB
+0x244D3CF9=PIJ_CB
+
+;0x262381EB=~z~Hey! How you doing?
+0x262381EB=~z~Hey! How you doing?
+
+;0x26F472EB=PIJ_AC
+0x26F472EB=PIJ_AC
+
+;0x271EB970=~z~Jeff and you, you know? Buddies. Pals. Yeah?
+0x271EB970=~z~Jeff and you, you know? Buddies. Pals. Yeah?
+
+;0x27529C74=~z~Don't tell me to calm down!
+0x27529C74=~z~Don't tell me to calm down!
+
+;0x27691E3E=~z~Some things are private.
+0x27691E3E=~z~Some things are private.
+
+;0x2823E310=PIJ_AB
+0x2823E310=PIJ_AB
+
+;0x28E8CC75=PIJ_CC
+0x28E8CC75=PIJ_CC
+
+;0x2911C68B=PIJ_HD
+0x2911C68B=PIJ_HD
+
+;0x297DEA35=SFX_PAUSE_2000
+0x297DEA35=SFX_PAUSE_2000
+
+;0x2A529BCC=~z~I just took some photos. But, yeah. How you doing now, anyway? You leave that bitch?
+0x2A529BCC=~z~I just took some photos. But, yeah. How you doing now, anyway? You leave that bitch?
+
+;0x2BB78DD0=~z~Yo, Jeffy. I don't like you being treated like this.
+0x2BB78DD0=~z~Yo, Jeffy. I don't like you being treated like this.
+
+;0x2D33C4B3=~z~Of course I'll hold.
+0x2D33C4B3=~z~Of course I'll hold.
+
+;0x2DD76481=~z~Take your own advice, Jeff. Be calm.
+0x2DD76481=~z~Take your own advice, Jeff. Be calm.
+
+;0x2E3E1D0C=~z~Get rid of her and get rid of the car. Hey?
+0x2E3E1D0C=~z~Get rid of her and get rid of the car. Hey?
+
+;0x30CF57CE=PIJ_WC
+0x30CF57CE=PIJ_WC
+
+;0x31F22BE9=~z~After all I've done for that tramp, whore. Ah!
+0x31F22BE9=~z~After all I've done for that tramp, whore. Ah!
+
+;0x33972F47=~z~My lovely bride, the mother of my son is up there, right now,
+0x33972F47=~z~My lovely bride, the mother of my son is up there, right now,
+
+;0x359538F9=~z~Calm down.
+0x359538F9=~z~Calm down.
+
+;0x35ECA23A=~z~I killed your wife and the man who was dicking her.
+0x35ECA23A=~z~I killed your wife and the man who was dicking her.
+
+;0x37A5B672=~z~You could say I cut some ties.
+0x37A5B672=~z~You could say I cut some ties.
+
+;0x37D72552=~z~Yes, I remember you.
+0x37D72552=~z~Yes, I remember you.
+
+;0x3AA3A166=300
+0x3AA3A166=300
+
+;0x3AAD608D=~z~I don't know about that...
+0x3AAD608D=~z~I don't know about that...
+
+;0x3B8A6FC5=~z~You know, I'm here for you whenever you need me.
+0x3B8A6FC5=~z~You know, I'm here for you whenever you need me.
+
+;0x3BF58FCD=010100100
+0x3BF58FCD=010100100
+
+;0x3CB439EC=~z~Yeah. Okay thanks. Oh, Jeff really messed up this time, didn't he? Oh.
+0x3CB439EC=~z~Yeah. Okay thanks. Oh, Jeff really messed up this time, didn't he? Oh.
+
+;0x3DB6B6A3=100100100010010
+0x3DB6B6A3=100100100010010
+
+;0x3F6C0DBF=PIJ_WK
+0x3F6C0DBF=PIJ_WK
+
+;0x3FAEB021=PIJ_BD
+0x3FAEB021=PIJ_BD
+
+;0x40039C2D=PIJ_FC
+0x40039C2D=PIJ_FC
+
+;0x41027F57=PIJ_GD
+0x41027F57=PIJ_GD
+
+;0x427D96A7=PIJ_A_AA
+0x427D96A7=PIJ_A_AA
+
+;0x44B15454=~z~What kind of an accident?
+0x44B15454=~z~What kind of an accident?
+
+;0x44BB4A8A=~z~bitch.
+0x44BB4A8A=~z~bitch.
+
+;0x459827DD=PIJ_DA
+0x459827DD=PIJ_DA
+
+;0x462C5947=~z~She's a nice girl. Or so I thought.
+0x462C5947=~z~She's a nice girl. Or so I thought.
+
+;0x46C555A3=~z~Okay. What did she do?
+0x46C555A3=~z~Okay. What did she do?
+
+;0x47DAB7B0=~z~What's wrong with you, Jeff?!
+0x47DAB7B0=~z~What's wrong with you, Jeff?!
+
+;0x49764890=~z~Hey, you remember me? Yeah you do, huh? Yeah, you took those photos of my wife.
+0x49764890=~z~Hey, you remember me? Yeah you do, huh? Yeah, you took those photos of my wife.
+
+;0x4AB7F9C2=010010100100
+0x4AB7F9C2=010010100100
+
+;0x4DFE39C1=PIJ_DB
+0x4DFE39C1=PIJ_DB
+
+;0x509C247A=~z~I got rid of that body for you. You should be clean.
+0x509C247A=~z~I got rid of that body for you. You should be clean.
+
+;0x510C9E71=~z~The bitch, the cum-guzzling bitch.
+0x510C9E71=~z~The bitch, the cum-guzzling bitch.
+
+;0x510F9A9E=~z~You're wasted on him...
+0x510F9A9E=~z~You're wasted on him...
+
+;0x529EBF76=~z~Slip? You've been slipping it to her, haven't you? Banging my wife rather than helping me.
+0x529EBF76=~z~Slip? You've been slipping it to her, haven't you? Banging my wife rather than helping me.
+
+;0x53EE74CB=~z~Oh, I got married again. Yeah, yeah. That's right.
+0x53EE74CB=~z~Oh, I got married again. Yeah, yeah. That's right.
+
+;0x551BC61A=~z~Jeff, you lucky bastard. You don't have to worry about that bitch no more. I fucking iced her.
+0x551BC61A=~z~Jeff, you lucky bastard. You don't have to worry about that bitch no more. I fucking iced her.
+
+;0x567EEE11=~z~You dirty whore.
+0x567EEE11=~z~You dirty whore.
+
+;0x5733A6F7=~z~Turned out he'd sent the contents to a lab for DNA analysis.
+0x5733A6F7=~z~Turned out he'd sent the contents to a lab for DNA analysis.
+
+;0x5823785F=~z~My fucking whore of a fucking wife, that's who!
+0x5823785F=~z~My fucking whore of a fucking wife, that's who!
+
+;0x58AA7F23=~z~Calm down, before I give you injury.
+0x58AA7F23=~z~Calm down, before I give you injury.
+
+;0x5933801F=~z~It's only angina.
+0x5933801F=~z~It's only angina.
+
+;0x599DDB36=~z~He won't stop!
+0x599DDB36=~z~He won't stop!
+
+;0x59ED3B6D=~z~Well, screw you.
+0x59ED3B6D=~z~Well, screw you.
+
+;0x5A7FD964=~z~I cannot believe this is happening to me.
+0x5A7FD964=~z~I cannot believe this is happening to me.
+
+;0x5B2EEC01=~z~Excuse me. I didn't see... you...
+0x5B2EEC01=~z~Excuse me. I didn't see... you...
+
+;0x5BBB3A99=PIJ_WI
+0x5BBB3A99=PIJ_WI
+
+;0x5E548A6B=~z~You're just like all the rest!
+0x5E548A6B=~z~You're just like all the rest!
+
+;0x6112DEF2=PIJ_IC
+0x6112DEF2=PIJ_IC
+
+;0x6336E0A6=~z~Well, screw you.
+0x6336E0A6=~z~Well, screw you.
+
+;0x64C16565=~z~Oh my God, Jeff, what have you done?
+0x64C16565=~z~Oh my God, Jeff, what have you done?
+
+;0x64D1B471=~z~I need a fucking friend, man!
+0x64D1B471=~z~I need a fucking friend, man!
+
+;0x67E390A1=490
+0x67E390A1=490
+
+;0x68359D4D=~z~She's up there right now. She's having a drink with her ex.
+0x68359D4D=~z~She's up there right now. She's having a drink with her ex.
+
+;0x6A47A251=~z~Goddamn you!
+0x6A47A251=~z~Goddamn you!
+
+;0x6CFA27AC=~z~You're going to do yourself some serious damage if you keep going on like that.
+0x6CFA27AC=~z~You're going to do yourself some serious damage if you keep going on like that.
+
+;0x6E0049DF=PIJ_HB
+0x6E0049DF=PIJ_HB
+
+;0x6EAE64EF=~z~Slip? You've been slipping it to her, haven't you? Banging my wife rather than helping me.
+0x6EAE64EF=~z~Slip? You've been slipping it to her, haven't you? Banging my wife rather than helping me.
+
+;0x6ECD4B71=PIJ_WD
+0x6ECD4B71=PIJ_WD
+
+;0x6F0793B2=~z~Yeah.
+0x6F0793B2=~z~Yeah.
+
+;0x6F9B4A04=~z~We've been through some shit together. Didn't we?
+0x6F9B4A04=~z~We've been through some shit together. Didn't we?
+
+;0x6FB0AA4E=~z~Yeah, Jeff really did it this time. Jeff went too far. Jeff's been a bad boy. A really bad boy.
+0x6FB0AA4E=~z~Yeah, Jeff really did it this time. Jeff went too far. Jeff's been a bad boy. A really bad boy.
+
+;0x6FDFD84F=~z~It's not your fault. I'd trust you in his position.
+0x6FDFD84F=~z~It's not your fault. I'd trust you in his position.
+
+;0x70E28661=~z~Uh, good. How are you?
+0x70E28661=~z~Uh, good. How are you?
+
+;0x70FBEFE2=PIJ_WJ
+0x70FBEFE2=PIJ_WJ
+
+;0x77D20BD3=PIJ_ZA
+0x77D20BD3=PIJ_ZA
+
+;0x782F3D40=~z~Here we go.
+0x782F3D40=~z~Here we go.
+
+;0x79983443=~z~How could you do this to me?
+0x79983443=~z~How could you do this to me?
+
+;0x7A57F107=~z~She kisses our kid with that mouth. I love her so much.
+0x7A57F107=~z~She kisses our kid with that mouth. I love her so much.
+
+;0x7AE0245F=PIJ_BA
+0x7AE0245F=PIJ_BA
+
+;0x7B4AE9C8=PIJ_HE
+0x7B4AE9C8=PIJ_HE
+
+;0x7EFF826D=PIJ_WH
+0x7EFF826D=PIJ_WH
+
+;0x7EFFC525=~z~Meet me at the garage off Silicon Street at the north east corner of Middle Park.
+0x7EFFC525=~z~Meet me at the garage off Silicon Street at the north east corner of Middle Park.
+
+;0x7F57CB91=~z~You've got to calm down.
+0x7F57CB91=~z~You've got to calm down.
+
+;0x7FD11B84=~z~Why? Why? Why?
+0x7FD11B84=~z~Why? Why? Why?
+
+;0x80BB3719=~z~My late wife.
+0x80BB3719=~z~My late wife.
+
+;0x80D64F64=~z~Hey, mister - are you okay?
+0x80D64F64=~z~Hey, mister - are you okay?
+
+;0x828AEFE3=~z~Very fucking interesting.
+0x828AEFE3=~z~Very fucking interesting.
+
+;0x83097EA2=~z~He wants to get a Trackify chip put in the base of my spine. Says I wouldn't mind if I didn't have something to hide.
+0x83097EA2=~z~He wants to get a Trackify chip put in the base of my spine. Says I wouldn't mind if I didn't have something to hide.
+
+;0x846A9202=~z~She kisses our kid with that mouth. I love her so much.
+0x846A9202=~z~She kisses our kid with that mouth. I love her so much.
+
+;0x88010880=~z~You meet a guy with a nice smile and a black card, but you don't have any idea what kind of monster he could turn into.
+0x88010880=~z~You meet a guy with a nice smile and a black card, but you don't have any idea what kind of monster he could turn into.
+
+;0x8828F2DA=PIJ_AA
+0x8828F2DA=PIJ_AA
+
+;0x8A8962CA=~z~Come on, Jeff, be calm. Jeff, be cool. Come on, champ. You can do this. Be a winner.
+0x8A8962CA=~z~Come on, Jeff, be calm. Jeff, be cool. Come on, champ. You can do this. Be a winner.
+
+;0x8B39BB0F=~z~Well, I'm shit, to be perfectly frank, buddy.
+0x8B39BB0F=~z~Well, I'm shit, to be perfectly frank, buddy.
+
+;0x8C115935=~z~Why? Why?
+0x8C115935=~z~Why? Why?
+
+;0x8C3377A3=PIJ_YA
+0x8C3377A3=PIJ_YA
+
+;0x8C91E049=~z~I need your help.
+0x8C91E049=~z~I need your help.
+
+;0x8C9DE61D=~z~Yeah, she's touching his leg and she's getting all wet...
+0x8C9DE61D=~z~Yeah, she's touching his leg and she's getting all wet...
+
+;0x8D8CC461=010010100100100
+0x8D8CC461=010010100100100
+
+;0x8F51603D=~z~Get out of here.
+0x8F51603D=~z~Get out of here.
+
+;0x90EE20A6=PIJ_WE
+0x90EE20A6=PIJ_WE
+
+;0x910E1E9E=PIJ_WG
+0x910E1E9E=PIJ_WG
+
+;0x916ABEB7=~z~You employed a psychopath and he killed the woman you love... the mother of your child.
+0x916ABEB7=~z~You employed a psychopath and he killed the woman you love... the mother of your child.
+
+;0x96B0368D=~z~The bitch, the cum-guzzling bitch.
+0x96B0368D=~z~The bitch, the cum-guzzling bitch.
+
+;0x9D1132A0=~z~A girl can have male friends. It's not like every guy I hang out with is trying to screw me, is it?
+0x9D1132A0=~z~A girl can have male friends. It's not like every guy I hang out with is trying to screw me, is it?
+
+;0x9F32FF78=~z~I won't be treated like this.
+0x9F32FF78=~z~I won't be treated like this.
+
+;0x9FB609AF=~z~I'm afraid I only take cash.
+0x9FB609AF=~z~I'm afraid I only take cash.
+
+;0x9FC68794=~z~bitch! bitch! bitch!
+0x9FC68794=~z~bitch! bitch! bitch!
+
+;0xA07FE8F9=~z~Dammit, Jeff!
+0xA07FE8F9=~z~Dammit, Jeff!
+
+;0xA08ABC36=PIJ_GB
+0xA08ABC36=PIJ_GB
+
+;0xA0A1DB83=~z~Hey Jeff, your wife clocked me. I slipped up, man.
+0xA0A1DB83=~z~Hey Jeff, your wife clocked me. I slipped up, man.
+
+;0xA0C2BA07=PIJ_WA
+0xA0C2BA07=PIJ_WA
+
+;0xA12D0F3B=~z~What?
+0xA12D0F3B=~z~What?
+
+;0xA24EC09E=PIJ_GC
+0xA24EC09E=PIJ_GC
+
+;0xA30F910F=~z~Yeah... I got a bit of a problem. Bit of a big fucking problem.
+0xA30F910F=~z~Yeah... I got a bit of a problem. Bit of a big fucking problem.
+
+;0xA4391629=~z~Great. See you later.
+0xA4391629=~z~Great. See you later.
+
+;0xA43FFE22=~z~Yeah, yeah... I owe you.
+0xA43FFE22=~z~Yeah, yeah... I owe you.
+
+;0xA6559C86=100100100010
+0xA6559C86=100100100010
+
+;0xA69F3B4D=PIJ_BC
+0xA69F3B4D=PIJ_BC
+
+;0xA74B256D=190190190190190
+0xA74B256D=190190190190190
+
+;0xA8139DDA=~z~What?
+0xA8139DDA=~z~What?
+
+;0xA8A091C3=~z~Fuck my friend will you? Huh? Well, who's laughing now? bitch!
+0xA8A091C3=~z~Fuck my friend will you? Huh? Well, who's laughing now? bitch!
+
+;0xAA099327=PIJ_ED
+0xAA099327=PIJ_ED
+
+;0xAA23D894=PIJ_ED
+0xAA23D894=PIJ_ED
+
+;0xAADB58F7=~z~The whore, she brought this on herself!
+0xAADB58F7=~z~The whore, she brought this on herself!
+
+;0xAC00A244=~z~I'll give you cash. Alright? Five hundred.
+0xAC00A244=~z~I'll give you cash. Alright? Five hundred.
+
+;0xAF2B02BD=~z~Oh. What's wrong with you?
+0xAF2B02BD=~z~Oh. What's wrong with you?
+
+;0xAF9FE54F=PIJ_DD
+0xAF9FE54F=PIJ_DD
+
+;0xB038D924=~z~I mean, it's not like I keep things from him. I just don't want to become a paraplegic or anything.
+0xB038D924=~z~I mean, it's not like I keep things from him. I just don't want to become a paraplegic or anything.
+
+;0xB12AAF36=~z~I need you to kill her.
+0xB12AAF36=~z~I need you to kill her.
+
+;0xB180B0B4=~z~Hey you know, you could do me a favor here. You know.
+0xB180B0B4=~z~Hey you know, you could do me a favor here. You know.
+
+;0xB322837D=PIJ_FE
+0xB322837D=PIJ_FE
+
+;0xB35B5F34=~z~It just doesn't make sense to me, what makes him think I'd cheat on him?
+0xB35B5F34=~z~It just doesn't make sense to me, what makes him think I'd cheat on him?
+
+;0xB39D7FEF=PIJ_FB
+0xB39D7FEF=PIJ_FB
+
+;0xB405B5C2=~z~I'm a winner. I can do anything.
+0xB405B5C2=~z~I'm a winner. I can do anything.
+
+;0xB4DD30DF=~z~Hey, this is Jeff. Yeah, you remember, that happy go lucky guy?
+0xB4DD30DF=~z~Hey, this is Jeff. Yeah, you remember, that happy go lucky guy?
+
+;0xB52979F7=PIJ_EC
+0xB52979F7=PIJ_EC
+
+;0xB57235D4=~z~What's going on?
+0xB57235D4=~z~What's going on?
+
+;0xB6F758BB=~z~My, ya know, life hasn't always been kind.
+0xB6F758BB=~z~My, ya know, life hasn't always been kind.
+
+;0xB7CFA541=~z~Aw, come on!
+0xB7CFA541=~z~Aw, come on!
+
+;0xBA153954=PIJ_AC
+0xBA153954=PIJ_AC
+
+;0xBA9BABA2=~z~You psychopath. How could you do it?
+0xBA9BABA2=~z~You psychopath. How could you do it?
+
+;0xBB52B83F=~z~Yeah... yeah...
+0xBB52B83F=~z~Yeah... yeah...
+
+;0xBD7B9F1B=PIJ_AB
+0xBD7B9F1B=PIJ_AB
+
+;0xBDACFE9A=~z~Practically stabbed herself by letting him give it to her. Thanks.
+0xBDACFE9A=~z~Practically stabbed herself by letting him give it to her. Thanks.
+
+;0xBDEFA046=~z~Fuckin' shit.
+0xBDEFA046=~z~Fuckin' shit.
+
+;0xC067E349=010100100
+0xC067E349=010100100
+
+;0xC1E67C7F=~z~It'd be criminal for a woman with legs like yours not to be able to use them.
+0xC1E67C7F=~z~It'd be criminal for a woman with legs like yours not to be able to use them.
+
+;0xC1ECCEC9=~z~What are you saying lunatic?
+0xC1ECCEC9=~z~What are you saying lunatic?
+
+;0xC27BF43E=PIJ_XA
+0xC27BF43E=PIJ_XA
+
+;0xC37353C7=~z~I'll pay.
+0xC37353C7=~z~I'll pay.
+
+;0xC3E39016=PIJ_DC
+0xC3E39016=PIJ_DC
+
+;0xC4A78201=~z~It's just that he gets so angry and jealous. I don't know what to do.
+0xC4A78201=~z~It's just that he gets so angry and jealous. I don't know what to do.
+
+;0xC52CC0C4=~z~You turned them into Romeo and Juliet or something. I've got nothing now.
+0xC52CC0C4=~z~You turned them into Romeo and Juliet or something. I've got nothing now.
+
+;0xC661AE79=340430430430340430340430340430340430430340
+0xC661AE79=340430430430340430340430340430340430430340
+
+;0xC8B4FC36=~z~My mom, you know. She left my dad. And my dad, well...
+0xC8B4FC36=~z~My mom, you know. She left my dad. And my dad, well...
+
+;0xC93D61E4=~z~I'm gonna stick up for her, if no one else is.
+0xC93D61E4=~z~I'm gonna stick up for her, if no one else is.
+
+;0xCB7A9FC9=~z~Oh, calm Jeff, calm, be calm, calm down.
+0xCB7A9FC9=~z~Oh, calm Jeff, calm, be calm, calm down.
+
+;0xCD63ACD0=PIJ_WN
+0xCD63ACD0=PIJ_WN
+
+;0xCDF81991=PIJ_WF
+0xCDF81991=PIJ_WF
+
+;0xD189A673=~z~Now all you need to worry about is your conscience.
+0xD189A673=~z~Now all you need to worry about is your conscience.
+
+;0xD1FE3244=PIJ_EB
+0xD1FE3244=PIJ_EB
+
+;0xD2048F3D=~z~Jeff owes you
+0xD2048F3D=~z~Jeff owes you
+
+;0xD31CA595=PIJ_FD
+0xD31CA595=PIJ_FD
+
+;0xD3349BEE=PIJ_HC
+0xD3349BEE=PIJ_HC
+
+;0xD3F36F0B=~z~The one you told about his two-faced, cheating slut of a wife.
+0xD3F36F0B=~z~The one you told about his two-faced, cheating slut of a wife.
+
+;0xD51E6ABE=~z~Hey, buddy! Whoa! Calm down!
+0xD51E6ABE=~z~Hey, buddy! Whoa! Calm down!
+
+;0xD5737529=~z~I'll pay buddy. I've got a black card!
+0xD5737529=~z~I'll pay buddy. I've got a black card!
+
+;0xD5F22B6B=PIJ_DE
+0xD5F22B6B=PIJ_DE
+
+;0xD6FE26AE=~z~I've found bugs in my phone. I came home and my panty drawer was empty.
+0xD6FE26AE=~z~I've found bugs in my phone. I came home and my panty drawer was empty.
+
+;0xD6FE7BAF=~z~Take some photos. Text 'em to me.
+0xD6FE7BAF=~z~Take some photos. Text 'em to me.
+
+;0xD99FF600=PIJ_JA
+0xD99FF600=PIJ_JA
+
+;0xDA15A9E3=PIJ_CA
+0xDA15A9E3=PIJ_CA
+
+;0xDCAACC9D=~z~Jeff. I didn't like the look of the guy your wife was with so I killed him. No thanks necessary.
+0xDCAACC9D=~z~Jeff. I didn't like the look of the guy your wife was with so I killed him. No thanks necessary.
+
+;0xDD64FCA6=PIJ_EB
+0xDD64FCA6=PIJ_EB
+
+;0xDE09E735=PIJ_BB
+0xDE09E735=PIJ_BB
+
+;0xDE71B9C0=PIJ_GA
+0xDE71B9C0=PIJ_GA
+
+;0xE158E718=~z~Terrible.
+0xE158E718=~z~Terrible.
+
+;0xE290DE99=PIJ_FA
+0xE290DE99=PIJ_FA
+
+;0xE6D6F248=~z~Hey, how you doin'?
+0xE6D6F248=~z~Hey, how you doin'?
+
+;0xE6DD0E3B=~z~Huh? Not you. You're fucking dead whore!
+0xE6DD0E3B=~z~Huh? Not you. You're fucking dead whore!
+
+;0xE7DCE301=~z~You fucking killed him? God! He was probably just a friend or her pilates instructor or something.
+0xE7DCE301=~z~You fucking killed him? God! He was probably just a friend or her pilates instructor or something.
+
+;0xE894A092=~z~Leave her alone! Leave her alone!
+0xE894A092=~z~Leave her alone! Leave her alone!
+
+;0xE9691AEC=~z~Who are you talking about? Who's this bitch?
+0xE9691AEC=~z~Who are you talking about? Who's this bitch?
+
+;0xE9840760=010100100
+0xE9840760=010100100
+
+;0xE99A4F8E=~z~Take your own advice, Jeff. Be calm. You wanted to know.
+0xE99A4F8E=~z~Take your own advice, Jeff. Be calm. You wanted to know.
+
+;0xEB26A403=~z~You want me to text you photos of your own wife?
+0xEB26A403=~z~You want me to text you photos of your own wife?
+
+;0xED27643F=290290290290290
+0xED27643F=290290290290290
+
+;0xEDED79C5=SFX_PAUSE_2000
+0xEDED79C5=SFX_PAUSE_2000
+
+;0xF0EFA260=~z~Don't be an idiot. Now, what do you want me to do?
+0xF0EFA260=~z~Don't be an idiot. Now, what do you want me to do?
+
+;0xF12CF7FA=100100010100100100
+0xF12CF7FA=100100010100100100
+
+;0xF30030FF=~z~Remember my wife Shirley? She had an accident... in the kitchen.
+0xF30030FF=~z~Remember my wife Shirley? She had an accident... in the kitchen.
+
+;0xF45F35A2=~z~You're deranged!
+0xF45F35A2=~z~You're deranged!
+
+;0xF4C6374F=PIJ_EA
+0xF4C6374F=PIJ_EA
+
+;0xF64E56E5=~z~Hello. Is this the police?
+0xF64E56E5=~z~Hello. Is this the police?
+
+;0xF6D9EA0D=~z~Oh, calm Jeff, calm, be calm, calm down.
+0xF6D9EA0D=~z~Oh, calm Jeff, calm, be calm, calm down.
+
+;0xF753D977=~z~My life is hell! Alright?
+0xF753D977=~z~My life is hell! Alright?
+
+;0xF758036C=PIJ_WL
+0xF758036C=PIJ_WL
+
+;0xF89DB553=PIJ_JB
+0xF89DB553=PIJ_JB
+
+;0xF8B48783=PIJ_IB
+0xF8B48783=PIJ_IB
+
+;0xF9CC6C15=~z~I'm not gonna change on you.
+0xF9CC6C15=~z~I'm not gonna change on you.
+
+;0xFAABBD71=~z~Fucking bitch.
+0xFAABBD71=~z~Fucking bitch.
+
+;0xFBD74717=~z~You're as bad as the paparazzi who hound those poor celebrities.
+0xFBD74717=~z~You're as bad as the paparazzi who hound those poor celebrities.
+
+;0xFC98C701=~z~Well then screw you. Screw you. Screw you!
+0xFC98C701=~z~Well then screw you. Screw you. Screw you!
+
+;0xFE7DC741=~z~Just follow 'em. Take some photos. Text 'em to me.
+0xFE7DC741=~z~Just follow 'em. Take some photos. Text 'em to me.
+

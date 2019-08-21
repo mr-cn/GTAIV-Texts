@@ -1,0 +1,49 @@
+﻿[GM4]
+;0x323C3839=~r~The car was trashed.~s~
+0x323C3839=~r~The car was trashed.~s~
+
+;0x390A6139=~s~Get a car.
+0x390A6139=~s~Get a car.
+
+;0x528CCD90=~s~Go to the ~y~safehouse.
+0x528CCD90=~s~Go to the ~y~safehouse.
+
+;0x5DDE3F55=~r~Packie was injured.~s~
+0x5DDE3F55=~r~Packie was injured.~s~
+
+;0x608A327C=~s~Get in the ~b~car~s~ Packie left you.
+0x608A327C=~s~Get in the ~b~car~s~ Packie left you.
+
+;0x744AA65B=~r~Gracie is dead.~s~
+0x744AA65B=~r~Gracie is dead.~s~
+
+;0xA8F8C11C=~s~Get in any car.
+0xA8F8C11C=~s~Get in any car.
+
+;0xAD07EF36=~r~Gracie has been rescued.
+0xAD07EF36=~r~Gracie has been rescued.
+
+;0xBD4C0883=~s~Don't damage the car or you will kill Gracie.
+0xBD4C0883=~s~Don't damage the car or you will kill Gracie.
+
+;0xC6BAFCA0=~s~Get in the ~b~car.
+0xC6BAFCA0=~s~Get in the ~b~car.
+
+;0xC940850B=~s~You need to lose the ~r~cars~s~ first.
+0xC940850B=~s~You need to lose the ~r~cars~s~ first.
+
+;0xD21EB6B0=~s~Lose your wanted level.
+0xD21EB6B0=~s~Lose your wanted level.
+
+;0xD2A34DBB=~s~Go to the ~y~safehouse.
+0xD2A34DBB=~s~Go to the ~y~safehouse.
+
+;0xD4D798D5=~s~Go to the ~y~safehouse.
+0xD4D798D5=~s~Go to the ~y~safehouse.
+
+;0xE185B475=~s~Now take the girl to the ~y~safehouse.
+0xE185B475=~s~Now take the girl to the ~y~safehouse.
+
+;0xE5F43B0E=~s~The Ancelottis are on to you, get to the ~y~safehouse~s~ quickly.
+0xE5F43B0E=~s~The Ancelottis are on to you, get to the ~y~safehouse~s~ quickly.
+

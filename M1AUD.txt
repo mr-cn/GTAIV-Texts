@@ -1,0 +1,964 @@
+﻿[M1AUD]
+;0x011EE9FA=~z~Rojo, rojo. Hit the brakes, man.
+0x011EE9FA=~z~Rojo, rojo. Hit the brakes, man.
+
+;0x017FF521=~z~So, Niko, this is Manny - we grew up together.
+0x017FF521=~z~So, Niko, this is Manny - we grew up together.
+
+;0x01CB7DB4=~z~Good! Alright, hey, how's the camera?
+0x01CB7DB4=~z~Good! Alright, hey, how's the camera?
+
+;0x0205CF0F=100
+0x0205CF0F=100
+
+;0x02AC8413=~z~Yes. Yes, yes, yes. Very cool. Good.
+0x02AC8413=~z~Yes. Yes, yes, yes. Very cool. Good.
+
+;0x02B31CE6=M1_HH
+0x02B31CE6=M1_HH
+
+;0x02FB003E=~z~Not fucking cool, man!
+0x02FB003E=~z~Not fucking cool, man!
+
+;0x03271E66=M1_GB
+0x03271E66=M1_GB
+
+;0x038D6B5E=100
+0x038D6B5E=100
+
+;0x03F8820E=~z~-Can you tape us...?~n~-Just don't even...
+0x03F8820E=~z~-Can you tape us...?~n~-Just don't even...
+
+;0x04788F8E=~z~A kid dies tonight, man, on your head it be. Get outta here.
+0x04788F8E=~z~A kid dies tonight, man, on your head it be. Get outta here.
+
+;0x04E110AB=~z~So you and Mallorie is tight, huh? She and your cousin is together now.
+0x04E110AB=~z~So you and Mallorie is tight, huh? She and your cousin is together now.
+
+;0x05350313=~z~Sorry.
+0x05350313=~z~Sorry.
+
+;0x0556934B=M1_LD
+0x0556934B=M1_LD
+
+;0x06CB910C=M1_JA
+0x06CB910C=M1_JA
+
+;0x075A775A=~z~Aw man, you gonna lose him.
+0x075A775A=~z~Aw man, you gonna lose him.
+
+;0x085BDE2E=100
+0x085BDE2E=100
+
+;0x09102458=~z~I wish I had a damn pen. Fuck, man.
+0x09102458=~z~I wish I had a damn pen. Fuck, man.
+
+;0x0BA208FC=010
+0x0BA208FC=010
+
+;0x0C961A26=~z~I thought you had passion in your veins, man.
+0x0C961A26=~z~I thought you had passion in your veins, man.
+
+;0x0C98A554=M1_A_AC
+0x0C98A554=M1_A_AC
+
+;0x0D810C55=~z~You know, when I really start talking the truth, how come Jay's not around man?
+0x0D810C55=~z~You know, when I really start talking the truth, how come Jay's not around man?
+
+;0x11257DD4=M1_A_EH
+0x11257DD4=M1_A_EH
+
+;0x11472148=~z~You mean here?
+0x11472148=~z~You mean here?
+
+;0x122D32B2=100
+0x122D32B2=100
+
+;0x13DA9E72=~z~Okay.
+0x13DA9E72=~z~Okay.
+
+;0x15298F7B=100
+0x15298F7B=100
+
+;0x179BA7E0=~z~Manny!
+0x179BA7E0=~z~Manny!
+
+;0x1BB549A2=~z~You think Jesus started breaking shit up when those disciples followed him around with a bit of parchment?
+0x1BB549A2=~z~You think Jesus started breaking shit up when those disciples followed him around with a bit of parchment?
+
+;0x1BBAA8C8=~z~He should be filming me every second.
+0x1BBAA8C8=~z~He should be filming me every second.
+
+;0x1C70B9DB=~z~That's my bad. Boo fucking hoo. See you around, Manny.
+0x1C70B9DB=~z~That's my bad. Boo fucking hoo. See you around, Manny.
+
+;0x1CC22EEF=M1_IA
+0x1CC22EEF=M1_IA
+
+;0x1CC315CE=M1_GH
+0x1CC315CE=M1_GH
+
+;0x1EAB42E9=100
+0x1EAB42E9=100
+
+;0x1ED0BB04=M1_A_GA
+0x1ED0BB04=M1_A_GA
+
+;0x1F16140C=~z~Sure, but I don't think you hear me.
+0x1F16140C=~z~Sure, but I don't think you hear me.
+
+;0x1F31CD6A=M1_WA
+0x1F31CD6A=M1_WA
+
+;0x1F495AA6=~z~I for one ain't in this shit for the ego trip.
+0x1F495AA6=~z~I for one ain't in this shit for the ego trip.
+
+;0x210A3675=~z~-Turn this way. Yeah. Looking at me.~n~-Five, six, seven and eight.
+0x210A3675=~z~-Turn this way. Yeah. Looking at me.~n~-Five, six, seven and eight.
+
+;0x218BD378=~z~That's right, follow me, but be prepared. Street life ain't pretty.
+0x218BD378=~z~That's right, follow me, but be prepared. Street life ain't pretty.
+
+;0x21F5E27D=100
+0x21F5E27D=100
+
+;0x22583729=100
+0x22583729=100
+
+;0x24DA8AD6=~z~I guess the streets is going to have to stay dirty for a little longer. See you, Manny.
+0x24DA8AD6=~z~I guess the streets is going to have to stay dirty for a little longer. See you, Manny.
+
+;0x25000E0E=100
+0x25000E0E=100
+
+;0x2516BC4E=~z~-Hi.~n~-Hi.
+0x2516BC4E=~z~-Hi.~n~-Hi.
+
+;0x25E8D13B=100100010010
+0x25E8D13B=100100010010
+
+;0x262044E9=~z~Thank you very much, that'll be all for today, thanks a lot.
+0x262044E9=~z~Thank you very much, that'll be all for today, thanks a lot.
+
+;0x26FDE767=~z~It's for the love, man. They know me coz I help people, man. I'm all love for these streets.
+0x26FDE767=~z~It's for the love, man. They know me coz I help people, man. I'm all love for these streets.
+
+;0x26FE4125=~z~Yeah here, right here, right here, turn around, man, right here.
+0x26FE4125=~z~Yeah here, right here, right here, turn around, man, right here.
+
+;0x273B4D30=~z~I mean, you taught them these moves, right?
+0x273B4D30=~z~I mean, you taught them these moves, right?
+
+;0x2983653E=~z~This film is my gospel, man. The gospel of the streets.
+0x2983653E=~z~This film is my gospel, man. The gospel of the streets.
+
+;0x2A2BC5B2=~z~He's not around because I'd break his camera if he shoved it in my face again.
+0x2A2BC5B2=~z~He's not around because I'd break his camera if he shoved it in my face again.
+
+;0x2AA4CAD1=100
+0x2AA4CAD1=100
+
+;0x2AF6D00A=~z~It's not good.
+0x2AF6D00A=~z~It's not good.
+
+;0x2B91E788=~z~More senseless death and the police aren't even here yet.
+0x2B91E788=~z~More senseless death and the police aren't even here yet.
+
+;0x2BBA4BD5=~z~Yes, good, good, perfect, cool, cool, cool.
+0x2BBA4BD5=~z~Yes, good, good, perfect, cool, cool, cool.
+
+;0x2D1DB00F=~z~The kids have to look up to me, man. To know that the clean path is the good path. You hear me?
+0x2D1DB00F=~z~The kids have to look up to me, man. To know that the clean path is the good path. You hear me?
+
+;0x2D60B0A1=~z~It's for the kids, man. Believe that.
+0x2D60B0A1=~z~It's for the kids, man. Believe that.
+
+;0x2EE4D006=~z~Ok, yeah, great, so, eh, so you know streets take no prisoners, right?
+0x2EE4D006=~z~Ok, yeah, great, so, eh, so you know streets take no prisoners, right?
+
+;0x304A0EEF=M1_HI
+0x304A0EEF=M1_HI
+
+;0x324AFBA1=M1_GC
+0x324AFBA1=M1_GC
+
+;0x340D0199=M1_GA
+0x340D0199=M1_GA
+
+;0x3582E9BF=~z~This is the one, man - we're gonna get a really nice shot of them, it's going to be beautiful.
+0x3582E9BF=~z~This is the one, man - we're gonna get a really nice shot of them, it's going to be beautiful.
+
+;0x358B3572=M1_ZA
+0x358B3572=M1_ZA
+
+;0x3641FCE4=~z~"Help" has only one name on the streets of South Bohan - Manny Escuela.
+0x3641FCE4=~z~"Help" has only one name on the streets of South Bohan - Manny Escuela.
+
+;0x37362F8D=~z~Something else came up, I couldn't do it.
+0x37362F8D=~z~Something else came up, I couldn't do it.
+
+;0x3795C84D=~z~The dealer and his drug wagon are up there. Pull up behind and we wait.
+0x3795C84D=~z~The dealer and his drug wagon are up there. Pull up behind and we wait.
+
+;0x37E2611F=~z~Chill, Niko. You got to get used to being filmed man.
+0x37E2611F=~z~Chill, Niko. You got to get used to being filmed man.
+
+;0x3952830D=~z~Yeah, right here. Wait... where are you going?
+0x3952830D=~z~Yeah, right here. Wait... where are you going?
+
+;0x395980D0=M1_LA
+0x395980D0=M1_LA
+
+;0x3A4F955E=M1_A_BD
+0x3A4F955E=M1_A_BD
+
+;0x3B2E7D49=~z~I think that's as much of a decision of Mallorie's as it is Roman's.
+0x3B2E7D49=~z~I think that's as much of a decision of Mallorie's as it is Roman's.
+
+;0x3C6A2E85=~z~I don't know how we tailing him without wheels.
+0x3C6A2E85=~z~I don't know how we tailing him without wheels.
+
+;0x3C85ED6C=~z~You ready for this?
+0x3C85ED6C=~z~You ready for this?
+
+;0x3F1E3693=M1_HJ
+0x3F1E3693=M1_HJ
+
+;0x3FE48806=~z~Shit, you look obvious being that close without a car, man.
+0x3FE48806=~z~Shit, you look obvious being that close without a car, man.
+
+;0x405E7965=~z~Ok everyone, that'll be all for today, that was great.
+0x405E7965=~z~Ok everyone, that'll be all for today, that was great.
+
+;0x41B8541D=M1_KA
+0x41B8541D=M1_KA
+
+;0x42DAF708=~z~I am afraid not.
+0x42DAF708=~z~I am afraid not.
+
+;0x4309A31E=M1_A_BC
+0x4309A31E=M1_A_BC
+
+;0x43270DFF=M1_A_DE
+0x43270DFF=M1_A_DE
+
+;0x44F302E6=~z~-Hey, hey! Please, please, what are you doing? Hey! My...~n~-Hey, hold on a second, man! Wha...
+0x44F302E6=~z~-Hey, hey! Please, please, what are you doing? Hey! My...~n~-Hey, hold on a second, man! Wha...
+
+;0x47A5A27D=100100
+0x47A5A27D=100100
+
+;0x48DFBAE9=M1_A_EK
+0x48DFBAE9=M1_A_EK
+
+;0x48E48889=~z~Alright, okay, well listen, look... here's what were gonna do...
+0x48E48889=~z~Alright, okay, well listen, look... here's what were gonna do...
+
+;0x4A74EB50=M1_HK
+0x4A74EB50=M1_HK
+
+;0x4A8F084A=~z~-about cleaning up the streets of Bohan.~n~-Yeah!
+0x4A8F084A=~z~-about cleaning up the streets of Bohan.~n~-Yeah!
+
+;0x4B321D00=~z~If you can't clean up the streets, man, then you can walk on them, man. Get out.
+0x4B321D00=~z~If you can't clean up the streets, man, then you can walk on them, man. Get out.
+
+;0x4B9B2FDE=M1_GJ
+0x4B9B2FDE=M1_GJ
+
+;0x4C4612D3=~z~Niko, you punk, man. Behave!
+0x4C4612D3=~z~Niko, you punk, man. Behave!
+
+;0x4CF117A7=~z~Shit, he'd pulled up. It's almost like you don't care about the kids, man.
+0x4CF117A7=~z~Shit, he'd pulled up. It's almost like you don't care about the kids, man.
+
+;0x4D0FB632=~z~You taking my money, aren't you? Be my voice. I'm gonna go back and get Jay.
+0x4D0FB632=~z~You taking my money, aren't you? Be my voice. I'm gonna go back and get Jay.
+
+;0x4DE195FA=~z~Yo, we need a car if we're gonna clean these streets.
+0x4DE195FA=~z~Yo, we need a car if we're gonna clean these streets.
+
+;0x4E51154A=~z~What are you doing?
+0x4E51154A=~z~What are you doing?
+
+;0x4F1DAEA3=~z~Okay from the top?
+0x4F1DAEA3=~z~Okay from the top?
+
+;0x4F404E99=M1_A_DA
+0x4F404E99=M1_A_DA
+
+;0x4F644042=M1_A_EF
+0x4F644042=M1_A_EF
+
+;0x4F681468=~z~Pretty good.
+0x4F681468=~z~Pretty good.
+
+;0x4FF9268E=~z~You think these streets is safe enough? See for yourself - get out.
+0x4FF9268E=~z~You think these streets is safe enough? See for yourself - get out.
+
+;0x511B938D=~z~How come whenever I say something that really sings.
+0x511B938D=~z~How come whenever I say something that really sings.
+
+;0x52E6E99A=100
+0x52E6E99A=100
+
+;0x537C2F35=~z~What you doing so close to him?
+0x537C2F35=~z~What you doing so close to him?
+
+;0x544CA199=~z~cam...
+0x544CA199=~z~cam...
+
+;0x56569EED=~z~You know what I'm saying?
+0x56569EED=~z~You know what I'm saying?
+
+;0x56F184C0=100010100100010100100010100010100010100
+0x56F184C0=100010100100010100100010100010100010100
+
+;0x592A2580=~z~Here Manny Escuela is rapping with a street accomplice
+0x592A2580=~z~Here Manny Escuela is rapping with a street accomplice
+
+;0x59F432A1=~z~-We wanna make sure that we see them,~n~-Okay.
+0x59F432A1=~z~-We wanna make sure that we see them,~n~-Okay.
+
+;0x5A0A083F=~z~No amount of scrubbing is going to get this town clean.
+0x5A0A083F=~z~No amount of scrubbing is going to get this town clean.
+
+;0x5AD56B5B=~z~How you gonna follow him without a car?
+0x5AD56B5B=~z~How you gonna follow him without a car?
+
+;0x5BC5D860=M1_DA
+0x5BC5D860=M1_DA
+
+;0x5CE74A36=~z~Great, yeah, let's do it.
+0x5CE74A36=~z~Great, yeah, let's do it.
+
+;0x5F25EBF9=M1_A_EG
+0x5F25EBF9=M1_A_EG
+
+;0x601EC6D9=~z~I'm disappointed in you man. I thought we was on the same page. I thought you cared. Get out.
+0x601EC6D9=~z~I'm disappointed in you man. I thought we was on the same page. I thought you cared. Get out.
+
+;0x608F66B0=M1_EA
+0x608F66B0=M1_EA
+
+;0x60B6B705=~z~For a guy who just lost his home and his business and who now has a price on his head?
+0x60B6B705=~z~For a guy who just lost his home and his business and who now has a price on his head?
+
+;0x6120B481=~z~But, you know, kids need hope.
+0x6120B481=~z~But, you know, kids need hope.
+
+;0x61F7E6AB=M1_GM
+0x61F7E6AB=M1_GM
+
+;0x6357A1CA=M1_GI
+0x6357A1CA=M1_GI
+
+;0x6380CDE9=~z~ I love that girl, man, I love her, man. Your cousin better not be messing with her head.
+0x6380CDE9=~z~ I love that girl, man, I love her, man. Your cousin better not be messing with her head.
+
+;0x63CDE887=100
+0x63CDE887=100
+
+;0x642E4DAA=M1_A_AA
+0x642E4DAA=M1_A_AA
+
+;0x645350E3=~z~He gonna see you standing, you right there.
+0x645350E3=~z~He gonna see you standing, you right there.
+
+;0x66095E37=~z~Just wait 'til you see your face on the screen, man. Maybe you change your mind then!
+0x66095E37=~z~Just wait 'til you see your face on the screen, man. Maybe you change your mind then!
+
+;0x66360160=~z~Ice this fool.
+0x66360160=~z~Ice this fool.
+
+;0x6678BE47=~z~Want to hurt these streets, man. They live and breathe.
+0x6678BE47=~z~Want to hurt these streets, man. They live and breathe.
+
+;0x67A384FB=~z~Shit, man. I thought you were the streets man. We need to tail him.
+0x67A384FB=~z~Shit, man. I thought you were the streets man. We need to tail him.
+
+;0x6A7056E2=~z~Looks like he about to stop yo. You best pull up behind him, man.
+0x6A7056E2=~z~Looks like he about to stop yo. You best pull up behind him, man.
+
+;0x6CBBADA2=~z~Me, I'm just after the money.
+0x6CBBADA2=~z~Me, I'm just after the money.
+
+;0x6DDC6254=~z~Everytime the streets is hurt, I hurt inside, man. You cut me deep, man. Get out of here.
+0x6DDC6254=~z~Everytime the streets is hurt, I hurt inside, man. You cut me deep, man. Get out of here.
+
+;0x6E4E4FC8=~z~Yeah, well, you know, sometimes you gotta break some omelets to make some eggs, you know what I'm saying?
+0x6E4E4FC8=~z~Yeah, well, you know, sometimes you gotta break some omelets to make some eggs, you know what I'm saying?
+
+;0x6EDAD475=~z~We're gonna get all these dealers off the streets and we're gonna kick their ass and they're gonna know it was me...
+0x6EDAD475=~z~We're gonna get all these dealers off the streets and we're gonna kick their ass and they're gonna know it was me...
+
+;0x6F2F52C2=~z~Yes I am. Turn this way, please?
+0x6F2F52C2=~z~Yes I am. Turn this way, please?
+
+;0x70615F7B=~z~No.
+0x70615F7B=~z~No.
+
+;0x70B2DBAC=~z~Yo! What the fuck are you doing?
+0x70B2DBAC=~z~Yo! What the fuck are you doing?
+
+;0x71EF7446=~z~You looked great.
+0x71EF7446=~z~You looked great.
+
+;0x7231B28A=290
+0x7231B28A=290
+
+;0x727DDA93=~z~How's my Roman doing, anyway?
+0x727DDA93=~z~How's my Roman doing, anyway?
+
+;0x73A6835F=~z~I thought you were going to clean up the streets?
+0x73A6835F=~z~I thought you were going to clean up the streets?
+
+;0x73F5B3B3=M1_A_EL
+0x73F5B3B3=M1_A_EL
+
+;0x74BE5AD2=~z~You cut them and they bleed. Man, that was good. I should write that down. You got a pen?
+0x74BE5AD2=~z~You cut them and they bleed. Man, that was good. I should write that down. You got a pen?
+
+;0x767CC124=~z~That's us, man, only at a street level.
+0x767CC124=~z~That's us, man, only at a street level.
+
+;0x77C3808E=~z~Of course he's seen us now. Shit, man.
+0x77C3808E=~z~Of course he's seen us now. Shit, man.
+
+;0x77E781F7=~z~Not really my scene.
+0x77E781F7=~z~Not really my scene.
+
+;0x7AC5EE33=~z~We gotta get some of these dealers off the streets, man, you know?
+0x7AC5EE33=~z~We gotta get some of these dealers off the streets, man, you know?
+
+;0x7C248DAB=M1_HG
+0x7C248DAB=M1_HG
+
+;0x7CE9ECFF=~z~Turn that off.
+0x7CE9ECFF=~z~Turn that off.
+
+;0x7EB0F661=~z~-trying to reform their neighbourhood.~n~-Wait!
+0x7EB0F661=~z~-trying to reform their neighbourhood.~n~-Wait!
+
+;0x7F64E8EC=M1_YA
+0x7F64E8EC=M1_YA
+
+;0x8197884F=M1_A_DG
+0x8197884F=M1_A_DG
+
+;0x81C7A52E=~z~Only someone who has been to prison gets that close to a man. Hold off, man!
+0x81C7A52E=~z~Only someone who has been to prison gets that close to a man. Hold off, man!
+
+;0x81DD795A=~z~I love his optimism.
+0x81DD795A=~z~I love his optimism.
+
+;0x82887F57=~z~Shit, Niko. Don't be a punk!
+0x82887F57=~z~Shit, Niko. Don't be a punk!
+
+;0x82A72424=M1_GD
+0x82A72424=M1_GD
+
+;0x82DF8005=~z~This is starting to annoy me!
+0x82DF8005=~z~This is starting to annoy me!
+
+;0x838F013D=~z~Look, I got money. I got... I got money.
+0x838F013D=~z~Look, I got money. I got... I got money.
+
+;0x842D246C=~z~Follow him into that warehouse and get rid of the dealers.
+0x842D246C=~z~Follow him into that warehouse and get rid of the dealers.
+
+;0x84537E3E=~z~This is my boyfriend's cousin, the guy I was telling you about, Niko.
+0x84537E3E=~z~This is my boyfriend's cousin, the guy I was telling you about, Niko.
+
+;0x84F63EE0=~z~Cut him up, boys.
+0x84F63EE0=~z~Cut him up, boys.
+
+;0x85321153=~z~They my people, alright?
+0x85321153=~z~They my people, alright?
+
+;0x853B575E=M1_A_EI
+0x853B575E=M1_A_EI
+
+;0x85D085B8=~z~And I want them to know it was me, man.
+0x85D085B8=~z~And I want them to know it was me, man.
+
+;0x861D0D23=~z~Oh yeah, yeah, that's a good idea.
+0x861D0D23=~z~Oh yeah, yeah, that's a good idea.
+
+;0x865F8256=~z~Oh, hey, Niko!
+0x865F8256=~z~Oh, hey, Niko!
+
+;0x88188270=~z~This is the guy I told you about...
+0x88188270=~z~This is the guy I told you about...
+
+;0x89352371=~z~Shit, we meant to be keeping this shit on the down low. What you doing getting five-oh on our ass?
+0x89352371=~z~Shit, we meant to be keeping this shit on the down low. What you doing getting five-oh on our ass?
+
+;0x89F3053B=~z~I don't know why the people out there want to hurt people man?
+0x89F3053B=~z~I don't know why the people out there want to hurt people man?
+
+;0x8AC30B6D=100
+0x8AC30B6D=100
+
+;0x8AD68EAD=M1_A_DD
+0x8AD68EAD=M1_A_DD
+
+;0x8B36EA98=~z~Philanthropicalism, man, like one of them rich guys who makes computers and cures AIDS and shit.
+0x8B36EA98=~z~Philanthropicalism, man, like one of them rich guys who makes computers and cures AIDS and shit.
+
+;0x8BB64D20=~z~Get some wheels so we can chase this sucker.
+0x8BB64D20=~z~Get some wheels so we can chase this sucker.
+
+;0x8BD52FE7=~z~There he be. We gots to follow him to them other leeches, man.
+0x8BD52FE7=~z~There he be. We gots to follow him to them other leeches, man.
+
+;0x8C1B1E4E=~z~You know, when I was stalking this girl in Europe, I found that two car lengths was the best distance.
+0x8C1B1E4E=~z~You know, when I was stalking this girl in Europe, I found that two car lengths was the best distance.
+
+;0x8D03A456=M1_RA
+0x8D03A456=M1_RA
+
+;0x8DE9377C=M1_GG
+0x8DE9377C=M1_GG
+
+;0x8F0FC599=M1_A_BB
+0x8F0FC599=M1_A_BB
+
+;0x9017935A=~z~Okay. And?
+0x9017935A=~z~Okay. And?
+
+;0x9188ACD1=M1_LE
+0x9188ACD1=M1_LE
+
+;0x9281BCA5=M1_HE
+0x9281BCA5=M1_HE
+
+;0x929CC11C=M1_QA
+0x929CC11C=M1_QA
+
+;0x934BB083=M1_A_DC
+0x934BB083=M1_A_DC
+
+;0x93F2A8CE=~z~I can put my foot through your face if you like.
+0x93F2A8CE=~z~I can put my foot through your face if you like.
+
+;0x945DC2E3=~z~Last I heard these dealers was up on Grand Boulevard. Let's go take a look, man.
+0x945DC2E3=~z~Last I heard these dealers was up on Grand Boulevard. Let's go take a look, man.
+
+;0x954D604E=~z~Man, it's almost like you want this scum on the streets.
+0x954D604E=~z~Man, it's almost like you want this scum on the streets.
+
+;0x96581C7C=M1_BA
+0x96581C7C=M1_BA
+
+;0x972443B4=M1_CA
+0x972443B4=M1_CA
+
+;0x97279CBC=100100100010100100100010100100100100100
+0x97279CBC=100100100010100100100010100100100100100
+
+;0x9787B5FE=~z~Shit, man. Manny's close to everyone who grew up on the streets of South Bohan, man.
+0x9787B5FE=~z~Shit, man. Manny's close to everyone who grew up on the streets of South Bohan, man.
+
+;0x982A25EB=~z~They gotta understand the struggles, yeah...
+0x982A25EB=~z~They gotta understand the struggles, yeah...
+
+;0x9850E595=~z~Drop the punk.
+0x9850E595=~z~Drop the punk.
+
+;0x98CCA8A5=M1_AA
+0x98CCA8A5=M1_AA
+
+;0x993AE62B=M1_PA
+0x993AE62B=M1_PA
+
+;0x9A313CA2=~z~You're following him man, not ass raping him. Get back.
+0x9A313CA2=~z~You're following him man, not ass raping him. Get back.
+
+;0x9A45F34D=M1_A_CA
+0x9A45F34D=M1_A_CA
+
+;0x9C330C64=~z~An entrepreneur who's gonna clean this shit up. Money and respect.
+0x9C330C64=~z~An entrepreneur who's gonna clean this shit up. Money and respect.
+
+;0x9CA1693F=M1_A_EE
+0x9CA1693F=M1_A_EE
+
+;0x9D8BAE5D=~z~Follow don't mean get all up in his shit. It's over.
+0x9D8BAE5D=~z~Follow don't mean get all up in his shit. It's over.
+
+;0x9DD5095E=~z~What you doing firing that thing?
+0x9DD5095E=~z~What you doing firing that thing?
+
+;0x9F64D706=~z~They be sucking the damn life out of these streets.
+0x9F64D706=~z~They be sucking the damn life out of these streets.
+
+;0x9FE85C62=M1_GF
+0x9FE85C62=M1_GF
+
+;0xA065DCDD=~z~Hey, the message is what's important, man. It don't matter who gives it.
+0xA065DCDD=~z~Hey, the message is what's important, man. It don't matter who gives it.
+
+;0xA0C1D3AB=~z~You ever thought about doing some TV? You might be able to get a series off the back of mine, you know?
+0xA0C1D3AB=~z~You ever thought about doing some TV? You might be able to get a series off the back of mine, you know?
+
+;0xA1294532=M1_A_DI
+0xA1294532=M1_A_DI
+
+;0xA13476B6=M1_A_FA
+0xA13476B6=M1_A_FA
+
+;0xA1B7C458=~z~-I don't mind doing that again and again until I get it right.~n~-Oh, oh, easy, easy Niko.
+0xA1B7C458=~z~-I don't mind doing that again and again until I get it right.~n~-Oh, oh, easy, easy Niko.
+
+;0xA4343CE7=~z~No, no, not at all. It's a very manly kind of dancing.
+0xA4343CE7=~z~No, no, not at all. It's a very manly kind of dancing.
+
+;0xA66120C7=M1_HM
+0xA66120C7=M1_HM
+
+;0xA8E3CBE6=~z~Well, that's my testimony, man.
+0xA8E3CBE6=~z~Well, that's my testimony, man.
+
+;0xA9E0C840=~z~Do I look gay?
+0xA9E0C840=~z~Do I look gay?
+
+;0xA9EB496D=~z~for real, you know what I'm saying?
+0xA9EB496D=~z~for real, you know what I'm saying?
+
+;0xAAC81294=~z~How we going to clean up these streets if there's cops on us, man? Lose the heat.
+0xAAC81294=~z~How we going to clean up these streets if there's cops on us, man? Lose the heat.
+
+;0xAB65E8F3=~z~Niko Bellic: Street Justice, bro!
+0xAB65E8F3=~z~Niko Bellic: Street Justice, bro!
+
+;0xAC864B4B=~z~Yeah? Great! Listen, Mallorie, would you, uh,
+0xAC864B4B=~z~Yeah? Great! Listen, Mallorie, would you, uh,
+
+;0xAC896152=~z~You on crack man? Get away from him.
+0xAC896152=~z~You on crack man? Get away from him.
+
+;0xACC0CB66=100
+0xACC0CB66=100
+
+;0xACD7AE85=M1_A_EB
+0xACD7AE85=M1_A_EB
+
+;0xADFDAFF9=~z~Best of both worlds, man. I see myself that way, man.
+0xADFDAFF9=~z~Best of both worlds, man. I see myself that way, man.
+
+;0xAF0133F8=M1_A_EA
+0xAF0133F8=M1_A_EA
+
+;0xAF74C790=~z~I'm paying you to follow him so do it, man.
+0xAF74C790=~z~I'm paying you to follow him so do it, man.
+
+;0xB13C76D8=M1_CB
+0xB13C76D8=M1_CB
+
+;0xB1C91782=~z~I don't think we sent an invitation to this punk. Eject him from the party.
+0xB1C91782=~z~I don't think we sent an invitation to this punk. Eject him from the party.
+
+;0xB1F9F3E5=M1_HD
+0xB1F9F3E5=M1_HD
+
+;0xB2DF984E=100
+0xB2DF984E=100
+
+;0xB3577790=M1_HB
+0xB3577790=M1_HB
+
+;0xB38667F5=~z~Hey did it look good? Huh? Was it a good mixture of that sadness and resolve?
+0xB38667F5=~z~Hey did it look good? Huh? Was it a good mixture of that sadness and resolve?
+
+;0xB4515BCD=~z~We gonna clean 'em up.
+0xB4515BCD=~z~We gonna clean 'em up.
+
+;0xB4C10104=M1_GK
+0xB4C10104=M1_GK
+
+;0xB4E58330=~z~Do you tell them "To get famous."?
+0xB4E58330=~z~Do you tell them "To get famous."?
+
+;0xB6ADE77A=~z~Fine, just don't point the camera at me when you're doing it.
+0xB6ADE77A=~z~Fine, just don't point the camera at me when you're doing it.
+
+;0xB7C0C37F=~z~I like your vibe, man. I like it. You're out to make money but you want to make a difference too, man.
+0xB7C0C37F=~z~I like your vibe, man. I like it. You're out to make money but you want to make a difference too, man.
+
+;0xB8A4C6AE=M1_HN
+0xB8A4C6AE=M1_HN
+
+;0xB8B67BF0=M1_LB
+0xB8B67BF0=M1_LB
+
+;0xB96076D1=M1_A_AB
+0xB96076D1=M1_A_AB
+
+;0xB96516BF=M1_A_BA
+0xB96516BF=M1_A_BA
+
+;0xBA5C66F7=~z~who beat up all those thugs in Broker?
+0xBA5C66F7=~z~who beat up all those thugs in Broker?
+
+;0xBAEB7CC5=~z~Sure.
+0xBAEB7CC5=~z~Sure.
+
+;0xBBACECF0=~z~See, it's the streets man, but people gotta understand the struggles...
+0xBBACECF0=~z~See, it's the streets man, but people gotta understand the struggles...
+
+;0xBC369A0B=~z~He going see you, man.
+0xBC369A0B=~z~He going see you, man.
+
+;0xBC797199=~z~What were you saying?
+0xBC797199=~z~What were you saying?
+
+;0xBCBAB679=~z~This dealer's going to see us if we rolling with all this heat, man! You gotta shake the cops, man.
+0xBCBAB679=~z~This dealer's going to see us if we rolling with all this heat, man! You gotta shake the cops, man.
+
+;0xBCF080CF=~z~He going to propose, right? He's going to make an honest woman of her, right?
+0xBCF080CF=~z~He going to propose, right? He's going to make an honest woman of her, right?
+
+;0xBD169DFF=M1_GL
+0xBD169DFF=M1_GL
+
+;0xBF4252BA=~z~Yeah, I'm an entrepreneur, man. You got to have some money if people is gonna respect you out there, man.
+0xBF4252BA=~z~Yeah, I'm an entrepreneur, man. You got to have some money if people is gonna respect you out there, man.
+
+;0xC00FB40F=~z~This boy think he can come up in our shit. Drop him.
+0xC00FB40F=~z~This boy think he can come up in our shit. Drop him.
+
+;0xC060F540=~z~You look good.
+0xC060F540=~z~You look good.
+
+;0xC1C376B1=~z~Yeah, well, you know, we gotta clean up some eggs, brother.
+0xC1C376B1=~z~Yeah, well, you know, we gotta clean up some eggs, brother.
+
+;0xC2BBD32B=~z~Yo, chill on the shooting, man. We trying to keep this shit on the down low.
+0xC2BBD32B=~z~Yo, chill on the shooting, man. We trying to keep this shit on the down low.
+
+;0xC42C9A80=~z~I'm clean, man. Serene. Fucking serene.
+0xC42C9A80=~z~I'm clean, man. Serene. Fucking serene.
+
+;0xC51AAE21=M1_OA
+0xC51AAE21=M1_OA
+
+;0xC57DA145=~z~How'd you let him get away? Man, shit
+0xC57DA145=~z~How'd you let him get away? Man, shit
+
+;0xC693FEB2=100100100010010010100100010
+0xC693FEB2=100100100010010010100100010
+
+;0xC6A9E109=M1_A_EC
+0xC6A9E109=M1_A_EC
+
+;0xC73C02DA=~z~Good, good, good. Right over here.
+0xC73C02DA=~z~Good, good, good. Right over here.
+
+;0xC8C3FA2E=~z~Don't let him shake you.
+0xC8C3FA2E=~z~Don't let him shake you.
+
+;0xCA194086=M1_A_ED
+0xCA194086=M1_A_ED
+
+;0xCAB3AECC=~z~People say to me, "Manny why you do this? Why you want to clean up the streets so bad? What's your passion?"
+0xCAB3AECC=~z~People say to me, "Manny why you do this? Why you want to clean up the streets so bad? What's your passion?"
+
+;0xCB5CE434=100100010
+0xCB5CE434=100100010
+
+;0xCD63CEB7=~z~What's this fool think he's playing at? Finish him.
+0xCD63CEB7=~z~What's this fool think he's playing at? Finish him.
+
+;0xCDD922A0=~z~I didn't know you and Mallorie was that close.
+0xCDD922A0=~z~I didn't know you and Mallorie was that close.
+
+;0xCE7C3E96=~z~Stay off him, we need to find them leeches.
+0xCE7C3E96=~z~Stay off him, we need to find them leeches.
+
+;0xCF4A9F7D=~z~Cut.
+0xCF4A9F7D=~z~Cut.
+
+;0xCF819921=~z~In which case you've got help.
+0xCF819921=~z~In which case you've got help.
+
+;0xCF9C254F=~z~It's two car lengths, right? That's how far you stay behind a woman when you're harassing her?
+0xCF9C254F=~z~It's two car lengths, right? That's how far you stay behind a woman when you're harassing her?
+
+;0xD03DA942=M1_A_DF
+0xD03DA942=M1_A_DF
+
+;0xD0F50169=M1_XA
+0xD0F50169=M1_XA
+
+;0xD100F637=~z~What I seen of it at least.
+0xD100F637=~z~What I seen of it at least.
+
+;0xD23A7228=~z~Shit, man. You don't need to fire that thing until we find the rest of those suckers, man.
+0xD23A7228=~z~Shit, man. You don't need to fire that thing until we find the rest of those suckers, man.
+
+;0xD28BB73E=~z~Oh, I'm sorry.
+0xD28BB73E=~z~Oh, I'm sorry.
+
+;0xD2FDAC32=M1_A_DH
+0xD2FDAC32=M1_A_DH
+
+;0xD3154423=M1_GE
+0xD3154423=M1_GE
+
+;0xD4415D75=~z~Wrong warehouse, bitch.
+0xD4415D75=~z~Wrong warehouse, bitch.
+
+;0xD47EEA2C=~z~I thought you was going to clean shit up. For me and these streets. For these people man, my people.
+0xD47EEA2C=~z~I thought you was going to clean shit up. For me and these streets. For these people man, my people.
+
+;0xD5410101=M1_TA
+0xD5410101=M1_TA
+
+;0xD6F34430=~z~You lost him, man. He probably selling drugs to kids right now.
+0xD6F34430=~z~You lost him, man. He probably selling drugs to kids right now.
+
+;0xD8594A17=~z~I always wanted to be a well-known idiot.
+0xD8594A17=~z~I always wanted to be a well-known idiot.
+
+;0xD956A847=~z~Okay, so here we go then... yeah...
+0xD956A847=~z~Okay, so here we go then... yeah...
+
+;0xD9AAB20C=~z~-Okay, go.~n~-Yeah, beautiful, beautiful, alright.
+0xD9AAB20C=~z~-Okay, go.~n~-Yeah, beautiful, beautiful, alright.
+
+;0xDA7E0A7F=M1_SA
+0xDA7E0A7F=M1_SA
+
+;0xDB0B57B4=~z~This boy's got personal space issues, man. Stay back.
+0xDB0B57B4=~z~This boy's got personal space issues, man. Stay back.
+
+;0xDC8DC4BE=M1_LC
+0xDC8DC4BE=M1_LC
+
+;0xDD68B4EF=~z~Wh... what do you mean it's no good?
+0xDD68B4EF=~z~Wh... what do you mean it's no good?
+
+;0xDD702F42=~z~So how do I look, man?
+0xDD702F42=~z~So how do I look, man?
+
+;0xDD7C3BE0=~z~-What?~n~-Okay.
+0xDD7C3BE0=~z~-What?~n~-Okay.
+
+;0xDDC9C1AA=~z~Apparently the mob teaches people to stay two car lengths behind a target.
+0xDDC9C1AA=~z~Apparently the mob teaches people to stay two car lengths behind a target.
+
+;0xDE5DDEE8=~z~You got too close, man. He saw us.
+0xDE5DDEE8=~z~You got too close, man. He saw us.
+
+;0xDEC72FB0=~z~-give us a little space please? Thanks.~n~-Alright, alright...
+0xDEC72FB0=~z~-give us a little space please? Thanks.~n~-Alright, alright...
+
+;0xDF4831D5=~z~Man, you hit him. No way we can get the rest of them leeches now!
+0xDF4831D5=~z~Man, you hit him. No way we can get the rest of them leeches now!
+
+;0xE172F8BB=100011100100100
+0xE172F8BB=100011100100100
+
+;0xE17349D4=~z~I don't know if he's grown up enough to make a good husband. What's it to you anyway?
+0xE17349D4=~z~I don't know if he's grown up enough to make a good husband. What's it to you anyway?
+
+;0xE3EB5997=M1_HA
+0xE3EB5997=M1_HA
+
+;0xE4366A0A=~z~You gay or something man? Stay away from his ass.
+0xE4366A0A=~z~You gay or something man? Stay away from his ass.
+
+;0xE439FF31=100
+0xE439FF31=100
+
+;0xE50467DD=100
+0xE50467DD=100
+
+;0xE617DE56=~z~You sound like you got something else in your veins.
+0xE617DE56=~z~You sound like you got something else in your veins.
+
+;0xE6BE8EAB=~z~Niko, you made a promise to me, man. Your bond is your word, man.
+0xE6BE8EAB=~z~Niko, you made a promise to me, man. Your bond is your word, man.
+
+;0xE7DDB861=~z~Step on it, man. I need you close to this guy, but not too close. You hear me?
+0xE7DDB861=~z~Step on it, man. I need you close to this guy, but not too close. You hear me?
+
+;0xEA3382EE=M1_A_EJ
+0xEA3382EE=M1_A_EJ
+
+;0xEAAF5646=~z~-What?~n~-Oh, oh, oh, oh.
+0xEAAF5646=~z~-What?~n~-Oh, oh, oh, oh.
+
+;0xEB82CA33=~z~Not really.
+0xEB82CA33=~z~Not really.
+
+;0xECE4E842=100100100100100010010010100100010100
+0xECE4E842=100100100100100010010010100100010100
+
+;0xEFF4D313=~z~-These criminals are...~n~-Wait, wait, wait a second.
+0xEFF4D313=~z~-These criminals are...~n~-Wait, wait, wait a second.
+
+;0xF091DFDE=~z~Okay, well just keep looking at me, but stand over there, okay?
+0xF091DFDE=~z~Okay, well just keep looking at me, but stand over there, okay?
+
+;0xF0AB037A=~z~Shit, man. He seen us. He ain't never gonna go to his boys now.
+0xF0AB037A=~z~Shit, man. He seen us. He ain't never gonna go to his boys now.
+
+;0xF0F87831=M1_HF
+0xF0F87831=M1_HF
+
+;0xF1724AA5=~z~He stopped at the red.
+0xF1724AA5=~z~He stopped at the red.
+
+;0xF250DEBF=~z~Look, brother, will you help? Please?
+0xF250DEBF=~z~Look, brother, will you help? Please?
+
+;0xF2CD4D57=~z~Shit. He stopped again. Hold back.
+0xF2CD4D57=~z~Shit. He stopped again. Hold back.
+
+;0xF2E4CC43=290
+0xF2E4CC43=290
+
+;0xF35DD8DD=~z~Hey, yeah, yeah, yeah. Whassup, man? Streets, man.
+0xF35DD8DD=~z~Hey, yeah, yeah, yeah. Whassup, man? Streets, man.
+
+;0xF42F7A85=~z~I ain't touched that shit in years. Who you been talking to, man?
+0xF42F7A85=~z~I ain't touched that shit in years. Who you been talking to, man?
+
+;0xF6101313=M1_FA
+0xF6101313=M1_FA
+
+;0xF7461F8E=M1_A_DB
+0xF7461F8E=M1_A_DB
+
+;0xF7C901B4=~z~You know, these streets is mine, man! I can feel them flowing through my veins.
+0xF7C901B4=~z~You know, these streets is mine, man! I can feel them flowing through my veins.
+
+;0xF826479C=M1_HL
+0xF826479C=M1_HL
+
+;0xF8B7F25F=~z~-The fearsome street warrior stands outside the site of another gangland massacre. Oh...~n~-Yeah... 'sright...
+0xF8B7F25F=~z~-The fearsome street warrior stands outside the site of another gangland massacre. Oh...~n~-Yeah... 'sright...
+
+;0xF8E9F2BB=~z~Could you walk out of there just one more time? We need to get the shot just right.
+0xF8E9F2BB=~z~Could you walk out of there just one more time? We need to get the shot just right.
+
+;0xF8FBE659=~z~Let me see you work! This way?
+0xF8FBE659=~z~Let me see you work! This way?
+
+;0xFA0A3017=100
+0xFA0A3017=100
+
+;0xFA2F5D04=~z~That guy gets away there'll be more drugs on the street, killing our kids.
+0xFA2F5D04=~z~That guy gets away there'll be more drugs on the street, killing our kids.
+
+;0xFB4E08D4=~z~Shit, how about that for a title? 'Manny's Street Gospel' man.
+0xFB4E08D4=~z~Shit, how about that for a title? 'Manny's Street Gospel' man.
+
+;0xFE737BA1=~z~-okay, but we want to see you, too.~n~-Just film it, man.
+0xFE737BA1=~z~-okay, but we want to see you, too.~n~-Just film it, man.
+
+;0xFEF17EDD=~z~Man, I thought you was serious about cleaning up these streets, man.
+0xFEF17EDD=~z~Man, I thought you was serious about cleaning up these streets, man.
+

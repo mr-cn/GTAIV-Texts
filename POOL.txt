@@ -1,0 +1,166 @@
+﻿[POOL]
+;0x0D3E72AE=~g~Striped ball pocketed.
+0x0D3E72AE=~g~Striped ball pocketed.
+
+;0x102AB08C=Use ~PAD_RSTICK_DOWN~ then ~PAD_RSTICK_UP~ to take a shot.~n~Press ~INPUT_FRONTEND_CANCEL~ to return to aiming.~n~Press ~INPUT_PICKUP~ to leave table.
+0x102AB08C=Use ~PAD_RSTICK_DOWN~ then ~PAD_RSTICK_UP~ to take a shot.~n~Press ~INPUT_FRONTEND_CANCEL~ to return to aiming.~n~Press ~INPUT_PICKUP~ to leave table.
+
+;0x2222547B=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Use ~PAD_RSTICK_ALL~ to position cue tip.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_FRONTEND_ACCEPT~ to enter shooting mode.~n~Press ~PAD_BACK~ for overhead view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
+0x2222547B=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Use ~PAD_RSTICK_ALL~ to position cue tip.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_FRONTEND_ACCEPT~ to enter shooting mode.~n~Press ~PAD_BACK~ for overhead view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
+
+;0x2722BBF3=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_ATTACK~ to enter shooting mode.~n~Press ~PAD_BACK~ for normal view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
+0x2722BBF3=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_ATTACK~ to enter shooting mode.~n~Press ~PAD_BACK~ for normal view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
+
+;0x2A13D29A=~g~Pocket the 8-Ball to win!
+0x2A13D29A=~g~Pocket the 8-Ball to win!
+
+;0x34CA79CB=You are leaving the pool game, you have ~1~ seconds to return to the pool table or the match will be abandoned.
+0x34CA79CB=You are leaving the pool game, you have ~1~ seconds to return to the pool table or the match will be abandoned.
+
+;0x391C8A9F=~r~Scratch. Pocketed wrong color. Pocketed 8-Ball.
+0x391C8A9F=~r~Scratch. Pocketed wrong color. Pocketed 8-Ball.
+
+;0x3B325867=Nice shot!
+0x3B325867=Nice shot!
+
+;0x3B8F0906=Wager:
+0x3B8F0906=Wager:
+
+;0x3DA99A0F=~y~You win.
+0x3DA99A0F=~y~You win.
+
+;0x44615191=~r~Scratch. Missed all balls. Pocketed 8-Ball.
+0x44615191=~r~Scratch. Missed all balls. Pocketed 8-Ball.
+
+;0x4471DB71=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_FRONTEND_ACCEPT~ to enter shooting mode.~n~Press ~PAD_BACK~ for normal view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
+0x4471DB71=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_FRONTEND_ACCEPT~ to enter shooting mode.~n~Press ~PAD_BACK~ for normal view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
+
+;0x4BBBE2F1=Press ~INPUT_ATTACK~ to approach table.
+0x4BBBE2F1=Press ~INPUT_ATTACK~ to approach table.
+
+;0x4E0A6F1B=Press ~INPUT_ATTACK~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~
+0x4E0A6F1B=Press ~INPUT_ATTACK~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~
+
+;0x50AC3076=Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~
+0x50AC3076=Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~
+
+;0x5357C12E=~g~8-Ball pocketed.
+0x5357C12E=~g~8-Ball pocketed.
+
+;0x56B89AB7=Player 1:
+0x56B89AB7=Player 1:
+
+;0x574E9CF1=~r~Scratch. Ball jumped off table.
+0x574E9CF1=~r~Scratch. Ball jumped off table.
+
+;0x58E4CB33=~r~Scratch. Ball jumped off table. Pocketed 8-Ball
+0x58E4CB33=~r~Scratch. Ball jumped off table. Pocketed 8-Ball
+
+;0x5A894F5C=~r~Scratch. No rail hit. Pocketed 8-Ball
+0x5A894F5C=~r~Scratch. No rail hit. Pocketed 8-Ball
+
+;0x5C4AD308=~g~No balls pocketed.
+0x5C4AD308=~g~No balls pocketed.
+
+;0x6114B07D=~r~Scratch. No rail hit.
+0x6114B07D=~r~Scratch. No rail hit.
+
+;0x617BA8FF=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Use ~PAD_RSTICK_ALL~ to position cue tip.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_ATTACK~ to enter shooting mode.~n~Press ~PAD_BACK~ for overhead view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
+0x617BA8FF=Use ~PAD_LSTICK_LEFTRIGHT~ to rotate aim.~n~Use ~PAD_RSTICK_ALL~ to position cue tip.~n~Hold ~PAD_X~ to fine tune.~n~Press ~INPUT_ATTACK~ to enter shooting mode.~n~Press ~PAD_BACK~ for overhead view.~n~Press ~INPUT_PICKUP~ to leave the table.~n~~a~
+
+;0x65836585=~g~Balls successfully pocketed.
+0x65836585=~g~Balls successfully pocketed.
+
+;0x6EAACBA9=~r~Scratch. Pocketed 8-Ball.
+0x6EAACBA9=~r~Scratch. Pocketed 8-Ball.
+
+;0x72E737B3=~g~You must hit a striped colored ball.
+0x72E737B3=~g~You must hit a striped colored ball.
+
+;0x73163D64=~g~Solid ball pocketed.
+0x73163D64=~g~Solid ball pocketed.
+
+;0x766F7EC6=$~1~
+0x766F7EC6=$~1~
+
+;0x7B350B53=~r~Scratch. Pocketed cue ball. Pocketed 8-Ball.
+0x7B350B53=~r~Scratch. Pocketed cue ball. Pocketed 8-Ball.
+
+;0x80686F24=~r~Scratch. Pocketed wrong color.
+0x80686F24=~r~Scratch. Pocketed wrong color.
+
+;0x80D5D8E3=~g~Solid balls pocketed.
+0x80D5D8E3=~g~Solid balls pocketed.
+
+;0x82F4961A=Press ~INPUT_FRONTEND_ACCEPT~ to approach table.
+0x82F4961A=Press ~INPUT_FRONTEND_ACCEPT~ to approach table.
+
+;0x84531A8D=Pride and honor
+0x84531A8D=Pride and honor
+
+;0x8ABF249B=Press ~INPUT_FRONTEND_CANCEL~ to show help.~n~~a~
+0x8ABF249B=Press ~INPUT_FRONTEND_CANCEL~ to show help.~n~~a~
+
+;0x90860F5F=~r~Scratch. Pocketed cue ball.
+0x90860F5F=~r~Scratch. Pocketed cue ball.
+
+;0x92F337CD=Pool game abandoned
+0x92F337CD=Pool game abandoned
+
+;0x9A3822C3=~r~Scratch. Hit wrong ball first.
+0x9A3822C3=~r~Scratch. Hit wrong ball first.
+
+;0x9EF7DC81=~g~You must hit a solid colored ball.
+0x9EF7DC81=~g~You must hit a solid colored ball.
+
+;0x9FDC17EB=~g~Striped balls pocketed.
+0x9FDC17EB=~g~Striped balls pocketed.
+
+;0xA515A346=Press ~INPUT_ATTACK~ to continue.~n~~a~
+0xA515A346=Press ~INPUT_ATTACK~ to continue.~n~~a~
+
+;0xA57E60C5=~r~Scratch. Hit wrong ball first. Pocketed 8-Ball.
+0xA57E60C5=~r~Scratch. Hit wrong ball first. Pocketed 8-Ball.
+
+;0xABE8C624=~r~Scratch. Missed all balls.
+0xABE8C624=~r~Scratch. Missed all balls.
+
+;0xAEA15FBF=Use ~PAD_LSTICK_ALL~ to position cue ball.~n~Press ~INPUT_ATTACK~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~
+0xAEA15FBF=Use ~PAD_LSTICK_ALL~ to position cue ball.~n~Press ~INPUT_ATTACK~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~
+
+;0xB5080CB7=Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~~a~
+0xB5080CB7=Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~~a~
+
+;0xC82106B4=Are you sure you want to quit?
+0xC82106B4=Are you sure you want to quit?
+
+;0xC9052242=Use ~PAD_LSTICK_ALL~ to position cue ball.~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~
+0xC9052242=Use ~PAD_LSTICK_ALL~ to position cue ball.~n~Press ~INPUT_FRONTEND_ACCEPT~ to continue.~n~Press ~INPUT_PICKUP~ to quit.~n~~a~
+
+;0xCF9C7830=In one motion, pull the ~INPUT_MOUSE_UD~ backward and quickly thrust it forward. ~n~Press ~INPUT_FRONTEND_CANCEL~ to return to aiming.~n~Press ~INPUT_PICKUP~ to leave table.
+0xCF9C7830=In one motion, pull the ~INPUT_MOUSE_UD~ backward and quickly thrust it forward. ~n~Press ~INPUT_FRONTEND_CANCEL~ to return to aiming.~n~Press ~INPUT_PICKUP~ to leave table.
+
+;0xD23FBEF8=~g~8-Ball pocketed from break.
+0xD23FBEF8=~g~8-Ball pocketed from break.
+
+;0xD8EBF5A7=Open
+0xD8EBF5A7=Open
+
+;0xDAEE61D2=Ball Assignment
+0xDAEE61D2=Ball Assignment
+
+;0xDCC649C4=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the pool game.
+0xDCC649C4=Press ~INPUT_PICKUP~ to quit. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to go back to the pool game.
+
+;0xDF3407B5=~g~You may hit any colored ball.
+0xDF3407B5=~g~You may hit any colored ball.
+
+;0xEAD555B3=Opposition:
+0xEAD555B3=Opposition:
+
+;0xF0509B0F=~r~You lose.
+0xF0509B0F=~r~You lose.
+
+;0xFF5B8EEE=Press ~INPUT_FRONTEND_ACCEPT~ to play again.~n~Press ~INPUT_PICKUP~ to quit.
+0xFF5B8EEE=Press ~INPUT_FRONTEND_ACCEPT~ to play again.~n~Press ~INPUT_PICKUP~ to quit.
+

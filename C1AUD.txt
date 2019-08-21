@@ -1,0 +1,376 @@
+﻿[C1AUD]
+;0x02028CA7=~z~No doubt.
+0x02028CA7=~z~No doubt.
+
+;0x027BA687=~z~You should be dead yourself, or inside.
+0x027BA687=~z~You should be dead yourself, or inside.
+
+;0x07631648=~z~My name is Karen.
+0x07631648=~z~My name is Karen.
+
+;0x0A5FCACA=~z~Oleg, you're scaring me. I was even thinking that the man behind you might be watching me.
+0x0A5FCACA=~z~Oleg, you're scaring me. I was even thinking that the man behind you might be watching me.
+
+;0x0AC8E26F=~z~Minkov is dead, the country is safe.
+0x0AC8E26F=~z~Minkov is dead, the country is safe.
+
+;0x0C5BA159=~z~But you're damaged goods.
+0x0C5BA159=~z~But you're damaged goods.
+
+;0x0DEC9FDF=~z~He lives on Iroquois back in Hove Beach.
+0x0DEC9FDF=~z~He lives on Iroquois back in Hove Beach.
+
+;0x12A546DA=~z~Look, I'm not in the business of caring about people's feelings, bud.
+0x12A546DA=~z~Look, I'm not in the business of caring about people's feelings, bud.
+
+;0x15B1B2E5=~z~Interesting. And you whore for the government...
+0x15B1B2E5=~z~Interesting. And you whore for the government...
+
+;0x1A783E92=010100
+0x1A783E92=010100
+
+;0x1A79BEB5=~z~Find out everything you can about a man called Oleg Minkov.
+0x1A79BEB5=~z~Find out everything you can about a man called Oleg Minkov.
+
+;0x1B988DE6=C1_EC
+0x1B988DE6=C1_EC
+
+;0x1C041EA3=C1_JB
+0x1C041EA3=C1_JB
+
+;0x21452C8C=230320230
+0x21452C8C=230320230
+
+;0x290D5620=~z~I hand your file over to those cretins in the FIB
+0x290D5620=~z~I hand your file over to those cretins in the FIB
+
+;0x298CDBBB=~z~-So I said hoist? Flagpole? Salute?~n~-In here.
+0x298CDBBB=~z~-So I said hoist? Flagpole? Salute?~n~-In here.
+
+;0x2AD20ECD=C1_DD
+0x2AD20ECD=C1_DD
+
+;0x2B96DEAF=~z~Or whatever your name is.
+0x2B96DEAF=~z~Or whatever your name is.
+
+;0x2F33AB44=~z~Maybe something has been averted, maybe delayed. I'll be in touch. Goodbye.
+0x2F33AB44=~z~Maybe something has been averted, maybe delayed. I'll be in touch. Goodbye.
+
+;0x30BFEC65=~z~I have a clear conscience.
+0x30BFEC65=~z~I have a clear conscience.
+
+;0x37BF7820=~z~Let's go.
+0x37BF7820=~z~Let's go.
+
+;0x39587A32=~z~It's Karen.
+0x39587A32=~z~It's Karen.
+
+;0x3BC7991E=~z~Yeah? Boo fucking hoo...
+0x3BC7991E=~z~Yeah? Boo fucking hoo...
+
+;0x3F430847=~z~Hooray.
+0x3F430847=~z~Hooray.
+
+;0x3F6F1DC6=090
+0x3F6F1DC6=090
+
+;0x40121FEB=C1_GA
+0x40121FEB=C1_GA
+
+;0x40B91DFC=~z~What have you got for me?
+0x40B91DFC=~z~What have you got for me?
+
+;0x4438DC90=C1_HA
+0x4438DC90=C1_HA
+
+;0x443E8C82=~z~and organized crime is dealt another serious blow.
+0x443E8C82=~z~and organized crime is dealt another serious blow.
+
+;0x44E6D37D=~z~Please don't kill me. I did not mean what I was saying. They were just ideas.
+0x44E6D37D=~z~Please don't kill me. I did not mean what I was saying. They were just ideas.
+
+;0x4503D3AB=~z~I meant no harm to this great country, ~c~nor to Russia if that is who sent you. Please.
+0x4503D3AB=~z~I meant no harm to this great country, ~c~nor to Russia if that is who sent you. Please.
+
+;0x466DC6FA=010100
+0x466DC6FA=010100
+
+;0x4C292333=~z~if you care about that sort of thing.
+0x4C292333=~z~if you care about that sort of thing.
+
+;0x4E123DB3=~z~Hey.
+0x4E123DB3=~z~Hey.
+
+;0x502BAA18=~z~Now, I need you to find something out for me.
+0x502BAA18=~z~Now, I need you to find something out for me.
+
+;0x5522550D=C1_DA
+0x5522550D=C1_DA
+
+;0x556288BC=C1_FA
+0x556288BC=C1_FA
+
+;0x55EC8F2B=C1_IC
+0x55EC8F2B=C1_IC
+
+;0x561C0649=C1_LA
+0x561C0649=C1_LA
+
+;0x5694B12E=~z~Go to his house. Any problems, call this number.
+0x5694B12E=~z~Go to his house. Any problems, call this number.
+
+;0x570877C0=~z~It was not meant to be taken literally.
+0x570877C0=~z~It was not meant to be taken literally.
+
+;0x573B5005=~z~Hi.
+0x573B5005=~z~Hi.
+
+;0x5BDDC17C=~z~Nothing like a bit of sarcasm when someone's got you by the balls.
+0x5BDDC17C=~z~Nothing like a bit of sarcasm when someone's got you by the balls.
+
+;0x6056494D=~z~better than the creeps I normally date.
+0x6056494D=~z~better than the creeps I normally date.
+
+;0x61FA47F9=~z~What's your name?
+0x61FA47F9=~z~What's your name?
+
+;0x63104DA1=~z~I kind of like the honesty in that.
+0x63104DA1=~z~I kind of like the honesty in that.
+
+;0x646180F7=C1_DE
+0x646180F7=C1_DE
+
+;0x6B12ADD9=C1_EB
+0x6B12ADD9=C1_EB
+
+;0x6D5E42B6=C1_JC
+0x6D5E42B6=C1_JC
+
+;0x70EFFE69=~z~Not much. He keeps a clean house, he's got a computer.
+0x70EFFE69=~z~Not much. He keeps a clean house, he's got a computer.
+
+;0x724EED3E=~z~And... and weirdly in some ways you're a nice guy...
+0x724EED3E=~z~And... and weirdly in some ways you're a nice guy...
+
+;0x73CB6B9B=~z~Not relevant. Call me. Very soon.
+0x73CB6B9B=~z~Not relevant. Call me. Very soon.
+
+;0x73F23603=200200200
+0x73F23603=200200200
+
+;0x73FB909B=~z~Unacceptable. Come to see me soon.
+0x73FB909B=~z~Unacceptable. Come to see me soon.
+
+;0x75DC17BE=~z~Whoa, killing is very different from gathering information.
+0x75DC17BE=~z~Whoa, killing is very different from gathering information.
+
+;0x7761296C=~z~Mr. Minkov? Anybody here?
+0x7761296C=~z~Mr. Minkov? Anybody here?
+
+;0x7912FD06=~z~So, Mr. Bellic... quite a file, quite a story.
+0x7912FD06=~z~So, Mr. Bellic... quite a file, quite a story.
+
+;0x7C4E9234=~z~I don't got no choice about this.
+0x7C4E9234=~z~I don't got no choice about this.
+
+;0x7F359B34=~z~Got to? You need to learn to control yourself, Bellic. Come to see me again.
+0x7F359B34=~z~Got to? You need to learn to control yourself, Bellic. Come to see me again.
+
+;0x84299337=~z~I can see that. Thanks, Karen.
+0x84299337=~z~I can see that. Thanks, Karen.
+
+;0x844BB49D=~z~Perfect, I'll send someone to pick up the hard drive. You go to Tulsa St., eliminate Minkov.
+0x844BB49D=~z~Perfect, I'll send someone to pick up the hard drive. You go to Tulsa St., eliminate Minkov.
+
+;0x85C03424=~z~Minkov got away.
+0x85C03424=~z~Minkov got away.
+
+;0x86A2C352=~z~Vasily, thank you for coming.
+0x86A2C352=~z~Vasily, thank you for coming.
+
+;0x86BB94FB=~z~Feds are all over it. Crime is done.
+0x86BB94FB=~z~Feds are all over it. Crime is done.
+
+;0x8811A9BA=~z~Sounds like it's you or me, friend.
+0x8811A9BA=~z~Sounds like it's you or me, friend.
+
+;0x881719F2=~z~The FIB? Do I look homosexual?
+0x881719F2=~z~The FIB? Do I look homosexual?
+
+;0x8919632C=C1_HB
+0x8919632C=C1_HB
+
+;0x917ACEFB=~z~There's an email that says he's meeting someone at Tulsa St, in Hove Beach.
+0x917ACEFB=~z~There's an email that says he's meeting someone at Tulsa St, in Hove Beach.
+
+;0x9465ABB3=~z~~c~Just like it.~s~
+0x9465ABB3=~z~~c~Just like it.~s~
+
+;0x952C341C=~z~I'm not a good guy. But I'm fighting with them, and guess what? So are you.
+0x952C341C=~z~I'm not a good guy. But I'm fighting with them, and guess what? So are you.
+
+;0x964511A7=C1_JA
+0x964511A7=C1_JA
+
+;0x966A37B8=~z~Hey, cheer up, you did good. You'll get a Sammie...
+0x966A37B8=~z~Hey, cheer up, you did good. You'll get a Sammie...
+
+;0x982B49ED=~z~Let's get this over with then.
+0x982B49ED=~z~Let's get this over with then.
+
+;0x9B35C15C=100
+0x9B35C15C=100
+
+;0x9B8B3B1A=~z~~c~Just like the Old Country.~s~
+0x9B8B3B1A=~z~~c~Just like the Old Country.~s~
+
+;0x9C6D58FE=C1_CA
+0x9C6D58FE=C1_CA
+
+;0x9E4A4778=~z~Thank you.
+0x9E4A4778=~z~Thank you.
+
+;0xA0546236=~z~You're just lucky it was me, and not someone else who got their hooks into you.
+0xA0546236=~z~You're just lucky it was me, and not someone else who got their hooks into you.
+
+;0xA0E06E3A=~z~Dispose of Minkov then call me.
+0xA0E06E3A=~z~Dispose of Minkov then call me.
+
+;0xA3221187=C1_CC
+0xA3221187=C1_CC
+
+;0xA392D0E9=~z~Now... you can't always tell who the good guys are.
+0xA392D0E9=~z~Now... you can't always tell who the good guys are.
+
+;0xA5FCCFFD=~z~And hey... welcome to America.
+0xA5FCCFFD=~z~And hey... welcome to America.
+
+;0xA956FB39=C1_DC
+0xA956FB39=C1_DC
+
+;0xABFE5F80=~z~You know, you and your cousin, you should get out.
+0xABFE5F80=~z~You know, you and your cousin, you should get out.
+
+;0xB03F7D47=~z~I'm sorry, I got to Minkov's friend before he arrived.
+0xB03F7D47=~z~I'm sorry, I got to Minkov's friend before he arrived.
+
+;0xB1428C34=C1_DB
+0xB1428C34=C1_DB
+
+;0xB1876CD2=~z~That's the spirit.
+0xB1876CD2=~z~That's the spirit.
+
+;0xB52872F4=~z~I'm sorry that I lied to you.
+0xB52872F4=~z~I'm sorry that I lied to you.
+
+;0xB5FEF001=~z~Go.
+0xB5FEF001=~z~Go.
+
+;0xBACF0081=~z~How very lucky for you.
+0xBACF0081=~z~How very lucky for you.
+
+;0xBBF55013=C1_BA
+0xBBF55013=C1_BA
+
+;0xBD030289=~z~Eat my ass, buddy, I'm up for the promotion and, and you're not!
+0xBD030289=~z~Eat my ass, buddy, I'm up for the promotion and, and you're not!
+
+;0xBD5C2731=~z~You are acting in the interests of your new countrymen, and keeping yourself out of prison.
+0xBD5C2731=~z~You are acting in the interests of your new countrymen, and keeping yourself out of prison.
+
+;0xBFF674CD=C1_IA
+0xBFF674CD=C1_IA
+
+;0xC0560A6F=~z~Who are you? FIB?
+0xC0560A6F=~z~Who are you? FIB?
+
+;0xC81B060E=C1_IB
+0xC81B060E=C1_IB
+
+;0xC83AEA15=~z~They've come, they want me dead.
+0xC83AEA15=~z~They've come, they want me dead.
+
+;0xC8A27307=C1_EA
+0xC8A27307=C1_EA
+
+;0xC9CE2EEA=020
+0xC9CE2EEA=020
+
+;0xCB8D4E11=C1_DF
+0xCB8D4E11=C1_DF
+
+;0xCD15A50E=~z~In here. Office three-nine-six.
+0xCD15A50E=~z~In here. Office three-nine-six.
+
+;0xCED9A636=~z~-What the hell are we doing here?~n~-We're going to meet someone.
+0xCED9A636=~z~-What the hell are we doing here?~n~-We're going to meet someone.
+
+;0xD3802E83=~z~You've watched too many movies.
+0xD3802E83=~z~You've watched too many movies.
+
+;0xD8D635B3=~z~And if I say no?
+0xD8D635B3=~z~And if I say no?
+
+;0xD96FE2BA=C1_KA
+0xD96FE2BA=C1_KA
+
+;0xD9A1D4CC=~z~Listen, I know what you must be thinking, but don't bother.
+0xD9A1D4CC=~z~Listen, I know what you must be thinking, but don't bother.
+
+;0xE0E169DF=010100010100100100
+0xE0E169DF=010100010100100100
+
+;0xE0E33538=290
+0xE0E33538=290
+
+;0xE159CA36=~z~Whatever you say, Michelle.
+0xE159CA36=~z~Whatever you say, Michelle.
+
+;0xE62E6D7D=C1_GB
+0xE62E6D7D=C1_GB
+
+;0xE701EF8C=~z~I'm sorry, but I don't see how you know what I must be thinking.
+0xE701EF8C=~z~I'm sorry, but I don't see how you know what I must be thinking.
+
+;0xE78AD9F8=~z~Hi there.
+0xE78AD9F8=~z~Hi there.
+
+;0xE78C7B91=~z~For once this is a murder you don't have to feel confused about.
+0xE78C7B91=~z~For once this is a murder you don't have to feel confused about.
+
+;0xEA96DDB0=~z~Sounds fun.
+0xEA96DDB0=~z~Sounds fun.
+
+;0xEF1B7AC2=~z~Check his emails. Call back with any information that would indicate his current whereabouts.
+0xEF1B7AC2=~z~Check his emails. Call back with any information that would indicate his current whereabouts.
+
+;0xF03C0208=~z~You've killed people.
+0xF03C0208=~z~You've killed people.
+
+;0xF0FD697D=~z~What you're looking for you won't find.
+0xF0FD697D=~z~What you're looking for you won't find.
+
+;0xF29A7E20=100010100
+0xF29A7E20=100010100
+
+;0xF6D3F2FD=~z~You upset some powerful people, friend.
+0xF6D3F2FD=~z~You upset some powerful people, friend.
+
+;0xF72A015E=010100100
+0xF72A015E=010100100
+
+;0xF9A94030=~z~Not by a long shot, smart ass. Nothing is safe, no one is safe.
+0xF9A94030=~z~Not by a long shot, smart ass. Nothing is safe, no one is safe.
+
+;0xF9DA7D77=~z~Do you think I care about the size of your Johnson?
+0xF9DA7D77=~z~Do you think I care about the size of your Johnson?
+
+;0xF9E87EB3=~z~Here he is.
+0xF9E87EB3=~z~Here he is.
+
+;0xFC1B2E41=~z~This is it. He must have been waiting for me. Goodbye, friend.
+0xFC1B2E41=~z~This is it. He must have been waiting for me. Goodbye, friend.
+
+;0xFCE49AEF=C1_CB
+0xFCE49AEF=C1_CB
+

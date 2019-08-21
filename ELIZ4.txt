@@ -1,0 +1,31 @@
+﻿[ELIZ4]
+;0x17631B45=~r~The bodies were left too close to Elizabeta's place.
+0x17631B45=~r~The bodies were left too close to Elizabeta's place.
+
+;0x1A3EB12B=You may want to close the trunk, the police will be able to see its contents.
+0x1A3EB12B=You may want to close the trunk, the police will be able to see its contents.
+
+;0x381E5CBB=~s~Lose your wanted level.
+0x381E5CBB=~s~Lose your wanted level.
+
+;0x4622F8C4=~s~The bodies will be identified if left there, blow up the ~r~car.
+0x4622F8C4=~s~The bodies will be identified if left there, blow up the ~r~car.
+
+;0x4E8C8993=~r~The bodies have been destroyed.
+0x4E8C8993=~r~The bodies have been destroyed.
+
+;0x63E4B443=~s~Get in the ~b~car.
+0x63E4B443=~s~Get in the ~b~car.
+
+;0x6ACD4214=~s~Take the bodies to the ~y~doctor.
+0x6ACD4214=~s~Take the bodies to the ~y~doctor.
+
+;0xCA9F81BF=Press ~INPUT_PICKUP~ to close the trunk.
+0xCA9F81BF=Press ~INPUT_PICKUP~ to close the trunk.
+
+;0xECC0C601=~s~The cops have spotted the bodies. Lose your wanted level.
+0xECC0C601=~s~The cops have spotted the bodies. Lose your wanted level.
+
+;0xFC446508=~r~The bodies were discovered.
+0xFC446508=~r~The bodies were discovered.
+

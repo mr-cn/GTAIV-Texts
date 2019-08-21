@@ -1,0 +1,55 @@
+﻿[INTDATE]
+;0x04D4F700=~r~You've bored ~a~.
+0x04D4F700=~r~You've bored ~a~.
+
+;0x1BB561FE=~s~Get back in the car with ~a~.
+0x1BB561FE=~s~Get back in the car with ~a~.
+
+;0x32BFABA5=~r~You scared ~a~.
+0x32BFABA5=~r~You scared ~a~.
+
+;0x49C90377=~s~Take ~a~ for a walk, or take her ~y~home.
+0x49C90377=~s~Take ~a~ for a walk, or take her ~y~home.
+
+;0x5E2DEC86=~s~Get back to ~b~~a~~s~
+0x5E2DEC86=~s~Get back to ~b~~a~~s~
+
+;0x727669B3=~s~Enter the ~y~darts place~s~ with ~a~.
+0x727669B3=~s~Enter the ~y~darts place~s~ with ~a~.
+
+;0x78779672=~r~~a~ has been killed.
+0x78779672=~r~~a~ has been killed.
+
+;0x791C846F=~s~You are still too early for your date, come back ~a~.
+0x791C846F=~s~You are still too early for your date, come back ~a~.
+
+;0xB3A4EC15=~s~You are too early for your date, come back today at ~1~:00
+0xB3A4EC15=~s~You are too early for your date, come back today at ~1~:00
+
+;0xB46B2B9F=~s~Take ~a~ to see the ~y~show.
+0xB46B2B9F=~s~Take ~a~ to see the ~y~show.
+
+;0xC8EA00B5=~s~Enter the ~y~strip club~s~ with ~a~.
+0xC8EA00B5=~s~Enter the ~y~strip club~s~ with ~a~.
+
+;0xCFD63C8C=~s~Take ~a~ back ~y~home.
+0xCFD63C8C=~s~Take ~a~ back ~y~home.
+
+;0xDA113478=~s~Enter the ~y~pool hall~s~ with ~a~.
+0xDA113478=~s~Enter the ~y~pool hall~s~ with ~a~.
+
+;0xDBBBB1BB=~s~Get a car to pick up ~a~.
+0xDBBBB1BB=~s~Get a car to pick up ~a~.
+
+;0xDBCD6A43=~s~You have a date with ~a~ in an hour.
+0xDBCD6A43=~s~You have a date with ~a~ in an hour.
+
+;0xE13E19CC=~s~Take ~a~ somewhere she would enjoy.
+0xE13E19CC=~s~Take ~a~ somewhere she would enjoy.
+
+;0xF4553CCC=~s~You are too early for your date, come back tomorrow at ~1~:00
+0xF4553CCC=~s~You are too early for your date, come back tomorrow at ~1~:00
+
+;0xF86D35F5=~s~Enter the ~y~bowling alley~s~ with ~a~.
+0xF86D35F5=~s~Enter the ~y~bowling alley~s~ with ~a~.
+

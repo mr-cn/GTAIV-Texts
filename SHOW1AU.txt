@@ -1,0 +1,133 @@
+﻿[SHOW1AU]
+;0x01FC36E2=~z~~x~First, the Incredible Kleinman!
+0x01FC36E2=~z~~x~First, the Incredible Kleinman!
+
+;0x032686D7=~z~~x~Arise! Arise! Yes, there! There! Higher! Higher! Lower! Higher! Lower!
+0x032686D7=~z~~x~Arise! Arise! Yes, there! There! Higher! Higher! Lower! Higher! Lower!
+
+;0x0C7F3981=~z~~x~Welcome. Welcome to momma's little show. Yeah.
+0x0C7F3981=~z~~x~Welcome. Welcome to momma's little show. Yeah.
+
+;0x13667426=~z~~x~and you realize that day your dad disappeared he didn't leave your mom for the fat bitch at the gas station.
+0x13667426=~z~~x~and you realize that day your dad disappeared he didn't leave your mom for the fat bitch at the gas station.
+
+;0x189FFE9D=~z~~x~And there's a girl on a swingset and you go push her off the swing.
+0x189FFE9D=~z~~x~And there's a girl on a swingset and you go push her off the swing.
+
+;0x1AEA832E=~z~~x~And they painted patterns in the corn.
+0x1AEA832E=~z~~x~And they painted patterns in the corn.
+
+;0x1CF8BA7B=~z~~x~Now... arise!
+0x1CF8BA7B=~z~~x~Now... arise!
+
+;0x1E30DCE4=~z~~x~Yeah, play it, Al. Play it. Al's the fine piano player.
+0x1E30DCE4=~z~~x~Yeah, play it, Al. Play it. Al's the fine piano player.
+
+;0x2B1BF6BA=~z~~x~Pre-recorded because his union got a little mouthy and greedy so we sing to his CD now.
+0x2B1BF6BA=~z~~x~Pre-recorded because his union got a little mouthy and greedy so we sing to his CD now.
+
+;0x2FB25FEE=~z~~x~I will defeat gravity. I will be the master of Isaac Newton!
+0x2FB25FEE=~z~~x~I will defeat gravity. I will be the master of Isaac Newton!
+
+;0x3135AFC4=~z~~x~He was abducted. And your captors put you down in a farm field late at night somewhere in Iowa.
+0x3135AFC4=~z~~x~He was abducted. And your captors put you down in a farm field late at night somewhere in Iowa.
+
+;0x3969735C=~z~~x~I will now make my assistant... float!
+0x3969735C=~z~~x~I will now make my assistant... float!
+
+;0x3A56952F=~z~~x~But I still feel like he's here in spirit.
+0x3A56952F=~z~~x~But I still feel like he's here in spirit.
+
+;0x509C4226=~z~~x~And then you grab a bottle of gin down from the dusty cupboard where you put it
+0x509C4226=~z~~x~And then you grab a bottle of gin down from the dusty cupboard where you put it
+
+;0x540EA8A6=~z~~x~Aaagh, Laurel? Laurel?
+0x540EA8A6=~z~~x~Aaagh, Laurel? Laurel?
+
+;0x61EC75CD=~z~~x~not your bi-curious fantasies.
+0x61EC75CD=~z~~x~not your bi-curious fantasies.
+
+;0x622E11B8=~z~~x~and you wake up in the sterile belly of a spaceship,
+0x622E11B8=~z~~x~and you wake up in the sterile belly of a spaceship,
+
+;0x65DC4C41=~z~~x~Eat shit!
+0x65DC4C41=~z~~x~Eat shit!
+
+;0x6E208E39=~z~~x~But I am here to entertain you,
+0x6E208E39=~z~~x~But I am here to entertain you,
+
+;0x70AA61DD=~z~~x~You suck, asshole!
+0x70AA61DD=~z~~x~You suck, asshole!
+
+;0x7A764590=~z~~x~Sometimes life pushes you off a swing.
+0x7A764590=~z~~x~Sometimes life pushes you off a swing.
+
+;0x7C562AA4=~z~~x~One man even asked me, "Can you make my masculinity disappear?"
+0x7C562AA4=~z~~x~One man even asked me, "Can you make my masculinity disappear?"
+
+;0x82A305CE=~z~~x~Ah yes, I can make this filthy woman fall under my dominion. Oh, arise! Yes!
+0x82A305CE=~z~~x~Ah yes, I can make this filthy woman fall under my dominion. Oh, arise! Yes!
+
+;0x8CDBCBAF=~z~~x~Like making cancer patients or nuclear warheads disappear?"
+0x8CDBCBAF=~z~~x~Like making cancer patients or nuclear warheads disappear?"
+
+;0x92ECF335=~z~~x~And you know what - we're all that little girl sometimes.
+0x92ECF335=~z~~x~And you know what - we're all that little girl sometimes.
+
+;0x9A25E643=~z~~x~Have you ever used your powers for good?
+0x9A25E643=~z~~x~Have you ever used your powers for good?
+
+;0xA7468084=~z~~x~ I am constantly asked, "Kleinman, when did you discover you were magic?
+0xA7468084=~z~~x~ I am constantly asked, "Kleinman, when did you discover you were magic?
+
+;0xBA82425F=~z~~x~And the crickets are singing and the cows baying in the distance
+0xBA82425F=~z~~x~And the crickets are singing and the cows baying in the distance
+
+;0xC4D9AA37=~z~~x~I have a little song I want to share with you. It's about something that's happened to us all.
+0xC4D9AA37=~z~~x~I have a little song I want to share with you. It's about something that's happened to us all.
+
+;0xC86A1077=~z~~x~Now let's hear it for Ms Bluesy St. John!
+0xC86A1077=~z~~x~Now let's hear it for Ms Bluesy St. John!
+
+;0xCCBF6A21=~z~~x~Ms Bluesy St. John!
+0xCCBF6A21=~z~~x~Ms Bluesy St. John!
+
+;0xD0732169=~z~~x~Don't worry, everybody. She's probably only paraplegic!
+0xD0732169=~z~~x~Don't worry, everybody. She's probably only paraplegic!
+
+;0xD45FDBB6=~z~~x~We have two great acts coming up.
+0xD45FDBB6=~z~~x~We have two great acts coming up.
+
+;0xD697DF26=~z~~x~Welcome.
+0xD697DF26=~z~~x~Welcome.
+
+;0xD7074E92=~z~~x~No, no, I'm not talking about getting sandwiched by two Lebanese train porters in the caboose.
+0xD7074E92=~z~~x~No, no, I'm not talking about getting sandwiched by two Lebanese train porters in the caboose.
+
+;0xDEDB0E64=~z~~x~Thank you so much. Good night.
+0xDEDB0E64=~z~~x~Thank you so much. Good night.
+
+;0xE164634C=~z~~x~No. I'm talking about losing your baby.
+0xE164634C=~z~~x~No. I'm talking about losing your baby.
+
+;0xE1B390C1=~z~~x~and a man comes over and looks like your father,
+0xE1B390C1=~z~~x~and a man comes over and looks like your father,
+
+;0xE297C5B2=~z~~x~Oh, Laurel, you're... oh, you're a quadraplegic!
+0xE297C5B2=~z~~x~Oh, Laurel, you're... oh, you're a quadraplegic!
+
+;0xE5EC1936=~z~~x~and the holy ghost is there too. Man, the lord has a ghost.
+0xE5EC1936=~z~~x~and the holy ghost is there too. Man, the lord has a ghost.
+
+;0xE98023AE=~z~~x~Well, that's all I got time for tonight. I love you all.
+0xE98023AE=~z~~x~Well, that's all I got time for tonight. I love you all.
+
+;0xED152788=~z~~x~and your backside hurts something fierce from the probing - woo!
+0xED152788=~z~~x~and your backside hurts something fierce from the probing - woo!
+
+;0xF39B07B9=~z~~x~You know, they get picked up by a stranger on the way to go to school.
+0xF39B07B9=~z~~x~You know, they get picked up by a stranger on the way to go to school.
+
+;0xFB46C73B=~z~~x~Or makes you a little girl, even when you're a little boy.
+0xFB46C73B=~z~~x~Or makes you a little girl, even when you're a little boy.
+

@@ -1,0 +1,1216 @@
+﻿[F2AUD]
+;0x0051B876=~z~We are your friends.
+0x0051B876=~z~We are your friends.
+
+;0x00AFBF42=~z~Your cousins back in Eastern Europe do this for practically nothing, undercutting us.
+0x00AFBF42=~z~Your cousins back in Eastern Europe do this for practically nothing, undercutting us.
+
+;0x010C0D2F=~z~ -No, no, no, he's...~n~-They better not be filming.
+0x010C0D2F=~z~ -No, no, no, he's...~n~-They better not be filming.
+
+;0x01131B8E=~z~We're going to that sex shop on Hove Beach.
+0x01131B8E=~z~We're going to that sex shop on Hove Beach.
+
+;0x0144618B=~z~Come on, find a car.
+0x0144618B=~z~Come on, find a car.
+
+;0x014A663E=~z~Yes, but you've angered the wrong people.
+0x014A663E=~z~Yes, but you've angered the wrong people.
+
+;0x0154E55B=~z~Don't think I cannot see through you.
+0x0154E55B=~z~Don't think I cannot see through you.
+
+;0x01D04183=~z~Point the gun at that guy to his left, Niko.
+0x01D04183=~z~Point the gun at that guy to his left, Niko.
+
+;0x0431D1FC=F2_JA
+0x0431D1FC=F2_JA
+
+;0x045B4CAD=F2_CK
+0x045B4CAD=F2_CK
+
+;0x04B8D8D4=~z~Have a heart.
+0x04B8D8D4=~z~Have a heart.
+
+;0x05505293=F2_A_GC
+0x05505293=F2_A_GC
+
+;0x05AE1E3D=~z~Calm?
+0x05AE1E3D=~z~Calm?
+
+;0x064795E6=F2_UG
+0x064795E6=F2_UG
+
+;0x06C3E9B5=F2_A_HA
+0x06C3E9B5=F2_A_HA
+
+;0x07C6D150=F2_CH
+0x07C6D150=F2_CH
+
+;0x086823B1=~z~You need to calm down with that stuff.
+0x086823B1=~z~You need to calm down with that stuff.
+
+;0x08834CC3=F2_HC
+0x08834CC3=F2_HC
+
+;0x095EEAF3=F2_NA
+0x095EEAF3=F2_NA
+
+;0x09A97AC7=F2_FC
+0x09A97AC7=F2_FC
+
+;0x09E3AD23=~z~You know how much money there is selling this stuff online? A whole fucking heap.
+0x09E3AD23=~z~You know how much money there is selling this stuff online? A whole fucking heap.
+
+;0x0A0725D7=~z~It works...
+0x0A0725D7=~z~It works...
+
+;0x0B8F7AC9=F2_UC
+0x0B8F7AC9=F2_UC
+
+;0x0C240816=F2_A_IC
+0x0C240816=F2_A_IC
+
+;0x0CC83053=~z~In my experience... most people, once they change, they stay that way.
+0x0CC83053=~z~In my experience... most people, once they change, they stay that way.
+
+;0x0D268DBF=F2_A_IB
+0x0D268DBF=F2_A_IB
+
+;0x1085CDBF=~z~We're going to an alleyway off of Dillon Street in Schottler.
+0x1085CDBF=~z~We're going to an alleyway off of Dillon Street in Schottler.
+
+;0x11416DE1=~z~You should have thought of that earlier.
+0x11416DE1=~z~You should have thought of that earlier.
+
+;0x11775ACD=~z~So, what's this gun shop?
+0x11775ACD=~z~So, what's this gun shop?
+
+;0x11A2BBCF=~z~Mr. Faustin, I got a little out of control in the shop, people were hurt.
+0x11A2BBCF=~z~Mr. Faustin, I got a little out of control in the shop, people were hurt.
+
+;0x138B90B7=~z~You see, they don't make 'em like that no more.
+0x138B90B7=~z~You see, they don't make 'em like that no more.
+
+;0x169E85FD=100
+0x169E85FD=100
+
+;0x170DBD3C=010010100100
+0x170DBD3C=010010100100
+
+;0x176CC0A2=~z~I scare, you reason.
+0x176CC0A2=~z~I scare, you reason.
+
+;0x178B7E79=~z~This ain't right.
+0x178B7E79=~z~This ain't right.
+
+;0x17948F67=F2_UQ
+0x17948F67=F2_UQ
+
+;0x17F08B09=~z~Mikhail is making enemies very rapidly, a friend like you is useful.
+0x17F08B09=~z~Mikhail is making enemies very rapidly, a friend like you is useful.
+
+;0x182249A0=~z~We're going to ignore what Mikhail said and try not to kill them.
+0x182249A0=~z~We're going to ignore what Mikhail said and try not to kill them.
+
+;0x1859F4F2=F2_A_MA
+0x1859F4F2=F2_A_MA
+
+;0x18837AA2=~z~Mr. Faustin, I don't think you should use that gun shop no more.
+0x18837AA2=~z~Mr. Faustin, I don't think you should use that gun shop no more.
+
+;0x19ADF87A=F2_A_MB
+0x19ADF87A=F2_A_MB
+
+;0x19CCA4CB=F2_A_ID
+0x19CCA4CB=F2_A_ID
+
+;0x1A332F67=~z~You got some money for Mr. Faustin?
+0x1A332F67=~z~You got some money for Mr. Faustin?
+
+;0x1A6A1F10=~z~In fact, the Mayor of this city tries to shut down Ammu-Nation shops in other states.
+0x1A6A1F10=~z~In fact, the Mayor of this city tries to shut down Ammu-Nation shops in other states.
+
+;0x1B161264=F2_A_AA
+0x1B161264=F2_A_AA
+
+;0x1CA8DBB1=F2_B_HA
+0x1CA8DBB1=F2_B_HA
+
+;0x1FD0D282=~z~A drunken fool.
+0x1FD0D282=~z~A drunken fool.
+
+;0x214C91FF=~z~Help. Please, no.
+0x214C91FF=~z~Help. Please, no.
+
+;0x21A39760=F2_KC
+0x21A39760=F2_KC
+
+;0x22DB50CD=~z~No, they just havin' a meeting. I swear...
+0x22DB50CD=~z~No, they just havin' a meeting. I swear...
+
+;0x22EC1CAD=~z~You ain't nothing.
+0x22EC1CAD=~z~You ain't nothing.
+
+;0x23286576=010100100
+0x23286576=010100100
+
+;0x236A1816=~z~So, you and Mr. Faustin, have you always argued and made up like this?
+0x236A1816=~z~So, you and Mr. Faustin, have you always argued and made up like this?
+
+;0x23DBB595=500
+0x23DBB595=500
+
+;0x2501D4E7=~z~Hey, Niko.
+0x2501D4E7=~z~Hey, Niko.
+
+;0x2518FD8C=F2_A_DA
+0x2518FD8C=F2_A_DA
+
+;0x27C0B9BD=~z~Buying guns is illegal.
+0x27C0B9BD=~z~Buying guns is illegal.
+
+;0x27D72AB7=F2_BB
+0x27D72AB7=F2_BB
+
+;0x27EE2B04=~z~that I am a man who appreciates a good business venture when one comes along.
+0x27EE2B04=~z~that I am a man who appreciates a good business venture when one comes along.
+
+;0x2AFAB99E=~z~ -Blah, blah, blah, blah, blah, blah, blah, blah...~n~-Too many bodies, too much attention. We'll be dealt with...
+0x2AFAB99E=~z~ -Blah, blah, blah, blah, blah, blah, blah, blah...~n~-Too many bodies, too much attention. We'll be dealt with...
+
+;0x2B5B27F8=~z~It wasn't always like this. Mikhail was a great man. He had a temper, but he was fair.
+0x2B5B27F8=~z~It wasn't always like this. Mikhail was a great man. He had a temper, but he was fair.
+
+;0x2C924360=~z~This is because guns from them have ended up on the streets here.
+0x2C924360=~z~This is because guns from them have ended up on the streets here.
+
+;0x2D23AB03=100100100100100100
+0x2D23AB03=100100100100100100
+
+;0x2E9D4338=F2_UF
+0x2E9D4338=F2_UF
+
+;0x2F573033=~z~~c~Mikhail... I know you didn't mean it. That's alright.
+0x2F573033=~z~~c~Mikhail... I know you didn't mean it. That's alright.
+
+;0x2F6F05BD=100
+0x2F6F05BD=100
+
+;0x2FB48705=~z~How is your cousin, Roman, after the incident the other day?
+0x2FB48705=~z~How is your cousin, Roman, after the incident the other day?
+
+;0x2FBD4D89=101101
+0x2FBD4D89=101101
+
+;0x31DC5603=010100100100100010
+0x31DC5603=010100100100100010
+
+;0x33118353=F2_SB
+0x33118353=F2_SB
+
+;0x3322BE3F=100
+0x3322BE3F=100
+
+;0x33F454D7=F2_A_AK
+0x33F454D7=F2_A_AK
+
+;0x35314803=F2_GB
+0x35314803=F2_GB
+
+;0x356762AA=~z~Motherfuckers, you're not treating me like that. I'm a player.
+0x356762AA=~z~Motherfuckers, you're not treating me like that. I'm a player.
+
+;0x35F57ECB=~z~I'm a fool.
+0x35F57ECB=~z~I'm a fool.
+
+;0x37B8C0B3=~z~Now, he blows his top at the slightest thing. I never know who he will shoot, who he will stab.
+0x37B8C0B3=~z~Now, he blows his top at the slightest thing. I never know who he will shoot, who he will stab.
+
+;0x37B93F62=700
+0x37B93F62=700
+
+;0x37C2C389=F2_RH
+0x37C2C389=F2_RH
+
+;0x382E66BD=100
+0x382E66BD=100
+
+;0x38C1F666=F2_UN
+0x38C1F666=F2_UN
+
+;0x39438577=~z~Why?
+0x39438577=~z~Why?
+
+;0x3AEA70D5=~z~Fine, here you go. We ain't gonna have the...
+0x3AEA70D5=~z~Fine, here you go. We ain't gonna have the...
+
+;0x3B85DF1A=~z~What the hell did you do that for? How are we supposed to make them pay up now?
+0x3B85DF1A=~z~What the hell did you do that for? How are we supposed to make them pay up now?
+
+;0x3B920A52=F2_A_FA
+0x3B920A52=F2_A_FA
+
+;0x3BB2528C=~z~You are a man worth having on our side.
+0x3BB2528C=~z~You are a man worth having on our side.
+
+;0x3BC5DA14=~z~But you treat me like a child.
+0x3BC5DA14=~z~But you treat me like a child.
+
+;0x3C5C2054=~z~At least he's alive, eh? Mikhail don't always go for the gut shots.
+0x3C5C2054=~z~At least he's alive, eh? Mikhail don't always go for the gut shots.
+
+;0x3CCDE0F8=F2_XE
+0x3CCDE0F8=F2_XE
+
+;0x3D88D404=F2_ZA
+0x3D88D404=F2_ZA
+
+;0x3DCEEE58=F2_A_AI
+0x3DCEEE58=F2_A_AI
+
+;0x3E79AA48=F2_WC
+0x3E79AA48=F2_WC
+
+;0x3EA1081D=~z~Not now, it's not the time.
+0x3EA1081D=~z~Not now, it's not the time.
+
+;0x3EE6D4BA=F2_PA
+0x3EE6D4BA=F2_PA
+
+;0x427D12CA=~z~Alright, you don't look like a cop. Buy what you want.
+0x427D12CA=~z~Alright, you don't look like a cop. Buy what you want.
+
+;0x436370DC=F2_UD
+0x436370DC=F2_UD
+
+;0x442AD311=F2_JB
+0x442AD311=F2_JB
+
+;0x44411D90=F2_TA
+0x44411D90=F2_TA
+
+;0x455AA372=~z~But in ways that will make money. Come back to my house.
+0x455AA372=~z~But in ways that will make money. Come back to my house.
+
+;0x45CA363F=100
+0x45CA363F=100
+
+;0x47252528=~z~His wife, she is a mess. And he does not let up on me. We need the old Mikhail back.
+0x47252528=~z~His wife, she is a mess. And he does not let up on me. We need the old Mikhail back.
+
+;0x473C56F4=F2_UH
+0x473C56F4=F2_UH
+
+;0x4749F0D5=F2_UP
+0x4749F0D5=F2_UP
+
+;0x48FE45DF=F2_A_GC
+0x48FE45DF=F2_A_GC
+
+;0x49C89339=600
+0x49C89339=600
+
+;0x4A42A3A1=F2_A_JA
+0x4A42A3A1=F2_A_JA
+
+;0x4ACB6041=~z~You can't even hit him in the leg. He has learned at least. Let's go.
+0x4ACB6041=~z~You can't even hit him in the leg. He has learned at least. Let's go.
+
+;0x4AE2A8B5=~z~So I can be like you, Mr. Barbiturate?
+0x4AE2A8B5=~z~So I can be like you, Mr. Barbiturate?
+
+;0x4B2E779D=~z~Word is, they've started their own porno site as well.
+0x4B2E779D=~z~Word is, they've started their own porno site as well.
+
+;0x4C11662A=F2_JE
+0x4C11662A=F2_JE
+
+;0x4C1C38CD=F2_VA
+0x4C1C38CD=F2_VA
+
+;0x4CB08300=~z~Hey, Joseph! You think you can expand your business interests make these pornos and sell them,
+0x4CB08300=~z~Hey, Joseph! You think you can expand your business interests make these pornos and sell them,
+
+;0x4CD2EB2A=~z~I didn't kill Joseph, we will make more money with him alive.
+0x4CD2EB2A=~z~I didn't kill Joseph, we will make more money with him alive.
+
+;0x4CD8E3DF=F2_CB
+0x4CD8E3DF=F2_CB
+
+;0x4DDDB522=~z~This guy been making porno in his basement and he didn't cut Mikhail in.
+0x4DDDB522=~z~This guy been making porno in his basement and he didn't cut Mikhail in.
+
+;0x4E46EDCF=~z~Andrei, who you met in Mikhail's basement. He was always loyal, he was a good worker,
+0x4E46EDCF=~z~Andrei, who you met in Mikhail's basement. He was always loyal, he was a good worker,
+
+;0x4F21B127=~z~Niko's here. We're going to go take care of that guy.
+0x4F21B127=~z~Niko's here. We're going to go take care of that guy.
+
+;0x4FBE18E2=F2_OB
+0x4FBE18E2=F2_OB
+
+;0x5003663C=F2_CE
+0x5003663C=F2_CE
+
+;0x502AE7A9=F2_RC
+0x502AE7A9=F2_RC
+
+;0x51293195=~z~Faustin, things got difficult in the shop. I left Dimitri there to deal with it.
+0x51293195=~z~Faustin, things got difficult in the shop. I left Dimitri there to deal with it.
+
+;0x513DAD56=~z~Because it clouds your judgment.
+0x513DAD56=~z~Because it clouds your judgment.
+
+;0x516D90A5=F2_A_AL
+0x516D90A5=F2_A_AL
+
+;0x517D6C95=~z~Fucking control yourself.
+0x517D6C95=~z~Fucking control yourself.
+
+;0x518430D9=~z~You need to control yourself, you could become like Mikhail.
+0x518430D9=~z~You need to control yourself, you could become like Mikhail.
+
+;0x51D581AE=F2_BG
+0x51D581AE=F2_BG
+
+;0x5280741A=~z~Oh God.
+0x5280741A=~z~Oh God.
+
+;0x529D3E95=~z~No, it's Mikhail that has that issue. Can't keep his finger off of the triggers.
+0x529D3E95=~z~No, it's Mikhail that has that issue. Can't keep his finger off of the triggers.
+
+;0x53214DDE=~z~Mikhail fucked up his guts pretty bad.
+0x53214DDE=~z~Mikhail fucked up his guts pretty bad.
+
+;0x545D7501=310310130310310
+0x545D7501=310310130310310
+
+;0x553A8479=F2_BC
+0x553A8479=F2_BC
+
+;0x564178DD=F2_YC
+0x564178DD=F2_YC
+
+;0x56DE4918=F2_A_HB
+0x56DE4918=F2_A_HB
+
+;0x570D46D7=~z~This is what you are for, Bellic. To hurt people for me.
+0x570D46D7=~z~This is what you are for, Bellic. To hurt people for me.
+
+;0x581F1117=~z~Take me to Perestroika, Mikhail's club.
+0x581F1117=~z~Take me to Perestroika, Mikhail's club.
+
+;0x583B432F=~z~It's underground. A backroom place. There are a few around the city.
+0x583B432F=~z~It's underground. A backroom place. There are a few around the city.
+
+;0x58871256=~z~You guys are getting protection money off of websites now? What, you stop them from getting viruses?
+0x58871256=~z~You guys are getting protection money off of websites now? What, you stop them from getting viruses?
+
+;0x58A4FCC4=F2_YD
+0x58A4FCC4=F2_YD
+
+;0x59D81A4D=~z~Control yourself, okay?
+0x59D81A4D=~z~Control yourself, okay?
+
+;0x59EE4ABA=~z~Mikhail seems to go after those close to him, like Ilyena.
+0x59EE4ABA=~z~Mikhail seems to go after those close to him, like Ilyena.
+
+;0x5AB396D3=~z~What are you still doing here?
+0x5AB396D3=~z~What are you still doing here?
+
+;0x5AB3D047=F2_SC
+0x5AB3D047=F2_SC
+
+;0x5AC73C49=100
+0x5AC73C49=100
+
+;0x5B825314=SFX_PAUSE_2000
+0x5B825314=SFX_PAUSE_2000
+
+;0x5B9F50A5=~z~Least he could have done is sent over some tapes.
+0x5B9F50A5=~z~Least he could have done is sent over some tapes.
+
+;0x5C74E081=~z~You trying to tell me I owe you my life?
+0x5C74E081=~z~You trying to tell me I owe you my life?
+
+;0x5CA8B107=F2_A_LA
+0x5CA8B107=F2_A_LA
+
+;0x5D269730=F2_BF
+0x5D269730=F2_BF
+
+;0x5E17EAE2=100
+0x5E17EAE2=100
+
+;0x5E423DD6=F2_TK
+0x5E423DD6=F2_TK
+
+;0x5F9325C3=~z~Don't fuck around in here.
+0x5F9325C3=~z~Don't fuck around in here.
+
+;0x600891B4=F2_BH
+0x600891B4=F2_BH
+
+;0x60C01099=~z~I'm just in this for the bitches, I don't wanna get hurt! Please. Please. Come on.
+0x60C01099=~z~I'm just in this for the bitches, I don't wanna get hurt! Please. Please. Come on.
+
+;0x6229DDAE=~z~Wasn't always like this though. Things got to him.
+0x6229DDAE=~z~Wasn't always like this though. Things got to him.
+
+;0x62E374B7=~z~I got some bad news, Mr. Faustin. Dimitri's gone.
+0x62E374B7=~z~I got some bad news, Mr. Faustin. Dimitri's gone.
+
+;0x64073C28=~z~Please, go get us some wheels. I haven't the energy.
+0x64073C28=~z~Please, go get us some wheels. I haven't the energy.
+
+;0x64F134F1=F2_HE
+0x64F134F1=F2_HE
+
+;0x6578E44C=~z~Taking a bite of this pie would be very profitable for our operation.
+0x6578E44C=~z~Taking a bite of this pie would be very profitable for our operation.
+
+;0x66884830=~z~Shit, he'll be outta action for a couple a weeks.
+0x66884830=~z~Shit, he'll be outta action for a couple a weeks.
+
+;0x67B55D3B=~z~There is no room for two maniacs in our operation.
+0x67B55D3B=~z~There is no room for two maniacs in our operation.
+
+;0x68E0332C=~z~take a couple of these...
+0x68E0332C=~z~take a couple of these...
+
+;0x68F627BD=F2_LA
+0x68F627BD=F2_LA
+
+;0x692AA3DD=~z~~c~Shit! Mikhail... Mikhail?
+0x692AA3DD=~z~~c~Shit! Mikhail... Mikhail?
+
+;0x6A3527D4=F2_ZE
+0x6A3527D4=F2_ZE
+
+;0x6A4CD36E=100010100100100010100
+0x6A4CD36E=100010100100100010100
+
+;0x6ABAEC53=~z~Mikhail is not most people. He was a great man.
+0x6ABAEC53=~z~Mikhail is not most people. He was a great man.
+
+;0x6AE9AC7F=~z~Fuck you all.
+0x6AE9AC7F=~z~Fuck you all.
+
+;0x6BB76249=~z~My judgment. That's a good one.
+0x6BB76249=~z~My judgment. That's a good one.
+
+;0x6D47B167=~z~I'm special. I'm different.
+0x6D47B167=~z~I'm special. I'm different.
+
+;0x6D61EDA7=~z~I take it you won't be joining us?
+0x6D61EDA7=~z~I take it you won't be joining us?
+
+;0x6DBB134B=~z~It's underground. A backroom place. There are a few around the city.
+0x6DBB134B=~z~It's underground. A backroom place. There are a few around the city.
+
+;0x6E1A6EED=~z~Screw you, we're seeing a friend of mine who's got a good line on weapons.
+0x6E1A6EED=~z~Screw you, we're seeing a friend of mine who's got a good line on weapons.
+
+;0x6E252D28=F2_ZC
+0x6E252D28=F2_ZC
+
+;0x6E28BEE1=~z~I run things my way,
+0x6E28BEE1=~z~I run things my way,
+
+;0x6ED13EEA=~z~Mikhail gets a taste of any money that gets made in Hove Beach.
+0x6ED13EEA=~z~Mikhail gets a taste of any money that gets made in Hove Beach.
+
+;0x6F9CEF5C=~z~Fuck! You're lucky Roman don't try to make you kill someone every two seconds.
+0x6F9CEF5C=~z~Fuck! You're lucky Roman don't try to make you kill someone every two seconds.
+
+;0x6FDF73CC=F2_A_FB
+0x6FDF73CC=F2_A_FB
+
+;0x70897A3B=400100
+0x70897A3B=400100
+
+;0x713BFAB9=F2_A_KA
+0x713BFAB9=F2_A_KA
+
+;0x71912DFA=010010100100100010100100010100010
+0x71912DFA=010010100100100010100100010100010
+
+;0x71EDB2F4=~z~Hey man, please? Go easy on me. Come on, big guy?
+0x71EDB2F4=~z~Hey man, please? Go easy on me. Come on, big guy?
+
+;0x7213456E=~z~It doesn't matter that it's online.
+0x7213456E=~z~It doesn't matter that it's online.
+
+;0x749F9833=~z~Dimitri... dead? How? This is impossible.
+0x749F9833=~z~Dimitri... dead? How? This is impossible.
+
+;0x7526E61C=F2_A_AB
+0x7526E61C=F2_A_AB
+
+;0x754665AC=~z~Alright, alright already. Brett was just trying to be friendly.
+0x754665AC=~z~Alright, alright already. Brett was just trying to be friendly.
+
+;0x75BB895E=SFX_PAUSE_2000
+0x75BB895E=SFX_PAUSE_2000
+
+;0x75BDC6A2=~z~No, I'm not. I was trying to tell you,
+0x75BDC6A2=~z~No, I'm not. I was trying to tell you,
+
+;0x75C655C7=~z~Here, in Liberty City, there is no such thing as the Ammu-Nation.
+0x75C655C7=~z~Here, in Liberty City, there is no such thing as the Ammu-Nation.
+
+;0x75FAE58C=F2_A_AM
+0x75FAE58C=F2_A_AM
+
+;0x76E1D077=~z~I fucking love you...
+0x76E1D077=~z~I fucking love you...
+
+;0x7750A237=010100100
+0x7750A237=010100100
+
+;0x775B2A3F=~z~I'll take this one. Charge Mr. Faustin.
+0x775B2A3F=~z~I'll take this one. Charge Mr. Faustin.
+
+;0x78AF618C=F2_A_AJ
+0x78AF618C=F2_A_AJ
+
+;0x78E5B689=F2_YB
+0x78E5B689=F2_YB
+
+;0x7BBE7CC9=100
+0x7BBE7CC9=100
+
+;0x7BC2DF66=F2_A_EA
+0x7BC2DF66=F2_A_EA
+
+;0x7C261FE7=~z~that a man like you could be more useful to us alive than dead.
+0x7C261FE7=~z~that a man like you could be more useful to us alive than dead.
+
+;0x7C3BE53A=~z~Thank you for your help, Niko. Come to see us at the club soon. Mikhail will be cool by then.
+0x7C3BE53A=~z~Thank you for your help, Niko. Come to see us at the club soon. Mikhail will be cool by then.
+
+;0x7D75C262=F2_JC
+0x7D75C262=F2_JC
+
+;0x7D7B3F47=~z~Yeah, you will. Especially since you got rid of Vlad, our fucking debt collector.
+0x7D7B3F47=~z~Yeah, you will. Especially since you got rid of Vlad, our fucking debt collector.
+
+;0x7DD50AF0=~z~Do you think that I am not to be obeyed? Come back to see me.
+0x7DD50AF0=~z~Do you think that I am not to be obeyed? Come back to see me.
+
+;0x7E9E2B7F=~z~Mr. Faustin, I couldn't do what you wanted me to.
+0x7E9E2B7F=~z~Mr. Faustin, I couldn't do what you wanted me to.
+
+;0x7EC61040=~z~I want to buy you a present.
+0x7EC61040=~z~I want to buy you a present.
+
+;0x7F1E5FA8=~z~Here,
+0x7F1E5FA8=~z~Here,
+
+;0x7F7555C2=~z~You don't know what I can do.
+0x7F7555C2=~z~You don't know what I can do.
+
+;0x8000B7D6=~z~Useful if you know about them.
+0x8000B7D6=~z~Useful if you know about them.
+
+;0x802EC4DE=F2_UI
+0x802EC4DE=F2_UI
+
+;0x80DE41D1=F2_CD
+0x80DE41D1=F2_CD
+
+;0x82BA9053=~z~Lay off that stuff.
+0x82BA9053=~z~Lay off that stuff.
+
+;0x82D0176B=~z~Let me guess, in a prison camp in Siberia.
+0x82D0176B=~z~Let me guess, in a prison camp in Siberia.
+
+;0x8307CF9D=~z~The shop is just down that alleyway.
+0x8307CF9D=~z~The shop is just down that alleyway.
+
+;0x831518E6=~z~Guns don't seem that controlled. I seen plenty and I just got here.
+0x831518E6=~z~Guns don't seem that controlled. I seen plenty and I just got here.
+
+;0x84398AFC=F2_UL
+0x84398AFC=F2_UL
+
+;0x85C16CCA=~z~Am I helping pick out a porno for you? I think you know best what you like.
+0x85C16CCA=~z~Am I helping pick out a porno for you? I think you know best what you like.
+
+;0x85CF7ACC=F2_A_AN
+0x85CF7ACC=F2_A_AN
+
+;0x863147EB=~z~You fuckin' Ruskies are milking me dry. I ain't a cow.
+0x863147EB=~z~You fuckin' Ruskies are milking me dry. I ain't a cow.
+
+;0x863EE794=F2_A_AD
+0x863EE794=F2_A_AD
+
+;0x8685D158=F2_CA
+0x8685D158=F2_CA
+
+;0x87743DDC=~z~Come see me and explain.
+0x87743DDC=~z~Come see me and explain.
+
+;0x88206F69=F2_UE
+0x88206F69=F2_UE
+
+;0x88AB2BC7=100
+0x88AB2BC7=100
+
+;0x88D7246A=~z~The Mayor has a real hard-on for gun control.
+0x88D7246A=~z~The Mayor has a real hard-on for gun control.
+
+;0x89E8BB6C=~z~It was very difficult for me to persuade him
+0x89E8BB6C=~z~It was very difficult for me to persuade him
+
+;0x89F8737A=F2_ZB
+0x89F8737A=F2_ZB
+
+;0x8D0FFB8B=~z~I'm saying be calm.
+0x8D0FFB8B=~z~I'm saying be calm.
+
+;0x8F9CAE7F=~z~You are testing my patience, Bellic.
+0x8F9CAE7F=~z~You are testing my patience, Bellic.
+
+;0x8FC4C25F=100
+0x8FC4C25F=100
+
+;0x90B07838=~z~This is my show.
+0x90B07838=~z~This is my show.
+
+;0x90D3CFEA=~z~I got carried away and fired all my bullets. Sorry.
+0x90D3CFEA=~z~I got carried away and fired all my bullets. Sorry.
+
+;0x90FDB3C6=~z~Where we would be now if I was calm like you?
+0x90FDB3C6=~z~Where we would be now if I was calm like you?
+
+;0x914DDA70=~z~Yeah, could be. Depends how things go for me while I'm here.
+0x914DDA70=~z~Yeah, could be. Depends how things go for me while I'm here.
+
+;0x917B8B8D=F2_FB
+0x917B8B8D=F2_FB
+
+;0x9181046D=~z~I'm not saying don't run things your way.
+0x9181046D=~z~I'm not saying don't run things your way.
+
+;0x93030CEA=~z~What the fuck are you doing?
+0x93030CEA=~z~What the fuck are you doing?
+
+;0x9326B68E=F2_US
+0x9326B68E=F2_US
+
+;0x9328C5BD=F2_VB
+0x9328C5BD=F2_VB
+
+;0x937762E7=F2_CM
+0x937762E7=F2_CM
+
+;0x93BE1116=~z~Niko, take this and cover Joseph.
+0x93BE1116=~z~Niko, take this and cover Joseph.
+
+;0x93EDE364=~z~I ain't Russian.
+0x93EDE364=~z~I ain't Russian.
+
+;0x94210989=~z~Mikhail said something about men suffering. That sounds like some sick shit.
+0x94210989=~z~Mikhail said something about men suffering. That sounds like some sick shit.
+
+;0x95A53DFE=~z~Will you wrap it up and put a pretty bow on it?
+0x95A53DFE=~z~Will you wrap it up and put a pretty bow on it?
+
+;0x95D81038=F2_UK
+0x95D81038=F2_UK
+
+;0x95D8368E=~z~Thank you.
+0x95D8368E=~z~Thank you.
+
+;0x973A05DF=F2_KB
+0x973A05DF=F2_KB
+
+;0x973AED11=~z~Drive us to Mr. Faustin's.
+0x973AED11=~z~Drive us to Mr. Faustin's.
+
+;0x973F1A8F=F2_QA
+0x973F1A8F=F2_QA
+
+;0x9773397A=~z~Fuck, why couldn't you make this easy? We're out of here, Niko.
+0x9773397A=~z~Fuck, why couldn't you make this easy? We're out of here, Niko.
+
+;0x9830D28B=~z~Don't kill me. I got a load of desperate fans on the internet.
+0x9830D28B=~z~Don't kill me. I got a load of desperate fans on the internet.
+
+;0x98655865=~z~Once he learns to control his bowels again he will be good.
+0x98655865=~z~Once he learns to control his bowels again he will be good.
+
+;0x98759741=F2_FD
+0x98759741=F2_FD
+
+;0x9920A3C5=F2_A_BA
+0x9920A3C5=F2_A_BA
+
+;0x9A00E244=~z~You are testing my patience, Bellic.
+0x9A00E244=~z~You are testing my patience, Bellic.
+
+;0x9B0ABBEA=F2_UH
+0x9B0ABBEA=F2_UH
+
+;0x9B43C852=~z~You need to calm down.
+0x9B43C852=~z~You need to calm down.
+
+;0x9C4A43A7=~z~Shoot him in the fucking leg, Niko.
+0x9C4A43A7=~z~Shoot him in the fucking leg, Niko.
+
+;0x9D586191=310310100100
+0x9D586191=310310100100
+
+;0x9D5ADAD0=SFX_RP11_ROMANS_SORROW_RINGING
+0x9D5ADAD0=SFX_RP11_ROMANS_SORROW_RINGING
+
+;0x9D719E92=~z~All alone.
+0x9D719E92=~z~All alone.
+
+;0x9E70982A=F2_MA
+0x9E70982A=F2_MA
+
+;0x9EB3618B=100100100010100
+0x9EB3618B=100100100010100
+
+;0x9FABA0C2=~z~Or I fucking kill you!
+0x9FABA0C2=~z~Or I fucking kill you!
+
+;0xA03097A7=F2_BE
+0xA03097A7=F2_BE
+
+;0xA1262914=F2_UB
+0xA1262914=F2_UB
+
+;0xA27ACFD3=~z~Why?
+0xA27ACFD3=~z~Why?
+
+;0xA2A7865F=F2_UV
+0xA2A7865F=F2_UV
+
+;0xA37C7ECD=~z~I might run into someone I want to shoot.
+0xA37C7ECD=~z~I might run into someone I want to shoot.
+
+;0xA4D68185=~z~As long as that someone is not me or Mikhail, then all is good.
+0xA4D68185=~z~As long as that someone is not me or Mikhail, then all is good.
+
+;0xA521666C=F2_A_AH
+0xA521666C=F2_A_AH
+
+;0xA553B441=~z~If it wasn't for that, I'd say this weren't worth transferring to DVD.
+0xA553B441=~z~If it wasn't for that, I'd say this weren't worth transferring to DVD.
+
+;0xA5F103B2=F2_UA
+0xA5F103B2=F2_UA
+
+;0xA5F7C8F9=F2_A_AG
+0xA5F7C8F9=F2_A_AG
+
+;0xA633AB69=F2_BD
+0xA633AB69=F2_BD
+
+;0xA666291B=F2_BA
+0xA666291B=F2_BA
+
+;0xA821DB72=~z~Shut this dickhead up, Niko.
+0xA821DB72=~z~Shut this dickhead up, Niko.
+
+;0xA88DC8EF=100
+0xA88DC8EF=100
+
+;0xA979E4BE=~z~Always so fucked up on painkillers you don't give shit?
+0xA979E4BE=~z~Always so fucked up on painkillers you don't give shit?
+
+;0xA9C31EA2=F2_CC
+0xA9C31EA2=F2_CC
+
+;0xA9D6FD94=100
+0xA9D6FD94=100
+
+;0xAA97B7E2=~z~ -I know this.~n~-Yeah.
+0xAA97B7E2=~z~ -I know this.~n~-Yeah.
+
+;0xAB02A795=~z~Remind Faustin of that, maybe then he will not try to kill me.
+0xAB02A795=~z~Remind Faustin of that, maybe then he will not try to kill me.
+
+;0xAB2125C9=010100100
+0xAB2125C9=010100100
+
+;0xAB373A1D=~z~When I have to push people, it's "me".
+0xAB373A1D=~z~When I have to push people, it's "me".
+
+;0xABF98641=~z~Do you think that I am not to be obeyed? Come back to see me.
+0xABF98641=~z~Do you think that I am not to be obeyed? Come back to see me.
+
+;0xAC8BF81E=F2_SA
+0xAC8BF81E=F2_SA
+
+;0xAECCB08F=F2_RG
+0xAECCB08F=F2_RG
+
+;0xAFBB9797=100100
+0xAFBB9797=100100
+
+;0xB03615A5=F2_A_GB
+0xB03615A5=F2_A_GB
+
+;0xB05EA51D=~z~Shit, well now it looks like you got me to settle your business.
+0xB05EA51D=~z~Shit, well now it looks like you got me to settle your business.
+
+;0xB0CECB37=~z~That's a vintage bush.
+0xB0CECB37=~z~That's a vintage bush.
+
+;0xB2D0E0C0=~z~Cleaned us out.
+0xB2D0E0C0=~z~Cleaned us out.
+
+;0xB5115106=~z~A freak like you should get neutered.
+0xB5115106=~z~A freak like you should get neutered.
+
+;0xB51A4101=010010100100
+0xB51A4101=010010100100
+
+;0xB55BFD73=~z~And now you'll know where to get them for yourself, what's the problem?
+0xB55BFD73=~z~And now you'll know where to get them for yourself, what's the problem?
+
+;0xB58B05AF=100010010090100100100100100010100100010010100100010100100010
+0xB58B05AF=100010010090100100100100100010100100010010100100010100100010
+
+;0xB5C4F6B8=~z~Come on, Niko. Put a cap in his fucking leg.
+0xB5C4F6B8=~z~Come on, Niko. Put a cap in his fucking leg.
+
+;0xB5F5CD56=~z~Get out of my sight!
+0xB5F5CD56=~z~Get out of my sight!
+
+;0xB6504F53=~z~Yes, yes.
+0xB6504F53=~z~Yes, yes.
+
+;0xB68DFEEA=~z~That's the way it works. I am angry, you are calm.
+0xB68DFEEA=~z~That's the way it works. I am angry, you are calm.
+
+;0xB6B1C926=~z~I hope it don't get to me.
+0xB6B1C926=~z~I hope it don't get to me.
+
+;0xB6BE2391=F2_A_GA
+0xB6BE2391=F2_A_GA
+
+;0xB6FCD080=F2_XA
+0xB6FCD080=F2_XA
+
+;0xB7182608=~z~With a gun you will stay protected, that is the important thing.
+0xB7182608=~z~With a gun you will stay protected, that is the important thing.
+
+;0xB955ED96=060600060
+0xB955ED96=060600060
+
+;0xB9AC7B41=F2_OA
+0xB9AC7B41=F2_OA
+
+;0xB9AFA46A=~z~Shoot this scumbag in the leg.
+0xB9AFA46A=~z~Shoot this scumbag in the leg.
+
+;0xBA0D57C9=~z~When I give out the money, it's "us".
+0xBA0D57C9=~z~When I give out the money, it's "us".
+
+;0xBA58029F=100
+0xBA58029F=100
+
+;0xBB4257CB=~z~Funny. That ain't it. These guys are making the shit loads of cash,
+0xBB4257CB=~z~Funny. That ain't it. These guys are making the shit loads of cash,
+
+;0xBB8F823B=~z~Where's your boss?
+0xBB8F823B=~z~Where's your boss?
+
+;0xBCBB9BA0=~z~I'm special, I'm gonna be a star. Don't hurt me. A big, big star!
+0xBCBB9BA0=~z~I'm special, I'm gonna be a star. Don't hurt me. A big, big star!
+
+;0xBE0B664C=~z~We're going to a gun shop.
+0xBE0B664C=~z~We're going to a gun shop.
+
+;0xBE26FFDE=F2_UU
+0xBE26FFDE=F2_UU
+
+;0xC0020818=F2_UT
+0xC0020818=F2_UT
+
+;0xC24A9B59=~z~I think you are safe. For the moment at least.
+0xC24A9B59=~z~I think you are safe. For the moment at least.
+
+;0xC2AD6EF4=~z~ -Woah, woah... ~n~-and we won't know about it, huh?
+0xC2AD6EF4=~z~ -Woah, woah... ~n~-and we won't know about it, huh?
+
+;0xC3A568C5=~z~I said get out of my sight!
+0xC3A568C5=~z~I said get out of my sight!
+
+;0xC4229A0F=~z~You be careful... you're getting crazy.
+0xC4229A0F=~z~You be careful... you're getting crazy.
+
+;0xC42969BD=~z~Dimitri Rascalov. My fucking way!
+0xC42969BD=~z~Dimitri Rascalov. My fucking way!
+
+;0xC48DEBCE=~z~I fucking love you.
+0xC48DEBCE=~z~I fucking love you.
+
+;0xC6B153EE=F2_A_GB
+0xC6B153EE=F2_A_GB
+
+;0xC74719A6=~z~Fuck...
+0xC74719A6=~z~Fuck...
+
+;0xC7B00739=~z~Silence this punk, Niko.
+0xC7B00739=~z~Silence this punk, Niko.
+
+;0xC7B6F0B4=~z~and we ain't seein' any of it.
+0xC7B6F0B4=~z~and we ain't seein' any of it.
+
+;0xC7C9F342=~z~Strange.
+0xC7C9F342=~z~Strange.
+
+;0xC863489E=~z~Yes, you're right. It looks like I need to protect myself and my cousin in this place.
+0xC863489E=~z~Yes, you're right. It looks like I need to protect myself and my cousin in this place.
+
+;0xC8870853=F2_A_AF
+0xC8870853=F2_A_AF
+
+;0xC913790A=~z~They breed 'em funny where you're from.
+0xC913790A=~z~They breed 'em funny where you're from.
+
+;0xC9193EA5=F2_WB
+0xC9193EA5=F2_WB
+
+;0xCA0AB63E=~z~I got something special in these pants, I need to show it to the world.
+0xCA0AB63E=~z~I got something special in these pants, I need to show it to the world.
+
+;0xCAC2468F=~z~Listen, big guy. You got a great look going on, real strong. We could put you in one of our films.
+0xCAC2468F=~z~Listen, big guy. You got a great look going on, real strong. We could put you in one of our films.
+
+;0xCBC05D1D=F2_YA
+0xCBC05D1D=F2_YA
+
+;0xCC71027B=~z~ -Then we was gonna cut you in.~n~-Your books are closed until you pay us our cut.
+0xCC71027B=~z~ -Then we was gonna cut you in.~n~-Your books are closed until you pay us our cut.
+
+;0xCCF3F05E=F2_KA
+0xCCF3F05E=F2_KA
+
+;0xCCF68426=~z~Ammu-Nation, right? Shopping carts full of AK47s...
+0xCCF68426=~z~Ammu-Nation, right? Shopping carts full of AK47s...
+
+;0xCF00DBE5=~z~We ain't making that much cash.
+0xCF00DBE5=~z~We ain't making that much cash.
+
+;0xCF368217=~z~I've angered people?
+0xCF368217=~z~I've angered people?
+
+;0xD0B8C90B=~z~You got to remember, you killed Vlad. That angered Mikhail no matter what he said.
+0xD0B8C90B=~z~You got to remember, you killed Vlad. That angered Mikhail no matter what he said.
+
+;0xD0F528F6=F2_UR
+0xD0F528F6=F2_UR
+
+;0xD0FA31FD=~z~Get some transport and take us to Dillon Street in Schottler.
+0xD0FA31FD=~z~Get some transport and take us to Dillon Street in Schottler.
+
+;0xD1C30638=~z~Look, we have to go.
+0xD1C30638=~z~Look, we have to go.
+
+;0xD24EED27=F2_JD
+0xD24EED27=F2_JD
+
+;0xD2AB0904=~z~Not "we".
+0xD2AB0904=~z~Not "we".
+
+;0xD2EBB7A1=~z~Be careful, Dimitri. Be fucking careful.
+0xD2EBB7A1=~z~Be careful, Dimitri. Be fucking careful.
+
+;0xD31FB120=~z~Hey.
+0xD31FB120=~z~Hey.
+
+;0xD385E1A9=F2_HB
+0xD385E1A9=F2_HB
+
+;0xD43BFA07=~z~now he is dead. I guess that that is why we need your help.
+0xD43BFA07=~z~now he is dead. I guess that that is why we need your help.
+
+;0xD4614CE4=F2_RA
+0xD4614CE4=F2_RA
+
+;0xD52C85E2=F2_BI
+0xD52C85E2=F2_BI
+
+;0xD579360A=~z~Get out of the way.
+0xD579360A=~z~Get out of the way.
+
+;0xD65BB8FA=F2_AA
+0xD65BB8FA=F2_AA
+
+;0xD6BF782B=~z~I told you to shoot him in the leg. It matters little. Let's get out of here.
+0xD6BF782B=~z~I told you to shoot him in the leg. It matters little. Let's get out of here.
+
+;0xD6F5A5C4=~z~I'm fucking big time, bitches. I'm gonna be a star.
+0xD6F5A5C4=~z~I'm fucking big time, bitches. I'm gonna be a star.
+
+;0xD70A17A5=F2_FA
+0xD70A17A5=F2_FA
+
+;0xD89F4DCC=F2_A_HC
+0xD89F4DCC=F2_A_HC
+
+;0xD94AFC22=~z~Pick out what you like. Tell them to put it on Mr. Faustin's account.
+0xD94AFC22=~z~Pick out what you like. Tell them to put it on Mr. Faustin's account.
+
+;0xDA294734=~z~People forget pain so quickly.
+0xDA294734=~z~People forget pain so quickly.
+
+;0xDA9DED13=~z~Do not fear. You no longer need to protect yourself from myself and Mikhail.
+0xDA9DED13=~z~Do not fear. You no longer need to protect yourself from myself and Mikhail.
+
+;0xDAFA1459=F2_A_AC
+0xDAFA1459=F2_A_AC
+
+;0xDC8C2D41=510100500
+0xDC8C2D41=510100500
+
+;0xDCE38363=~z~You are the one who should be taking Dimitri's sedatives, not me.
+0xDCE38363=~z~You are the one who should be taking Dimitri's sedatives, not me.
+
+;0xDCFBC47E=~z~This is a mess, let's get out of here.
+0xDCFBC47E=~z~This is a mess, let's get out of here.
+
+;0xDD2C212B=~z~Great.
+0xDD2C212B=~z~Great.
+
+;0xDD709EFC=400400400400400400
+0xDD709EFC=400400400400400400
+
+;0xDDFCC68C=~z~Joseph, I thought you were a better businessman than this. We go, Niko.
+0xDDFCC68C=~z~Joseph, I thought you were a better businessman than this. We go, Niko.
+
+;0xDEAA278D=~z~Hey, I heard about these. Big American Supermarket where you can buy any gun you want.
+0xDEAA278D=~z~Hey, I heard about these. Big American Supermarket where you can buy any gun you want.
+
+;0xDEAEA6F6=~z~We was just waiting 'til the books was closed at the end of the financial year.
+0xDEAEA6F6=~z~We was just waiting 'til the books was closed at the end of the financial year.
+
+;0xDF244CE5=100010010100010100100100010100100100100010
+0xDF244CE5=100010010100010100100100010100100100100010
+
+;0xDFE9A285=~z~You're getting delusional.
+0xDFE9A285=~z~You're getting delusional.
+
+;0xDFF24B00=~z~In the back?
+0xDFF24B00=~z~In the back?
+
+;0xE04695A6=F2_RF
+0xE04695A6=F2_RF
+
+;0xE0A55314=~z~Or selling hash to tourists in Red Square, or still in the navy? Which is it today?
+0xE0A55314=~z~Or selling hash to tourists in Red Square, or still in the navy? Which is it today?
+
+;0xE0B73C27=F2_A_AE
+0xE0B73C27=F2_A_AE
+
+;0xE3EF7F6E=600
+0xE3EF7F6E=600
+
+;0xE576F287=~z~I guess Roman's real lucky then. I wonder what big favor Faustin's gonna do for him next?
+0xE576F287=~z~I guess Roman's real lucky then. I wonder what big favor Faustin's gonna do for him next?
+
+;0xE5BDAF25=~z~if we don't start playing by the rules.
+0xE5BDAF25=~z~if we don't start playing by the rules.
+
+;0xE742DF49=F2_A_CA
+0xE742DF49=F2_A_CA
+
+;0xE7F3DAC4=~z~Come in.
+0xE7F3DAC4=~z~Come in.
+
+;0xE86D3488=~z~Me?
+0xE86D3488=~z~Me?
+
+;0xE887620E=F2_A_FC
+0xE887620E=F2_A_FC
+
+;0xE9394481=F2_A_IA
+0xE9394481=F2_A_IA
+
+;0xE9FA9278=F2_CL
+0xE9FA9278=F2_CL
+
+;0xEAC0609C=~z~What do ya mean? He's uh...
+0xEAC0609C=~z~What do ya mean? He's uh...
+
+;0xEACE687E=~z~Make him suffer.
+0xEACE687E=~z~Make him suffer.
+
+;0xEACEF7D2=~z~I can't die today. I'm special. I'm really special. I can show you...
+0xEACEF7D2=~z~I can't die today. I'm special. I'm really special. I can show you...
+
+;0xEAEB1393=100100010100100100010100100010
+0xEAEB1393=100100010100100100010100100010
+
+;0xEAED8581=F2_WA
+0xEAED8581=F2_WA
+
+;0xEC6017A0=F2_IA
+0xEC6017A0=F2_IA
+
+;0xED4E7CC5=~z~Please don't hurt me, I'm an actor.
+0xED4E7CC5=~z~Please don't hurt me, I'm an actor.
+
+;0xEDA43669=~z~Pleased to be of use.
+0xEDA43669=~z~Pleased to be of use.
+
+;0xEE55311E=F2_ZD
+0xEE55311E=F2_ZD
+
+;0xEF261C2F=~z~Is that a fact? Maybe we can't pop you, Joseph. But we can fuck up one of your boys.
+0xEF261C2F=~z~Is that a fact? Maybe we can't pop you, Joseph. But we can fuck up one of your boys.
+
+;0xEF3127FE=~z~I hurt the guy who works there.
+0xEF3127FE=~z~I hurt the guy who works there.
+
+;0xF02AC197=~z~I'll keep that in mind.
+0xF02AC197=~z~I'll keep that in mind.
+
+;0xF1E24DFD=~z~That is another part of America.
+0xF1E24DFD=~z~That is another part of America.
+
+;0xF1EC2BD3=F2_CJ
+0xF1EC2BD3=F2_CJ
+
+;0xF2FF9952=F2_BJ
+0xF2FF9952=F2_BJ
+
+;0xF3BF80DB=~z~I got no problem with sparing some lives.
+0xF3BF80DB=~z~I got no problem with sparing some lives.
+
+;0xF4DB5657=F2_HD
+0xF4DB5657=F2_HD
+
+;0xF78CD04F=F2_GA
+0xF78CD04F=F2_GA
+
+;0xF8745FC9=F2_HF
+0xF8745FC9=F2_HF
+
+;0xFA08320D=F2_HA
+0xFA08320D=F2_HA
+
+;0xFABE187D=F2_RB
+0xFABE187D=F2_RB
+
+;0xFB09D8C5=~z~After all we've done together...
+0xFB09D8C5=~z~After all we've done together...
+
+;0xFCFCC108=F2_CF
+0xFCFCC108=F2_CF
+
+;0xFE97E5AD=F2_YF
+0xFE97E5AD=F2_YF
+
+;0xFF8CE952=~z~I might buy flame-thrower.
+0xFF8CE952=~z~I might buy flame-thrower.
+

@@ -1,0 +1,46 @@
+﻿[KILLBOX]
+;0x1BFCDB89=Lose your wanted level.
+0x1BFCDB89=Lose your wanted level.
+
+;0x33AA1E0E=~r~Oleg~s~ is getting away. Take him down.
+0x33AA1E0E=~r~Oleg~s~ is getting away. Take him down.
+
+;0x33C58A5A=Get a vehicle.
+0x33C58A5A=Get a vehicle.
+
+;0x37D42E68=Keep up. You're losing ~r~Oleg.
+0x37D42E68=Keep up. You're losing ~r~Oleg.
+
+;0x42A1BBFD=Get a vehicle and go to the ~y~jewelry store.
+0x42A1BBFD=Get a vehicle and go to the ~y~jewelry store.
+
+;0x4611CAE3=Go back and eliminate ~r~Oleg.
+0x4611CAE3=Go back and eliminate ~r~Oleg.
+
+;0x46C0C43B=Check the ~y~computer~s~ for information.
+0x46C0C43B=Check the ~y~computer~s~ for information.
+
+;0x550560C4=Go to ~y~Oleg's apartment~s~ in Hove Beach.
+0x550560C4=Go to ~y~Oleg's apartment~s~ in Hove Beach.
+
+;0x5C065F34=This route is blocked, back up and go around.
+0x5C065F34=This route is blocked, back up and go around.
+
+;0x67EC9DC2=Search Oleg's emails, try to find information on his location.
+0x67EC9DC2=Search Oleg's emails, try to find information on his location.
+
+;0x6B8F0DD7=Eliminate ~r~Oleg.
+0x6B8F0DD7=Eliminate ~r~Oleg.
+
+;0x7938A92A=Ram ~r~Oleg's car~s~ off the road.
+0x7938A92A=Ram ~r~Oleg's car~s~ off the road.
+
+;0x7944C072=You found the information, now exit the computer.
+0x7944C072=You found the information, now exit the computer.
+
+;0x95D34232=~r~Oleg got away.~s~
+0x95D34232=~r~Oleg got away.~s~
+
+;0xB654C4C1=Go to the ~y~jewelry store.
+0xB654C4C1=Go to the ~y~jewelry store.
+

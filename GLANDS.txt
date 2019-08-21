@@ -1,0 +1,100 @@
+﻿[GLANDS]
+;0x058C652A=Worked in war-torn areas to assist those most badly affected. Settled vital disputes with clinical and decisive action. Compensated for lack of experience with enthusiasm and a willingness to learn.
+0x058C652A=Worked in war-torn areas to assist those most badly affected. Settled vital disputes with clinical and decisive action. Compensated for lack of experience with enthusiasm and a willingness to learn.
+
+;0x076FE7DD=Athletic ability:
+0x076FE7DD=Athletic ability:
+
+;0x119D7C2C=Interests:
+0x119D7C2C=Interests:
+
+;0x12827F22=Intern
+0x12827F22=Intern
+
+;0x1437BAE4=To rise to the top of my profession in Liberty City.
+0x1437BAE4=To rise to the top of my profession in Liberty City.
+
+;0x154F039B=MA International Relations
+0x154F039B=MA International Relations
+
+;0x2097D3A0=Career Objective:
+0x2097D3A0=Career Objective:
+
+;0x31AC3C55=1st Class Degree
+0x31AC3C55=1st Class Degree
+
+;0x3C79D310=Associate Attorney
+0x3C79D310=Associate Attorney
+
+;0x3F48F84E=SUBMIT RESUME
+0x3F48F84E=SUBMIT RESUME
+
+;0x3FE4D8C6=Blue for Boxing.
+0x3FE4D8C6=Blue for Boxing.
+
+;0x4CC6F28A=Skills:
+0x4CC6F28A=Skills:
+
+;0x56473F02=RESUME OF NIKO BELLIC
+0x56473F02=RESUME OF NIKO BELLIC
+
+;0x74FF77C1=Thank You for submitting your resume, we will call you ASAP with further details.
+0x74FF77C1=Thank You for submitting your resume, we will call you ASAP with further details.
+
+;0x877467DC=Bulford University, United Kingdom
+0x877467DC=Bulford University, United Kingdom
+
+;0x9C34127B=Juris Doctor
+0x9C34127B=Juris Doctor
+
+;0x9D214CBD=Dealing with emerging markets in the West Indies, particularly Jamaica and Puerto Rico. Instrumental in the trading of commodities from those emerging markets. Streamlined the company by making difficult but important redundancies.
+0x9D214CBD=Dealing with emerging markets in the West Indies, particularly Jamaica and Puerto Rico. Instrumental in the trading of commodities from those emerging markets. Streamlined the company by making difficult but important redundancies.
+
+;0xA7736161=Mediterranean Shipping Enterprise
+0xA7736161=Mediterranean Shipping Enterprise
+
+;0xAA592EC5=Vespucci University School of Law
+0xAA592EC5=Vespucci University School of Law
+
+;0xB9DC89F3=World affairs. Importing and exporting goods. Free market competition.
+0xB9DC89F3=World affairs. Importing and exporting goods. Free market competition.
+
+;0xC086DB20=Captain of the Shooting Team
+0xC086DB20=Captain of the Shooting Team
+
+;0xC2BF17F4=Partner
+0xC2BF17F4=Partner
+
+;0xCB2A28CA=Involvement in Criminal Law particularly cases of manslaughter, homicide, drug dealing, extortion, racketeering, and grand theft auto. Launched, and successfully tried, cases against corrupt individuals including division heads and company C.E.O.s.
+0xCB2A28CA=Involvement in Criminal Law particularly cases of manslaughter, homicide, drug dealing, extortion, racketeering, and grand theft auto. Launched, and successfully tried, cases against corrupt individuals including division heads and company C.E.O.s.
+
+;0xCED4F7BC=Class Rank: Top 1%
+0xCED4F7BC=Class Rank: Top 1%
+
+;0xDC7791ED=People management.
+0xDC7791ED=People management.
+
+;0xE15C9CD7=Balkan Peace Force
+0xE15C9CD7=Balkan Peace Force
+
+;0xE666DF43=Experience:
+0xE666DF43=Experience:
+
+;0xEF4338A4=Drafted immigration documentation and accelerated customs procedures for clients. Worked with many European markets including Balkan states, Italy and Russia.
+0xEF4338A4=Drafted immigration documentation and accelerated customs procedures for clients. Worked with many European markets including Balkan states, Italy and Russia.
+
+;0xF0ACF3CF=Bellic & Bellic, Attorneys at Law
+0xF0ACF3CF=Bellic & Bellic, Attorneys at Law
+
+;0xF5474380=Shooting, boxing, running, swimming to a professional level.
+0xF5474380=Shooting, boxing, running, swimming to a professional level.
+
+;0xF75248B6=Education:
+0xF75248B6=Education:
+
+;0xF958CBAF=Coping with Cultural differences
+0xF958CBAF=Coping with Cultural differences
+
+;0xFCC6712F=Unfortunately at this current time we do not have any free positions.
+0xFCC6712F=Unfortunately at this current time we do not have any free positions.
+

@@ -1,0 +1,211 @@
+﻿[RB5AUD]
+;0x004DA049=~z~Couldn't they make this easy?
+0x004DA049=~z~Couldn't they make this easy?
+
+;0x0297DB56=RB5_YA_XXX1
+0x0297DB56=RB5_YA_XXX1
+
+;0x03C4444F=RB5_BA
+0x03C4444F=RB5_BA
+
+;0x03DDA555=~z~You ain't a biker, asshole - you never will be!
+0x03DDA555=~z~You ain't a biker, asshole - you never will be!
+
+;0x0BE8E7DF=~z~Don't bust my balls. What's the point of talking about things unless they become real?
+0x0BE8E7DF=~z~Don't bust my balls. What's the point of talking about things unless they become real?
+
+;0x0FD84398=~z~well he pays up and he ain't gone state's yet.
+0x0FD84398=~z~well he pays up and he ain't gone state's yet.
+
+;0x1645CC3D=~z~Just great. Fantastic.
+0x1645CC3D=~z~Just great. Fantastic.
+
+;0x170ECDCB=~z~Here we go again.
+0x170ECDCB=~z~Here we go again.
+
+;0x185F135C=RB5_DA
+0x185F135C=RB5_DA
+
+;0x1E6FE0C7=~z~Very funny. Ha, ha.
+0x1E6FE0C7=~z~Very funny. Ha, ha.
+
+;0x22A5933A=010100
+0x22A5933A=010100
+
+;0x22A91DFA=RB5_ZA
+0x22A91DFA=RB5_ZA
+
+;0x29F07FF2=RB5_XA
+0x29F07FF2=RB5_XA
+
+;0x33D97DF7=~z~You were meant to be our messenger.
+0x33D97DF7=~z~You were meant to be our messenger.
+
+;0x364C20B1=~z~Shit, your friends body's gonna be smeared from here to Northwood!
+0x364C20B1=~z~Shit, your friends body's gonna be smeared from here to Northwood!
+
+;0x379CE6B5=~z~Oh no! Your buddy's dead!
+0x379CE6B5=~z~Oh no! Your buddy's dead!
+
+;0x39639CE5=010100100100
+0x39639CE5=010100100100
+
+;0x3A84A321=010100100100
+0x3A84A321=010100100100
+
+;0x3B8F9B0E=~z~So you're the guy who got jumped for a couple million?
+0x3B8F9B0E=~z~So you're the guy who got jumped for a couple million?
+
+;0x3C419C6A=~z~Oh, you mean this guy? He's okay...
+0x3C419C6A=~z~Oh, you mean this guy? He's okay...
+
+;0x4234D7FE=~z~Listen we got a lot of missing money, and we got a problem with these fucking bikers...
+0x4234D7FE=~z~Listen we got a lot of missing money, and we got a problem with these fucking bikers...
+
+;0x4A8CBB98=~z~The other guys is meant to be taking care of him. Don't worry about it, Nicky.
+0x4A8CBB98=~z~The other guys is meant to be taking care of him. Don't worry about it, Nicky.
+
+;0x4DDA3FA3=~z~Yeah. You gonna pop me for it?
+0x4DDA3FA3=~z~Yeah. You gonna pop me for it?
+
+;0x4FFCFA76=RB5_CA
+0x4FFCFA76=RB5_CA
+
+;0x532F736A=102
+0x532F736A=102
+
+;0x55D386B0=090
+0x55D386B0=090
+
+;0x5718AE89=090
+0x5718AE89=090
+
+;0x574D5289=~z~-You sure this guy's alright? You checked him out?~n~-I'm tellin' ya the guy's good.
+0x574D5289=~z~-You sure this guy's alright? You checked him out?~n~-I'm tellin' ya the guy's good.
+
+;0x582F03C2=~z~Even when people forget to tell him about things they're working on...
+0x582F03C2=~z~Even when people forget to tell him about things they're working on...
+
+;0x59C75775=~z~Ha ha... no. I've heard good things. Some aren't friends... but y'know... what are you gonna do?
+0x59C75775=~z~Ha ha... no. I've heard good things. Some aren't friends... but y'know... what are you gonna do?
+
+;0x5D568E15=~z~Otherwise, you and Raymond here got a serious problem.
+0x5D568E15=~z~Otherwise, you and Raymond here got a serious problem.
+
+;0x5FBD7F48=RB5_BC
+0x5FBD7F48=RB5_BC
+
+;0x652442E2=~z~You took something that belonged to my employers.
+0x652442E2=~z~You took something that belonged to my employers.
+
+;0x66A2F134=~z~Hey, here he is right here. Phil, Niko. Niko, Phil.
+0x66A2F134=~z~Hey, here he is right here. Phil, Niko. Niko, Phil.
+
+;0x6810A389=~z~The boss has gotta get paid.
+0x6810A389=~z~The boss has gotta get paid.
+
+;0x6B597A99=~z~You're right... I've been keeping bad company.
+0x6B597A99=~z~You're right... I've been keeping bad company.
+
+;0x7472E17F=~z~Shit, that's the cocksucker that Johnny ripped off for the diamond loot.
+0x7472E17F=~z~Shit, that's the cocksucker that Johnny ripped off for the diamond loot.
+
+;0x816FA95D=~z~I got rid of those bikers for you. Johnny wasn't there though.
+0x816FA95D=~z~I got rid of those bikers for you. Johnny wasn't there though.
+
+;0x880C4434=~z~Was that the uptown J train?
+0x880C4434=~z~Was that the uptown J train?
+
+;0x8851A6EE=~z~I couldn't get all of those bikers, Ray. The message hasn't been sent.
+0x8851A6EE=~z~I couldn't get all of those bikers, Ray. The message hasn't been sent.
+
+;0x8B956A92=~z~Sure.
+0x8B956A92=~z~Sure.
+
+;0x8FCC9832=~z~Ha! Let's do this!
+0x8FCC9832=~z~Ha! Let's do this!
+
+;0x96DC322C=RB5_EA
+0x96DC322C=RB5_EA
+
+;0x98914EC2=~z~How you doing back there, asshole?
+0x98914EC2=~z~How you doing back there, asshole?
+
+;0xA1061573=~z~maybe you can deal with the bikers. Calm them down.
+0xA1061573=~z~maybe you can deal with the bikers. Calm them down.
+
+;0xA22861F0=~z~I hope you're enjoying yourself.
+0xA22861F0=~z~I hope you're enjoying yourself.
+
+;0xA5FE9C04=~z~-Nothing... I mean come on, you're a guy who knows what's what...~n~-Yeah, yeah, yeah, okay.
+0xA5FE9C04=~z~-Nothing... I mean come on, you're a guy who knows what's what...~n~-Yeah, yeah, yeah, okay.
+
+;0xA9941404=RB5_BB
+0xA9941404=RB5_BB
+
+;0xB104B570=~z~They're causing trouble on the corner of Vauxite and Exeter.
+0xB104B570=~z~They're causing trouble on the corner of Vauxite and Exeter.
+
+;0xB8D6C1B4=~z~Now what the hell does that mean?
+0xB8D6C1B4=~z~Now what the hell does that mean?
+
+;0xBCD41747=~z~You ain't never gonna out ride the Lost biker gang.
+0xBCD41747=~z~You ain't never gonna out ride the Lost biker gang.
+
+;0xBD069053=~z~This thing of ours is only surviving because we send a message when we get fucked with.
+0xBD069053=~z~This thing of ours is only surviving because we send a message when we get fucked with.
+
+;0xBEFC9B94=~z~You've bitten off more than you can chew, dickhead.
+0xBEFC9B94=~z~You've bitten off more than you can chew, dickhead.
+
+;0xC480DC68=~z~Yeah, I nearly got something on that.
+0xC480DC68=~z~Yeah, I nearly got something on that.
+
+;0xC6AE2AFB=~z~You made a mistake following us.
+0xC6AE2AFB=~z~You made a mistake following us.
+
+;0xCA996539=~z~I'm sure you're sure Phil, you of all people.
+0xCA996539=~z~I'm sure you're sure Phil, you of all people.
+
+;0xCF47F1F6=~z~So, we sent some of our boys after the money.
+0xCF47F1F6=~z~So, we sent some of our boys after the money.
+
+;0xD0BA3F0F=~z~Woo hoo! We're riding like real Americans, you ain't!
+0xD0BA3F0F=~z~Woo hoo! We're riding like real Americans, you ain't!
+
+;0xD0D5A736=RB5_AA
+0xD0D5A736=RB5_AA
+
+;0xD2351BE3=~z~Perhaps he was not such a good rider!
+0xD2351BE3=~z~Perhaps he was not such a good rider!
+
+;0xD50EB54C=RB5_EC
+0xD50EB54C=RB5_EC
+
+;0xD96BD512=RB5_CB
+0xD96BD512=RB5_CB
+
+;0xDB0C061A=~z~I'm sure.
+0xDB0C061A=~z~I'm sure.
+
+;0xDC63FBD7=RB5_BD
+0xDC63FBD7=RB5_BD
+
+;0xDC744F2E=~z~Come back to Drusilla's you amateur.
+0xDC744F2E=~z~Come back to Drusilla's you amateur.
+
+;0xE1E60EFC=090
+0xE1E60EFC=090
+
+;0xE4655519=RB5_EB
+0xE4655519=RB5_EB
+
+;0xED4FD218=~z~Well, the big bad biker got his self killed!
+0xED4FD218=~z~Well, the big bad biker got his self killed!
+
+;0xF29DB89D=~z~And I got a problem finding someone.
+0xF29DB89D=~z~And I got a problem finding someone.
+
+;0xF64E6534=~z~Hey, why don't we see if he can keep up with some real American bikers?
+0xF64E6534=~z~Hey, why don't we see if he can keep up with some real American bikers?
+

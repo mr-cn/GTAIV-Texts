@@ -1,0 +1,751 @@
+﻿[GCKK1AU]
+;0x002EEB50=~z~You poor baby, let me give the judge a call and see if we can sort this out. See you soon.
+0x002EEB50=~z~You poor baby, let me give the judge a call and see if we can sort this out. See you soon.
+
+;0x0082AA68=~z~Fine Niko. Just wanted to let you know, I cancelled other plans for you. Just wanted you to know.
+0x0082AA68=~z~Fine Niko. Just wanted to let you know, I cancelled other plans for you. Just wanted you to know.
+
+;0x00A5759B=~z~I'd really like you to take me out.
+0x00A5759B=~z~I'd really like you to take me out.
+
+;0x01B0BBB5=~z~Sure, I'll be there soon.
+0x01B0BBB5=~z~Sure, I'll be there soon.
+
+;0x02BFB948=GCKK_ACT_CALL_REQ_SPEC_NO_POS
+0x02BFB948=GCKK_ACT_CALL_REQ_SPEC_NO_POS
+
+;0x02BFC768=GCKK_ACT_GETCALL_DATE
+0x02BFC768=GCKK_ACT_GETCALL_DATE
+
+;0x0327359C=~z~Hey Kiki.
+0x0327359C=~z~Hey Kiki.
+
+;0x034A7E70=~z~You're seeing things, Kiki. Take some pills, have a hot bath and chill out...
+0x034A7E70=~z~You're seeing things, Kiki. Take some pills, have a hot bath and chill out...
+
+;0x064C10E1=010
+0x064C10E1=010
+
+;0x086AD096=~z~Hey sweetie.
+0x086AD096=~z~Hey sweetie.
+
+;0x097F01A2=~z~Kiki, I'm being harassed by some cops.
+0x097F01A2=~z~Kiki, I'm being harassed by some cops.
+
+;0x098BAEC8=100
+0x098BAEC8=100
+
+;0x09EB9819=~z~Leave a message for Kiki Jenkins after the tone. Kiss, kiss.
+0x09EB9819=~z~Leave a message for Kiki Jenkins after the tone. Kiss, kiss.
+
+;0x0AEC747F=GCKK_ACT_GETCALL_HOSP_REJ_MEDLIKE
+0x0AEC747F=GCKK_ACT_GETCALL_HOSP_REJ_MEDLIKE
+
+;0x0B4BCE30=100
+0x0B4BCE30=100
+
+;0x0B922DA4=100
+0x0B922DA4=100
+
+;0x0C6739B3=GCKK_ACT_GETCALL_REJECT_VERYIRATE
+0x0C6739B3=GCKK_ACT_GETCALL_REJECT_VERYIRATE
+
+;0x0CFAD249=~z~Can't wait, Kiki.
+0x0CFAD249=~z~Can't wait, Kiki.
+
+;0x0DEE7778=~z~Sorry, I'm heading into Alderney to see my parents. Speak soon?
+0x0DEE7778=~z~Sorry, I'm heading into Alderney to see my parents. Speak soon?
+
+;0x1055480F=~z~I guess you had time to stop fucking your other girls and pick up the phone huh, Niko? God I've got low self esteem.
+0x1055480F=~z~I guess you had time to stop fucking your other girls and pick up the phone huh, Niko? God I've got low self esteem.
+
+;0x10650FD9=GCKK_ACT_GETCALL_GREET
+0x10650FD9=GCKK_ACT_GETCALL_GREET
+
+;0x113928A5=~z~Niko, I can't see you again right away. If we're going to turn this into something serious we have to behave ourselves.
+0x113928A5=~z~Niko, I can't see you again right away. If we're going to turn this into something serious we have to behave ourselves.
+
+;0x14A80287=~z~What we have is sacred, Niko. Do you know what happens to those who piss on something sacred?
+0x14A80287=~z~What we have is sacred, Niko. Do you know what happens to those who piss on something sacred?
+
+;0x14B3C44F=100
+0x14B3C44F=100
+
+;0x15707CBF=010
+0x15707CBF=010
+
+;0x165B89F4=010
+0x165B89F4=010
+
+;0x167BBC25=~z~Just when I'm starting to get over you, you call again. This hurts me so much. But...
+0x167BBC25=~z~Just when I'm starting to get over you, you call again. This hurts me so much. But...
+
+;0x17E71DC6=GCKK_ACT_PKI_CALL_REJECTED
+0x17E71DC6=GCKK_ACT_PKI_CALL_REJECTED
+
+;0x1E004233=~z~Niko, I know you like me but we have to take this slow. We should wait a bit before we go on another date.
+0x1E004233=~z~Niko, I know you like me but we have to take this slow. We should wait a bit before we go on another date.
+
+;0x1F00812C=010
+0x1F00812C=010
+
+;0x1F282A6D=100
+0x1F282A6D=100
+
+;0x1F4D2D3E=~z~Hey baby, there are some cops after me. I think they're just looking for another immigrant to pick on.
+0x1F4D2D3E=~z~Hey baby, there are some cops after me. I think they're just looking for another immigrant to pick on.
+
+;0x2039C4CC=090
+0x2039C4CC=090
+
+;0x20C66335=010
+0x20C66335=010
+
+;0x211BB6DA=~z~Oh, you're back in my life. Picking me up and dropping me like a cheap toy. I guess I don't have much of a choice do I?
+0x211BB6DA=~z~Oh, you're back in my life. Picking me up and dropping me like a cheap toy. I guess I don't have much of a choice do I?
+
+;0x2351FEF7=~z~I look forward to it.
+0x2351FEF7=~z~I look forward to it.
+
+;0x2679A62A=~z~I'm onto you, Niko. I'm onto you. You're hurting me so bad.
+0x2679A62A=~z~I'm onto you, Niko. I'm onto you. You're hurting me so bad.
+
+;0x28A490E5=GCKK_ACT_CALL_IRATE
+0x28A490E5=GCKK_ACT_CALL_IRATE
+
+;0x2A0FBC98=GCKK_ACT_PKI_CALL_MEDLIKE
+0x2A0FBC98=GCKK_ACT_PKI_CALL_MEDLIKE
+
+;0x2C3B6B7D=~z~How about I take you out?
+0x2C3B6B7D=~z~How about I take you out?
+
+;0x2CFAC899=~z~Kiki, it's crazy but these cops just started to harass me. Can you see what you can do?
+0x2CFAC899=~z~Kiki, it's crazy but these cops just started to harass me. Can you see what you can do?
+
+;0x2D1C15F1=~z~I knew you were serious about me, Niko. This is going to be amazing. Pick me up in the next hour.
+0x2D1C15F1=~z~I knew you were serious about me, Niko. This is going to be amazing. Pick me up in the next hour.
+
+;0x2DC5E1BE=~z~Niko, if I didn't know better I'd think you were falling for me. We shouldn't see one another again so soon.
+0x2DC5E1BE=~z~Niko, if I didn't know better I'd think you were falling for me. We shouldn't see one another again so soon.
+
+;0x2DC8004B=~z~Seeing you would make my week. Pick me up in the next hour.
+0x2DC8004B=~z~Seeing you would make my week. Pick me up in the next hour.
+
+;0x2EB93200=~z~Niko, there you are. I've missed you so much.
+0x2EB93200=~z~Niko, there you are. I've missed you so much.
+
+;0x31D8D805=~z~Why don't you show me a good time?
+0x31D8D805=~z~Why don't you show me a good time?
+
+;0x31D9D85E=~z~I was starting to think you were done with me. I couldn't bear it if you were.
+0x31D9D85E=~z~I was starting to think you were done with me. I couldn't bear it if you were.
+
+;0x32A58CF9=~z~Why do I like you so much, can someone explain that to me?
+0x32A58CF9=~z~Why do I like you so much, can someone explain that to me?
+
+;0x33919335=~z~You're clearly not as serious about this as I am, Niko. I wouldn't have abandoned you in this situation.
+0x33919335=~z~You're clearly not as serious about this as I am, Niko. I wouldn't have abandoned you in this situation.
+
+;0x33E3C52C=100
+0x33E3C52C=100
+
+;0x361F421E=010
+0x361F421E=010
+
+;0x39B40E68=~z~Oh Niko, it's you. Just let me get a bit more sleep then we'll speak.
+0x39B40E68=~z~Oh Niko, it's you. Just let me get a bit more sleep then we'll speak.
+
+;0x3AA0248D=~z~Kiki, it's Niko.
+0x3AA0248D=~z~Kiki, it's Niko.
+
+;0x3CC1FD96=010
+0x3CC1FD96=010
+
+;0x3D5E5E50=100
+0x3D5E5E50=100
+
+;0x3E959954=~z~So you expect me to help you when you're out with your cheap whores instead of me? Sorry, Niko. Maybe prison will help you be faithful.
+0x3E959954=~z~So you expect me to help you when you're out with your cheap whores instead of me? Sorry, Niko. Maybe prison will help you be faithful.
+
+;0x3EFDA2B6=~z~I've been thinking about you all day, Niko. Pick me up in the next hour.
+0x3EFDA2B6=~z~I've been thinking about you all day, Niko. Pick me up in the next hour.
+
+;0x3F23F3E0=100
+0x3F23F3E0=100
+
+;0x3F46DA28=~z~Sorry, I'm working a really important case at the moment. Another time?
+0x3F46DA28=~z~Sorry, I'm working a really important case at the moment. Another time?
+
+;0x407196A4=~z~Niko, they're really out to get you. I'm sure they're persecuting you, but I can't do anything. Stay safe.
+0x407196A4=~z~Niko, they're really out to get you. I'm sure they're persecuting you, but I can't do anything. Stay safe.
+
+;0x41ED16DC=~z~You want to go out on a date with me?
+0x41ED16DC=~z~You want to go out on a date with me?
+
+;0x43E70030=010
+0x43E70030=010
+
+;0x45423696=~z~I thought I meant something to you, Niko. I thought we had something special.
+0x45423696=~z~I thought I meant something to you, Niko. I thought we had something special.
+
+;0x4608FF0E=~z~I'm not the sort of girl who can be used and thrown away, Niko.
+0x4608FF0E=~z~I'm not the sort of girl who can be used and thrown away, Niko.
+
+;0x484BE2BF=010
+0x484BE2BF=010
+
+;0x48F1C664=GCKK_ACT_GETCALL_IRATE
+0x48F1C664=GCKK_ACT_GETCALL_IRATE
+
+;0x49CB50E4=~z~You're a total sweetheart, Niko. See you soon.
+0x49CB50E4=~z~You're a total sweetheart, Niko. See you soon.
+
+;0x4ABB29CF=100
+0x4ABB29CF=100
+
+;0x4B04E7B6=GCKK_ACT_GETCALL_HOSP_REJ_HILIKE
+0x4B04E7B6=GCKK_ACT_GETCALL_HOSP_REJ_HILIKE
+
+;0x4B185E7C=100
+0x4B185E7C=100
+
+;0x4C27A1DA=~z~Sure. I'll pick you up in the next hour.
+0x4C27A1DA=~z~Sure. I'll pick you up in the next hour.
+
+;0x4E4217F1=~z~I wish I could, Kiki, but I'm real busy.
+0x4E4217F1=~z~I wish I could, Kiki, but I'm real busy.
+
+;0x4E6A2904=GCKK_ACT_CALL_VERYIRATE
+0x4E6A2904=GCKK_ACT_CALL_VERYIRATE
+
+;0x4EBE3B1B=100
+0x4EBE3B1B=100
+
+;0x4F5556FD=~z~Cool, I'll drop by.
+0x4F5556FD=~z~Cool, I'll drop by.
+
+;0x502E5BEE=GCKK_ACT_CALL_DATE_NO_RECENT
+0x502E5BEE=GCKK_ACT_CALL_DATE_NO_RECENT
+
+;0x5244932C=100
+0x5244932C=100
+
+;0x52983702=010
+0x52983702=010
+
+;0x535C85B3=~z~I just wanted to hear your voice. That was all. Call me soon, Niko.
+0x535C85B3=~z~I just wanted to hear your voice. That was all. Call me soon, Niko.
+
+;0x54269200=~z~Okay, Niko... I'll be thinking about you.
+0x54269200=~z~Okay, Niko... I'll be thinking about you.
+
+;0x54596CDA=GCKK_ACT_PKI_GETCALL_DATE_NO
+0x54596CDA=GCKK_ACT_PKI_GETCALL_DATE_NO
+
+;0x54AC17FB=~z~Kiki, I hate to call you but I've got some cops giving me trouble.
+0x54AC17FB=~z~Kiki, I hate to call you but I've got some cops giving me trouble.
+
+;0x55CF7922=GCKK_ACT_PKI_GETCALL_HOSP_NO
+0x55CF7922=GCKK_ACT_PKI_GETCALL_HOSP_NO
+
+;0x564C5BE5=~z~Hi Kiki.
+0x564C5BE5=~z~Hi Kiki.
+
+;0x585137C9=~z~I'm being let out of the hospital, Niko. It'd be really sweet if you picked me up.
+0x585137C9=~z~I'm being let out of the hospital, Niko. It'd be really sweet if you picked me up.
+
+;0x58960EC7=GCKK_ACT_GETCALL_SPEC_AA
+0x58960EC7=GCKK_ACT_GETCALL_SPEC_AA
+
+;0x596E6E95=~z~You really want to make this work, do you? Okay then. Pick me up in the next hour.
+0x596E6E95=~z~You really want to make this work, do you? Okay then. Pick me up in the next hour.
+
+;0x5B48144D=100
+0x5B48144D=100
+
+;0x5C60B42E=~z~Sorry, Kiki. I can't right now. I hope you get home safe.
+0x5C60B42E=~z~Sorry, Kiki. I can't right now. I hope you get home safe.
+
+;0x5D0C90C3=~z~That's fine, Niko. Whatever.
+0x5D0C90C3=~z~That's fine, Niko. Whatever.
+
+;0x5D72446F=~z~I'd like to take you out, Kiki. I'll stop by your place in the next hour.
+0x5D72446F=~z~I'd like to take you out, Kiki. I'll stop by your place in the next hour.
+
+;0x5E57F502=~z~Great, I'll be by in a bit.
+0x5E57F502=~z~Great, I'll be by in a bit.
+
+;0x5EFD9CDD=~z~Don't leave me. Don't you ever leave me. Never, never, never.
+0x5EFD9CDD=~z~Don't leave me. Don't you ever leave me. Never, never, never.
+
+;0x6011AFB9=GCKK_ACT_GETCALL_VERYIRATE
+0x6011AFB9=GCKK_ACT_GETCALL_VERYIRATE
+
+;0x601A1A3B=~z~Go to her, Niko. Go to your fucking whore.
+0x601A1A3B=~z~Go to her, Niko. Go to your fucking whore.
+
+;0x60372A26=GCKK_ACT_PKI_CALL_LOLIKE
+0x60372A26=GCKK_ACT_PKI_CALL_LOLIKE
+
+;0x610ABD34=~z~Niko, you never want to see me. Fuck.
+0x610ABD34=~z~Niko, you never want to see me. Fuck.
+
+;0x61860F2C=100
+0x61860F2C=100
+
+;0x62BC3069=~z~This is disgraceful Niko. I'm going to call the D.A. right away.
+0x62BC3069=~z~This is disgraceful Niko. I'm going to call the D.A. right away.
+
+;0x63EAF680=100
+0x63EAF680=100
+
+;0x6610BBD4=GCKK_ACT_PKI_GETCALL_RANDOM
+0x6610BBD4=GCKK_ACT_PKI_GETCALL_RANDOM
+
+;0x6735FDB8=~z~Niko here.
+0x6735FDB8=~z~Niko here.
+
+;0x67CBD6BA=~z~Niko, I'm being discharged from the hospital. Can you pick me up?
+0x67CBD6BA=~z~Niko, I'm being discharged from the hospital. Can you pick me up?
+
+;0x6827AF49=~z~I love you. I need you. I want to feel you.
+0x6827AF49=~z~I love you. I need you. I want to feel you.
+
+;0x686FEBDF=~z~Niko, I'm trying to get some sleep. Call me back after 6 okay.
+0x686FEBDF=~z~Niko, I'm trying to get some sleep. Call me back after 6 okay.
+
+;0x6A291998=GCKK_ACT_PKI_CALL_GREET
+0x6A291998=GCKK_ACT_PKI_CALL_GREET
+
+;0x6AE590C1=GCKK_ACT_CALL_LIKENO
+0x6AE590C1=GCKK_ACT_CALL_LIKENO
+
+;0x6DF35816=100
+0x6DF35816=100
+
+;0x6E98FB72=~z~I'm sorry for waking you, Kiki. Later on.
+0x6E98FB72=~z~I'm sorry for waking you, Kiki. Later on.
+
+;0x7060FFA7=~z~Sure, I'll call another time.
+0x7060FFA7=~z~Sure, I'll call another time.
+
+;0x706F102E=~z~It's Niko.
+0x706F102E=~z~It's Niko.
+
+;0x707176A3=~z~From what I've heard those cops really mean business, Niko. I can't do anything. Good luck. Call me later, yeah?
+0x707176A3=~z~From what I've heard those cops really mean business, Niko. I can't do anything. Good luck. Call me later, yeah?
+
+;0x7352BD4F=~z~You're not cheating on me are you, Niko? You better not be.
+0x7352BD4F=~z~You're not cheating on me are you, Niko? You better not be.
+
+;0x76E94CCC=~z~You're so beautiful, Niko. Both inside and out. You're amazing.
+0x76E94CCC=~z~You're so beautiful, Niko. Both inside and out. You're amazing.
+
+;0x77C8C63B=~z~I better not find out you're seeing another woman.
+0x77C8C63B=~z~I better not find out you're seeing another woman.
+
+;0x78D762B1=~z~Sorry, Kiki. Another time.
+0x78D762B1=~z~Sorry, Kiki. Another time.
+
+;0x7A1E1549=GCKK_ACT_PKI_CALL_ACCEPTED
+0x7A1E1549=GCKK_ACT_PKI_CALL_ACCEPTED
+
+;0x7A9B73CE=~z~Kiki, sorry about this but I can't see you anymore. To be honest, you kind of freak me out.
+0x7A9B73CE=~z~Kiki, sorry about this but I can't see you anymore. To be honest, you kind of freak me out.
+
+;0x7C153577=~z~Can't wait to see you, sweetie.
+0x7C153577=~z~Can't wait to see you, sweetie.
+
+;0x7C609125=~z~Dammit, Niko. You don't have to rub my face in it. I hate you for how you make me feel.
+0x7C609125=~z~Dammit, Niko. You don't have to rub my face in it. I hate you for how you make me feel.
+
+;0x7DC699D5=~z~Sorry, Kiki. I didn't see the time. I'll speak to you later.
+0x7DC699D5=~z~Sorry, Kiki. I didn't see the time. I'll speak to you later.
+
+;0x7E957439=100
+0x7E957439=100
+
+;0x7F1525D7=~z~Dammit, Niko. You don't have to rub my face in it. I hate you for how you make me feel.
+0x7F1525D7=~z~Dammit, Niko. You don't have to rub my face in it. I hate you for how you make me feel.
+
+;0x7FAD561D=~z~You're testing me. This is a test to see if I'll come back to you, isn't it? I'm not going anywhere, Niko.
+0x7FAD561D=~z~You're testing me. This is a test to see if I'll come back to you, isn't it? I'm not going anywhere, Niko.
+
+;0x807BE593=010
+0x807BE593=010
+
+;0x825EBB74=100
+0x825EBB74=100
+
+;0x83A37A02=~z~So, I didn't realize you liked sluts. That's what she is, a slut, right? Do you want me to turn into a slutty whore for you?
+0x83A37A02=~z~So, I didn't realize you liked sluts. That's what she is, a slut, right? Do you want me to turn into a slutty whore for you?
+
+;0x84D9F425=~z~Hey, Kiki. Something's happened. I can't pick you up.
+0x84D9F425=~z~Hey, Kiki. Something's happened. I can't pick you up.
+
+;0x86DE47C3=GCKK_ACT_PKI_CALL_HILIKE
+0x86DE47C3=GCKK_ACT_PKI_CALL_HILIKE
+
+;0x88EF9CB9=~z~Hey Kiki, I'm sorry about this but I have to cancel our date.
+0x88EF9CB9=~z~Hey Kiki, I'm sorry about this but I have to cancel our date.
+
+;0x89C11224=100
+0x89C11224=100
+
+;0x8B031124=~z~I know what you've been doing. I've been watching you.
+0x8B031124=~z~I know what you've been doing. I've been watching you.
+
+;0x8B1ABCCE=GCKK_ACT_GETCALL_REJECT
+0x8B1ABCCE=GCKK_ACT_GETCALL_REJECT
+
+;0x8DDBAEE6=GCKK_ACT_GETCALL_HOSP_ASK
+0x8DDBAEE6=GCKK_ACT_GETCALL_HOSP_ASK
+
+;0x8F2D195D=~z~Okay, Kiki. I'll talk to you soon.
+0x8F2D195D=~z~Okay, Kiki. I'll talk to you soon.
+
+;0x90599F4A=~z~Alright Kiki. This is difficult for me but I have to end things between us. Goodbye.
+0x90599F4A=~z~Alright Kiki. This is difficult for me but I have to end things between us. Goodbye.
+
+;0x9097273F=GCKK_ACT_GETCALL_REJECT_IRATE
+0x9097273F=GCKK_ACT_GETCALL_REJECT_IRATE
+
+;0x9122B080=100
+0x9122B080=100
+
+;0x9123C701=~z~I'd really like to see you, Niko. I really would. Pick me up in the next hour.
+0x9123C701=~z~I'd really like to see you, Niko. I really would. Pick me up in the next hour.
+
+;0x9152FCAC=~z~I wanted to give myself to you, Niko. I wanted you to have me.
+0x9152FCAC=~z~I wanted to give myself to you, Niko. I wanted you to have me.
+
+;0x9160B191=~z~Anything you want Kiki. I should be able to get there in the next hour.
+0x9160B191=~z~Anything you want Kiki. I should be able to get there in the next hour.
+
+;0x91D93F09=~z~If I find out you're seeing one of your cheap whores instead of picking me up, you're not going to forget about it. Goodbye.
+0x91D93F09=~z~If I find out you're seeing one of your cheap whores instead of picking me up, you're not going to forget about it. Goodbye.
+
+;0x9234BCCD=~z~Why do I like you so much, can someone explain that to me?
+0x9234BCCD=~z~Why do I like you so much, can someone explain that to me?
+
+;0x92D708C8=GCKK_ACT_GETCALL_SPEC_AD
+0x92D708C8=GCKK_ACT_GETCALL_SPEC_AD
+
+;0x933C455D=~z~Okay, sure. Another time then.
+0x933C455D=~z~Okay, sure. Another time then.
+
+;0x94BBC95F=100
+0x94BBC95F=100
+
+;0x960CA3F2=~z~Baby, I don't know what you're talking about. I'll call you later, Kiki.
+0x960CA3F2=~z~Baby, I don't know what you're talking about. I'll call you later, Kiki.
+
+;0x968F1278=GCKK_ACT_GETCALL_SPEC_AB
+0x968F1278=GCKK_ACT_GETCALL_SPEC_AB
+
+;0x97BE47BE=100
+0x97BE47BE=100
+
+;0x98D78593=GCKK_ACT_CALL_DATE_NO_GENERAL
+0x98D78593=GCKK_ACT_CALL_DATE_NO_GENERAL
+
+;0x9BADD6C3=GCKK_ACT_GETCALL_SPOTTED2
+0x9BADD6C3=GCKK_ACT_GETCALL_SPOTTED2
+
+;0x9CC527CD=GCKK_ACT_PKI_GETCALL_SPOTTED
+0x9CC527CD=GCKK_ACT_PKI_GETCALL_SPOTTED
+
+;0x9E253AE1=~z~Hey Kiki. I think it would be best for us not to see each other again.
+0x9E253AE1=~z~Hey Kiki. I think it would be best for us not to see each other again.
+
+;0x9ECB4431=GCKK_ACT_CALL_REQ_SPEC_YES
+0x9ECB4431=GCKK_ACT_CALL_REQ_SPEC_YES
+
+;0x9F75C7A9=GCKK_ACT_GETCALL_HOSP_ACCEPT
+0x9F75C7A9=GCKK_ACT_GETCALL_HOSP_ACCEPT
+
+;0x9FDD581E=~z~You just love punishing me, you take pleasure in this.
+0x9FDD581E=~z~You just love punishing me, you take pleasure in this.
+
+;0xA0701534=100
+0xA0701534=100
+
+;0xA3225514=~z~Okay, Kiki. I'll come get you in the next hour.
+0xA3225514=~z~Okay, Kiki. I'll come get you in the next hour.
+
+;0xA4E1B92A=100100100010
+0xA4E1B92A=100100100010
+
+;0xA4F594F7=GCKK_ACT_CALL_HOSP_CANCEL_LOLIKE
+0xA4F594F7=GCKK_ACT_CALL_HOSP_CANCEL_LOLIKE
+
+;0xA5AAD270=100
+0xA5AAD270=100
+
+;0xA86C50C1=GCKK_ACT_GETCALL_BREAK_UP
+0xA86C50C1=GCKK_ACT_GETCALL_BREAK_UP
+
+;0xA8C2468D=100
+0xA8C2468D=100
+
+;0xA9BBEC8F=GCKK_ACT_CALL_HOSP_CANCEL_MEDLIKE
+0xA9BBEC8F=GCKK_ACT_CALL_HOSP_CANCEL_MEDLIKE
+
+;0xAB3ED651=100
+0xAB3ED651=100
+
+;0xAC11886E=GCKK_ACT_PKI_CALL_SLEEPING
+0xAC11886E=GCKK_ACT_PKI_CALL_SLEEPING
+
+;0xAE619374=GCKK_ACT_CALL_SLEEP_REPLY
+0xAE619374=GCKK_ACT_CALL_SLEEP_REPLY
+
+;0xAECAD8B3=~z~Okay.
+0xAECAD8B3=~z~Okay.
+
+;0xB03698C2=~z~See you at your place.
+0xB03698C2=~z~See you at your place.
+
+;0xB0F8A1B3=~z~Niko.
+0xB0F8A1B3=~z~Niko.
+
+;0xB1A5EF10=~z~Fine, go to her. Go to that fucking bitch if you don't want to pick me up. You pig.
+0xB1A5EF10=~z~Fine, go to her. Go to that fucking bitch if you don't want to pick me up. You pig.
+
+;0xB29ED838=~z~I'm used to being in the driver's seat, you can't fuck me around, okay? Call me later and prove that you're serious about this!
+0xB29ED838=~z~I'm used to being in the driver's seat, you can't fuck me around, okay? Call me later and prove that you're serious about this!
+
+;0xB2E8AAB2=010
+0xB2E8AAB2=010
+
+;0xB2FB6679=GCKK_ACT_PKI_CALL_REQ_SPEC
+0xB2FB6679=GCKK_ACT_PKI_CALL_REQ_SPEC
+
+;0xB57455DC=~z~Don't worry, Niko. I'll get them to stay away from you and I'll try to get their badges. Call me later, okay?
+0xB57455DC=~z~Don't worry, Niko. I'll get them to stay away from you and I'll try to get their badges. Call me later, okay?
+
+;0xB6854B85=~z~You make me sick, Niko. If you'd rather fuck one of your cheap bitches than pick me up, that's fine.
+0xB6854B85=~z~You make me sick, Niko. If you'd rather fuck one of your cheap bitches than pick me up, that's fine.
+
+;0xB729792C=~z~Kiki, I don't like to do this but something's come up. I can't go on a date with you.
+0xB729792C=~z~Kiki, I don't like to do this but something's come up. I can't go on a date with you.
+
+;0xB76E031B=GCKK_ACT_CALL_BREAK_UP
+0xB76E031B=GCKK_ACT_CALL_BREAK_UP
+
+;0xB8330F52=~z~I don't like being told no, Kiki.
+0xB8330F52=~z~I don't like being told no, Kiki.
+
+;0xB8EC1F76=~z~I'll get ready for you, Niko.
+0xB8EC1F76=~z~I'll get ready for you, Niko.
+
+;0xBB7AA644=~z~Hello there Kiki.
+0xBB7AA644=~z~Hello there Kiki.
+
+;0xBB80F21F=~z~Fine, fine. Go to her instead.
+0xBB80F21F=~z~Fine, fine. Go to her instead.
+
+;0xBDE87F77=100
+0xBDE87F77=100
+
+;0xBE3B840D=~z~Hey, Niko. I know it's really hard for you here and that you're being persecuted by the authorities.
+0xBE3B840D=~z~Hey, Niko. I know it's really hard for you here and that you're being persecuted by the authorities.
+
+;0xBFA3704C=~z~No can do, Kiki. Maybe another time.
+0xBFA3704C=~z~No can do, Kiki. Maybe another time.
+
+;0xC1AE30FA=~z~I cannot wait.
+0xC1AE30FA=~z~I cannot wait.
+
+;0xC1F157C0=100
+0xC1F157C0=100
+
+;0xC275C359=010
+0xC275C359=010
+
+;0xC4CB7589=100
+0xC4CB7589=100
+
+;0xC53B0349=010
+0xC53B0349=010
+
+;0xC5557DA5=~z~Niko, What are you doing to me? I'm a wreck when you don't call and now suddenly you want me back?
+0xC5557DA5=~z~Niko, What are you doing to me? I'm a wreck when you don't call and now suddenly you want me back?
+
+;0xC560944A=~z~Kiki, it would be a pleasure to take you out. I'll be by your place in the next hour.
+0xC560944A=~z~Kiki, it would be a pleasure to take you out. I'll be by your place in the next hour.
+
+;0xC5C797D5=GCKK_ACT_PKI_CALL_DATE
+0xC5C797D5=GCKK_ACT_PKI_CALL_DATE
+
+;0xC62433EC=~z~I think I love you. Help me.
+0xC62433EC=~z~I think I love you. Help me.
+
+;0xC780C756=~z~I'll be there in the next hour then.
+0xC780C756=~z~I'll be there in the next hour then.
+
+;0xC78356CE=GCKK_ACT_ANSWER_PHONE
+0xC78356CE=GCKK_ACT_ANSWER_PHONE
+
+;0xC7E88AD3=~z~Ummm. We'll talk later. I'll call you.
+0xC7E88AD3=~z~Ummm. We'll talk later. I'll call you.
+
+;0xC8973401=GCKK_ACT_GETCALL_SPOTTED1
+0xC8973401=GCKK_ACT_GETCALL_SPOTTED1
+
+;0xCAAFBEC3=~z~Alright, Niko. Thanks for calling at least.
+0xCAAFBEC3=~z~Alright, Niko. Thanks for calling at least.
+
+;0xCBD632A6=~z~Maybe call after 6. I'll be dreaming about you...
+0xCBD632A6=~z~Maybe call after 6. I'll be dreaming about you...
+
+;0xCC4A7CCE=GCKK_ACT_GETCALL_SPEC_AC
+0xCC4A7CCE=GCKK_ACT_GETCALL_SPEC_AC
+
+;0xCCC47031=~z~Okay, Niko. Fine.
+0xCCC47031=~z~Okay, Niko. Fine.
+
+;0xCD2A9E0F=GCKK_ACT_PKI_CALL_HOSP_CANCEL
+0xCD2A9E0F=GCKK_ACT_PKI_CALL_HOSP_CANCEL
+
+;0xCE4D2430=~z~If you ever feel like the police are after you for no reason, give me a call.
+0xCE4D2430=~z~If you ever feel like the police are after you for no reason, give me a call.
+
+;0xCED12F54=100
+0xCED12F54=100
+
+;0xCFA5A8D4=~z~That is exactly what I'd like to do. I'll come by your place in the next hour.
+0xCFA5A8D4=~z~That is exactly what I'd like to do. I'll come by your place in the next hour.
+
+;0xCFDD3343=100
+0xCFDD3343=100
+
+;0xD0F10CD5=~z~Those cops do not deserve their badges. Let me talk to the D.A. Kiss, kiss, Niko.
+0xD0F10CD5=~z~Those cops do not deserve their badges. Let me talk to the D.A. Kiss, kiss, Niko.
+
+;0xD14E96EE=~z~Have you got time to take a girl out?
+0xD14E96EE=~z~Have you got time to take a girl out?
+
+;0xD1EA5611=100
+0xD1EA5611=100
+
+;0xD3B8B072=~z~Oh, fine Niko. If you'd rather hang out with one of you cheap whores then do it.
+0xD3B8B072=~z~Oh, fine Niko. If you'd rather hang out with one of you cheap whores then do it.
+
+;0xD4636888=~z~Niko, it's your Kiki.
+0xD4636888=~z~Niko, it's your Kiki.
+
+;0xD51E13E9=~z~You're missing out, Niko. I'll have to have fun by myself.
+0xD51E13E9=~z~You're missing out, Niko. I'll have to have fun by myself.
+
+;0xD661127A=100
+0xD661127A=100
+
+;0xD6DB0239=~z~Oh Niko, it's so good to talk to you.
+0xD6DB0239=~z~Oh Niko, it's so good to talk to you.
+
+;0xD71220DE=~z~I'm watching you, Niko. I'm watching you and your cheap whore. Don't think I'm fucking stupid.
+0xD71220DE=~z~I'm watching you, Niko. I'm watching you and your cheap whore. Don't think I'm fucking stupid.
+
+;0xD820E3B2=100
+0xD820E3B2=100
+
+;0xD9F252D0=~z~Well, we'll have to do it another time.
+0xD9F252D0=~z~Well, we'll have to do it another time.
+
+;0xDB39920F=~z~I'd love it if you were the only thing I had to think about, but I've got to keep my clients out of jail, rain-check?
+0xDB39920F=~z~I'd love it if you were the only thing I had to think about, but I've got to keep my clients out of jail, rain-check?
+
+;0xDB5B5E5A=~z~You just love punishing me, you take pleasure in this.
+0xDB5B5E5A=~z~You just love punishing me, you take pleasure in this.
+
+;0xDB63A4CD=GCKK_ACT_GETCALL_ACCEPT
+0xDB63A4CD=GCKK_ACT_GETCALL_ACCEPT
+
+;0xDBBE4085=GCKK_ACT_GETCALL_HOSP_REJ_LOLIKE
+0xDBBE4085=GCKK_ACT_GETCALL_HOSP_REJ_LOLIKE
+
+;0xDC8EC0B3=~z~I've got a lot of sway with the D.A. and I can probably get them to behave themselves.
+0xDC8EC0B3=~z~I've got a lot of sway with the D.A. and I can probably get them to behave themselves.
+
+;0xDFE632CA=~z~I don't know if I believe you, call me later if you're serious about this.
+0xDFE632CA=~z~I don't know if I believe you, call me later if you're serious about this.
+
+;0xE34D63F8=GCKK_ACT_CALL_DATE_YES
+0xE34D63F8=GCKK_ACT_CALL_DATE_YES
+
+;0xE427BCA0=~z~I've got some free time so you could take me out.
+0xE427BCA0=~z~I've got some free time so you could take me out.
+
+;0xE55C5DC0=~z~I'd like to take you out.
+0xE55C5DC0=~z~I'd like to take you out.
+
+;0xE6370C2F=~z~Oh Niko.
+0xE6370C2F=~z~Oh Niko.
+
+;0xE6B3FB05=~z~I'll count the seconds, Niko.
+0xE6B3FB05=~z~I'll count the seconds, Niko.
+
+;0xE9064D0E=~z~Sure, Kiki. I'll call you later.
+0xE9064D0E=~z~Sure, Kiki. I'll call you later.
+
+;0xEB1FD141=~z~Alright. Speak to you soon then, Kiki.
+0xEB1FD141=~z~Alright. Speak to you soon then, Kiki.
+
+;0xEC1F196F=GCKK_ACT_PKI_GETCALL_HOSP_YES
+0xEC1F196F=GCKK_ACT_PKI_GETCALL_HOSP_YES
+
+;0xEEAFF5C2=~z~I think I love you. Help me.
+0xEEAFF5C2=~z~I think I love you. Help me.
+
+;0xF0F49137=~z~Kiki.
+0xF0F49137=~z~Kiki.
+
+;0xF173BE83=~z~I've got a court date coming up. I can't see you. Maybe later.
+0xF173BE83=~z~I've got a court date coming up. I can't see you. Maybe later.
+
+;0xF2339BF0=GCKK_ACT_PKI_GETCALL_DATE_YES
+0xF2339BF0=GCKK_ACT_PKI_GETCALL_DATE_YES
+
+;0xF2CCED2F=~z~Thanks Kiki. The cops do give me a hard time for no reason. I'll talk to you soon.
+0xF2CCED2F=~z~Thanks Kiki. The cops do give me a hard time for no reason. I'll talk to you soon.
+
+;0xF3C11FD6=~z~See you soon then.
+0xF3C11FD6=~z~See you soon then.
+
+;0xF4481B5C=GCKK_ACT_CALL_LIKEYES
+0xF4481B5C=GCKK_ACT_CALL_LIKEYES
+
+;0xF4EA05FE=~z~So you call me only when you need something? I'm not going to help you, Niko. I hope this makes you learn to treat me right.
+0xF4EA05FE=~z~So you call me only when you need something? I'm not going to help you, Niko. I hope this makes you learn to treat me right.
+
+;0xF68D147F=~z~Ahh, Niko. Have you been playing hard to get? I haven't got time for bullshit, if that's your game.
+0xF68D147F=~z~Ahh, Niko. Have you been playing hard to get? I haven't got time for bullshit, if that's your game.
+
+;0xF7B65C73=GCKK_ACT_CALL_HOSP_CANCEL_HILIKE
+0xF7B65C73=GCKK_ACT_CALL_HOSP_CANCEL_HILIKE
+
+;0xF8F104E9=~z~You want me to take you out on a date?
+0xF8F104E9=~z~You want me to take you out on a date?
+
+;0xF8F916B2=~z~I'd really like to go on a date with you. Pick me up in the next hour.
+0xF8F916B2=~z~I'd really like to go on a date with you. Pick me up in the next hour.
+
+;0xF9358199=~z~Do you know how cheap your calling me like this makes me feel? And I can't resist you.
+0xF9358199=~z~Do you know how cheap your calling me like this makes me feel? And I can't resist you.
+
+;0xFBE419FE=GCKK_ACT_PKI_CALL_DATE_CANCEL
+0xFBE419FE=GCKK_ACT_PKI_CALL_DATE_CANCEL
+
+;0xFCFD2797=~z~Exciting, see you then.
+0xFCFD2797=~z~Exciting, see you then.
+
+;0xFD150C21=GCKK_ACT_GETCALL_RANDOM
+0xFD150C21=GCKK_ACT_GETCALL_RANDOM
+
+;0xFEF3E6D6=GCKK_ACT_CALL_REQ_SPEC_NO_NEG
+0xFEF3E6D6=GCKK_ACT_CALL_REQ_SPEC_NO_NEG
+
+;0xFF961FF2=100
+0xFF961FF2=100
+

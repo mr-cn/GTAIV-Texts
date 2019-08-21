@@ -1,0 +1,226 @@
+﻿[EBK14]
+;0x00F07314=Unfortunately TROY HARDER had this to say about your request "What are you, some kinda fag? "
+0x00F07314=Unfortunately TROY HARDER had this to say about your request "What are you, some kinda fag? "
+
+;0x0148F7E1=Dear Lovemeet user,
+0x0148F7E1=Dear Lovemeet user,
+
+;0x09A60893=Dear Lovemeet user,
+0x09A60893=Dear Lovemeet user,
+
+;0x0E0915B0=PLACEHOLDER
+0x0E0915B0=PLACEHOLDER
+
+;0x10B497B4=Unfortunately FRENCHTOM had this to say about your request PLACEHOLDER!!! SHOULDN'T EVER BE NEEDED!!!
+0x10B497B4=Unfortunately FRENCHTOM had this to say about your request PLACEHOLDER!!! SHOULDN'T EVER BE NEEDED!!!
+
+;0x12301593=Unfortunately MALCOMSEX had this to say about your request "Whoa, no dude."
+0x12301593=Unfortunately MALCOMSEX had this to say about your request "Whoa, no dude."
+
+;0x1855293C=Sorry we cannot help you further.
+0x1855293C=Sorry we cannot help you further.
+
+;0x1B3EACC8=Unfortunately NIKO_STRAIGHT had this to say about your request PLACEHOLDER!!! SHOULDN'T EVER BE NEEDED!!!
+0x1B3EACC8=Unfortunately NIKO_STRAIGHT had this to say about your request PLACEHOLDER!!! SHOULDN'T EVER BE NEEDED!!!
+
+;0x239EB5D4=NIKOLIBERTY, our computers have detected that SOBOHOE would be the perfect <a href="www.love-meet.net">LoveMeet</a> match for you! You both share an interest in computers and an air of desperation. Love, companionship or anonymous sex could be just a click away. If your match is not for you, it might be worth visiting some of the LoveMeet sponsored prostitutes on Chase Point while waiting for a more suitable user to log in.
+0x239EB5D4=NIKOLIBERTY, our computers have detected that SOBOHOE would be the perfect <a href="www.love-meet.net">LoveMeet</a> match for you! You both share an interest in computers and an air of desperation. Love, companionship or anonymous sex could be just a click away. If your match is not for you, it might be worth visiting some of the LoveMeet sponsored prostitutes on Chase Point while waiting for a more suitable user to log in.
+
+;0x24763A1F=Unfortunately NOBIGWILLIE had this to say about your request "Punching above your weight, aren't you? Lower your standards, loser."
+0x24763A1F=Unfortunately NOBIGWILLIE had this to say about your request "Punching above your weight, aren't you? Lower your standards, loser."
+
+;0x2590C16C=Unfortunately NIKO_GAY had this to say about your request PLACEHOLDER!!! SHOULDN'T EVER BE NEEDED!!!
+0x2590C16C=Unfortunately NIKO_GAY had this to say about your request PLACEHOLDER!!! SHOULDN'T EVER BE NEEDED!!!
+
+;0x26D84257=PLACEHOLDER
+0x26D84257=PLACEHOLDER
+
+;0x27A5C59A=Unfortunately OSCAR WILD had this to say about your request "I am looking for a FEMALE! Jeez, how many times?"
+0x27A5C59A=Unfortunately OSCAR WILD had this to say about your request "I am looking for a FEMALE! Jeez, how many times?"
+
+;0x2A9CCDCB=Sorry we cannot help you further.
+0x2A9CCDCB=Sorry we cannot help you further.
+
+;0x2B983FD4=Unfortunately UNDERCOVER LOVER had this to say about your request "We're sorry, but this respondent does not believe you have enough in common to go on a date. (Your email has been intercepted by the FIB, have a nice day.)"
+0x2B983FD4=Unfortunately UNDERCOVER LOVER had this to say about your request "We're sorry, but this respondent does not believe you have enough in common to go on a date. (Your email has been intercepted by the FIB, have a nice day.)"
+
+;0x2C3B4DE4=PLACEHOLDER
+0x2C3B4DE4=PLACEHOLDER
+
+;0x31AC51EF=NIKOLIBERTY, our computers have detected that LAWCHICK would be the perfect <a href="www.love-meet.net">LoveMeet</a> match for you! You both share an interest in computers and an air of desperation. Alternatively, if you would consider a change in sexual preference, COLONEL_CUDDLES could be your perfect LoveMeet match! Love, companionship or anonymous sex could be just a click away.
+0x31AC51EF=NIKOLIBERTY, our computers have detected that LAWCHICK would be the perfect <a href="www.love-meet.net">LoveMeet</a> match for you! You both share an interest in computers and an air of desperation. Alternatively, if you would consider a change in sexual preference, COLONEL_CUDDLES could be your perfect LoveMeet match! Love, companionship or anonymous sex could be just a click away.
+
+;0x33CE5040=Unfortunately MITTENS had this to say about your request "I think we're two different breeds, sorry."
+0x33CE5040=Unfortunately MITTENS had this to say about your request "I think we're two different breeds, sorry."
+
+;0x3588C5C7=PLACEHOLDER
+0x3588C5C7=PLACEHOLDER
+
+;0x35C4DA24=Unfortunately OSCAR WILD had this to say about your request "I am looking for a FEMALE! Jeez, how many times?"
+0x35C4DA24=Unfortunately OSCAR WILD had this to say about your request "I am looking for a FEMALE! Jeez, how many times?"
+
+;0x361AE4C7=Sorry we cannot help you further.
+0x361AE4C7=Sorry we cannot help you further.
+
+;0x371B1AAD=PLACEHOLDER
+0x371B1AAD=PLACEHOLDER
+
+;0x379A657F=Unfortunately HUMPPLEASERUPERT had this to say about your request "Erm, you seem positively charming, but I'm going to say no."
+0x379A657F=Unfortunately HUMPPLEASERUPERT had this to say about your request "Erm, you seem positively charming, but I'm going to say no."
+
+;0x3C8FE7BA=Unfortunately THE NICKMEISTER had this to say about your request "Sorry to be a downer and stuff but I'm too busy partying to date right now."
+0x3C8FE7BA=Unfortunately THE NICKMEISTER had this to say about your request "Sorry to be a downer and stuff but I'm too busy partying to date right now."
+
+;0x41B5F202=NIKOLIBERTY, our computers have detected you would be a perfect <a href="www.love-meet.net">LoveMeet</a> match for LAWCHICK or SOBOHOE! Date them both or choose just one. Bigamy is easy when you're internet dating in a city as big as Liberty! Love, companionship or anonymous sex could be just a click away.
+0x41B5F202=NIKOLIBERTY, our computers have detected you would be a perfect <a href="www.love-meet.net">LoveMeet</a> match for LAWCHICK or SOBOHOE! Date them both or choose just one. Bigamy is easy when you're internet dating in a city as big as Liberty! Love, companionship or anonymous sex could be just a click away.
+
+;0x42E16078=PLACEHOLDER
+0x42E16078=PLACEHOLDER
+
+;0x4703F6AB=Unfortunately GOGETTER had this to say about your request "I'm a woman on the up, and I think you would just be a drag."
+0x4703F6AB=Unfortunately GOGETTER had this to say about your request "I'm a woman on the up, and I think you would just be a drag."
+
+;0x4A8983A9=Unfortunately MATTE BLACK had this to say about your request "So, what we're supposed to meet on the internet and 'connect' or something? You've been sucked in by their lies!"
+0x4A8983A9=Unfortunately MATTE BLACK had this to say about your request "So, what we're supposed to meet on the internet and 'connect' or something? You've been sucked in by their lies!"
+
+;0x51D599F9=Unfortunately MALCOMSEX had this to say about your request "Whoa, no dude."
+0x51D599F9=Unfortunately MALCOMSEX had this to say about your request "Whoa, no dude."
+
+;0x52B94F55=PLACEHOLDER
+0x52B94F55=PLACEHOLDER
+
+;0x5EBFAC15=Unfortunately MARK TENNINCH had this to say about your request "Put your wishes in a box, and take them out again some other time..."
+0x5EBFAC15=Unfortunately MARK TENNINCH had this to say about your request "Put your wishes in a box, and take them out again some other time..."
+
+;0x5ECDB2FC=PLACEHOLDER
+0x5ECDB2FC=PLACEHOLDER
+
+;0x60F2EBC8=PLACEHOLDER
+0x60F2EBC8=PLACEHOLDER
+
+;0x61BAAC14=Unfortunately JENNIFUN had this to say about your request "Hi, you seem real nice but I'm just looking for more than nice, y'know? I want, like, really nice."
+0x61BAAC14=Unfortunately JENNIFUN had this to say about your request "Hi, you seem real nice but I'm just looking for more than nice, y'know? I want, like, really nice."
+
+;0x64043E56=Unfortunately NOBIGWILLIE had this to say about your request "Punching above your weight, aren't you? Lower your standards, loser."
+0x64043E56=Unfortunately NOBIGWILLIE had this to say about your request "Punching above your weight, aren't you? Lower your standards, loser."
+
+;0x64C4BED7=Dear Lovemeet user,
+0x64C4BED7=Dear Lovemeet user,
+
+;0x68E0FE38=PLACEHOLDER
+0x68E0FE38=PLACEHOLDER
+
+;0x6CFE528D=Sorry we cannot help you further.
+0x6CFE528D=Sorry we cannot help you further.
+
+;0x6D80C3A0=Unfortunately FROM RUSSIA WITHOUT LOVE had this to say about your request "You are far too young and healthy for me."
+0x6D80C3A0=Unfortunately FROM RUSSIA WITHOUT LOVE had this to say about your request "You are far too young and healthy for me."
+
+;0x6F1AD37F=Dear Lovemeet user,
+0x6F1AD37F=Dear Lovemeet user,
+
+;0x7C347205=PLACEHOLDER
+0x7C347205=PLACEHOLDER
+
+;0x7C385910=PLACEHOLDER
+0x7C385910=PLACEHOLDER
+
+;0x7F0EF6AE=Sorry we cannot help you further.
+0x7F0EF6AE=Sorry we cannot help you further.
+
+;0x85DE0109=Dear Lovemeet user,
+0x85DE0109=Dear Lovemeet user,
+
+;0x8C0380A9=Unfortunately 2HOT2HANDLE had this to say about your request "As if."
+0x8C0380A9=Unfortunately 2HOT2HANDLE had this to say about your request "As if."
+
+;0x8E1A90DA=PLACEHOLDER
+0x8E1A90DA=PLACEHOLDER
+
+;0x8F0EFEBD=PLACEHOLDER
+0x8F0EFEBD=PLACEHOLDER
+
+;0x97E92103=Unfortunately NIKO_GAY had this to say about your request PLACEHOLDER!!! SHOULDN'T EVER BE NEEDED!!!
+0x97E92103=Unfortunately NIKO_GAY had this to say about your request PLACEHOLDER!!! SHOULDN'T EVER BE NEEDED!!!
+
+;0x9BAA2CA1=Dear Lovemeet user,
+0x9BAA2CA1=Dear Lovemeet user,
+
+;0x9DC12424=Unfortunately LAWCHICK had this to say about your request "I'm sorry, I just don't feel like we have a connection."
+0x9DC12424=Unfortunately LAWCHICK had this to say about your request "I'm sorry, I just don't feel like we have a connection."
+
+;0xA742BD1A=Unfortunately COLONEL CUDDLES had this to say about your request "I'm sorry, but a soldier has to be pitiless and you just didn't make the grade. Have a nice day!"
+0xA742BD1A=Unfortunately COLONEL CUDDLES had this to say about your request "I'm sorry, but a soldier has to be pitiless and you just didn't make the grade. Have a nice day!"
+
+;0xAA2AC586=Unfortunately HUMPPLEASERUPERT had this to say about your request "Erm, you seem positively charming, but I'm going to say no."
+0xAA2AC586=Unfortunately HUMPPLEASERUPERT had this to say about your request "Erm, you seem positively charming, but I'm going to say no."
+
+;0xB274598D=PLACEHOLDER
+0xB274598D=PLACEHOLDER
+
+;0xB291DA70=Dear Lovemeet user,
+0xB291DA70=Dear Lovemeet user,
+
+;0xB7ED5E6F=Unfortunately TROY HARDER had this to say about your request "What are you, some kinda fag? "
+0xB7ED5E6F=Unfortunately TROY HARDER had this to say about your request "What are you, some kinda fag? "
+
+;0xB826E59A=Dear Lovemeet user,
+0xB826E59A=Dear Lovemeet user,
+
+;0xBB73E818=Unfortunately FRENCHTOM had this to say about your request PLACEHOLDER!!! SHOULDN'T EVER BE NEEDED!!!
+0xBB73E818=Unfortunately FRENCHTOM had this to say about your request PLACEHOLDER!!! SHOULDN'T EVER BE NEEDED!!!
+
+;0xBE89EDEC=Unfortunately PRINCESS RENEE had this to say about your request "I'm sorry, but I don't think we're compatible."
+0xBE89EDEC=Unfortunately PRINCESS RENEE had this to say about your request "I'm sorry, but I don't think we're compatible."
+
+;0xC2FCFA9E=PLACEHOLDER
+0xC2FCFA9E=PLACEHOLDER
+
+;0xC9FA089C=PLACEHOLDER
+0xC9FA089C=PLACEHOLDER
+
+;0xCAE606A8=Unfortunately SUSISIDE had this to say about your request "Eww, no."
+0xCAE606A8=Unfortunately SUSISIDE had this to say about your request "Eww, no."
+
+;0xCDBC8CAD=Unfortunately NIKO_STRAIGHT had this to say about your request PLACEHOLDER!!! SHOULDN'T EVER BE NEEDED!!!
+0xCDBC8CAD=Unfortunately NIKO_STRAIGHT had this to say about your request PLACEHOLDER!!! SHOULDN'T EVER BE NEEDED!!!
+
+;0xD1F51A3A=Unfortunately THE NICKMEISTER had this to say about your request "Sorry to be a downer and stuff but I'm too busy partying to date right now."
+0xD1F51A3A=Unfortunately THE NICKMEISTER had this to say about your request "Sorry to be a downer and stuff but I'm too busy partying to date right now."
+
+;0xD38A1FA7=Sorry we cannot help you further.
+0xD38A1FA7=Sorry we cannot help you further.
+
+;0xDCCC322B=Sorry we cannot help you further.
+0xDCCC322B=Sorry we cannot help you further.
+
+;0xDD0CAEC1=PLACEHOLDER
+0xDD0CAEC1=PLACEHOLDER
+
+;0xDEB12E96=Unfortunately COLONEL CUDDLES had this to say about your request "I'm sorry, but a soldier has to be pitiless and you just didn't make the grade. Have a nice day!"
+0xDEB12E96=Unfortunately COLONEL CUDDLES had this to say about your request "I'm sorry, but a soldier has to be pitiless and you just didn't make the grade. Have a nice day!"
+
+;0xE1642B69=Unfortunately MISS UNDERSTOOD had this to say about your request "I'm sorry but I don't think I'm ready to be taken on dates."
+0xE1642B69=Unfortunately MISS UNDERSTOOD had this to say about your request "I'm sorry but I don't think I'm ready to be taken on dates."
+
+;0xE443BED7=Unfortunately MATTE BLACK had this to say about your request "So, what we're supposed to meet on the internet and 'connect' or something? You've been sucked in by their lies!"
+0xE443BED7=Unfortunately MATTE BLACK had this to say about your request "So, what we're supposed to meet on the internet and 'connect' or something? You've been sucked in by their lies!"
+
+;0xEE7AD345=Unfortunately MARK TENNINCH had this to say about your request "Put your wishes in a box, and take them out again some other time..."
+0xEE7AD345=Unfortunately MARK TENNINCH had this to say about your request "Put your wishes in a box, and take them out again some other time..."
+
+;0xEF04D69C=Sorry we cannot help you further.
+0xEF04D69C=Sorry we cannot help you further.
+
+;0xF076C98E=Unfortunately SoBoHo had this to say about your request "I don't think you can handle what Carmen has to offer."
+0xF076C98E=Unfortunately SoBoHo had this to say about your request "I don't think you can handle what Carmen has to offer."
+
+;0xF1385718=PLACEHOLDER
+0xF1385718=PLACEHOLDER
+
+;0xFCB8E212=Unfortunately LICKINGGOOD had this to say about your request "I don't think so."
+0xFCB8E212=Unfortunately LICKINGGOOD had this to say about your request "I don't think so."
+
+;0xFD5F6956=Keep trying. The right person is out there for you.
+0xFD5F6956=Keep trying. The right person is out there for you.
+

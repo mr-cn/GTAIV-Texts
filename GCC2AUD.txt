@@ -1,0 +1,922 @@
+﻿[GCC2AUD]
+;0x003B329B=~z~I so pleased you got rid of that hat, Niko.
+0x003B329B=~z~I so pleased you got rid of that hat, Niko.
+
+;0x009F35EE=100
+0x009F35EE=100
+
+;0x01412EFA=~z~You and Carmen look good together when you both rocking designer labels.
+0x01412EFA=~z~You and Carmen look good together when you both rocking designer labels.
+
+;0x02A9B0AF=GCC_ACT_PCA_LEGS_GOOD
+0x02A9B0AF=GCC_ACT_PCA_LEGS_GOOD
+
+;0x02ACBFCC=~z~A friend of mine drives a bike as well, Niko. Let's go.
+0x02ACBFCC=~z~A friend of mine drives a bike as well, Niko. Let's go.
+
+;0x02C7C215=~z~Hey, we met on the internet, didn't we? Love-meet.net? I'm Niko.
+0x02C7C215=~z~Hey, we met on the internet, didn't we? Love-meet.net? I'm Niko.
+
+;0x03A4CF36=GCC_ACT_ARRIVE_CLUB_GENERIC
+0x03A4CF36=GCC_ACT_ARRIVE_CLUB_GENERIC
+
+;0x05468700=100
+0x05468700=100
+
+;0x059E0D1A=GCC_ACT_CAR_BIKE
+0x059E0D1A=GCC_ACT_CAR_BIKE
+
+;0x05B91FD2=~z~All this darts playing is really turning a girl off.
+0x05B91FD2=~z~All this darts playing is really turning a girl off.
+
+;0x0658966D=GCC_ACT_CAR_NEW_BAD
+0x0658966D=GCC_ACT_CAR_NEW_BAD
+
+;0x06CC7E77=~z~Bowling, Niko? I can think of more interesting things to be doing.
+0x06CC7E77=~z~Bowling, Niko? I can think of more interesting things to be doing.
+
+;0x0814CF03=GCC_ACT_PCA_SAME_GOOD
+0x0814CF03=GCC_ACT_PCA_SAME_GOOD
+
+;0x08BF0C9F=GCC_ACT_HINTA
+0x08BF0C9F=GCC_ACT_HINTA
+
+;0x0A96A071=100
+0x0A96A071=100
+
+;0x0B5C51BF=010
+0x0B5C51BF=010
+
+;0x0B70AA31=~z~I love Katt Williams, Niko.
+0x0B70AA31=~z~I love Katt Williams, Niko.
+
+;0x0E508A50=GCC_ACT_ARRIVEF_LATE
+0x0E508A50=GCC_ACT_ARRIVEF_LATE
+
+;0x1346CCD5=100
+0x1346CCD5=100
+
+;0x137EBB5D=~z~Darts again? You ain't got no imagination, do you Niko?
+0x137EBB5D=~z~Darts again? You ain't got no imagination, do you Niko?
+
+;0x14429226=~z~I don't know. I just threw on whatever.
+0x14429226=~z~I don't know. I just threw on whatever.
+
+;0x144C25F5=~z~Caraho, Niko! This is a piece of trash, what's the deal with your ride?
+0x144C25F5=~z~Caraho, Niko! This is a piece of trash, what's the deal with your ride?
+
+;0x14929B5F=~z~Let's get in here, Niko. I hope the barman don't recognize me.
+0x14929B5F=~z~Let's get in here, Niko. I hope the barman don't recognize me.
+
+;0x1540B214=~z~Carmen has had enough. She's getting home herself. See ya.
+0x1540B214=~z~Carmen has had enough. She's getting home herself. See ya.
+
+;0x18F32A46=~z~I'm just out for a good time for myself, baby. I hope that's cool with you.
+0x18F32A46=~z~I'm just out for a good time for myself, baby. I hope that's cool with you.
+
+;0x1916E40D=~z~Not for me, Niko. I ain't doing this.
+0x1916E40D=~z~Not for me, Niko. I ain't doing this.
+
+;0x1ABF17EA=GCC_ACT_PCA_CAR_NONE3
+0x1ABF17EA=GCC_ACT_PCA_CAR_NONE3
+
+;0x1B94C35F=~z~You don't need no glasses so why you buy those stupid things.
+0x1B94C35F=~z~You don't need no glasses so why you buy those stupid things.
+
+;0x1BC5833C=~z~You wanna play pool, Niko? I hope you're good with your stick.
+0x1BC5833C=~z~You wanna play pool, Niko? I hope you're good with your stick.
+
+;0x1F41C92E=~z~Hey, Niko. Pleased to meet you. This is Carmen.
+0x1F41C92E=~z~Hey, Niko. Pleased to meet you. This is Carmen.
+
+;0x1FC19480=GCC_ACT_PCA_HAT_GOOD
+0x1FC19480=GCC_ACT_PCA_HAT_GOOD
+
+;0x20A03BC0=~z~At least you can't have paid much money for this piece of shit car.
+0x20A03BC0=~z~At least you can't have paid much money for this piece of shit car.
+
+;0x218E44F1=GCC_ACT_PCA_NOGLASS_BAD
+0x218E44F1=GCC_ACT_PCA_NOGLASS_BAD
+
+;0x219778F2=GCC_ACT_ARRIVE_HIGHEND
+0x219778F2=GCC_ACT_ARRIVE_HIGHEND
+
+;0x22315620=~z~This car really suits you, Niko.
+0x22315620=~z~This car really suits you, Niko.
+
+;0x22383CB2=GCC_ACT_ARRIVem_NOTLATE
+0x22383CB2=GCC_ACT_ARRIVem_NOTLATE
+
+;0x22EEBCA1=~z~Those are some nice pants, they must have been expensive.
+0x22EEBCA1=~z~Those are some nice pants, they must have been expensive.
+
+;0x236C4CDB=GCC_ACT_ARRIVE_SHOW_LATE
+0x236C4CDB=GCC_ACT_ARRIVE_SHOW_LATE
+
+;0x237D1EA1=~z~This car really suits your personality, Niko.
+0x237D1EA1=~z~This car really suits your personality, Niko.
+
+;0x23F479D3=~z~I don't like seeing you in those same ugly clothes, Niko.
+0x23F479D3=~z~I don't like seeing you in those same ugly clothes, Niko.
+
+;0x2516AA5E=GCC_ACT_CAR_NONE
+0x2516AA5E=GCC_ACT_CAR_NONE
+
+;0x263F7906=010
+0x263F7906=010
+
+;0x275D809A=~z~I ain't doing this shit.
+0x275D809A=~z~I ain't doing this shit.
+
+;0x2AB661A2=~z~Don't go buying no cheap glasses, Niko. They don't look good.
+0x2AB661A2=~z~Don't go buying no cheap glasses, Niko. They don't look good.
+
+;0x2CAD09FB=~z~Nice new shoes, baby.
+0x2CAD09FB=~z~Nice new shoes, baby.
+
+;0x2F1209D2=~z~Niko, you'd look better with no pants than those things.
+0x2F1209D2=~z~Niko, you'd look better with no pants than those things.
+
+;0x30241B8A=~z~Okay, let's get started.
+0x30241B8A=~z~Okay, let's get started.
+
+;0x30BC640D=GCC_ACT_ARRIVEF_NOTLATE
+0x30BC640D=GCC_ACT_ARRIVEF_NOTLATE
+
+;0x3121FA3A=100
+0x3121FA3A=100
+
+;0x31EFF59D=~z~I like the car. Why you buy it for yourself instead of Carmen?
+0x31EFF59D=~z~I like the car. Why you buy it for yourself instead of Carmen?
+
+;0x32249637=~z~Those didn't look good on you last time, and they don't look good now.
+0x32249637=~z~Those didn't look good on you last time, and they don't look good now.
+
+;0x3229F7A3=~z~This guy remind me so much of a friend of mine.
+0x3229F7A3=~z~This guy remind me so much of a friend of mine.
+
+;0x32570DC2=~z~Why don't you just give Carmen the money you going to spend on her here?
+0x32570DC2=~z~Why don't you just give Carmen the money you going to spend on her here?
+
+;0x32BABD1C=~z~Carmen looks really good when riding in this car with you, Niko.
+0x32BABD1C=~z~Carmen looks really good when riding in this car with you, Niko.
+
+;0x33354621=~z~I don't understand this guy's accent.
+0x33354621=~z~I don't understand this guy's accent.
+
+;0x3462136B=~z~Well, I ain't taking the subway if that's what you thinking.
+0x3462136B=~z~Well, I ain't taking the subway if that's what you thinking.
+
+;0x349B9F38=GCC_ACT_PCA_HAT_BAD
+0x349B9F38=GCC_ACT_PCA_HAT_BAD
+
+;0x35F49ECF=~z~Your face looks so much more handsome without those glasses, Niko.
+0x35F49ECF=~z~Your face looks so much more handsome without those glasses, Niko.
+
+;0x37EC9C50=~z~I enjoy seeing you in that designer stuff, Niko.
+0x37EC9C50=~z~I enjoy seeing you in that designer stuff, Niko.
+
+;0x3859B1B6=GCC_ACT_PCA_CLOTHES_GOOD
+0x3859B1B6=GCC_ACT_PCA_CLOTHES_GOOD
+
+;0x38949BC4=~z~Well, how we going to get where we going?
+0x38949BC4=~z~Well, how we going to get where we going?
+
+;0x39601716=GCC_ACT_INTRO
+0x39601716=GCC_ACT_INTRO
+
+;0x3A546897=GCC_ACT_PCA_TORSO_GOOD
+0x3A546897=GCC_ACT_PCA_TORSO_GOOD
+
+;0x3A5F0EFC=GCC_ACT_PCA_NOHAT_BAD
+0x3A5F0EFC=GCC_ACT_PCA_NOHAT_BAD
+
+;0x3C0DA404=010
+0x3C0DA404=010
+
+;0x3CD6A448=~z~We taking a taxi, Niko.
+0x3CD6A448=~z~We taking a taxi, Niko.
+
+;0x3D238DAD=100
+0x3D238DAD=100
+
+;0x3E217CD7=100
+0x3E217CD7=100
+
+;0x3E69A14A=GCC_ACT_PCA_HINTA
+0x3E69A14A=GCC_ACT_PCA_HINTA
+
+;0x3EB40F25=~z~Ohh. I like the new car. It can't have been cheap.
+0x3EB40F25=~z~Ohh. I like the new car. It can't have been cheap.
+
+;0x3ECFDFA7=100
+0x3ECFDFA7=100
+
+;0x3F83A342=~z~Is playing darts how you get girls to bed where you from? Population must be real low there.
+0x3F83A342=~z~Is playing darts how you get girls to bed where you from? Population must be real low there.
+
+;0x408A0191=GCC_ACT_ARRIVEC_NOTLATE
+0x408A0191=GCC_ACT_ARRIVEC_NOTLATE
+
+;0x41553908=GCC_ACT_PCA_NOHAT_GOOD
+0x41553908=GCC_ACT_PCA_NOHAT_GOOD
+
+;0x41C2F05B=GCC_ACT_PCA_CAR_OKAY
+0x41C2F05B=GCC_ACT_PCA_CAR_OKAY
+
+;0x41D1BEE5=~z~Take me somewhere, Niko.
+0x41D1BEE5=~z~Take me somewhere, Niko.
+
+;0x437572BF=010
+0x437572BF=010
+
+;0x438DEE5B=~z~You ain't going to try to get with me in the restroom is you?
+0x438DEE5B=~z~You ain't going to try to get with me in the restroom is you?
+
+;0x44509BB7=~z~Shame you stopped wearing those new glasses, I liked them.
+0x44509BB7=~z~Shame you stopped wearing those new glasses, I liked them.
+
+;0x468DE8E2=GCC_ACT_ARRIVE_DARTS_BEFORE
+0x468DE8E2=GCC_ACT_ARRIVE_DARTS_BEFORE
+
+;0x46D07FDA=~z~We can get muy borracho up in this place.
+0x46D07FDA=~z~We can get muy borracho up in this place.
+
+;0x470C6260=GCC_ACT_ARRIVE_STRIP_BEFORE
+0x470C6260=GCC_ACT_ARRIVE_STRIP_BEFORE
+
+;0x474522CB=~z~Where your car, Niko? You come on foot?
+0x474522CB=~z~Where your car, Niko? You come on foot?
+
+;0x48230FAA=~z~I don't like that new top, Niko. You should spend some more money on your clothes.
+0x48230FAA=~z~I don't like that new top, Niko. You should spend some more money on your clothes.
+
+;0x48662289=~z~This a nice new expensive car, Niko.
+0x48662289=~z~This a nice new expensive car, Niko.
+
+;0x48BFA6CC=GCC_ACT_PCA_SAME_BAD
+0x48BFA6CC=GCC_ACT_PCA_SAME_BAD
+
+;0x494318F9=GCC_ACT_CAR_NEW_GOOD
+0x494318F9=GCC_ACT_CAR_NEW_GOOD
+
+;0x49643F3F=~z~You make me look good when you stand next to me in that outfit.
+0x49643F3F=~z~You make me look good when you stand next to me in that outfit.
+
+;0x49B9CD49=100
+0x49B9CD49=100
+
+;0x4A093EB9=~z~Where you got your ride parked?
+0x4A093EB9=~z~Where you got your ride parked?
+
+;0x4DBE4D6A=~z~Niko, you need a serious style rethink, okay?
+0x4DBE4D6A=~z~Niko, you need a serious style rethink, okay?
+
+;0x4E6E975C=~z~Carmen's going to give you some advice. You want to impress a girl, you get a nice car.
+0x4E6E975C=~z~Carmen's going to give you some advice. You want to impress a girl, you get a nice car.
+
+;0x4E7C8D32=~z~No wonder you keeping Carmen waiting, you don't have no car. Let's go.
+0x4E7C8D32=~z~No wonder you keeping Carmen waiting, you don't have no car. Let's go.
+
+;0x4E8AB02B=~z~Your face don't look so intelligent without those old glasses, Niko.
+0x4E8AB02B=~z~Your face don't look so intelligent without those old glasses, Niko.
+
+;0x4E9D3578=GCC_ACT_CLOTHES_BAD
+0x4E9D3578=GCC_ACT_CLOTHES_BAD
+
+;0x4F6D4949=GCC_ACT_ARRIVE_SHOW_CABARET
+0x4F6D4949=GCC_ACT_ARRIVE_SHOW_CABARET
+
+;0x500691AF=~z~Finally here, are you, Niko? Come on.
+0x500691AF=~z~Finally here, are you, Niko? Come on.
+
+;0x515BD44A=100
+0x515BD44A=100
+
+;0x5335C51D=100
+0x5335C51D=100
+
+;0x5342D864=~z~Carman ain't feeling this vibe, baby.
+0x5342D864=~z~Carman ain't feeling this vibe, baby.
+
+;0x53A8848E=100
+0x53A8848E=100
+
+;0x5415F4CD=GCC_ACT_CAR_BAD
+0x5415F4CD=GCC_ACT_CAR_BAD
+
+;0x547D0997=~z~I used to play darts with mi Papi.
+0x547D0997=~z~I used to play darts with mi Papi.
+
+;0x5558A98B=GCC_ACT_ARRIVE_POOL_BEFORE
+0x5558A98B=GCC_ACT_ARRIVE_POOL_BEFORE
+
+;0x55CB2402=100
+0x55CB2402=100
+
+;0x56479EBB=100
+0x56479EBB=100
+
+;0x59D59D3A=~z~If you ain't gonna spend a lot of money on a hat, there ain't no point in spending any money at all.
+0x59D59D3A=~z~If you ain't gonna spend a lot of money on a hat, there ain't no point in spending any money at all.
+
+;0x59DCC189=010
+0x59DCC189=010
+
+;0x5C2E8484=~z~This car wasn't cool the last time I saw it, and it ain't cool now.
+0x5C2E8484=~z~This car wasn't cool the last time I saw it, and it ain't cool now.
+
+;0x5E3213A5=010
+0x5E3213A5=010
+
+;0x6041E758=100
+0x6041E758=100
+
+;0x60DCED67=~z~I'm going to be honest about your pants, Niko. They ain't looking good.
+0x60DCED67=~z~I'm going to be honest about your pants, Niko. They ain't looking good.
+
+;0x6123F426=~z~Carmen don't wanna do this now.
+0x6123F426=~z~Carmen don't wanna do this now.
+
+;0x61C03522=~z~Carmen don't like waiting, remember that, Niko. Come on.
+0x61C03522=~z~Carmen don't like waiting, remember that, Niko. Come on.
+
+;0x6256BB40=GCC_ACT_DIFF_ACTIVITY_NO
+0x6256BB40=GCC_ACT_DIFF_ACTIVITY_NO
+
+;0x627CC7AF=~z~You get me drunk enough, you going to get real lucky, Niko.
+0x627CC7AF=~z~You get me drunk enough, you going to get real lucky, Niko.
+
+;0x62B96028=GCC_ACT_PCA_GLASSHAT_BAD
+0x62B96028=GCC_ACT_PCA_GLASSHAT_BAD
+
+;0x63094DA4=~z~If you ain't gonna take Carmen home, then she gonna take herself. See you around, Niko.
+0x63094DA4=~z~If you ain't gonna take Carmen home, then she gonna take herself. See you around, Niko.
+
+;0x631F7924=~z~It's a good thing you ain't wearing those glasses, Niko. You got a much better chance of getting lucky.
+0x631F7924=~z~It's a good thing you ain't wearing those glasses, Niko. You got a much better chance of getting lucky.
+
+;0x63C2B83B=100
+0x63C2B83B=100
+
+;0x6575FB8C=~z~I'm digging the new shoes, Niko.
+0x6575FB8C=~z~I'm digging the new shoes, Niko.
+
+;0x6590C380=~z~If you spending money on Carmen, baby, then she knows you really care about her.
+0x6590C380=~z~If you spending money on Carmen, baby, then she knows you really care about her.
+
+;0x65AE48F8=~z~I don't know. The rest of my shit's at the dry cleaner.
+0x65AE48F8=~z~I don't know. The rest of my shit's at the dry cleaner.
+
+;0x6624F11F=~z~You could say that.
+0x6624F11F=~z~You could say that.
+
+;0x663EAD1A=~z~You trying to get me into bed by playing darts? This is real interesting.
+0x663EAD1A=~z~You trying to get me into bed by playing darts? This is real interesting.
+
+;0x66B2F534=GCC_ACT_ARRIVE_LATE
+0x66B2F534=GCC_ACT_ARRIVE_LATE
+
+;0x676AD3D5=~z~Let's go get our drunk on, Niko.
+0x676AD3D5=~z~Let's go get our drunk on, Niko.
+
+;0x69BC163F=010
+0x69BC163F=010
+
+;0x6A53CECB=010
+0x6A53CECB=010
+
+;0x6CAEBC31=~z~We back at the pool table? You can't get much action if you do this with all the girls.
+0x6CAEBC31=~z~We back at the pool table? You can't get much action if you do this with all the girls.
+
+;0x6DB7FD3C=GCC_ACT_CAR_SAME_GOOD
+0x6DB7FD3C=GCC_ACT_CAR_SAME_GOOD
+
+;0x6E7BA91E=~z~This car ain't gonna help you get laid, Niko.
+0x6E7BA91E=~z~This car ain't gonna help you get laid, Niko.
+
+;0x6ED6D5C9=100
+0x6ED6D5C9=100
+
+;0x6F0560C0=~z~This a good place, Niko. Come on.
+0x6F0560C0=~z~This a good place, Niko. Come on.
+
+;0x6F1687C2=100
+0x6F1687C2=100
+
+;0x6F461507=GCC_ACT_CLOTHES_GOOD
+0x6F461507=GCC_ACT_CLOTHES_GOOD
+
+;0x70F29333=GCC_ACT_BORED_LEAVING
+0x70F29333=GCC_ACT_BORED_LEAVING
+
+;0x7257D651=~z~You late, Niko. Come on.
+0x7257D651=~z~You late, Niko. Come on.
+
+;0x732F995E=100
+0x732F995E=100
+
+;0x74B8268F=100
+0x74B8268F=100
+
+;0x751B244A=~z~That new top is nice Niko.
+0x751B244A=~z~That new top is nice Niko.
+
+;0x75590EEC=~z~You want to play darts again because it was so fun last time?
+0x75590EEC=~z~You want to play darts again because it was so fun last time?
+
+;0x7561B1D4=GCC_ACT_PCA_CAR_BAD
+0x7561B1D4=GCC_ACT_PCA_CAR_BAD
+
+;0x758D701A=~z~We going to see any celebrities up in here?
+0x758D701A=~z~We going to see any celebrities up in here?
+
+;0x765BD7D9=GCC_ACT_CLOTHES_OKAY
+0x765BD7D9=GCC_ACT_CLOTHES_OKAY
+
+;0x76C178C1=GCC_ACT_ARRIVE_BOWL_BEFORE
+0x76C178C1=GCC_ACT_ARRIVE_BOWL_BEFORE
+
+;0x76C3D948=100
+0x76C3D948=100
+
+;0x76F0D0B5=~z~Pool again, Niko? You don't got much of a clue about women, do you?
+0x76F0D0B5=~z~Pool again, Niko? You don't got much of a clue about women, do you?
+
+;0x77C8595E=GCC_ACT_ARRIVE_DARTS_NOT
+0x77C8595E=GCC_ACT_ARRIVE_DARTS_NOT
+
+;0x7817C7B5=~z~Why don't you give me this car when you done with it?
+0x7817C7B5=~z~Why don't you give me this car when you done with it?
+
+;0x79D9CF2B=~z~I like your new glasses, Niko. Real classy.
+0x79D9CF2B=~z~I like your new glasses, Niko. Real classy.
+
+;0x7A3D61AC=100
+0x7A3D61AC=100
+
+;0x7B46EEEC=~z~Sometimes Carmen just wants to get drunk, baby.
+0x7B46EEEC=~z~Sometimes Carmen just wants to get drunk, baby.
+
+;0x7C08728F=~z~This new car ain't going to be helping you get lucky, that's for sure.
+0x7C08728F=~z~This new car ain't going to be helping you get lucky, that's for sure.
+
+;0x7C56A5B8=GCC_ACT_PCA_CAR_GOOD
+0x7C56A5B8=GCC_ACT_PCA_CAR_GOOD
+
+;0x7C8DDAF0=~z~No, I drive a few things.
+0x7C8DDAF0=~z~No, I drive a few things.
+
+;0x7DEDFB3F=~z~Niko, you shouldn't wear that top no more.
+0x7DEDFB3F=~z~Niko, you shouldn't wear that top no more.
+
+;0x7DFE5D1F=~z~That new hat makes you look real rich, Niko. I like it.
+0x7DFE5D1F=~z~That new hat makes you look real rich, Niko. I like it.
+
+;0x7E5BE4B5=GCC_ACT_ARRIVE_DARTS_LAST
+0x7E5BE4B5=GCC_ACT_ARRIVE_DARTS_LAST
+
+;0x7F186819=100
+0x7F186819=100
+
+;0x801457CA=~z~Everyone is jealous of Carmen when they see her sitting in this ride with you.
+0x801457CA=~z~Everyone is jealous of Carmen when they see her sitting in this ride with you.
+
+;0x802F6181=~z~I'm feeling the vibe of your hat, Niko. It's a real strong look.
+0x802F6181=~z~I'm feeling the vibe of your hat, Niko. It's a real strong look.
+
+;0x81D02546=GCC_ACT_ARRIVE_BOWL_NOT
+0x81D02546=GCC_ACT_ARRIVE_BOWL_NOT
+
+;0x84C4082D=~z~Shit, Niko. Those are some raggedy-ass clothes you wearing. What's up with that?
+0x84C4082D=~z~Shit, Niko. Those are some raggedy-ass clothes you wearing. What's up with that?
+
+;0x856B8DEF=100
+0x856B8DEF=100
+
+;0x85D16328=~z~Why ain't you bought Carmen no car, Niko?
+0x85D16328=~z~Why ain't you bought Carmen no car, Niko?
+
+;0x865DCC99=~z~It ain't bad, is it?
+0x865DCC99=~z~It ain't bad, is it?
+
+;0x86C9367D=GCC_ACT_ARRIVE_STRIP_LAST
+0x86C9367D=GCC_ACT_ARRIVE_STRIP_LAST
+
+;0x86C97DCB=~z~Niko, Carmen been waiting for you and you not even in your car. Come on.
+0x86C97DCB=~z~Niko, Carmen been waiting for you and you not even in your car. Come on.
+
+;0x8781F509=100
+0x8781F509=100
+
+;0x878944CA=100
+0x878944CA=100
+
+;0x890DB865=100
+0x890DB865=100
+
+;0x8AA25085=~z~Hey, Niko. You taking Carmen somewhere good?
+0x8AA25085=~z~Hey, Niko. You taking Carmen somewhere good?
+
+;0x8B63C16D=~z~I ain't walking nowhere, Niko.
+0x8B63C16D=~z~I ain't walking nowhere, Niko.
+
+;0x8BD9F383=010
+0x8BD9F383=010
+
+;0x8BDF63E5=~z~I hate riding in this shitty car.
+0x8BDF63E5=~z~I hate riding in this shitty car.
+
+;0x8C2401D2=~z~You don't look too good in that hat, Niko. It makes you look poor.
+0x8C2401D2=~z~You don't look too good in that hat, Niko. It makes you look poor.
+
+;0x8D5AF257=~z~There's something about being driven in a car like this that gets a girl excited.
+0x8D5AF257=~z~There's something about being driven in a car like this that gets a girl excited.
+
+;0x8FBE58FC=~z~I ain't never heard of this shit.
+0x8FBE58FC=~z~I ain't never heard of this shit.
+
+;0x8FF28C45=100
+0x8FF28C45=100
+
+;0x91283034=100
+0x91283034=100
+
+;0x9296882E=~z~Carmen ain't having no fun. Take her home.
+0x9296882E=~z~Carmen ain't having no fun. Take her home.
+
+;0x93148579=100
+0x93148579=100
+
+;0x934920FC=~z~You know, maybe I prefer to stay home than be seen out in this piece of shit.
+0x934920FC=~z~You know, maybe I prefer to stay home than be seen out in this piece of shit.
+
+;0x93BFB93F=~z~I see you be spending money on cars for yourself instead of gifts for Carmen.
+0x93BFB93F=~z~I see you be spending money on cars for yourself instead of gifts for Carmen.
+
+;0x94293578=100
+0x94293578=100
+
+;0x950E1D55=~z~Why'd you stop wearing that expensive hat, Niko?
+0x950E1D55=~z~Why'd you stop wearing that expensive hat, Niko?
+
+;0x95204647=GCC_ACT_PCA_CLOTHES_BAD
+0x95204647=GCC_ACT_PCA_CLOTHES_BAD
+
+;0x97A80455=100
+0x97A80455=100
+
+;0x97A903D5=~z~I thought you might like to take public transport. I guess I was wrong.
+0x97A903D5=~z~I thought you might like to take public transport. I guess I was wrong.
+
+;0x98286F7D=010
+0x98286F7D=010
+
+;0x997A21A2=~z~What is it about you and strippers, Niko? Carmen is so much sexier than them.
+0x997A21A2=~z~What is it about you and strippers, Niko? Carmen is so much sexier than them.
+
+;0x998BAFEC=GCC_ACT_ARRIVE_STANDARD
+0x998BAFEC=GCC_ACT_ARRIVE_STANDARD
+
+;0x9AE3C595=100
+0x9AE3C595=100
+
+;0x9BC1A972=100
+0x9BC1A972=100
+
+;0x9C83FDD4=100
+0x9C83FDD4=100
+
+;0x9D03592D=~z~Pool really ain't Carmen's game Niko. She don't like playing it the whole time.
+0x9D03592D=~z~Pool really ain't Carmen's game Niko. She don't like playing it the whole time.
+
+;0x9D1CBDDE=GCC_ACT_ARRIVE_PUB_FAVOURITE
+0x9D1CBDDE=GCC_ACT_ARRIVE_PUB_FAVOURITE
+
+;0x9DBA49C4=100
+0x9DBA49C4=100
+
+;0x9DF6F72E=~z~Alright, Niko. Let's go.
+0x9DF6F72E=~z~Alright, Niko. Let's go.
+
+;0x9EE40606=GCC_ACT_CAR_GOOD
+0x9EE40606=GCC_ACT_CAR_GOOD
+
+;0xA100ECA7=~z~Come on, where the car at?
+0xA100ECA7=~z~Come on, where the car at?
+
+;0xA1F67538=GCC_ACT_BORED_TAKEHOME
+0xA1F67538=GCC_ACT_BORED_TAKEHOME
+
+;0xA2F11A90=~z~This bowling really gets me worked up for what we're going to do after.
+0xA2F11A90=~z~This bowling really gets me worked up for what we're going to do after.
+
+;0xA337B9A8=~z~I liked that hat you used to wear.
+0xA337B9A8=~z~I liked that hat you used to wear.
+
+;0xA5755CAA=~z~I like the car, Niko. It's real sexy.
+0xA5755CAA=~z~I like the car, Niko. It's real sexy.
+
+;0xA650F486=100
+0xA650F486=100
+
+;0xA770D6BF=~z~Niko, shoes is the first thing a girl gonna look at on her man. You should get some better ones.
+0xA770D6BF=~z~Niko, shoes is the first thing a girl gonna look at on her man. You should get some better ones.
+
+;0xA9DDEFCF=GCC_ACT_CAR_SAME_BAD
+0xA9DDEFCF=GCC_ACT_CAR_SAME_BAD
+
+;0xABC5F052=100
+0xABC5F052=100
+
+;0xABD08FBF=100
+0xABD08FBF=100
+
+;0xAD3C98CC=~z~This ride is okay, is it the only thing you drive?
+0xAD3C98CC=~z~This ride is okay, is it the only thing you drive?
+
+;0xAD3DDCD8=GCC_ACT_ARRIVE_PUB_GENERIC
+0xAD3DDCD8=GCC_ACT_ARRIVE_PUB_GENERIC
+
+;0xAD9B24E9=100
+0xAD9B24E9=100
+
+;0xADACFA80=~z~Carmen getting real bored of pool, Niko.
+0xADACFA80=~z~Carmen getting real bored of pool, Niko.
+
+;0xAE58293E=100
+0xAE58293E=100
+
+;0xAFA15A84=GCC_ACT_ARRIVE_SHOW_K_WILL
+0xAFA15A84=GCC_ACT_ARRIVE_SHOW_K_WILL
+
+;0xAFDF1EE9=100
+0xAFDF1EE9=100
+
+;0xB14BE120=100
+0xB14BE120=100
+
+;0xB2779164=~z~Please tell me you dry cleaned these clothes since I last seen you?
+0xB2779164=~z~Please tell me you dry cleaned these clothes since I last seen you?
+
+;0xB2AE656F=100
+0xB2AE656F=100
+
+;0xB2BF8F28=100
+0xB2BF8F28=100
+
+;0xB2DC09EE=~z~It's a piece of crap. My other cars are in the shop. I like your value system, real simple.
+0xB2DC09EE=~z~It's a piece of crap. My other cars are in the shop. I like your value system, real simple.
+
+;0xB42F480F=~z~We going to see that fat English guy? He supposed to be funny?
+0xB42F480F=~z~We going to see that fat English guy? He supposed to be funny?
+
+;0xB4357A32=~z~Thanks, I do okay. You look good too.
+0xB4357A32=~z~Thanks, I do okay. You look good too.
+
+;0xB56ABF83=~z~We bowling again, Niko? That's gonna be great foreplay.
+0xB56ABF83=~z~We bowling again, Niko? That's gonna be great foreplay.
+
+;0xB63A03DB=GCC_ACT_PCA_CLOTHES_OKAY
+0xB63A03DB=GCC_ACT_PCA_CLOTHES_OKAY
+
+;0xB74EE907=~z~You having financial trouble, that's why you have to get this crap car?
+0xB74EE907=~z~You having financial trouble, that's why you have to get this crap car?
+
+;0xB845BCA5=~z~Yo, this car remind me of one my papi drives.
+0xB845BCA5=~z~Yo, this car remind me of one my papi drives.
+
+;0xB87DD3FC=~z~Carmen's bored, she ain't into this shit. Take her home now.
+0xB87DD3FC=~z~Carmen's bored, she ain't into this shit. Take her home now.
+
+;0xB950ED39=~z~Niko. This is one fine automobile. You are doing well for yourself.
+0xB950ED39=~z~Niko. This is one fine automobile. You are doing well for yourself.
+
+;0xB99AFB13=~z~There ain't no point in trying to save money on your shoes, Niko. Girl going to be able to tell.
+0xB99AFB13=~z~There ain't no point in trying to save money on your shoes, Niko. Girl going to be able to tell.
+
+;0xBA0B6D6A=100
+0xBA0B6D6A=100
+
+;0xBA0E2DB8=~z~Hey Niko, where you got your car?
+0xBA0E2DB8=~z~Hey Niko, where you got your car?
+
+;0xBA1E0578=~z~Niko, you ride a motorbike. You like the danger, don't ya?
+0xBA1E0578=~z~Niko, you ride a motorbike. You like the danger, don't ya?
+
+;0xBA8B6F9B=GCC_ACT_ARRIVE_SHOW_RGERV
+0xBA8B6F9B=GCC_ACT_ARRIVE_SHOW_RGERV
+
+;0xBB69E74B=GCC_ACT_PCA_GLASSHAT_GOOD
+0xBB69E74B=GCC_ACT_PCA_GLASSHAT_GOOD
+
+;0xBB80C7B8=~z~Hey, you dress real sharp. You must be doing well for yourself.
+0xBB80C7B8=~z~Hey, you dress real sharp. You must be doing well for yourself.
+
+;0xBC83A5AD=100
+0xBC83A5AD=100
+
+;0xBDB24723=~z~I can think of much more fun things to be doing with Carmen than playing her at pool.
+0xBDB24723=~z~I can think of much more fun things to be doing with Carmen than playing her at pool.
+
+;0xBE1C5AAA=GCC_ACT_ARRIVE_FASTFOOD
+0xBE1C5AAA=GCC_ACT_ARRIVE_FASTFOOD
+
+;0xC00BF00F=~z~You look okay, I guess
+0xC00BF00F=~z~You look okay, I guess
+
+;0xC0418329=GCC_ACT_PCA_NOGLASS_GOOD
+0xC0418329=GCC_ACT_PCA_NOGLASS_GOOD
+
+;0xC08D6364=~z~Ahh, thanks... I guess.
+0xC08D6364=~z~Ahh, thanks... I guess.
+
+;0xC125FAA9=~z~Can't you tell, baby? Carmen is into having a good time. She likes the high life, but she still a South Bohan girl, you know?
+0xC125FAA9=~z~Can't you tell, baby? Carmen is into having a good time. She likes the high life, but she still a South Bohan girl, you know?
+
+;0xC226AA3F=100
+0xC226AA3F=100
+
+;0xC3300090=GCC_ACT_PCA_CAR_BIKE
+0xC3300090=GCC_ACT_PCA_CAR_BIKE
+
+;0xC396413F=~z~I like the new top, Niko. How much did it cost?
+0xC396413F=~z~I like the new top, Niko. How much did it cost?
+
+;0xC42C41DC=~z~Niko, where your car at?
+0xC42C41DC=~z~Niko, where your car at?
+
+;0xC488823C=010
+0xC488823C=010
+
+;0xC4CED5B7=~z~I feel like I'm going out with my papi when you pick me up in this car.
+0xC4CED5B7=~z~I feel like I'm going out with my papi when you pick me up in this car.
+
+;0xC4E142E0=100
+0xC4E142E0=100
+
+;0xC562BA9A=100
+0xC562BA9A=100
+
+;0xC5BA0922=~z~This stuff is just so good, isn't it? I hope nobody sees us.
+0xC5BA0922=~z~This stuff is just so good, isn't it? I hope nobody sees us.
+
+;0xC6FD8B80=100
+0xC6FD8B80=100
+
+;0xC7314502=~z~The girls up in here are real sexy, Niko.
+0xC7314502=~z~The girls up in here are real sexy, Niko.
+
+;0xC798CD1E=100
+0xC798CD1E=100
+
+;0xC96709AF=100
+0xC96709AF=100
+
+;0xC9BD8A3C=~z~I am glad to see you didn't try to save no money on those new pants of yours.
+0xC9BD8A3C=~z~I am glad to see you didn't try to save no money on those new pants of yours.
+
+;0xCA36B4C5=100
+0xCA36B4C5=100
+
+;0xCAB770E5=~z~You look real sophisticated in them new glasses, baby.
+0xCAB770E5=~z~You look real sophisticated in them new glasses, baby.
+
+;0xCB6A48C0=~z~Them clothes ain't doing no favors for your sex life.
+0xCB6A48C0=~z~Them clothes ain't doing no favors for your sex life.
+
+;0xCBABC97D=~z~Thank Jesus you got rid of that stupid hat.
+0xCBABC97D=~z~Thank Jesus you got rid of that stupid hat.
+
+;0xCE13DD31=~z~Niko. Carmen don't like bowling the whole time, comprende?
+0xCE13DD31=~z~Niko. Carmen don't like bowling the whole time, comprende?
+
+;0xCF55B030=GCC_ACT_ARRIVE_BOWL_LAST
+0xCF55B030=GCC_ACT_ARRIVE_BOWL_LAST
+
+;0xD02FE169=~z~Baby, you always got to be taking Carmen to the bowling alley?
+0xD02FE169=~z~Baby, you always got to be taking Carmen to the bowling alley?
+
+;0xD0FF9CCB=100
+0xD0FF9CCB=100
+
+;0xD1553EBC=~z~So, Carmen, what're you into?
+0xD1553EBC=~z~So, Carmen, what're you into?
+
+;0xD1BA8AAE=~z~If you going to try to do stuff to me under the table. You better do it right.
+0xD1BA8AAE=~z~If you going to try to do stuff to me under the table. You better do it right.
+
+;0xD390E8D6=~z~Shit, man. Those are some wack threads you wearing. What's the deal?
+0xD390E8D6=~z~Shit, man. Those are some wack threads you wearing. What's the deal?
+
+;0xD3F89995=~z~Carmen was about to call someone else. You here now though, come on.
+0xD3F89995=~z~Carmen was about to call someone else. You here now though, come on.
+
+;0xD54EB6B8=100
+0xD54EB6B8=100
+
+;0xD556FC24=~z~My tit job is so much better than the ones these bitches have got.
+0xD556FC24=~z~My tit job is so much better than the ones these bitches have got.
+
+;0xD58EE1BD=~z~I could be a stripper if I wanted the easy money. I got the body for it.
+0xD58EE1BD=~z~I could be a stripper if I wanted the easy money. I got the body for it.
+
+;0xDAA1860E=100
+0xDAA1860E=100
+
+;0xDAD8484E=GCC_ACT_PCA_FEET_BAD
+0xDAD8484E=GCC_ACT_PCA_FEET_BAD
+
+;0xDC075534=100
+0xDC075534=100
+
+;0xDD796410=~z~I like classy places but these people be all old and shit.
+0xDD796410=~z~I like classy places but these people be all old and shit.
+
+;0xDDBABB4D=GCC_ACT_CLOTHES_UNUSUAL
+0xDDBABB4D=GCC_ACT_CLOTHES_UNUSUAL
+
+;0xDDD22308=GCC_ACT_ARRIVE_POOL_LAST
+0xDDD22308=GCC_ACT_ARRIVE_POOL_LAST
+
+;0xDDF0F560=~z~What the fuck is this shit?
+0xDDF0F560=~z~What the fuck is this shit?
+
+;0xDF6DEBFC=GCC_ACT_PCA_LEGS_BAD
+0xDF6DEBFC=GCC_ACT_PCA_LEGS_BAD
+
+;0xE35987DE=100
+0xE35987DE=100
+
+;0xE3B798E1=~z~This place really gets me excited Niko.
+0xE3B798E1=~z~This place really gets me excited Niko.
+
+;0xE467377B=~z~You really like these strippers, don't you, Niko?
+0xE467377B=~z~You really like these strippers, don't you, Niko?
+
+;0xE46D754F=~z~I like the way you wearing this outfit, Niko.
+0xE46D754F=~z~I like the way you wearing this outfit, Niko.
+
+;0xE4A26B4A=GCC_ACT_ARRIVE_STRIP_NOT
+0xE4A26B4A=GCC_ACT_ARRIVE_STRIP_NOT
+
+;0xE599459B=~z~Why you come to pick me up in such a shit car, Niko?
+0xE599459B=~z~Why you come to pick me up in such a shit car, Niko?
+
+;0xE5C3501B=GCC_ACT_PCA_CLOTHES_UNUSAL
+0xE5C3501B=GCC_ACT_PCA_CLOTHES_UNUSAL
+
+;0xE87E41DB=~z~We bowling now, Niko? This the 1950s?
+0xE87E41DB=~z~We bowling now, Niko? This the 1950s?
+
+;0xE8F5322B=~z~You too busy doing other shit that we can't even get to the show. Nice one, Niko.
+0xE8F5322B=~z~You too busy doing other shit that we can't even get to the show. Nice one, Niko.
+
+;0xEA31864E=~z~Why don't you just get some new clothes, Niko? Some nice ones, maybe.
+0xEA31864E=~z~Why don't you just get some new clothes, Niko? Some nice ones, maybe.
+
+;0xECE1063A=~z~You wearing that outfit again. I like to see you in a label.
+0xECE1063A=~z~You wearing that outfit again. I like to see you in a label.
+
+;0xEF904CBC=GCC_ACT_CAR_NONE2
+0xEF904CBC=GCC_ACT_CAR_NONE2
+
+;0xF06F1B51=~z~You don't look like no biker, Niko, and I should know. Come on.
+0xF06F1B51=~z~You don't look like no biker, Niko, and I should know. Come on.
+
+;0xF11D2E53=~z~Maybe you pick girls up from the retirement village in this car, but Carmen no like it.
+0xF11D2E53=~z~Maybe you pick girls up from the retirement village in this car, but Carmen no like it.
+
+;0xF2AD7490=GCC_ACT_PCA_FEET_GOOD
+0xF2AD7490=GCC_ACT_PCA_FEET_GOOD
+
+;0xF58BE1B8=100
+0xF58BE1B8=100
+
+;0xF739D82B=GCC_ACT_ARRIVE_POOL_NOT
+0xF739D82B=GCC_ACT_ARRIVE_POOL_NOT
+
+;0xF8A42333=~z~As a nurse, I have to tell you that those clothes are a health risk.
+0xF8A42333=~z~As a nurse, I have to tell you that those clothes are a health risk.
+
+;0xF9B7B763=GCC_ACT_CAR_OKAY
+0xF9B7B763=GCC_ACT_CAR_OKAY
+
+;0xFA8BDE5A=100
+0xFA8BDE5A=100
+
+;0xFBE45264=100
+0xFBE45264=100
+
+;0xFBFB75A4=~z~I like it how even celebrities eat fast-food. It's food for everyone no matter who you are.
+0xFBFB75A4=~z~I like it how even celebrities eat fast-food. It's food for everyone no matter who you are.
+
+;0xFC96E7A5=GCC_ACT_PCA_TORSO_BAD
+0xFC96E7A5=GCC_ACT_PCA_TORSO_BAD
+
+;0xFE973DB3=GCC_ACT_PCA_INTRO
+0xFE973DB3=GCC_ACT_PCA_INTRO
+
+;0xFF2F5E9F=~z~You were fucking around so much we missed the show, Niko.
+0xFF2F5E9F=~z~You were fucking around so much we missed the show, Niko.
+

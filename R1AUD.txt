@@ -1,0 +1,859 @@
+﻿[R1AUD]
+;0x032477B9=R1_BV_XXX1
+0x032477B9=R1_BV_XXX1
+
+;0x037C1C26=~z~You ever been?
+0x037C1C26=~z~You ever been?
+
+;0x0496CBC1=~z~Daddy's back, you bitches...
+0x0496CBC1=~z~Daddy's back, you bitches...
+
+;0x0518B400=~z~-Welcome to America! ~n~~c~-Good to see you, cousin.~s~
+0x0518B400=~z~-Welcome to America! ~n~~c~-Good to see you, cousin.~s~
+
+;0x051DE875=~z~Mansions in Berchem,
+0x051DE875=~z~Mansions in Berchem,
+
+;0x05C520B8=~z~Yeah.
+0x05C520B8=~z~Yeah.
+
+;0x06233B74=R1_BL
+0x06233B74=R1_BL
+
+;0x065AEC1B=R1_BC
+0x065AEC1B=R1_BC
+
+;0x06C53AB6=SFX_PAUSE_4000
+0x06C53AB6=SFX_PAUSE_4000
+
+;0x07583312=~z~every possible choice.
+0x07583312=~z~every possible choice.
+
+;0x08849679=~z~Fucking terrorists.
+0x08849679=~z~Fucking terrorists.
+
+;0x09407CB1=~z~Ah ignore him. Come on we got to get this thing ready before we dock. Let's go.
+0x09407CB1=~z~Ah ignore him. Come on we got to get this thing ready before we dock. Let's go.
+
+;0x09421A36=R1_BN_XXX2
+0x09421A36=R1_BN_XXX2
+
+;0x0971FD31=~z~you ever had two women at once?
+0x0971FD31=~z~you ever had two women at once?
+
+;0x09D65247=R1_BL
+0x09D65247=R1_BL
+
+;0x0AF40AEB=~z~Another time.
+0x0AF40AEB=~z~Another time.
+
+;0x0BAA8216=~z~Our country has women too.
+0x0BAA8216=~z~Our country has women too.
+
+;0x0C6B3D40=R1_BB
+0x0C6B3D40=R1_BB
+
+;0x0C7B0343=~z~it's been too long...
+0x0C7B0343=~z~it's been too long...
+
+;0x0C857249=~z~We are passing the cab office, Niko. This is the business that will take us to the top of the pile.
+0x0C857249=~z~We are passing the cab office, Niko. This is the business that will take us to the top of the pile.
+
+;0x0C9A9177=R1_BF_XXX2
+0x0C9A9177=R1_BF_XXX2
+
+;0x0D4F8A82=~z~Oh, damn... damn, damn, damn!
+0x0D4F8A82=~z~Oh, damn... damn, damn, damn!
+
+;0x0DB5F350=~z~I always wanted to make it big... own a nice place, get a dog, a house...
+0x0DB5F350=~z~I always wanted to make it big... own a nice place, get a dog, a house...
+
+;0x0F30DC75=~z~My cousin is here!
+0x0F30DC75=~z~My cousin is here!
+
+;0x0F8615CB=~z~War is where the young and stupid are tricked by the old and bitter into killing each other.
+0x0F8615CB=~z~War is where the young and stupid are tricked by the old and bitter into killing each other.
+
+;0x11D76792=~z~-Just take over the world someplace else, alright?~n~-Yeah, buddy!
+0x11D76792=~z~-Just take over the world someplace else, alright?~n~-Yeah, buddy!
+
+;0x12A71865=~z~all I hear about is Mr. Big, Mr. Roman, living the American dream.
+0x12A71865=~z~all I hear about is Mr. Big, Mr. Roman, living the American dream.
+
+;0x135504E3=~z~penthouse in Algonquin...
+0x135504E3=~z~penthouse in Algonquin...
+
+;0x13E94C34=~z~The city is like a big Uder Milken Ice Cream shop: thirty-six flavors of titty.
+0x13E94C34=~z~The city is like a big Uder Milken Ice Cream shop: thirty-six flavors of titty.
+
+;0x16C232F4=~z~Why don't you show me around the city?
+0x16C232F4=~z~Why don't you show me around the city?
+
+;0x177D3466=~z~What?
+0x177D3466=~z~What?
+
+;0x1A52207D=R1_BG
+0x1A52207D=R1_BG
+
+;0x1AD10EF4=~z~The mansion is coming, cousin. That's the dream... follow me.
+0x1AD10EF4=~z~The mansion is coming, cousin. That's the dream... follow me.
+
+;0x1B1ACBDB=SFX_PAUSE_1000
+0x1B1ACBDB=SFX_PAUSE_1000
+
+;0x1B7CEE3D=R1_BR
+0x1B7CEE3D=R1_BR
+
+;0x1CA6292F=~z~Niko. Give me a hug. Good to have you here cousin... I've got something for you.
+0x1CA6292F=~z~Niko. Give me a hug. Good to have you here cousin... I've got something for you.
+
+;0x1D279514=~z~Immigrants here do not make it very far from the boats they come in on.
+0x1D279514=~z~Immigrants here do not make it very far from the boats they come in on.
+
+;0x1D3BB136=~z~I was very young, and very angry.
+0x1D3BB136=~z~I was very young, and very angry.
+
+;0x1DAD3F84=R1_BO
+0x1DAD3F84=R1_BO
+
+;0x1DE42689=~z~Yes, but only locals.
+0x1DE42689=~z~Yes, but only locals.
+
+;0x1EB9A7C0=~z~you should have come out earlier.
+0x1EB9A7C0=~z~you should have come out earlier.
+
+;0x215135B9=~z~Sports cars, condos, women, money, the beach...
+0x215135B9=~z~Sports cars, condos, women, money, the beach...
+
+;0x2284B565=R1_BU_XXX2
+0x2284B565=R1_BU_XXX2
+
+;0x24F5CF57=~z~You, without a visa,
+0x24F5CF57=~z~You, without a visa,
+
+;0x2596C030=~z~What do you mean no?
+0x2596C030=~z~What do you mean no?
+
+;0x266AC15F=R1_BG
+0x266AC15F=R1_BG
+
+;0x26775374=R1_BN_XXX1
+0x26775374=R1_BN_XXX1
+
+;0x2832C37C=~z~What you talking about?
+0x2832C37C=~z~What you talking about?
+
+;0x2922D917=~z~Oh... shit... oh, that's not nice...
+0x2922D917=~z~Oh... shit... oh, that's not nice...
+
+;0x292CABAB=~z~... and here we are, at my place. Pull up.
+0x292CABAB=~z~... and here we are, at my place. Pull up.
+
+;0x29937788=~z~Hove Beach is our little corner of Eastern Europe.
+0x29937788=~z~Hove Beach is our little corner of Eastern Europe.
+
+;0x2A0C4F8E=R1_BH_XXX2
+0x2A0C4F8E=R1_BH_XXX2
+
+;0x2A114A0C=R1_BX
+0x2A114A0C=R1_BX
+
+;0x2C440252=~z~Maybe a little. I've been here 10 years! You can speak English.
+0x2C440252=~z~Maybe a little. I've been here 10 years! You can speak English.
+
+;0x2DE40C25=R1_BK
+0x2DE40C25=R1_BK
+
+;0x2F1D0FB7=R1_BJ
+0x2F1D0FB7=R1_BJ
+
+;0x3061F5C8=100
+0x3061F5C8=100
+
+;0x30AC513B=~z~Please don't cut my cock off, eh?
+0x30AC513B=~z~Please don't cut my cock off, eh?
+
+;0x31D9BE78=~z~No, everyone seems happy where they are.
+0x31D9BE78=~z~No, everyone seems happy where they are.
+
+;0x32329DE8=R1_BT
+0x32329DE8=R1_BT
+
+;0x323C69E4=~z~Terrorists. There's been a big scare and you can't go across the bridges so good.
+0x323C69E4=~z~Terrorists. There's been a big scare and you can't go across the bridges so good.
+
+;0x3245CED8=~z~~c~I can't prove that I have.
+0x3245CED8=~z~~c~I can't prove that I have.
+
+;0x33692CEE=100
+0x33692CEE=100
+
+;0x34717904=100010100100
+0x34717904=100010100100
+
+;0x3825654D=~z~No, I never tell you anything.
+0x3825654D=~z~No, I never tell you anything.
+
+;0x3B98A0FB=~z~-Niko! My cousin! I can't believe it! You're here!~n~-Hey!
+0x3B98A0FB=~z~-Niko! My cousin! I can't believe it! You're here!~n~-Hey!
+
+;0x3BBD7E4C=~z~Got him! Little bastard. If he paid some rent I wouldn't care...
+0x3BBD7E4C=~z~Got him! Little bastard. If he paid some rent I wouldn't care...
+
+;0x40BB7E38=R1_BI_XXX1
+0x40BB7E38=R1_BI_XXX1
+
+;0x423D6EC7=~z~Cousin,
+0x423D6EC7=~z~Cousin,
+
+;0x42810707=~z~Niko, you ever had two women at once?
+0x42810707=~z~Niko, you ever had two women at once?
+
+;0x42F9F5D6=~z~Yes, Vlad, sorry, forgive me, okay, no... no.
+0x42F9F5D6=~z~Yes, Vlad, sorry, forgive me, okay, no... no.
+
+;0x44D5FCC2=~z~In your letters to my mother, in your letters to me...
+0x44D5FCC2=~z~In your letters to my mother, in your letters to me...
+
+;0x44F361CE=~z~Yes - he's got the lot - house, women, cars, parties...
+0x44F361CE=~z~Yes - he's got the lot - house, women, cars, parties...
+
+;0x45E46E21=SFX_PAUSE_1000
+0x45E46E21=SFX_PAUSE_1000
+
+;0x464D6AD7=~z~a model on each arm -
+0x464D6AD7=~z~a model on each arm -
+
+;0x46C55151=~z~Yes, the mansion! Whoa.
+0x46C55151=~z~Yes, the mansion! Whoa.
+
+;0x4A190748=~z~So, you full of crap, or what?
+0x4A190748=~z~So, you full of crap, or what?
+
+;0x4A77FFB0=~z~Think of all the girls you've been missing out on!
+0x4A77FFB0=~z~Think of all the girls you've been missing out on!
+
+;0x4B40715D=R1_BC
+0x4B40715D=R1_BC
+
+;0x4B441C72=R1_BT
+0x4B441C72=R1_BT
+
+;0x4B7F3DD2=R1_BH
+0x4B7F3DD2=R1_BH
+
+;0x4BE18E65=~z~It was before that, two things.
+0x4BE18E65=~z~It was before that, two things.
+
+;0x4C55E4A5=~z~Drive us to our place on Mohawk, it's just up the road. I'll let you know when we're there.
+0x4C55E4A5=~z~Drive us to our place on Mohawk, it's just up the road. I'll let you know when we're there.
+
+;0x4C608BDB=~z~Where's luxury condo? Where's sports car?
+0x4C608BDB=~z~Where's luxury condo? Where's sports car?
+
+;0x4DAE050B=R1_BV_XXX2
+0x4DAE050B=R1_BV_XXX2
+
+;0x4DFBB03C=SFX_PAUSE_1000
+0x4DFBB03C=SFX_PAUSE_1000
+
+;0x4E79321F=~z~I might come back on board... or I might try to make a go of it.
+0x4E79321F=~z~I might come back on board... or I might try to make a go of it.
+
+;0x4EEBF729=~z~This is the mansion?
+0x4EEBF729=~z~This is the mansion?
+
+;0x4F979391=~z~But what about you? What about you, cousin?
+0x4F979391=~z~But what about you? What about you, cousin?
+
+;0x5013467C=R1_BO
+0x5013467C=R1_BO
+
+;0x50C2AA8F=SFX_PAUSE_1000
+0x50C2AA8F=SFX_PAUSE_1000
+
+;0x50D9A3B8=~z~Four big titties to be playing with?
+0x50D9A3B8=~z~Four big titties to be playing with?
+
+;0x50DF8C83=~z~The city is like a big Uder Milken Ice Cream shop: thirty-six flavors of titty.
+0x50DF8C83=~z~The city is like a big Uder Milken Ice Cream shop: thirty-six flavors of titty.
+
+;0x51B4819D=~z~me and my cousin Niko, rulers of the world!
+0x51B4819D=~z~me and my cousin Niko, rulers of the world!
+
+;0x524A99B3=~z~What? What about me?
+0x524A99B3=~z~What? What about me?
+
+;0x5351CF39=R1_BQ
+0x5351CF39=R1_BQ
+
+;0x54F2E288=R1_BS
+0x54F2E288=R1_BS
+
+;0x56D8A2CF=~z~Well...
+0x56D8A2CF=~z~Well...
+
+;0x570EA137=~z~Where's Barbara with big titties and Stephanie who sucks like a vacuum?
+0x570EA137=~z~Where's Barbara with big titties and Stephanie who sucks like a vacuum?
+
+;0x57138903=~z~Is just temporary for us though.
+0x57138903=~z~Is just temporary for us though.
+
+;0x58E146EF=~z~Whooh yeah! There she is... Liberty City.
+0x58E146EF=~z~Whooh yeah! There she is... Liberty City.
+
+;0x5913F5EE=~z~Maybe you should drive...
+0x5913F5EE=~z~Maybe you should drive...
+
+;0x59762762=~z~Yeah, this I know. Asshole.
+0x59762762=~z~Yeah, this I know. Asshole.
+
+;0x5A39365B=R1_BQ_XXX1
+0x5A39365B=R1_BQ_XXX1
+
+;0x5BBC9CE1=~z~I thought we were a team? ~c~Come back Niko.
+0x5BBC9CE1=~z~I thought we were a team? ~c~Come back Niko.
+
+;0x5BD64071=R1_BM_XXX1
+0x5BD64071=R1_BM_XXX1
+
+;0x5C662F6E=~z~You remember, during the war...
+0x5C662F6E=~z~You remember, during the war...
+
+;0x5D10DE82=~z~Here we have white, black,
+0x5D10DE82=~z~Here we have white, black,
+
+;0x5EC0F864=R1_BU
+0x5EC0F864=R1_BU
+
+;0x5FBD7C28=R1_BJ
+0x5FBD7C28=R1_BJ
+
+;0x614BBD63=100
+0x614BBD63=100
+
+;0x63290A18=~z~-Maybe I should.~n~-Okay!
+0x63290A18=~z~-Maybe I should.~n~-Okay!
+
+;0x63491E75=~z~so I, uh, did some dumb things and got involved with some idiots...
+0x63491E75=~z~so I, uh, did some dumb things and got involved with some idiots...
+
+;0x6555BF0D=~z~Now, maybe I have this.
+0x6555BF0D=~z~Now, maybe I have this.
+
+;0x663BCE7C=~z~~c~I thought I had died and gone to Heaven, man.
+0x663BCE7C=~z~~c~I thought I had died and gone to Heaven, man.
+
+;0x66C17566=R1_BI
+0x66C17566=R1_BI
+
+;0x66C1BD81=~z~Oh, okay, bye... yes, no, uh, okay.
+0x66C1BD81=~z~Oh, okay, bye... yes, no, uh, okay.
+
+;0x674E39BC=~z~Cousin, it's been too long... you should have come out earlier.
+0x674E39BC=~z~Cousin, it's been too long... you should have come out earlier.
+
+;0x688E7D3E=R1_BQ_XXX2
+0x688E7D3E=R1_BQ_XXX2
+
+;0x691D5EE4=R1_BS_XXX1
+0x691D5EE4=R1_BS_XXX1
+
+;0x6959381A=~z~I need to show you our place,~c~ come back Niko.
+0x6959381A=~z~I need to show you our place,~c~ come back Niko.
+
+;0x69EEFDA7=~z~Hey...
+0x69EEFDA7=~z~Hey...
+
+;0x6A336993=~z~There.
+0x6A336993=~z~There.
+
+;0x6AACCBFB=~z~we did some bad things and bad things happened to us.
+0x6AACCBFB=~z~we did some bad things and bad things happened to us.
+
+;0x6AC936C6=SFX_PAUSE_1000
+0x6AC936C6=SFX_PAUSE_1000
+
+;0x6ACEBF41=~z~people leave home to hang around the people they ran away from,~c~ very odd.
+0x6ACEBF41=~z~people leave home to hang around the people they ran away from,~c~ very odd.
+
+;0x6B0E7A7D=~z~the Puerto Ricans and the Asians, Europeans on vacation...
+0x6B0E7A7D=~z~the Puerto Ricans and the Asians, Europeans on vacation...
+
+;0x6D4C455C=~z~Here we have white, black, the Puerto Ricans and the Asians, Europeans on vacation...
+0x6D4C455C=~z~Here we have white, black, the Puerto Ricans and the Asians, Europeans on vacation...
+
+;0x6D6FDCE8=~z~What?
+0x6D6FDCE8=~z~What?
+
+;0x6DC53371=~z~Like they say, it is the land of opportunity.
+0x6DC53371=~z~Like they say, it is the land of opportunity.
+
+;0x72AE4038=~z~It reminds them of the Black Sea or something -
+0x72AE4038=~z~It reminds them of the Black Sea or something -
+
+;0x72DA0A50=~z~Yes, but only locals.
+0x72DA0A50=~z~Yes, but only locals.
+
+;0x737CA50B=~z~So good to see you cousin.
+0x737CA50B=~z~So good to see you cousin.
+
+;0x7517D3D3=~z~No, everyone seems happy where they are. It reminds them of the Black Sea or something -
+0x7517D3D3=~z~No, everyone seems happy where they are. It reminds them of the Black Sea or something -
+
+;0x755EAE83=~z~Okay. Hey is this a cab? Where's the sports car?
+0x755EAE83=~z~Okay. Hey is this a cab? Where's the sports car?
+
+;0x7719539A=~z~Where you going, cousin?~c~ Niko don't be a dick.
+0x7719539A=~z~Where you going, cousin?~c~ Niko don't be a dick.
+
+;0x79611F6C=~z~~c~ And stop with this weird behavior of yours.
+0x79611F6C=~z~~c~ And stop with this weird behavior of yours.
+
+;0x7A69D333=R1_BD
+0x7A69D333=R1_BD
+
+;0x7B826A1A=~z~So...
+0x7B826A1A=~z~So...
+
+;0x7BC77997=~z~Terrorists. There's been a big scare and you can't go across the bridges so good.
+0x7BC77997=~z~Terrorists. There's been a big scare and you can't go across the bridges so good.
+
+;0x7BDBB8AE=R1_DA
+0x7BDBB8AE=R1_DA
+
+;0x7C0C98C3=R1_BW_XXX1
+0x7C0C98C3=R1_BW_XXX1
+
+;0x7C2E0B2E=010100010100100100100100100100100100100100100010100100100100010100100100100100100100010010100100100100010100100100100100100100100100
+0x7C2E0B2E=010100010100100100100100100100100100100100100010100100100100010100100100100100100100010010100100100100010100100100100100100100100100
+
+;0x7DA96E6C=~z~What?
+0x7DA96E6C=~z~What?
+
+;0x7DB9EA09=~z~Roman?
+0x7DB9EA09=~z~Roman?
+
+;0x7F9169E6=~z~Scared Canadians, bored housewives from the Midwest - every possible choice!
+0x7F9169E6=~z~Scared Canadians, bored housewives from the Midwest - every possible choice!
+
+;0x7FD288AD=R1_BF_XXX1
+0x7FD288AD=R1_BF_XXX1
+
+;0x80E640CD=R1_CA
+0x80E640CD=R1_CA
+
+;0x812E406E=~z~Ahh, you'll be fine. Better than my Serbian.
+0x812E406E=~z~Ahh, you'll be fine. Better than my Serbian.
+
+;0x822330F0=~z~Oh, you're back. Can we go home now? ~c~ Please, important sir.
+0x822330F0=~z~Oh, you're back. Can we go home now? ~c~ Please, important sir.
+
+;0x8282AECE=~z~Uhhh... ~c~cabbages?~s~
+0x8282AECE=~z~Uhhh... ~c~cabbages?~s~
+
+;0x83357AE0=~z~But here, all I needed was one good guy.
+0x83357AE0=~z~But here, all I needed was one good guy.
+
+;0x83633418=~z~What'd you do that for? Let's go home.~c~ If that is okay with his majesty?
+0x83633418=~z~What'd you do that for? Let's go home.~c~ If that is okay with his majesty?
+
+;0x8407E160=~z~Just a temporary place.
+0x8407E160=~z~Just a temporary place.
+
+;0x84390306=R1_BI_XXX3
+0x84390306=R1_BI_XXX3
+
+;0x84FCE4D5=~z~people leave home to hang around the people they ran away from,~c~ very odd.
+0x84FCE4D5=~z~people leave home to hang around the people they ran away from,~c~ very odd.
+
+;0x851BAED3=~z~Our country has women too.
+0x851BAED3=~z~Our country has women too.
+
+;0x85209F71=~z~No.
+0x85209F71=~z~No.
+
+;0x8577FA8E=~z~Ahh, we all do dumb things... that's what makes us human.
+0x8577FA8E=~z~Ahh, we all do dumb things... that's what makes us human.
+
+;0x85D910DA=R1_BP
+0x85D910DA=R1_BP
+
+;0x866D767E=~z~Immigrants here do not make it very far from the boats they come in on.
+0x866D767E=~z~Immigrants here do not make it very far from the boats they come in on.
+
+;0x87B4BDE8=R1_EA
+0x87B4BDE8=R1_EA
+
+;0x87E18424=~z~One good guy, I could do well.
+0x87E18424=~z~One good guy, I could do well.
+
+;0x88518720=~z~Oooh, mystery man...
+0x88518720=~z~Oooh, mystery man...
+
+;0x89D2881A=~z~That's right. I got the best cockroaches, I got the best dirt!
+0x89D2881A=~z~That's right. I got the best cockroaches, I got the best dirt!
+
+;0x8B340B85=~z~then I hear you joined the merchant navy, now you're here.
+0x8B340B85=~z~then I hear you joined the merchant navy, now you're here.
+
+;0x8BB0D577=~z~Shit... I have to tell you I had quite a night last night.
+0x8BB0D577=~z~Shit... I have to tell you I had quite a night last night.
+
+;0x8CCE7F04=~z~~c~Cousin, are you running away from me as soon as you get here?
+0x8CCE7F04=~z~~c~Cousin, are you running away from me as soon as you get here?
+
+;0x8CE3C671=~z~~c~ Egomaniac!
+0x8CE3C671=~z~~c~ Egomaniac!
+
+;0x8D2CB351=010100010100100100100100100010100100010100100100100100010100010100100100100100
+0x8D2CB351=010100010100100100100100100010100100010100100100100100010100010100100100100100
+
+;0x8ED5A44C=R1_AA
+0x8ED5A44C=R1_AA
+
+;0x900D63E0=~z~-Screw you... screw you all! My cousin is here!~n~-Hey, come on, man!
+0x900D63E0=~z~-Screw you... screw you all! My cousin is here!~n~-Hey, come on, man!
+
+;0x90B58B9D=~z~Niko? What are you doing?
+0x90B58B9D=~z~Niko? What are you doing?
+
+;0x90EA4B9D=~z~Good to see you, man - what, you forget our language?
+0x90EA4B9D=~z~Good to see you, man - what, you forget our language?
+
+;0x92F59484=~z~What's the time? Shit... I've got to get the cab back. It's on a shift.
+0x92F59484=~z~What's the time? Shit... I've got to get the cab back. It's on a shift.
+
+;0x959B1821=R1_BF
+0x959B1821=R1_BF
+
+;0x967A9204=SFX_PAUSE_4000
+0x967A9204=SFX_PAUSE_4000
+
+;0x97BBB63F=~z~So...
+0x97BBB63F=~z~So...
+
+;0x97CA3668=~z~Yeah! Hmm...
+0x97CA3668=~z~Yeah! Hmm...
+
+;0x99E271DA=~z~I can't believe you made it! Ha!
+0x99E271DA=~z~I can't believe you made it! Ha!
+
+;0x9BAC274A=~z~Could be.
+0x9BAC274A=~z~Could be.
+
+;0x9D0EAF3A=~z~You never tell me anything.
+0x9D0EAF3A=~z~You never tell me anything.
+
+;0x9F6896B7=~z~live the dream!
+0x9F6896B7=~z~live the dream!
+
+;0xA00FB494=~z~I come here, and the only thing big about your life is the cockroaches.
+0xA00FB494=~z~I come here, and the only thing big about your life is the cockroaches.
+
+;0xA015E9F4=~z~Remember, we learned off the English girls with the big...
+0xA015E9F4=~z~Remember, we learned off the English girls with the big...
+
+;0xA0B9300B=~z~-Roman! Are you sleeping, you fat fuck? Come on!~n~-Huh! No! No way!
+0xA0B9300B=~z~-Roman! Are you sleeping, you fat fuck? Come on!~n~-Huh! No! No way!
+
+;0xA0BD56AA=~z~What you going to do?
+0xA0BD56AA=~z~What you going to do?
+
+;0xA0D4CC12=SFX_PAUSE_1000
+0xA0D4CC12=SFX_PAUSE_1000
+
+;0xA0D8C87A=R1_BU_XXX1
+0xA0D8C87A=R1_BU_XXX1
+
+;0xA1603155=~z~Maybe that is no excuse...
+0xA1603155=~z~Maybe that is no excuse...
+
+;0xA2F6BFA1=R1_BI_XXX2
+0xA2F6BFA1=R1_BI_XXX2
+
+;0xA33BBD18=~z~What happened? Did your captain make you pregnant?
+0xA33BBD18=~z~What happened? Did your captain make you pregnant?
+
+;0xA5C1893F=R1_BK
+0xA5C1893F=R1_BK
+
+;0xA6464101=~z~Okay, I'm an idiot, but you must admit I have the best line in bullshit you ever heard.
+0xA6464101=~z~Okay, I'm an idiot, but you must admit I have the best line in bullshit you ever heard.
+
+;0xA6DEC2DA=~z~why you leave home after all this time?
+0xA6DEC2DA=~z~why you leave home after all this time?
+
+;0xA772FB8F=~z~I will show you around more, later.
+0xA772FB8F=~z~I will show you around more, later.
+
+;0xAA075897=R1_BS_XXX2
+0xAA075897=R1_BS_XXX2
+
+;0xAA855BDE=~z~Ah, cousin, it's so good to see you!
+0xAA855BDE=~z~Ah, cousin, it's so good to see you!
+
+;0xAAEE13F1=~z~I've made it!
+0xAAEE13F1=~z~I've made it!
+
+;0xAB54C04C=~z~Mansions in Berchem, penthouse in Algonquin...
+0xAB54C04C=~z~Mansions in Berchem, penthouse in Algonquin...
+
+;0xAB75B146=~z~Hove Beach, next to the docks.
+0xAB75B146=~z~Hove Beach, next to the docks.
+
+;0xABB61B31=~z~Roman, come on, let's go... to the mansion, eh?
+0xABB61B31=~z~Roman, come on, let's go... to the mansion, eh?
+
+;0xAF093D09=R1_BE_XXX3
+0xAF093D09=R1_BE_XXX3
+
+;0xAF188ADA=~z~I'm drunk and tired Niko, please drive me home, ~c~ be a good guy.
+0xAF188ADA=~z~I'm drunk and tired Niko, please drive me home, ~c~ be a good guy.
+
+;0xAFE2F4F5=~z~Crazy place, Niko.
+0xAFE2F4F5=~z~Crazy place, Niko.
+
+;0xB018C6E4=R1_BE
+0xB018C6E4=R1_BE
+
+;0xB042C5EC=~z~How you going to find your way round the city without me? Come back Niko.~c~ Don't be a child.
+0xB042C5EC=~z~How you going to find your way round the city without me? Come back Niko.~c~ Don't be a child.
+
+;0xB05E051F=~z~~c~What a charming image.
+0xB05E051F=~z~~c~What a charming image.
+
+;0xB0ECBEF8=R1_BE_XXX1
+0xB0ECBEF8=R1_BE_XXX1
+
+;0xB12ABA3B=~z~Like my cousin.
+0xB12ABA3B=~z~Like my cousin.
+
+;0xB176598D=~z~Screw you! No, no, it's nothing like that.
+0xB176598D=~z~Screw you! No, no, it's nothing like that.
+
+;0xB226259C=R1_CC
+0xB226259C=R1_CC
+
+;0xB292E72D=~z~You, without a visa. I would stay in Broker. Fuck it, stay in Hove Beach. Everyone like us does.
+0xB292E72D=~z~You, without a visa. I would stay in Broker. Fuck it, stay in Hove Beach. Everyone like us does.
+
+;0xB2A2D9A6=~z~Not take over the world, but do okay.
+0xB2A2D9A6=~z~Not take over the world, but do okay.
+
+;0xB2F2A67A=~z~Err, it's in the shop... come on!
+0xB2F2A67A=~z~Err, it's in the shop... come on!
+
+;0xB4205303=~z~Hove Beach is our little corner of Eastern Europe.
+0xB4205303=~z~Hove Beach is our little corner of Eastern Europe.
+
+;0xB47CD418=~z~I can't say that I have. ~c~ But I know what it's like to hang out with a tit.
+0xB47CD418=~z~I can't say that I have. ~c~ But I know what it's like to hang out with a tit.
+
+;0xB5F5D666=R1_BA
+0xB5F5D666=R1_BA
+
+;0xB69063C1=~z~The ships were fine.
+0xB69063C1=~z~The ships were fine.
+
+;0xB7B15DFB=~z~-Niko, I've got to run, come meet me at the cab office.~n~-Jesus... what?
+0xB7B15DFB=~z~-Niko, I've got to run, come meet me at the cab office.~n~-Jesus... what?
+
+;0xB82D2E6F=~z~Two women! The land of opportunity.
+0xB82D2E6F=~z~Two women! The land of opportunity.
+
+;0xB8726601=~z~First, I hear you're running with the wrong kind,
+0xB8726601=~z~First, I hear you're running with the wrong kind,
+
+;0xB98A93D5=SFX_PAUSE_1000
+0xB98A93D5=SFX_PAUSE_1000
+
+;0xBB5C1BA4=R1_BM
+0xBB5C1BA4=R1_BM
+
+;0xBB6F3742=R1_CB
+0xBB6F3742=R1_CB
+
+;0xBC8C6D8D=~z~Screw you, you idiot!
+0xBC8C6D8D=~z~Screw you, you idiot!
+
+;0xBD55BE70=~z~-You're in the Goddamn way.~n~-Take off!
+0xBD55BE70=~z~-You're in the Goddamn way.~n~-Take off!
+
+;0xBD8381DA=~z~Make yourself at home... what's mine is yours!
+0xBD8381DA=~z~Make yourself at home... what's mine is yours!
+
+;0xBD8864B3=~z~Is just temporary for us though. Our sights are set for the top.
+0xBD8864B3=~z~Is just temporary for us though. Our sights are set for the top.
+
+;0xBD9D64E1=~z~a model on each arm - me and my cousin Niko, rulers of the world!
+0xBD9D64E1=~z~a model on each arm - me and my cousin Niko, rulers of the world!
+
+;0xC087867C=~z~Fuck it, stay in Hove Beach. Everyone like us does.
+0xC087867C=~z~Fuck it, stay in Hove Beach. Everyone like us does.
+
+;0xC0CF2E47=~z~Did you see everything you wanted to see? Can you drive your cousin home now?
+0xC0CF2E47=~z~Did you see everything you wanted to see? Can you drive your cousin home now?
+
+;0xC1B1E3D6=R1_BE_XXX2
+0xC1B1E3D6=R1_BE_XXX2
+
+;0xC2236E78=~z~Dave is not coming.
+0xC2236E78=~z~Dave is not coming.
+
+;0xC32ADF95=~z~That is my cab depot, cousin. It is where I make all the money.
+0xC32ADF95=~z~That is my cab depot, cousin. It is where I make all the money.
+
+;0xC508E1F7=~z~Oh yeah?
+0xC508E1F7=~z~Oh yeah?
+
+;0xC539C888=~z~A touch?
+0xC539C888=~z~A touch?
+
+;0xC56BF970=~z~-Oh, Jesus! Tastes like a rat shat in it...~n~-Roman...
+0xC56BF970=~z~-Oh, Jesus! Tastes like a rat shat in it...~n~-Roman...
+
+;0xC6220E4B=~z~Fucking terrorists.
+0xC6220E4B=~z~Fucking terrorists.
+
+;0xC675F7AE=~z~~c~What a charming image. Hove Beach, next to the docks.
+0xC675F7AE=~z~~c~What a charming image. Hove Beach, next to the docks.
+
+;0xC9C0B5AE=R1_BW
+0xC9C0B5AE=R1_BW
+
+;0xCAF1C2EF=SFX_PAUSE_1000
+0xCAF1C2EF=SFX_PAUSE_1000
+
+;0xCBFB0692=~z~-go down one block and turn right on Iroquois,~n~-I'm new here...
+0xCBFB0692=~z~-go down one block and turn right on Iroquois,~n~-I'm new here...
+
+;0xCD62AFF4=~z~Here, pass me that.
+0xCD62AFF4=~z~Here, pass me that.
+
+;0xCF132393=~z~I would stay in Broker.
+0xCF132393=~z~I would stay in Broker.
+
+;0xCF1C96DC=100
+0xCF1C96DC=100
+
+;0xCF6925A5=~z~Come in, come in!
+0xCF6925A5=~z~Come in, come in!
+
+;0xCF6E4377=~z~Think of all the girls you've been missing out on!
+0xCF6E4377=~z~Think of all the girls you've been missing out on!
+
+;0xD37D8521=R1_BD
+0xD37D8521=R1_BD
+
+;0xD39E1171=~z~Come on Dave.
+0xD39E1171=~z~Come on Dave.
+
+;0xD3B391B5=~z~Four big titties to be playing with?
+0xD3B391B5=~z~Four big titties to be playing with?
+
+;0xD446B234=R1_BM_XXX2
+0xD446B234=R1_BM_XXX2
+
+;0xD492EBC9=R1_CC_QQQ1
+0xD492EBC9=R1_CC_QQQ1
+
+;0xD4AFE774=~z~Shit, man, I'm still a touch drunk.
+0xD4AFE774=~z~Shit, man, I'm still a touch drunk.
+
+;0xD50E5CDD=R1_BV
+0xD50E5CDD=R1_BV
+
+;0xD62BD3DB=R1_BP
+0xD62BD3DB=R1_BP
+
+;0xD6CA0579=~z~he writes me in these wild emails, and after I got into trouble, I thought maybe uh...
+0xD6CA0579=~z~he writes me in these wild emails, and after I got into trouble, I thought maybe uh...
+
+;0xD98E1D66=~z~Niko,
+0xD98E1D66=~z~Niko,
+
+;0xD9A3770B=~z~Niko Bellic! He's the fucking man, bitches!
+0xD9A3770B=~z~Niko Bellic! He's the fucking man, bitches!
+
+;0xD9C0A21D=~z~-It's easy. Out the door, turn left, then the first left at the diner,~n~-What are you talking about? I don't...
+0xD9C0A21D=~z~-It's easy. Out the door, turn left, then the first left at the diner,~n~-What are you talking about? I don't...
+
+;0xDCFDC543=R1_BR
+0xDCFDC543=R1_BR
+
+;0xDFFFAA4D=~z~~c~I thought I had died and gone to Heaven, man.
+0xDFFFAA4D=~z~~c~I thought I had died and gone to Heaven, man.
+
+;0xE0D34879=~z~So!
+0xE0D34879=~z~So!
+
+;0xE0DEEB8D=~z~Hey, a little... not so good.
+0xE0DEEB8D=~z~Hey, a little... not so good.
+
+;0xE1E981E7=~z~-Woah! Roman, Roman, come on, come on, relax.~n~-We're going to rule the world!
+0xE1E981E7=~z~-Woah! Roman, Roman, come on, come on, relax.~n~-We're going to rule the world!
+
+;0xE1F52E1F=~z~Dave, come on.
+0xE1F52E1F=~z~Dave, come on.
+
+;0xE3760AD0=~z~Yeah, yeah, whatever, buddy.
+0xE3760AD0=~z~Yeah, yeah, whatever, buddy.
+
+;0xE3DEBCC1=~z~Huh. No.
+0xE3DEBCC1=~z~Huh. No.
+
+;0xE87028C5=~z~and then I got this gig, and I spend the next seven months with you fine people and I forget...
+0xE87028C5=~z~and then I got this gig, and I spend the next seven months with you fine people and I forget...
+
+;0xEA6C976D=~z~Daddy's back, you bitches!
+0xEA6C976D=~z~Daddy's back, you bitches!
+
+;0xEBB14838=R1_BX
+0xEBB14838=R1_BX
+
+;0xEEF9510A=~z~opportunity!
+0xEEF9510A=~z~opportunity!
+
+;0xEF138027=R1_BW_XXX2
+0xEF138027=R1_BW_XXX2
+
+;0xEFC4CE25=~z~It's really flash. We got lots of titties and some incredible motors...
+0xEFC4CE25=~z~It's really flash. We got lots of titties and some incredible motors...
+
+;0xF0684B9A=R1_BA
+0xF0684B9A=R1_BA
+
+;0xF1370839=R1_BN
+0xF1370839=R1_BN
+
+;0xF2E3EC9A=~z~Shit... well, I needed to change anyway...
+0xF2E3EC9A=~z~Shit... well, I needed to change anyway...
+
+;0xF41E51EA=R1_BB
+0xF41E51EA=R1_BB
+
+;0xF68AE395=~z~strange and exotic sailor!
+0xF68AE395=~z~strange and exotic sailor!
+
+;0xF7F74E28=~z~Our sights are set for the top.
+0xF7F74E28=~z~Our sights are set for the top.
+
+;0xF88DD690=R1_FA
+0xF88DD690=R1_FA
+
+;0xF9179BFE=~z~What?
+0xF9179BFE=~z~What?
+
+;0xF9867513=~z~Why don't you show me around the city?
+0xF9867513=~z~Why don't you show me around the city?
+
+;0xF9939789=~z~scared Canadians, bored housewives from the Midwest -
+0xF9939789=~z~scared Canadians, bored housewives from the Midwest -
+
+;0xFA10CC06=~z~After the war finished, I couldn't get a job, nobody could...
+0xFA10CC06=~z~After the war finished, I couldn't get a job, nobody could...
+
+;0xFE456B26=~z~-then walk all the way down and we're right there on the left on the corner of Cisco Street.~n~-what are you talking about, man?
+0xFE456B26=~z~-then walk all the way down and we're right there on the left on the corner of Cisco Street.~n~-what are you talking about, man?
+

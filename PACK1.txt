@@ -1,0 +1,94 @@
+﻿[PACK1]
+;0x04143B3E=~s~Continue ~y~outside~s~ the docks.
+0x04143B3E=~s~Continue ~y~outside~s~ the docks.
+
+;0x077AE5C8=~s~Go to the ~y~lockup.
+0x077AE5C8=~s~Go to the ~y~lockup.
+
+;0x07E7A4EE=~s~Press ~PAD_X~ to climb onto an object.
+0x07E7A4EE=~s~Press ~PAD_X~ to climb onto an object.
+
+;0x20BFEB47=~s~Go to the ~y~harbor warehouse.
+0x20BFEB47=~s~Go to the ~y~harbor warehouse.
+
+;0x4D8CB033=~s~Press ~PAD_Y~ to drop down.
+0x4D8CB033=~s~Press ~PAD_Y~ to drop down.
+
+;0x50EECBA0=~b~Packie ~s~is in trouble. Help him take out the ~r~Triads.
+0x50EECBA0=~b~Packie ~s~is in trouble. Help him take out the ~r~Triads.
+
+;0x5E6EE6A0=~s~Steal the ~b~truck.
+0x5E6EE6A0=~s~Steal the ~b~truck.
+
+;0x60DAE988=~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~PAD_X~.
+0x60DAE988=~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~PAD_X~.
+
+;0x6C43EDA1=~s~Use ~PAD_LSTICK_LEFT~ and ~PAD_LSTICK_RIGHT~ to shimmy.
+0x6C43EDA1=~s~Use ~PAD_LSTICK_LEFT~ and ~PAD_LSTICK_RIGHT~ to shimmy.
+
+;0x736A9EB3=~s~Leave the van and exit the lockup.
+0x736A9EB3=~s~Leave the van and exit the lockup.
+
+;0x74D5B01B=~r~The truck has been destroyed.~s~
+0x74D5B01B=~r~The truck has been destroyed.~s~
+
+;0x7E0D49DB=~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~INPUT_VEH_NEXT_WEAPON~.
+0x7E0D49DB=~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~INPUT_VEH_NEXT_WEAPON~.
+
+;0x8FC30DB7=~s~Get into the ~b~truck.
+0x8FC30DB7=~s~Get into the ~b~truck.
+
+;0x951EEE6F=~s~Climb down the mini cabin to get to the ground.
+0x951EEE6F=~s~Climb down the mini cabin to get to the ground.
+
+;0x9E99F1F5=~s~Continue to the ~y~harbor warehouse.
+0x9E99F1F5=~s~Continue to the ~y~harbor warehouse.
+
+;0xA02DF04C=~s~Escape in the van back to Packie's ~y~lockup.
+0xA02DF04C=~s~Escape in the van back to Packie's ~y~lockup.
+
+;0xA558747E=~s~Get back to ~b~Packie.
+0xA558747E=~s~Get back to ~b~Packie.
+
+;0xA9E4E973=~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~INPUT_VEH_NEXT_WEAPON~.
+0xA9E4E973=~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~INPUT_VEH_NEXT_WEAPON~.
+
+;0xA9E76951=~s~Drive ~y~outside~s~ of the docks.
+0xA9E76951=~s~Drive ~y~outside~s~ of the docks.
+
+;0xAE7806B5=~s~Follow ~b~Packie~s~ up on to the roof.
+0xAE7806B5=~s~Follow ~b~Packie~s~ up on to the roof.
+
+;0xAEF9AC7D=~s~When in a vehicle, you can cycle to the Grenades in your inventory with ~PAD_LT~.
+0xAEF9AC7D=~s~When in a vehicle, you can cycle to the Grenades in your inventory with ~PAD_LT~.
+
+;0xAFB5973C=~s~Reverse the van out of the warehouse.
+0xAFB5973C=~s~Reverse the van out of the warehouse.
+
+;0xB1FFF918=~s~Jump into the ledge to perform a hanging grab.
+0xB1FFF918=~s~Jump into the ledge to perform a hanging grab.
+
+;0xBBB5A0C1=~s~Wait for ~b~Packie~s~ to get in the truck.~s~
+0xBBB5A0C1=~s~Wait for ~b~Packie~s~ to get in the truck.~s~
+
+;0xC8E98AD4=~s~Get into the ~b~loaded van.
+0xC8E98AD4=~s~Get into the ~b~loaded van.
+
+;0xCB8E4910=~r~Packie is dead.~s~
+0xCB8E4910=~r~Packie is dead.~s~
+
+;0xE2EDFDB8=~s~Wait for ~b~Packie~s~ to get in the truck.
+0xE2EDFDB8=~s~Wait for ~b~Packie~s~ to get in the truck.
+
+;0xE9F3FDAC=~s~Get into the ~b~car.
+0xE9F3FDAC=~s~Get into the ~b~car.
+
+;0xEC398237=~s~Follow ~b~Packie.
+0xEC398237=~s~Follow ~b~Packie.
+
+;0xF2B48D3D=~s~You can pull the pin by holding ~INPUT_VEH_ATTACK~. Release ~INPUT_VEH_ATTACK~ to drop the grenade clear of your vehicle.
+0xF2B48D3D=~s~You can pull the pin by holding ~INPUT_VEH_ATTACK~. Release ~INPUT_VEH_ATTACK~ to drop the grenade clear of your vehicle.
+
+;0xF3E886D7=~s~You are too far away from ~b~Packie.~s~ Go back and get him.
+0xF3E886D7=~s~You are too far away from ~b~Packie.~s~ Go back and get him.
+

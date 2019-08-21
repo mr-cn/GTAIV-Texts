@@ -1,0 +1,34 @@
+﻿[ROMAN11]
+;0x032A93DE=You left ~b~Roman~s~ behind.
+0x032A93DE=You left ~b~Roman~s~ behind.
+
+;0x14F53773=Sound the horn.
+0x14F53773=Sound the horn.
+
+;0x26AE5AE5=Get a car.
+0x26AE5AE5=Get a car.
+
+;0x37FFFD88=~r~Roman is dead.
+0x37FFFD88=~r~Roman is dead.
+
+;0x41368FD9=Go to Roman's ~y~apartment.
+0x41368FD9=Go to Roman's ~y~apartment.
+
+;0x4D6C2844=Go to ~y~Roman.
+0x4D6C2844=Go to ~y~Roman.
+
+;0x5C4B4602=Go to ~y~Bohan.
+0x5C4B4602=Go to ~y~Bohan.
+
+;0x6AA9E2BF=Go to the ~y~depot.
+0x6AA9E2BF=Go to the ~y~depot.
+
+;0x9D783255=Press ~INPUT_VEH_HORN~ to sound the horn.
+0x9D783255=Press ~INPUT_VEH_HORN~ to sound the horn.
+
+;0xB9CF0128=~r~Mallorie is dead.
+0xB9CF0128=~r~Mallorie is dead.
+
+;0xCB9DA4C5=Wait for ~b~Roman.
+0xCB9DA4C5=Wait for ~b~Roman.
+

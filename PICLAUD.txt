@@ -1,0 +1,43 @@
+﻿[PICLAUD]
+;0x0E420CE7=~z~Whassup player?
+0x0E420CE7=~z~Whassup player?
+
+;0x1C0BA87A=~z~Boss, whatup?
+0x1C0BA87A=~z~Boss, whatup?
+
+;0x4F6C7C4B=100
+0x4F6C7C4B=100
+
+;0x5AA732FA=PICL_AA
+0x5AA732FA=PICL_AA
+
+;0x88C7DCF3=PICL_BA
+0x88C7DCF3=PICL_BA
+
+;0x8B041BFB=~z~Who the big man now, boss?
+0x8B041BFB=~z~Who the big man now, boss?
+
+;0x92712B41=~z~Shit, Mr. Boss man. Didn't expect this, did you?
+0x92712B41=~z~Shit, Mr. Boss man. Didn't expect this, did you?
+
+;0x98123617=~z~It's your turn to beg.
+0x98123617=~z~It's your turn to beg.
+
+;0xABC6A99C=100
+0xABC6A99C=100
+
+;0xBCBAFF68=~z~I don't let nobody disrespect me.
+0xBCBAFF68=~z~I don't let nobody disrespect me.
+
+;0xD7B21FC8=~z~Yo, player.
+0xD7B21FC8=~z~Yo, player.
+
+;0xE66F52D0=~z~I wouldn't never have let me live. You a fool.
+0xE66F52D0=~z~I wouldn't never have let me live. You a fool.
+
+;0xEA94458C=~z~Hey, boss man.
+0xEA94458C=~z~Hey, boss man.
+
+;0xF866E131=~z~Yo, yo, yo.
+0xF866E131=~z~Yo, yo, yo.
+

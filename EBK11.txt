@@ -1,0 +1,52 @@
+﻿[EBK11]
+;0x0B5BB6A6=See you,
+0x0B5BB6A6=See you,
+
+;0x11C1C3CA=Oleg,
+0x11C1C3CA=Oleg,
+
+;0x1A095401=See you,
+0x1A095401=See you,
+
+;0x26F8EE38=Oleg,
+0x26F8EE38=Oleg,
+
+;0x2FE77FBD=See you,
+0x2FE77FBD=See you,
+
+;0x3EA01D2E=See you,
+0x3EA01D2E=See you,
+
+;0x4B71B729=Oleg,
+0x4B71B729=Oleg,
+
+;0x506740BC=See you,
+0x506740BC=See you,
+
+;0x58AB519C=Oleg,
+0x58AB519C=Oleg,
+
+;0x6332E653=See you,
+0x6332E653=See you,
+
+;0x6E087C56=Oleg,
+0x6E087C56=Oleg,
+
+;0x7250BD64=Come on. You're acting crazy. You aren't being watched by government spies. Your phone isn't tapped. You don't need to drink that bottled water or eat from those tins because no one wants to poison you. Please get that into your head. Anyway, of course I'll meet you. I'll be outside the jewellery shop off Tulsa Street later on.
+0x7250BD64=Come on. You're acting crazy. You aren't being watched by government spies. Your phone isn't tapped. You don't need to drink that bottled water or eat from those tins because no one wants to poison you. Please get that into your head. Anyway, of course I'll meet you. I'll be outside the jewellery shop off Tulsa Street later on.
+
+;0x74E509B7=See you,
+0x74E509B7=See you,
+
+;0xAB88F752=Oleg,
+0xAB88F752=Oleg,
+
+;0xEE73FD2F=Oleg,
+0xEE73FD2F=Oleg,
+
+;0xF9A6133B=See you,
+0xF9A6133B=See you,
+
+;0xFCB899B8=Oleg,
+0xFCB899B8=Oleg,
+

@@ -1,0 +1,79 @@
+﻿[PICKMAL]
+;0x008F55C8=~s~The ~BLIP_50~ icon represents a clothes shop, you can visit at any time to buy new clothes.
+0x008F55C8=~s~The ~BLIP_50~ icon represents a clothes shop, you can visit at any time to buy new clothes.
+
+;0x06649EDA=~s~Get in ~b~Roman's car.
+0x06649EDA=~s~Get in ~b~Roman's car.
+
+;0x17A34B60=~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a vehicle.
+0x17A34B60=~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a vehicle.
+
+;0x1C16105D=~s~Press ~INPUT_VEH_HORN~ to sound your horn to attract the girls' attention.
+0x1C16105D=~s~Press ~INPUT_VEH_HORN~ to sound your horn to attract the girls' attention.
+
+;0x29C2EF9F=~s~Hold ~PAD_DPAD_DOWN~ to switch off the radio.
+0x29C2EF9F=~s~Hold ~PAD_DPAD_DOWN~ to switch off the radio.
+
+;0x3329026B=~s~Use ~PAD_DPAD_LEFTRIGHT~ again to switch the radio back on.
+0x3329026B=~s~Use ~PAD_DPAD_LEFTRIGHT~ again to switch the radio back on.
+
+;0x4A2C9101=~r~Michelle was injured.
+0x4A2C9101=~r~Michelle was injured.
+
+;0x4CE12BD6=~s~Take them back to ~y~Michelle's apartment.
+0x4CE12BD6=~s~Take them back to ~y~Michelle's apartment.
+
+;0x538683BB=~s~Use ~INPUT_TURN_OFF_RADIO~ to switch off the radio.
+0x538683BB=~s~Use ~INPUT_TURN_OFF_RADIO~ to switch off the radio.
+
+;0x5C008CB1=Buy some new clothes.
+0x5C008CB1=Buy some new clothes.
+
+;0x65E5A07B=That should be enough to impress Michelle...
+0x65E5A07B=That should be enough to impress Michelle...
+
+;0x6F0F5AC6=~r~Michelle is dead.
+0x6F0F5AC6=~r~Michelle is dead.
+
+;0x6F57F0C3=~s~You left ~b~Mallorie~s~ behind, go back and get her.
+0x6F57F0C3=~s~You left ~b~Mallorie~s~ behind, go back and get her.
+
+;0x7A6749B5=~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ again to switch the radio back on.
+0x7A6749B5=~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ again to switch the radio back on.
+
+;0x7FDEFC65=~r~Mallorie was injured.
+0x7FDEFC65=~r~Mallorie was injured.
+
+;0x82B30221=~r~The shop assistant has been injured.
+0x82B30221=~r~The shop assistant has been injured.
+
+;0x943CA520=~r~Michelle and Mallorie are dead.
+0x943CA520=~r~Michelle and Mallorie are dead.
+
+;0xB2CF3FBD=~s~Go to the ~y~subway station.
+0xB2CF3FBD=~s~Go to the ~y~subway station.
+
+;0xB8DA6E5B=~r~The car was trashed.
+0xB8DA6E5B=~r~The car was trashed.
+
+;0xB9656F85=~r~You have abandoned the car.~s~
+0xB9656F85=~r~You have abandoned the car.~s~
+
+;0xBC0F5239=~s~Get back in the ~b~car.
+0xBC0F5239=~s~Get back in the ~b~car.
+
+;0xCA0610B2=~r~Mallorie is dead.
+0xCA0610B2=~r~Mallorie is dead.
+
+;0xDA4F0948=Get to the clothes shop on Mohawk and buy some new clothes.
+0xDA4F0948=Get to the clothes shop on Mohawk and buy some new clothes.
+
+;0xE3E159D4=~s~You left ~b~Mallorie ~s~and~b~ Michelle~s~ behind, go back and get them.
+0xE3E159D4=~s~You left ~b~Mallorie ~s~and~b~ Michelle~s~ behind, go back and get them.
+
+;0xF05472BA=~s~You left ~b~Michelle~s~ behind, go back and get her.
+0xF05472BA=~s~You left ~b~Michelle~s~ behind, go back and get her.
+
+;0xFD5CE27D=~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ to cycle between radio stations when in a vehicle.
+0xFD5CE27D=~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ to cycle between radio stations when in a vehicle.
+

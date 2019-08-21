@@ -1,0 +1,73 @@
+﻿[FAUST4]
+;0x07DDDF9E=~r~Faustin's daughter is dead.
+0x07DDDF9E=~r~Faustin's daughter is dead.
+
+;0x1C23BE1A=Use ~PAD_LSTICK_UPDOWN~ to shift your weight forwards and backwards when on a bike.
+0x1C23BE1A=Use ~PAD_LSTICK_UPDOWN~ to shift your weight forwards and backwards when on a bike.
+
+;0x1E4F3865=Press ~INPUT_VEH_BRAKE~ to brake.
+0x1E4F3865=Press ~INPUT_VEH_BRAKE~ to brake.
+
+;0x2DE3E19A=Use ~PAD_SIXAXIS_PITCH~ to shift your weight forwards and backwards when on a bike.
+0x2DE3E19A=Use ~PAD_SIXAXIS_PITCH~ to shift your weight forwards and backwards when on a bike.
+
+;0x2F2753F0=~r~The biker got away.
+0x2F2753F0=~r~The biker got away.
+
+;0x3806944D=The ~r~biker~s~ is getting away, catch up with him on a ~b~bike~s~ then take him out.
+0x3806944D=The ~r~biker~s~ is getting away, catch up with him on a ~b~bike~s~ then take him out.
+
+;0x4775BC96=~s~When free aiming or locked onto a target use ~INPUT_MOVE_LEFT~ and press ~INPUT_JUMP~ to roll.
+0x4775BC96=~s~When free aiming or locked onto a target use ~INPUT_MOVE_LEFT~ and press ~INPUT_JUMP~ to roll.
+
+;0x57EFA99A=Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_LSTICK_LEFTRIGHT_VEH~ to steer a bike.
+0x57EFA99A=Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_LSTICK_LEFTRIGHT_VEH~ to steer a bike.
+
+;0x5B2DA4FA=~s~Chase down all the ~r~bikers~s~ and wipe them out.
+0x5B2DA4FA=~s~Chase down all the ~r~bikers~s~ and wipe them out.
+
+;0x5C64348A=Press ~INPUT_VEH_ATTACK~ to use a weapon while on a bike.
+0x5C64348A=Press ~INPUT_VEH_ATTACK~ to use a weapon while on a bike.
+
+;0x70B55D30=Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_LSTICK_LEFTRIGHT~ to steer a bike.
+0x70B55D30=Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_LSTICK_LEFTRIGHT~ to steer a bike.
+
+;0x71C287C4=Go to ~y~Firefly Island.
+0x71C287C4=Go to ~y~Firefly Island.
+
+;0x7F1FAD13=~s~PLACEHOLDER CUTSCENE.
+0x7F1FAD13=~s~PLACEHOLDER CUTSCENE.
+
+;0x82D4744B=~s~Get on the ~b~bike ~s~and chase him down.
+0x82D4744B=~s~Get on the ~b~bike ~s~and chase him down.
+
+;0x8FF4135E=Get back on the ~b~bike,~s~ the biker is getting away.
+0x8FF4135E=Get back on the ~b~bike,~s~ the biker is getting away.
+
+;0x95DD5E84=~s~You can blow up gas pumps.
+0x95DD5E84=~s~You can blow up gas pumps.
+
+;0x9FD7ED65=~s~Rolling will help you avoid gun fire.
+0x9FD7ED65=~s~Rolling will help you avoid gun fire.
+
+;0xA7F13E80=~s~The ~r~biker~s~ is heading into the gas station.
+0xA7F13E80=~s~The ~r~biker~s~ is heading into the gas station.
+
+;0xAE26D80E=Use ~PAD_RSTICK_ALL~ to look around whilst on a bike.
+0xAE26D80E=Use ~PAD_RSTICK_ALL~ to look around whilst on a bike.
+
+;0xB0C96763=Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_SIXAXIS_ROLL~ to steer a bike.
+0xB0C96763=Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_SIXAXIS_ROLL~ to steer a bike.
+
+;0xB7ACDDF7=~s~Take out the ~r~biker.
+0xB7ACDDF7=~s~Take out the ~r~biker.
+
+;0xB9B1C460=~s~When aiming use ~PAD_LSTICK_LEFTRIGHT~ and press ~INPUT_JUMP~ to roll.
+0xB9B1C460=~s~When aiming use ~PAD_LSTICK_LEFTRIGHT~ and press ~INPUT_JUMP~ to roll.
+
+;0xC41B3AFF=~s~Gas stations are full of explosive objects.
+0xC41B3AFF=~s~Gas stations are full of explosive objects.
+
+;0xF1395AC1=Use ~INPUT_VEH_KEY_UD~ to shift your weight forwards and backwards when on a bike.
+0xF1395AC1=Use ~INPUT_VEH_KEY_UD~ to shift your weight forwards and backwards when on a bike.
+

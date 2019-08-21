@@ -1,0 +1,133 @@
+﻿[SHOW8AU]
+;0x002216DF=~z~~x~Well, I went down to Mississippi. Yeah. Mississippi... you been there?
+0x002216DF=~z~~x~Well, I went down to Mississippi. Yeah. Mississippi... you been there?
+
+;0x04CF764A=~z~~x~Impossible? Yes - but it can be done. Laurel, ready the pistol.
+0x04CF764A=~z~~x~Impossible? Yes - but it can be done. Laurel, ready the pistol.
+
+;0x05C1A36E=~z~~x~Ms Bluesy St. John! No touching self in the audience, please.
+0x05C1A36E=~z~~x~Ms Bluesy St. John! No touching self in the audience, please.
+
+;0x0E28B2EC=~z~~x~I can't get me a job on the railroads. That's why I got the blues.
+0x0E28B2EC=~z~~x~I can't get me a job on the railroads. That's why I got the blues.
+
+;0x15CAE40C=~z~~x~Holy shit! Keep calm! Don't leave! Don't call the police!
+0x15CAE40C=~z~~x~Holy shit! Keep calm! Don't leave! Don't call the police!
+
+;0x17929BD0=~z~~x~She will take this pistol and fire it at me and I will catch the bullet with my teeth!
+0x17929BD0=~z~~x~She will take this pistol and fire it at me and I will catch the bullet with my teeth!
+
+;0x180047EB=~z~~x~Now, welcome to Perestroika stage, Incredible Kleinman!
+0x180047EB=~z~~x~Now, welcome to Perestroika stage, Incredible Kleinman!
+
+;0x281888A7=~z~~x~and...
+0x281888A7=~z~~x~and...
+
+;0x28D36991=~z~~x~I medicate. I medicate. Thank you, you all. You all have been great.
+0x28D36991=~z~~x~I medicate. I medicate. Thank you, you all. You all have been great.
+
+;0x29693F7D=~z~~x~My whorish assistant, the lovely Laurel, will take her revenge on me.
+0x29693F7D=~z~~x~My whorish assistant, the lovely Laurel, will take her revenge on me.
+
+;0x3B148CBF=~z~~x~It takes my worries away... it's utopia.
+0x3B148CBF=~z~~x~It takes my worries away... it's utopia.
+
+;0x3E6B14BC=~z~~x~Well, then my husband told me he never loved me,
+0x3E6B14BC=~z~~x~Well, then my husband told me he never loved me,
+
+;0x3E7CB56F=~z~~x~Fire!
+0x3E7CB56F=~z~~x~Fire!
+
+;0x3EC149D8=~z~~x~It's like four guys all playing a different song and you're right in the middle feeling slightly confused,
+0x3EC149D8=~z~~x~It's like four guys all playing a different song and you're right in the middle feeling slightly confused,
+
+;0x4B622D5A=~z~~x~But my pill is orange, and the pharmacy ran out, and my anxiety came back.
+0x4B622D5A=~z~~x~But my pill is orange, and the pharmacy ran out, and my anxiety came back.
+
+;0x4C94519E=~z~~x~Laurel!
+0x4C94519E=~z~~x~Laurel!
+
+;0x4DE4086E=~z~~x~Kids, do not try this at home.
+0x4DE4086E=~z~~x~Kids, do not try this at home.
+
+;0x50253830=~z~~x~but I upped the dose and now I feel great. Yeah, that's right...
+0x50253830=~z~~x~but I upped the dose and now I feel great. Yeah, that's right...
+
+;0x5993C9BD=~z~~x~Number one in the blues but fiftieth in education.
+0x5993C9BD=~z~~x~Number one in the blues but fiftieth in education.
+
+;0x5CCDF211=~z~~x~Back up a few feet... take aim...
+0x5CCDF211=~z~~x~Back up a few feet... take aim...
+
+;0x60A6ADF3=~z~~x~Shit!
+0x60A6ADF3=~z~~x~Shit!
+
+;0x61608F16=~z~~x~How you all doing tonight? Yeah, yeah. Me, I'm doing great. Just great.
+0x61608F16=~z~~x~How you all doing tonight? Yeah, yeah. Me, I'm doing great. Just great.
+
+;0x6593630C=~z~~x~saying it was an old model. Man, it felt so bad...
+0x6593630C=~z~~x~saying it was an old model. Man, it felt so bad...
+
+;0x70942D7D=~z~~x~awkward, and violated. You ready?
+0x70942D7D=~z~~x~awkward, and violated. You ready?
+
+;0x772E8642=~z~~x~Well, I'm a soccer mom with bad nerves, and my kid is going to fail, and my garden ain't pretty enough,
+0x772E8642=~z~~x~Well, I'm a soccer mom with bad nerves, and my kid is going to fail, and my garden ain't pretty enough,
+
+;0x8A0CABFE=~z~~x~so I went to the shop and got me a gun and shot this other soccer mom in the head for laughing at my SUV,
+0x8A0CABFE=~z~~x~so I went to the shop and got me a gun and shot this other soccer mom in the head for laughing at my SUV,
+
+;0x8C16E482=~z~~x~That's because, like most Americans, ladies and gentlemen, I medicate.
+0x8C16E482=~z~~x~That's because, like most Americans, ladies and gentlemen, I medicate.
+
+;0x90D7B844=~z~~x~I just can't operate heavy machinery. No way.
+0x90D7B844=~z~~x~I just can't operate heavy machinery. No way.
+
+;0xA2AF5BF3=~z~~x~Because I don't feel no pain, thanks to my pills. I feel fine, fine, fine.
+0xA2AF5BF3=~z~~x~Because I don't feel no pain, thanks to my pills. I feel fine, fine, fine.
+
+;0xA411809B=~z~~x~We have doctor in Broker.
+0xA411809B=~z~~x~We have doctor in Broker.
+
+;0xA554613D=~z~~x~I feel lethargic and I don't care.
+0xA554613D=~z~~x~I feel lethargic and I don't care.
+
+;0xA78F9B77=~z~~x~~c~Are you ready for this?~s~ Here comes Ms Bluesy St. John!
+0xA78F9B77=~z~~x~~c~Are you ready for this?~s~ Here comes Ms Bluesy St. John!
+
+;0xB2BED222=~z~~x~They are what make us American. They are our best friends and our worst enemies... shit!
+0xB2BED222=~z~~x~They are what make us American. They are our best friends and our worst enemies... shit!
+
+;0xBB0C0E04=~z~~x~Liberty City, best audience in the world, I love you. Thank you.
+0xBB0C0E04=~z~~x~Liberty City, best audience in the world, I love you. Thank you.
+
+;0xC2671B6A=~z~~x~Imagine that on a chemical level.
+0xC2671B6A=~z~~x~Imagine that on a chemical level.
+
+;0xC33C52D0=~z~~x~You ready for some modern blues? How about a little jazz? I love jazz.
+0xC33C52D0=~z~~x~You ready for some modern blues? How about a little jazz? I love jazz.
+
+;0xC4B32002=~z~~x~You know when your heart gets turned inside out and you feel like you're going to die?
+0xC4B32002=~z~~x~You know when your heart gets turned inside out and you feel like you're going to die?
+
+;0xD87A7D4C=~z~~x~Hi, welcome... yeah.
+0xD87A7D4C=~z~~x~Hi, welcome... yeah.
+
+;0xE0AF0DBD=~z~~x~Well, I used to do the hard shit, but now it's a prescription, baby. A prescription.
+0xE0AF0DBD=~z~~x~Well, I used to do the hard shit, but now it's a prescription, baby. A prescription.
+
+;0xE9A73FF6=~z~~x~But tonight, I will be their master.
+0xE9A73FF6=~z~~x~But tonight, I will be their master.
+
+;0xEE70A940=~z~~x~Oh, yes I medicate, yeah...
+0xEE70A940=~z~~x~Oh, yes I medicate, yeah...
+
+;0xF43F0069=~z~~x~Well, that's the blues. That's the blues, yeah. Suburban homicide. You feeling me, ladies and gentlemen?
+0xF43F0069=~z~~x~Well, that's the blues. That's the blues, yeah. Suburban homicide. You feeling me, ladies and gentlemen?
+
+;0xF4A5D5F7=~z~~x~Show the audience it is loaded.
+0xF4A5D5F7=~z~~x~Show the audience it is loaded.
+
+;0xFC21E4EB=~z~~x~Guns, ladies and gentlemen, are the backbone of our democracy.
+0xFC21E4EB=~z~~x~Guns, ladies and gentlemen, are the backbone of our democracy.
+

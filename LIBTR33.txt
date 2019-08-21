@@ -1,0 +1,40 @@
+﻿[LIBTR33]
+;0x04A5F705=High-Caliber Crime Kills Cop's Brother
+0x04A5F705=High-Caliber Crime Kills Cop's Brother
+
+;0x0F74148A=Tony J Smith
+0x0F74148A=Tony J Smith
+
+;0x0FF8DBD8=Parents offered 20% discount card
+0x0FF8DBD8=Parents offered 20% discount card
+
+;0x2A39CD0E=Richie Score
+0x2A39CD0E=Richie Score
+
+;0x333B6241=Jittery investors scrambled to curb a growing crisis in financial markets. Emerging debt markets were affected when stockbrokers spent way too much money on Friday night, consuming 2.5 grams of Colombian exports and yielding a larger than average load on the tits of a Russian stripper.
+0x333B6241=Jittery investors scrambled to curb a growing crisis in financial markets. Emerging debt markets were affected when stockbrokers spent way too much money on Friday night, consuming 2.5 grams of Colombian exports and yielding a larger than average load on the tits of a Russian stripper.
+
+;0x57FD7DFC=Boy Trapped For Six Years In Flat-Pack Hell
+0x57FD7DFC=Boy Trapped For Six Years In Flat-Pack Hell
+
+;0x7D43FB62=Today the Liberty Tree witnessed an emotional reunion between an Algonquin couple and their son who was lost for six years in a KRAPEA store. A well-known pedophile at Krapea's Alderney branch alerted staff to a pallid youth whom he had spotted sleeping in the same bunk-bed on his last three visits. The child's mother told reporters, "It's a miracle. We were sure that our son was dead and had even converted his bedroom into a home gym. He appears to be a little institutionalized and cannot understand why we don't have fifteen adjacent kitchens but it's great to have him back."
+0x7D43FB62=Today the Liberty Tree witnessed an emotional reunion between an Algonquin couple and their son who was lost for six years in a KRAPEA store. A well-known pedophile at Krapea's Alderney branch alerted staff to a pallid youth whom he had spotted sleeping in the same bunk-bed on his last three visits. The child's mother told reporters, "It's a miracle. We were sure that our son was dead and had even converted his bedroom into a home gym. He appears to be a little institutionalized and cannot understand why we don't have fifteen adjacent kitchens but it's great to have him back."
+
+;0x82483E5E=Violent assassination on streets of Algonquin
+0x82483E5E=Violent assassination on streets of Algonquin
+
+;0x8FE3C69E=Deputy Police Commissioner, Francis McReary, witnessed his brother's murder as he was assassinated in an Algonquin park. Derrick McReary, 52, had recently returned to Liberty City from Ireland. Before he had left the country, he had been registered as an informant with the LCPD and investigators are taking this as a likely motive for the murder. In unrelated news, a third brother, Gerald McReary, was recently arrested on racketeering charges.
+0x8FE3C69E=Deputy Police Commissioner, Francis McReary, witnessed his brother's murder as he was assassinated in an Algonquin park. Derrick McReary, 52, had recently returned to Liberty City from Ireland. Before he had left the country, he had been registered as an informant with the LCPD and investigators are taking this as a likely motive for the murder. In unrelated news, a third brother, Gerald McReary, was recently arrested on racketeering charges.
+
+;0xD2A2F2A5=Staff Writer
+0xD2A2F2A5=Staff Writer
+
+;0xD7BC8EC5=How will this affect wealthy?
+0xD7BC8EC5=How will this affect wealthy?
+
+;0xE3E178E5=BAWSAQ Skyrockets 5 Points On Rising Colombian Exports
+0xE3E178E5=BAWSAQ Skyrockets 5 Points On Rising Colombian Exports
+
+;0xED859C94=The shady brother of hero cop has been gunned down in a planned attack
+0xED859C94=The shady brother of hero cop has been gunned down in a planned attack
+

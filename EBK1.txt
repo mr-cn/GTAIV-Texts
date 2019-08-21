@@ -1,0 +1,247 @@
+﻿[EBK1]
+;0x00AEF7BD=It's down some alley in Schottler with some whacked out dealers.
+0x00AEF7BD=It's down some alley in Schottler with some whacked out dealers.
+
+;0x086345F8=Once you've replied to this email go and get this bitch for me. Stay Alpha,
+0x086345F8=Once you've replied to this email go and get this bitch for me. Stay Alpha,
+
+;0x11F57B39=I hate to disappoint but I got other things on my plate. -N
+0x11F57B39=I hate to disappoint but I got other things on my plate. -N
+
+;0x16507BFF=Niko B,
+0x16507BFF=Niko B,
+
+;0x1A4C69CA=Send me a reply if you're up to it. Keep on rolling,
+0x1A4C69CA=Send me a reply if you're up to it. Keep on rolling,
+
+;0x1A5E7B43=Sorry, man. Other shit to do. -N
+0x1A5E7B43=Sorry, man. Other shit to do. -N
+
+;0x1BF31BD8=There's a Sanchez that makes my balls tingle.
+0x1BF31BD8=There's a Sanchez that makes my balls tingle.
+
+;0x1DE51FC4=This pimp PMP600 caught my eye.
+0x1DE51FC4=This pimp PMP600 caught my eye.
+
+;0x23C5EF45=I will find it. -N
+0x23C5EF45=I will find it. -N
+
+;0x25832927=I would if I didn't have other shit to do, sorry. -N
+0x25832927=I would if I didn't have other shit to do, sorry. -N
+
+;0x27B91EC4=NiKo man, Wassup?
+0x27B91EC4=NiKo man, Wassup?
+
+;0x2BACD980=We all good on the last one not being cool. Shit, I can't stay mad at you.
+0x2BACD980=We all good on the last one not being cool. Shit, I can't stay mad at you.
+
+;0x2E6EA363=I'm on it. -N
+0x2E6EA363=I'm on it. -N
+
+;0x30925923=Thanks for the last one, NB. You're an animal.
+0x30925923=Thanks for the last one, NB. You're an animal.
+
+;0x30F33138=Niko bro,
+0x30F33138=Niko bro,
+
+;0x344146A3=I find bike. I steal it. I bring it back. -N
+0x344146A3=I find bike. I steal it. I bring it back. -N
+
+;0x34C54D7C=I've got a taste for bikes and there's this fucking NRG900, man. Shit!
+0x34C54D7C=I've got a taste for bikes and there's this fucking NRG900, man. Shit!
+
+;0x376A9CA6=I don't got time, man. -N
+0x376A9CA6=I don't got time, man. -N
+
+;0x3910D61B=I hear there's a mean Intruder.
+0x3910D61B=I hear there's a mean Intruder.
+
+;0x3973F50E=Brucie ain't holding no gruges on you fucking up the last one. Forgive and forget and screw hot bitches. That's what Brucie says.
+0x3973F50E=Brucie ain't holding no gruges on you fucking up the last one. Forgive and forget and screw hot bitches. That's what Brucie says.
+
+;0x3AD8EDAC=Smooth moves on that last one, by the way. You are genetically superior.
+0x3AD8EDAC=Smooth moves on that last one, by the way. You are genetically superior.
+
+;0x42EEFDDC=Need to send out some mad props for the last job BTW. Alpha, bro. ALPHA!
+0x42EEFDDC=Need to send out some mad props for the last job BTW. Alpha, bro. ALPHA!
+
+;0x44B18B8D=Brucie can't stay angry at a fellow alpha male. That's why he's not going to say shit about the last fuck up.
+0x44B18B8D=Brucie can't stay angry at a fellow alpha male. That's why he's not going to say shit about the last fuck up.
+
+;0x496576BC=I saw this PCJ600, bro.
+0x496576BC=I saw this PCJ600, bro.
+
+;0x4BABFB51=Word on the street is there's a prize Patriot.
+0x4BABFB51=Word on the street is there's a prize Patriot.
+
+;0x4CE36918=Yo, Niko, what's your vibe?
+0x4CE36918=Yo, Niko, what's your vibe?
+
+;0x4D02C7D6=I'll get it. -N
+0x4D02C7D6=I'll get it. -N
+
+;0x4DBA9E93=Roman told me you was good for this shit. He told me you were fucking alpha and gonna fucking rule the world and you could handle yourself. I believe that shit. YOU'RE THE FUCKING MAN! Do this for Brucie.
+0x4DBA9E93=Roman told me you was good for this shit. He told me you were fucking alpha and gonna fucking rule the world and you could handle yourself. I believe that shit. YOU'RE THE FUCKING MAN! Do this for Brucie.
+
+;0x510F187C=FYI the shit is parked near the park in Outlook. Go and steal it, bro. (Should I worry about this paper trail getting back to me? Too late, fuck it. I'd be just as ALPHA in prison as I am out here) My lockup's in East Hook.
+0x510F187C=FYI the shit is parked near the park in Outlook. Go and steal it, bro. (Should I worry about this paper trail getting back to me? Too late, fuck it. I'd be just as ALPHA in prison as I am out here) My lockup's in East Hook.
+
+;0x535B28E0=Brucie's all cool on the last screw up, bro. He keeps on rolling with through the highs and the lows.
+0x535B28E0=Brucie's all cool on the last screw up, bro. He keeps on rolling with through the highs and the lows.
+
+;0x53F10A43=There's other crap on my to steal list. Sorry. -N
+0x53F10A43=There's other crap on my to steal list. Sorry. -N
+
+;0x575E174C=There are other things I must be doing. I'm sorry. -N
+0x575E174C=There are other things I must be doing. I'm sorry. -N
+
+;0x5CFFBC25=Bro, not coming thru on the last one is behind us. Ok? Water under the bridge, bro.
+0x5CFFBC25=Bro, not coming thru on the last one is behind us. Ok? Water under the bridge, bro.
+
+;0x5F260D9D=Niko, how you rolling?
+0x5F260D9D=Niko, how you rolling?
+
+;0x616645EA=It ain't a big deal about you being too pussy to get me the last order. You just didn't have the balls. Not that I think you don't got big balls. Both you and me can have big balls. Don't start thining my balls ain't big, ok????
+0x616645EA=It ain't a big deal about you being too pussy to get me the last order. You just didn't have the balls. Not that I think you don't got big balls. Both you and me can have big balls. Don't start thining my balls ain't big, ok????
+
+;0x6339BCD1=It's at a carwash in Beechwood City. If a man found that shit in his lockup he'd be real happy.
+0x6339BCD1=It's at a carwash in Beechwood City. If a man found that shit in his lockup he'd be real happy.
+
+;0x63775E2C=I want to help you out but cannot now. Sorry. -N
+0x63775E2C=I want to help you out but cannot now. Sorry. -N
+
+;0x6523ACA8=On it. -N
+0x6523ACA8=On it. -N
+
+;0x684552B4=Brucie's can't remember shit about the screw up earlier, bro. He's a fucking amnesiac. Yeah?
+0x684552B4=Brucie's can't remember shit about the screw up earlier, bro. He's a fucking amnesiac. Yeah?
+
+;0x68D320F7=NiKo, man, Wassup winner?
+0x68D320F7=NiKo, man, Wassup winner?
+
+;0x6D62D123=BTW it's parked near a playground in Firefly Projects. Go get it for me and put it in the lockup in East Hook Bay.
+0x6D62D123=BTW it's parked near a playground in Firefly Projects. Go get it for me and put it in the lockup in East Hook Bay.
+
+;0x6F23E165=We all cool about you not going for the last order. Just send me a pic of the bitch you were boning instead of helping me out.
+0x6F23E165=We all cool about you not going for the last order. Just send me a pic of the bitch you were boning instead of helping me out.
+
+;0x71A74BDE=The car is yours. -N
+0x71A74BDE=The car is yours. -N
+
+;0x7232FBA3=It's yours. -N
+0x7232FBA3=It's yours. -N
+
+;0x76786F1A=We're all cool on the fuck up before. Brucie don't bear no grudges and shit.
+0x76786F1A=We're all cool on the fuck up before. Brucie don't bear no grudges and shit.
+
+;0x79F8C342=NB, the main man,
+0x79F8C342=NB, the main man,
+
+;0x7D89B053=Send a reply my way and get me the wheels. There's a lot of $$$ in it 4 u. Be the top dog, bro.
+0x7D89B053=Send a reply my way and get me the wheels. There's a lot of $$$ in it 4 u. Be the top dog, bro.
+
+;0x84D00CBD=All cool on you not being able to help me out with the last one. You were probably screwing some hot bitch. You're that fucking ALPHA!
+0x84D00CBD=All cool on you not being able to help me out with the last one. You were probably screwing some hot bitch. You're that fucking ALPHA!
+
+;0x88941A0A=There is other shit for me to be doing right now. Sorry. -N
+0x88941A0A=There is other shit for me to be doing right now. Sorry. -N
+
+;0x89DF0A1B=It's parked at the docks in BOABO. Hope someone wasn't planning on shipping that shit coz it's not going anywhere. Get a fellow alpha those wheels and he'll be real happy. Drop it in my storage bay in East Hook.
+0x89DF0A1B=It's parked at the docks in BOABO. Hope someone wasn't planning on shipping that shit coz it's not going anywhere. Get a fellow alpha those wheels and he'll be real happy. Drop it in my storage bay in East Hook.
+
+;0x8BC919BB=It's all good on that last fuck up BTW. I can't expect you to be as perfect as my deltoids.
+0x8BC919BB=It's all good on that last fuck up BTW. I can't expect you to be as perfect as my deltoids.
+
+;0x8BCC8F96=Brucie thought you rolled like a fucking prince last time around. ALL GOOD!
+0x8BCC8F96=Brucie thought you rolled like a fucking prince last time around. ALL GOOD!
+
+;0x92A8A86E=Brucie don't mind you pussying out of the last request. Even winners like us need to take some time out from making $$$ to work on our abs.
+0x92A8A86E=Brucie don't mind you pussying out of the last request. Even winners like us need to take some time out from making $$$ to work on our abs.
+
+;0x9367A9D0=I know you didn't want to help me out on the last one, but you're a fucking winner. You won't pussy out every time.
+0x9367A9D0=I know you didn't want to help me out on the last one, but you're a fucking winner. You won't pussy out every time.
+
+;0x94C6200D=I found it in a car park, of all places. Head to Cerveza Heights and pick it up.
+0x94C6200D=I found it in a car park, of all places. Head to Cerveza Heights and pick it up.
+
+;0x99F73617=Brucie has forgotten about that last fuck up, bro. Just thought I should clear the air.
+0x99F73617=Brucie has forgotten about that last fuck up, bro. Just thought I should clear the air.
+
+;0x9AEF2DDB=I felt the vibes off that last bitch, bro. You rule!
+0x9AEF2DDB=I felt the vibes off that last bitch, bro. You rule!
+
+;0x9B3DACD8=Some pimp / pusher must've stolen that shit first coz it's outside a project on Chase fucking Point. Hook me up with that shit. Leave it in my East Hook Bay lockup.
+0x9B3DACD8=Some pimp / pusher must've stolen that shit first coz it's outside a project on Chase fucking Point. Hook me up with that shit. Leave it in my East Hook Bay lockup.
+
+;0xA2533C87=BTW - that last one you got me. You rule. You are genetically superior! That's how you roll.
+0xA2533C87=BTW - that last one you got me. You rule. You are genetically superior! That's how you roll.
+
+;0xA6AFC3BC=Someone's taking it for a spin around the South Slopes area. Don't fuck the suspension on those cobbles, Dude. Steal it, take it to East Hook Bay and keep a lookout for Liberty City's finest.
+0xA6AFC3BC=Someone's taking it for a spin around the South Slopes area. Don't fuck the suspension on those cobbles, Dude. Steal it, take it to East Hook Bay and keep a lookout for Liberty City's finest.
+
+;0xA800D8EB=It's done. -N
+0xA800D8EB=It's done. -N
+
+;0xAB1C4CB9=Look out for it being driven round Meadows Park by some beta or gamma or some shit.
+0xAB1C4CB9=Look out for it being driven round Meadows Park by some beta or gamma or some shit.
+
+;0xAC1B5033=When I opended the lockup and saw that last bitch I nearly fucking cried, bro. It was beautiful.
+0xAC1B5033=When I opended the lockup and saw that last bitch I nearly fucking cried, bro. It was beautiful.
+
+;0xB4E2CDC1=At the moment Brucie is really vibing this Feltzer.
+0xB4E2CDC1=At the moment Brucie is really vibing this Feltzer.
+
+;0xB897266D=If you're alpha enough reply to this email and get the ride for me. CU
+0xB897266D=If you're alpha enough reply to this email and get the ride for me. CU
+
+;0xBA38EAF2=It's parked by in front of the station in Meadow Hills and that shit looks locked up real tight.
+0xBA38EAF2=It's parked by in front of the station in Meadow Hills and that shit looks locked up real tight.
+
+;0xBD81FD2C=Man, all cool on not getting the last one. Even an Alpha male like you has to fuck up sometimes.
+0xBD81FD2C=Man, all cool on not getting the last one. Even an Alpha male like you has to fuck up sometimes.
+
+;0xD06784CA=I seen me a bad ass Banshee.
+0xD06784CA=I seen me a bad ass Banshee.
+
+;0xD14BD7D6=You can go and get the bitch once you've replied to my mail, bro. I'm itching for that shit.
+0xD14BD7D6=You can go and get the bitch once you've replied to my mail, bro. I'm itching for that shit.
+
+;0xD49750E9=Can't do it. Sorry -N
+0xD49750E9=Can't do it. Sorry -N
+
+;0xD507220E=That was some tight shit on the last one, bro.
+0xD507220E=That was some tight shit on the last one, bro.
+
+;0xD512E917=I will get for you. -N
+0xD512E917=I will get for you. -N
+
+;0xDB208D90=Don't worry. -N
+0xDB208D90=Don't worry. -N
+
+;0xE2ADA956=I've been told about a hot ass Cavalcade.
+0xE2ADA956=I've been told about a hot ass Cavalcade.
+
+;0xE2AEFA9C=When you've replied, go and get the ride. Out,
+0xE2AEFA9C=When you've replied, go and get the ride. Out,
+
+;0xE6C88C82=I don't got the time, man. Sorry. -N
+0xE6C88C82=I don't got the time, man. Sorry. -N
+
+;0xE76EC6DD=Bro, that last shit was nothing short of fucking superior.
+0xE76EC6DD=Bro, that last shit was nothing short of fucking superior.
+
+;0xEB868C3F=Reply and you can get me the new wheels. Be genetically superior, bro.
+0xEB868C3F=Reply and you can get me the new wheels. Be genetically superior, bro.
+
+;0xEE3CC074=There's this sweet Sabre GT.
+0xEE3CC074=There's this sweet Sabre GT.
+
+;0xF988EB11=Bro, I loved that shit last time round, bro. AWESOME!
+0xF988EB11=Bro, I loved that shit last time round, bro. AWESOME!
+
+;0xFB26AB87=Reply to this email if you think you're up to getting this shit. Later,
+0xFB26AB87=Reply to this email if you think you're up to getting this shit. Later,
+
+;0xFB994691=Yo, NB,
+0xFB994691=Yo, NB,
+

@@ -1,0 +1,40 @@
+﻿[BELL5]
+;0x2DB9CFCE=~s~Chase ~r~Chubby Charlie.
+0x2DB9CFCE=~s~Chase ~r~Chubby Charlie.
+
+;0x5020CCF0=~r~The chopper got away.
+0x5020CCF0=~r~The chopper got away.
+
+;0x5E32B0AF=~s~Go to the ~y~old Sprunk factory~s~ near Port Tudor.
+0x5E32B0AF=~s~Go to the ~y~old Sprunk factory~s~ near Port Tudor.
+
+;0x60A696CA=~r~Bell is dead.
+0x60A696CA=~r~Bell is dead.
+
+;0x7DC3E238=~s~You left ~b~Bell~s~ behind.
+0x7DC3E238=~s~You left ~b~Bell~s~ behind.
+
+;0x89C107CB=~s~Find ~r~Chubby Charlie.
+0x89C107CB=~s~Find ~r~Chubby Charlie.
+
+;0x97F5A434=~s~Keep chasing ~r~Chubby Charlie.
+0x97F5A434=~s~Keep chasing ~r~Chubby Charlie.
+
+;0xAD5F4F17=~s~Follow ~b~Bell.
+0xAD5F4F17=~s~Follow ~b~Bell.
+
+;0xBD32D71D=~r~Bell was abandoned.
+0xBD32D71D=~r~Bell was abandoned.
+
+;0xC94486E5=~s~Take out the ~r~chopper.
+0xC94486E5=~s~Take out the ~r~chopper.
+
+;0xD70E2278=~s~Take down ~r~Chubby Charlie.
+0xD70E2278=~s~Take down ~r~Chubby Charlie.
+
+;0xDEC291AD=~r~Chubby Charlie got away.
+0xDEC291AD=~r~Chubby Charlie got away.
+
+;0xF4CEDDF9=~s~Find a way inside the ~y~building.
+0xF4CEDDF9=~s~Find a way inside the ~y~building.
+

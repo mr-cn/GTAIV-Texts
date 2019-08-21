@@ -1,0 +1,673 @@
+﻿[LCPDKO]
+;0x00616596=Linked to Hsin Jaoming's Liberty City Triad Organization.
+0x00616596=Linked to Hsin Jaoming's Liberty City Triad Organization.
+
+;0x034C94BD=1950 - Accessory to Murder <br/>1961 - Harboring a Fugitive
+0x034C94BD=1950 - Accessory to Murder <br/>1961 - Harboring a Fugitive
+
+;0x05BBEF03=N/A
+0x05BBEF03=N/A
+
+;0x05F5FF74=Meech
+0x05F5FF74=Meech
+
+;0x0689D486=-Considered a rival for the leadership of Triad Organized Crime in Liberty City.<br/>-Suspected of masterminding several major counterfeiting operations in Liberty City and abroad.
+0x0689D486=-Considered a rival for the leadership of Triad Organized Crime in Liberty City.<br/>-Suspected of masterminding several major counterfeiting operations in Liberty City and abroad.
+
+;0x0A5BF74B=Known Associate of Wu "Kenny" Lee's Liberty City Triad Gang.
+0x0A5BF74B=Known Associate of Wu "Kenny" Lee's Liberty City Triad Gang.
+
+;0x0AAC3BD0=Dukes, Liberty City
+0x0AAC3BD0=Dukes, Liberty City
+
+;0x0B0D1D52=23
+0x0B0D1D52=23
+
+;0x0BBA09DC=McCormic
+0x0BBA09DC=McCormic
+
+;0x0D0A8D9D=Noto
+0x0D0A8D9D=Noto
+
+;0x0D89D4DB=Ireland
+0x0D89D4DB=Ireland
+
+;0x125132C6=1997 - Grand Theft Auto<br/>1998 - Grand Larceny<br/>2000 - Hijacking<br/>2005 - Possession Controlled Substance: Cocaine
+0x125132C6=1997 - Grand Theft Auto<br/>1998 - Grand Larceny<br/>2000 - Hijacking<br/>2005 - Possession Controlled Substance: Cocaine
+
+;0x14730B8D=Liberty City Triad Organization
+0x14730B8D=Liberty City Triad Organization
+
+;0x1591E653=South Bohan, Liberty City
+0x1591E653=South Bohan, Liberty City
+
+;0x15C98E26=Member of the Alderney Chapter of the Lost OMG
+0x15C98E26=Member of the Alderney Chapter of the Lost OMG
+
+;0x170212D7=N/A
+0x170212D7=N/A
+
+;0x194BB9CF=38
+0x194BB9CF=38
+
+;0x1AD52932=Ortiz
+0x1AD52932=Ortiz
+
+;0x1BD7BA15=Matteo
+0x1BD7BA15=Matteo
+
+;0x1BDCAA21=McIntosh
+0x1BDCAA21=McIntosh
+
+;0x1C1FDEB7=Dukes, Liberty City
+0x1C1FDEB7=Dukes, Liberty City
+
+;0x1C2A0F3B=1986 - Grand Larceny<br/>1990 - Assault<br/>1992 - Armed Robbery and Hijacking<br/>1999 - Conspiracy to Commit Extortion<br/>2005 - Tampering With Sports Contest: Dog Racing
+0x1C2A0F3B=1986 - Grand Larceny<br/>1990 - Assault<br/>1992 - Armed Robbery and Hijacking<br/>1999 - Conspiracy to Commit Extortion<br/>2005 - Tampering With Sports Contest: Dog Racing
+
+;0x1E1AB1FD=Kaplan
+0x1E1AB1FD=Kaplan
+
+;0x21E47FB3=60
+0x21E47FB3=60
+
+;0x228AA6EB=Gerald
+0x228AA6EB=Gerald
+
+;0x233AF868=Harvey
+0x233AF868=Harvey
+
+;0x235C353B=-Possible sex offender.<br/>-Arrested several times for exposing himself to men in parks and masturbating in public places.
+0x235C353B=-Possible sex offender.<br/>-Arrested several times for exposing himself to men in parks and masturbating in public places.
+
+;0x23CC3FCF=-Police informant.<br/>-Confidential testimony from him led to several high-profile convictions.<br/>-Originally arrested after several public protests and demonstrations turned bad in the early 70s.<br/>-Became involved in more violent protest and believed to have developed a heroin addiction while in prison.<br/>-Recent reports indicate that he was arrested in Ireland. May be returning to the US.
+0x23CC3FCF=-Police informant.<br/>-Confidential testimony from him led to several high-profile convictions.<br/>-Originally arrested after several public protests and demonstrations turned bad in the early 70s.<br/>-Became involved in more violent protest and believed to have developed a heroin addiction while in prison.<br/>-Recent reports indicate that he was arrested in Ireland. May be returning to the US.
+
+;0x24242ADB=Member of the Angels of Death OMG
+0x24242ADB=Member of the Angels of Death OMG
+
+;0x251C14FE=-Northwood resident of Dominican descent. <br/>-Works as bodyguard for Tony Prince, streetname - Gay Tony. <br/>-Also works as a doorman at Prince's nightclubs Maisonette 9 and Hercules in Lower Algonquin. <br/>-Linked to several Northwood drug dealers from an early age and known to be involved in the illegal street fighting scene.
+0x251C14FE=-Northwood resident of Dominican descent. <br/>-Works as bodyguard for Tony Prince, streetname - Gay Tony. <br/>-Also works as a doorman at Prince's nightclubs Maisonette 9 and Hercules in Lower Algonquin. <br/>-Linked to several Northwood drug dealers from an early age and known to be involved in the illegal street fighting scene.
+
+;0x25648893=Joseph
+0x25648893=Joseph
+
+;0x258C4EE6=Michaels
+0x258C4EE6=Michaels
+
+;0x26C6D4C5=27
+0x26C6D4C5=27
+
+;0x272297C7=-Known Soccer Hooligan
+0x272297C7=-Known Soccer Hooligan
+
+;0x2AF8A0B7=-Nephew of Vincent Lupisella.<br/>-Allegedly the boss of the Lupisella Crime Syndicate though many believe his uncle is still in charge.<br/>-Rumored that his street name, "Loopy", was gained because of his notoriously low IQ and propensity for violence. <br/>-Attempted to get a reality TV show about his life commissioned by the CNT network but plans were cancelled when he attacked an executive producer.
+0x2AF8A0B7=-Nephew of Vincent Lupisella.<br/>-Allegedly the boss of the Lupisella Crime Syndicate though many believe his uncle is still in charge.<br/>-Rumored that his street name, "Loopy", was gained because of his notoriously low IQ and propensity for violence. <br/>-Attempted to get a reality TV show about his life commissioned by the CNT network but plans were cancelled when he attacked an executive producer.
+
+;0x2BB45B32=O'Malley
+0x2BB45B32=O'Malley
+
+;0x2DA9E977=1948 - Hijacking<br/>1950 - Manslaughter<br/>1952 - Armed Robbery<br/>1956 - Extortion<br/>1970 - Conspiracy<br/>1989 - Racketeering<br/>2001 - Racketeering<br/>2005 - Obstruction Of Justice
+0x2DA9E977=1948 - Hijacking<br/>1950 - Manslaughter<br/>1952 - Armed Robbery<br/>1956 - Extortion<br/>1970 - Conspiracy<br/>1989 - Racketeering<br/>2001 - Racketeering<br/>2005 - Obstruction Of Justice
+
+;0x2F5BA839=-Czech immigrant. <br/>-Suspected of running a prostitution ring from a Hove Beach sex shop.<br/>-Believed to be involved in making low budget pornographic movies from his basement. <br/>-Several young women have filed complaints about him, including prostitute Marnie Allen, claiming they were conned into appearing in pornographic movies.
+0x2F5BA839=-Czech immigrant. <br/>-Suspected of running a prostitution ring from a Hove Beach sex shop.<br/>-Believed to be involved in making low budget pornographic movies from his basement. <br/>-Several young women have filed complaints about him, including prostitute Marnie Allen, claiming they were conned into appearing in pornographic movies.
+
+;0x303CD2E1=McReary
+0x303CD2E1=McReary
+
+;0x31A5D1CE=-Reported to be right hand to Giovanni Ancelotti.<br/>-Believed to represent the Ancelotti crime syndicate on the Algonquin commission when the head of the family is unable to attend.<br/>-Gained his street name, Chubby Charlie, because of the large commission he takes on his loans.<br/>-Skipped bail after being arrested on racketeering charges.<br/>-Gone into hiding - rumored to be in the Alderney area.
+0x31A5D1CE=-Reported to be right hand to Giovanni Ancelotti.<br/>-Believed to represent the Ancelotti crime syndicate on the Algonquin commission when the head of the family is unable to attend.<br/>-Gained his street name, Chubby Charlie, because of the large commission he takes on his loans.<br/>-Skipped bail after being arrested on racketeering charges.<br/>-Gone into hiding - rumored to be in the Alderney area.
+
+;0x32DB17AC=Carmen
+0x32DB17AC=Carmen
+
+;0x34C5ED59=McReary
+0x34C5ED59=McReary
+
+;0x3604643F=-Dukes based criminal of Irish ancestry.<br/>-Worked with Algonquin based crime syndicates but now affiliated with Jimmy Pegorino's Alderney mob.<br/>-More hands-off approach recently, leaving hijackings and armed robberies to his younger brother, Patrick McReary - street name Packie.<br/>-Often seen with Pegorino Capo, Ray Boccino.
+0x3604643F=-Dukes based criminal of Irish ancestry.<br/>-Worked with Algonquin based crime syndicates but now affiliated with Jimmy Pegorino's Alderney mob.<br/>-More hands-off approach recently, leaving hijackings and armed robberies to his younger brother, Patrick McReary - street name Packie.<br/>-Often seen with Pegorino Capo, Ray Boccino.
+
+;0x360C42FF=2005 - Possession Stolen Property<br/>2007 - Extortion
+0x360C42FF=2005 - Possession Stolen Property<br/>2007 - Extortion
+
+;0x3B6804F3=1997 - Embezzlement<br/>2000 - Tax Evasion<br/>2003 - Fraud
+0x3B6804F3=1997 - Embezzlement<br/>2000 - Tax Evasion<br/>2003 - Fraud
+
+;0x3DEFFFA9=Morina
+0x3DEFFFA9=Morina
+
+;0x3E970A69=2005 - Assault <br/>2007 - Assault
+0x3E970A69=2005 - Assault <br/>2007 - Assault
+
+;0x3F0001CD=McReary
+0x3F0001CD=McReary
+
+;0x41FFAC45=Ancelotti Crime Syndicate
+0x41FFAC45=Ancelotti Crime Syndicate
+
+;0x428A777C=McReary
+0x428A777C=McReary
+
+;0x42A4BE38=Acter, Alderney
+0x42A4BE38=Acter, Alderney
+
+;0x456D6D6D=Linked to Weight Lifting and Illegal Street Racing subcultures.
+0x456D6D6D=Linked to Weight Lifting and Illegal Street Racing subcultures.
+
+;0x478CE600=1997 - Grand Larceny<br/>1999 - Hijacking<br/>2003 - Possession Controlled Substance: Methamphetamine
+0x478CE600=1997 - Grand Larceny<br/>1999 - Hijacking<br/>2003 - Possession Controlled Substance: Methamphetamine
+
+;0x48B58732=Kerr
+0x48B58732=Kerr
+
+;0x49A6A170=2001 - Armed Robbery<br/>2002 - Sale Controlled Substance: Cocaine <br/>2006 - Assault
+0x49A6A170=2001 - Armed Robbery<br/>2002 - Sale Controlled Substance: Cocaine <br/>2006 - Assault
+
+;0x4A0251CE=Brucie
+0x4A0251CE=Brucie
+
+;0x4BED9A3C=Keane
+0x4BED9A3C=Keane
+
+;0x4E3142D9=Albania
+0x4E3142D9=Albania
+
+;0x50D2DE8F=Luis Fernando
+0x50D2DE8F=Luis Fernando
+
+;0x50D75A9D=Midwest
+0x50D75A9D=Midwest
+
+;0x513B3091=1999 - Burglary: Illegal Entry with Criminal Intent <br/>2003 - Possession Controlled Substance: Cocaine<br/>2004 - Burglary: Illegal Entry with Criminal Intent
+0x513B3091=1999 - Burglary: Illegal Entry with Criminal Intent <br/>2003 - Possession Controlled Substance: Cocaine<br/>2004 - Burglary: Illegal Entry with Criminal Intent
+
+;0x52A2F00B=-Private Investigator. <br/>-Works with Hsin Jaoming's Triad Organized Crime Network and the Angels of Death OMG. <br/>-Known to frequent Burger Shot restaurants.
+0x52A2F00B=-Private Investigator. <br/>-Works with Hsin Jaoming's Triad Organized Crime Network and the Angels of Death OMG. <br/>-Known to frequent Burger Shot restaurants.
+
+;0x57C36D50=Larry
+0x57C36D50=Larry
+
+;0x58EC794A=-Currently in Rehabilitation for the use of crack cocaine.<br/>-Graduate of Vespucci University.<br/>-Registered with the Liberty City Association of Securities Dealers.
+0x58EC794A=-Currently in Rehabilitation for the use of crack cocaine.<br/>-Graduate of Vespucci University.<br/>-Registered with the Liberty City Association of Securities Dealers.
+
+;0x58FBC15A=1987 - Resisting arrest<br/>1989 - Assault<br/>1992 - Assault<br/>1993 - Possession Controlled Substance: Methamphetamine<br/>2005 - Possession Controlled Substance: Methamphetamine
+0x58FBC15A=1987 - Resisting arrest<br/>1989 - Assault<br/>1992 - Assault<br/>1993 - Possession Controlled Substance: Methamphetamine<br/>2005 - Possession Controlled Substance: Methamphetamine
+
+;0x5AEDC316=1989 - Trademark Counterfeiting<br/>1995 - Trademark Counterfeiting<br/>1997 - Armed Robbery<br/>2005 - Racketeering
+0x5AEDC316=1989 - Trademark Counterfeiting<br/>1995 - Trademark Counterfeiting<br/>1997 - Armed Robbery<br/>2005 - Racketeering
+
+;0x5CC69D17=Known Associate of "Gay" Tony Prince.
+0x5CC69D17=Known Associate of "Gay" Tony Prince.
+
+;0x5F0D7B04=Lester
+0x5F0D7B04=Lester
+
+;0x5F2A7743=China
+0x5F2A7743=China
+
+;0x5F9DE5B2=Acter, Alderney
+0x5F9DE5B2=Acter, Alderney
+
+;0x5FA20A09=-AKA Real Badman<br/>-Jamaican-born gangster. <br/>-Believed to be head of a Marijuana and Cocaine distribution network based in East Liberty City. <br/>-Close ties to Jacob Hughes, street name - Little Jacob. -Suspect in several high profile armed robberies and hijackings.
+0x5FA20A09=-AKA Real Badman<br/>-Jamaican-born gangster. <br/>-Believed to be head of a Marijuana and Cocaine distribution network based in East Liberty City. <br/>-Close ties to Jacob Hughes, street name - Little Jacob. -Suspect in several high profile armed robberies and hijackings.
+
+;0x5FA2467B=29
+0x5FA2467B=29
+
+;0x60AB4F71=2001 - Grand Theft Auto<br/>2003 - Assault
+0x60AB4F71=2001 - Grand Theft Auto<br/>2003 - Assault
+
+;0x63D501E4=San Fierro
+0x63D501E4=San Fierro
+
+;0x644E8586=Vincent
+0x644E8586=Vincent
+
+;0x646D85C8=Teafore "Real Badman"
+0x646D85C8=Teafore "Real Badman"
+
+;0x67A9F5C6=Dukes, Liberty City
+0x67A9F5C6=Dukes, Liberty City
+
+;0x6B1839BA=Lupisella Crime Syndicate
+0x6B1839BA=Lupisella Crime Syndicate
+
+;0x6B3A65D7=1991 - Grand Theft Auto<br/>1993 - Assault <br/>1994 - Manslaughter<br/>2000 - Parole Violation
+0x6B3A65D7=1991 - Grand Theft Auto<br/>1993 - Assault <br/>1994 - Manslaughter<br/>2000 - Parole Violation
+
+;0x6C8D96E4=Albert
+0x6C8D96E4=Albert
+
+;0x6D231627=32
+0x6D231627=32
+
+;0x6D31679D=2007 - Resisting Arrest and Possession Controlled Substance: Crack Cocaine
+0x6D31679D=2007 - Resisting Arrest and Possession Controlled Substance: Crack Cocaine
+
+;0x6D703CB5=Bledar
+0x6D703CB5=Bledar
+
+;0x6DBD14B6=Eddie
+0x6DBD14B6=Eddie
+
+;0x6DC7E2C6=73
+0x6DC7E2C6=73
+
+;0x6EB8EB8C=1975 - Assault <br/>1978 - Manslaughter<br/>1985 - Manslaughter<br/>2001 - Racketeering
+0x6EB8EB8C=1975 - Assault <br/>1978 - Manslaughter<br/>1985 - Manslaughter<br/>2001 - Racketeering
+
+;0x6FCE2A61=-Famous actress on popular 80s sitcom.<br/>-Drug and alcohol problems since falling out of the public eye.<br/>-Believed to be participating in pornographic movies in exchange for crack cocaine.<br/>-Currently featured on the TV show 'Waning With The Stars'.
+0x6FCE2A61=-Famous actress on popular 80s sitcom.<br/>-Drug and alcohol problems since falling out of the public eye.<br/>-Believed to be participating in pornographic movies in exchange for crack cocaine.<br/>-Currently featured on the TV show 'Waning With The Stars'.
+
+;0x70B3158B=52
+0x70B3158B=52
+
+;0x71AE9D23=Liberty City
+0x71AE9D23=Liberty City
+
+;0x71B946F8=Linked to West Indian criminal gangs in East Liberty City.
+0x71B946F8=Linked to West Indian criminal gangs in East Liberty City.
+
+;0x726721BB=Charles
+0x726721BB=Charles
+
+;0x72902209=Mark "Loopy"
+0x72902209=Mark "Loopy"
+
+;0x77E7FDF2=2001 - Possession Controlled Substance: Crack Cocaine<br/>2003 - Driving While Intoxicated<br/>2004 - Resisting Arrest<br/>2005 - Possession Controlled Substance: Crack Cocaine<br/>2006 - Prostitution<br/>2007 - Obscenity: Obscene Performance
+0x77E7FDF2=2001 - Possession Controlled Substance: Crack Cocaine<br/>2003 - Driving While Intoxicated<br/>2004 - Resisting Arrest<br/>2005 - Possession Controlled Substance: Crack Cocaine<br/>2006 - Prostitution<br/>2007 - Obscenity: Obscene Performance
+
+;0x786B3A57=-Senior member of the Liberty City Chapter of the Angels of Death OMG.<br/>-Thought to have been the cause of the war between the Angels of Death and the Lost when he had sexual intercourse with the mother of a Lost member.
+0x786B3A57=-Senior member of the Liberty City Chapter of the Angels of Death OMG.<br/>-Thought to have been the cause of the war between the Angels of Death and the Lost when he had sexual intercourse with the mother of a Lost member.
+
+;0x7A483259=Johnny
+0x7A483259=Johnny
+
+;0x7A64EA90=Kibbutz
+0x7A64EA90=Kibbutz
+
+;0x7B3DD850=Aiden
+0x7B3DD850=Aiden
+
+;0x7D36C532=-Suspected to be the head of the Lupisella Crime Syndicate despite his nephew, Mark "Loopy" Lupisella, being officially in charge.<br/>-Believed to have killed his twin brother in a struggle for leadership of the family.<br/>-Claims to suffer from Alzheimer's Disease though his lawyers have blocked any State sponsored tests to verify this.<br/>-The Lupisella organization is believed to control many major Liberty City rackets.
+0x7D36C532=-Suspected to be the head of the Lupisella Crime Syndicate despite his nephew, Mark "Loopy" Lupisella, being officially in charge.<br/>-Believed to have killed his twin brother in a struggle for leadership of the family.<br/>-Claims to suffer from Alzheimer's Disease though his lawyers have blocked any State sponsored tests to verify this.<br/>-The Lupisella organization is believed to control many major Liberty City rackets.
+
+;0x7E803ACD=Huang
+0x7E803ACD=Huang
+
+;0x7F6B05E4=25
+0x7F6B05E4=25
+
+;0x7FE4398E=Liberty City
+0x7FE4398E=Liberty City
+
+;0x8007E395=N/A
+0x8007E395=N/A
+
+;0x82713907=29
+0x82713907=29
+
+;0x842266E6=1999 - Possession Controlled Substance: Intent to Sell<br/>2005 - Promoting Prostitution
+0x842266E6=1999 - Possession Controlled Substance: Intent to Sell<br/>2005 - Promoting Prostitution
+
+;0x85A51874=2003 - Driving While Intoxicated<br/>2006 - Driving While Intoxicated
+0x85A51874=2003 - Driving While Intoxicated<br/>2006 - Driving While Intoxicated
+
+;0x867BF081=Linked to the Triads and Angels of Death OMG.
+0x867BF081=Linked to the Triads and Angels of Death OMG.
+
+;0x87A34C33=Kerry
+0x87A34C33=Kerry
+
+;0x87B89ED7=1996 - Possession Stolen Property<br/>1998 - Petit Larceny<br/>2001 - Grand Larceny<br/>2002 - Arson<br/>2006 - Extortion
+0x87B89ED7=1996 - Possession Stolen Property<br/>1998 - Petit Larceny<br/>2001 - Grand Larceny<br/>2002 - Arson<br/>2006 - Extortion
+
+;0x87BB99CD=26
+0x87BB99CD=26
+
+;0x882FD9E0=-Believed to be second in command of the Alderney Chapter of the Lost Outlaw Motorcycle Gang. <br/>-Assumed control of the gang when its head, Billy Grey, was incarcerated. <br/>-Exact nature of the relationship between Grey and Klebitz is unknown.<br/>-Unclear who will assume control of the gang when Grey is released from prison. <br/>-Under his command, the Lost OMG have been able to co-exist with the Angels of Death OMG in relative peace. -Ties to known South Bohan drug dealer, Elizabeta Torres.
+0x882FD9E0=-Believed to be second in command of the Alderney Chapter of the Lost Outlaw Motorcycle Gang. <br/>-Assumed control of the gang when its head, Billy Grey, was incarcerated. <br/>-Exact nature of the relationship between Grey and Klebitz is unknown.<br/>-Unclear who will assume control of the gang when Grey is released from prison. <br/>-Under his command, the Lost OMG have been able to co-exist with the Angels of Death OMG in relative peace. -Ties to known South Bohan drug dealer, Elizabeta Torres.
+
+;0x8839B8B8=N/A
+0x8839B8B8=N/A
+
+;0x89EAF5AA=Derrick
+0x89EAF5AA=Derrick
+
+;0x8A1B6B18=1970 - Disorderly Conduct<br/>1971 - Civil Disobedience<br/>1974 - Resisting Arrest<br/>1978 - Armed Robbery<br/>1980 - Possession Controlled Substance: Cocaine<br/>1985 - Criminal Possession Weapon: Explosives
+0x8A1B6B18=1970 - Disorderly Conduct<br/>1971 - Civil Disobedience<br/>1974 - Resisting Arrest<br/>1978 - Armed Robbery<br/>1980 - Possession Controlled Substance: Cocaine<br/>1985 - Criminal Possession Weapon: Explosives
+
+;0x8B06513A=Bohan, Liberty City
+0x8B06513A=Bohan, Liberty City
+
+;0x8D1B53FC=Bohan, Liberty City
+0x8D1B53FC=Bohan, Liberty City
+
+;0x8D28CE76=31
+0x8D28CE76=31
+
+;0x8D54A1B7=31
+0x8D54A1B7=31
+
+;0x8F37943D=Lawson
+0x8F37943D=Lawson
+
+;0x8F7BE9BC=-History of corrupt business practices.<br/>-Ties to the Liberty City underworld.<br/>-Alleged misappropriation of state funds.
+0x8F7BE9BC=-History of corrupt business practices.<br/>-Ties to the Liberty City underworld.<br/>-Alleged misappropriation of state funds.
+
+;0x917746B0=Dukes, Liberty City
+0x917746B0=Dukes, Liberty City
+
+;0x91D90253=2000 - Grand Larceny<br/>2003 - Armed Robbery
+0x91D90253=2000 - Grand Larceny<br/>2003 - Armed Robbery
+
+;0x91F161AF=Wu "Kenny"
+0x91F161AF=Wu "Kenny"
+
+;0x91FAB35B=2002 - Trademark Counterfeiting<br/>2005 - Grand Theft Auto
+0x91FAB35B=2002 - Trademark Counterfeiting<br/>2005 - Grand Theft Auto
+
+;0x9238DDAD=Michael
+0x9238DDAD=Michael
+
+;0x949BD758=Linked to Irish American Criminals in Dukes and the Alderney based Pegorino Crime Syndicate.
+0x949BD758=Linked to Irish American Criminals in Dukes and the Alderney based Pegorino Crime Syndicate.
+
+;0x94D5F32C=-Owner of Brucie's Executive Lifestyle Autos. <br/>-Believed to operate a chop shop for stolen vehicles. <br/>-Suspected involvement in the illegal street racing scene. <br/>-Known steroid user and dealer. <br/>-Very aggressive, known to lash out when resisting arrest. <br/>-Likes to spend his money lavishly in nightclubs - possibly evading taxation.
+0x94D5F32C=-Owner of Brucie's Executive Lifestyle Autos. <br/>-Believed to operate a chop shop for stolen vehicles. <br/>-Suspected involvement in the illegal street racing scene. <br/>-Known steroid user and dealer. <br/>-Very aggressive, known to lash out when resisting arrest. <br/>-Likes to spend his money lavishly in nightclubs - possibly evading taxation.
+
+;0x97F191BF=Jason
+0x97F191BF=Jason
+
+;0x98203A96=38
+0x98203A96=38
+
+;0x9868BDFB=1958 - Grand Theft Auto<br/>1960 - Loansharking<br/>1960 - Extortion<br/>1965 - Extortion<br/>1970 - Possession Controlled Substance: Intent to Sell<br/>1982 - Manslaughter
+0x9868BDFB=1958 - Grand Theft Auto<br/>1960 - Loansharking<br/>1960 - Extortion<br/>1965 - Extortion<br/>1970 - Possession Controlled Substance: Intent to Sell<br/>1982 - Manslaughter
+
+;0x994FEF8C=Cherice
+0x994FEF8C=Cherice
+
+;0x9AF99978=Linked to Organized Crime throughout Liberty City.
+0x9AF99978=Linked to Organized Crime throughout Liberty City.
+
+;0x9B45F051=Bohan, Liberty City
+0x9B45F051=Bohan, Liberty City
+
+;0x9BD5F38C=23
+0x9BD5F38C=23
+
+;0x9E493260=Lee
+0x9E493260=Lee
+
+;0x9F72E72A=Member of East Holland drug gang.
+0x9F72E72A=Member of East Holland drug gang.
+
+;0x9FE9F3F8=48
+0x9FE9F3F8=48
+
+;0xA1A752B4=2003 - Sexual Assault
+0xA1A752B4=2003 - Sexual Assault
+
+;0xA312D34F=2006 - Public Lewdness
+0xA312D34F=2006 - Public Lewdness
+
+;0xA37A7515=N/A
+0xA37A7515=N/A
+
+;0xA3E60F40=-Arrested in a compromising position with a man in a motor vehicle. <br/>-Believed to be a nymphomaniac.
+0xA3E60F40=-Arrested in a compromising position with a man in a motor vehicle. <br/>-Believed to be a nymphomaniac.
+
+;0xA4180111=Glasgow, Scotland
+0xA4180111=Glasgow, Scotland
+
+;0xA52E1524=-Mother of Gerald, Derrick and Patrick McReary. <br/>-Conspirator with their father in the 50s and 60s. <br/>-Victim of domestic abuse but would not testify against her husband.
+0xA52E1524=-Mother of Gerald, Derrick and Patrick McReary. <br/>-Conspirator with their father in the 50s and 60s. <br/>-Victim of domestic abuse but would not testify against her husband.
+
+;0xA5462F79=Messina Crime Syndicate
+0xA5462F79=Messina Crime Syndicate
+
+;0xA8442F29=1964 - Loansharking<br/>1966 - Murder <br/>1982 - Manslaughter <br/>2003 - Racketeering
+0xA8442F29=1964 - Loansharking<br/>1966 - Murder <br/>1982 - Manslaughter <br/>2003 - Racketeering
+
+;0xA9908C5C="Chubby" Charlie
+0xA9908C5C="Chubby" Charlie
+
+;0xAB09DD21=34
+0xAB09DD21=34
+
+;0xABC4DE93=25
+0xABC4DE93=25
+
+;0xABD4A12D=-Nephew of Liberty City Triad Boss, Wu "Kenny" Lee. <br/>-Believed to be working freelance for other organizations in addition to his uncle's.
+0xABD4A12D=-Nephew of Liberty City Triad Boss, Wu "Kenny" Lee. <br/>-Believed to be working freelance for other organizations in addition to his uncle's.
+
+;0xACCA9681=Maureen
+0xACCA9681=Maureen
+
+;0xAD8C1551=Jamaica
+0xAD8C1551=Jamaica
+
+;0xAE2D23CE=-Head of the Messina Crime Syndicate.<br/>-Reported to be plotting the murder of Mark Anthony Volpe, a capo in his organization he believes to be a police informant.<br/>-The actual informant in his organization, Fredo Volpe, has collected evidence on Noto that should lead to a Federal Racketeering conviction.<br/>-Believed to have transformed the Messina Crime Syndicate from one of the least powerful in Liberty City to a dominant force on the commission.<br/>-Despite rivalries, believed to be a close friend of Jon Gravelli.
+0xAE2D23CE=-Head of the Messina Crime Syndicate.<br/>-Reported to be plotting the murder of Mark Anthony Volpe, a capo in his organization he believes to be a police informant.<br/>-The actual informant in his organization, Fredo Volpe, has collected evidence on Noto that should lead to a Federal Racketeering conviction.<br/>-Believed to have transformed the Messina Crime Syndicate from one of the least powerful in Liberty City to a dominant force on the commission.<br/>-Despite rivalries, believed to be a close friend of Jon Gravelli.
+
+;0xAECD98C8=Los Santos
+0xAECD98C8=Los Santos
+
+;0xB05FC590=N/A
+0xB05FC590=N/A
+
+;0xB0AB53C0=Lopez
+0xB0AB53C0=Lopez
+
+;0xB1B71192=Member of the Alderney Chapter of the Lost OMG
+0xB1B71192=Member of the Alderney Chapter of the Lost OMG
+
+;0xB276C79A=Known Associate of Mikhail Faustin and Russian Organized Crime in Hove Beach.
+0xB276C79A=Known Associate of Mikhail Faustin and Russian Organized Crime in Hove Beach.
+
+;0xB4F5C88C=1985 - Animal Cruelty<br/>1990 - Exposure Of A Person <br/>1995 - Public Lewdness
+0xB4F5C88C=1985 - Animal Cruelty<br/>1990 - Exposure Of A Person <br/>1995 - Public Lewdness
+
+;0xB6E03888=-Youngest brother and employee of Gerald McReary.<br/>-Suspected in a number of robberies and hijackings.<br/>-Arrested with several grams of cocaine in the presence of a known prostitute.<br/>-Believed to be working as muscle for the Alderney-based Pegorino Crime Syndicate.
+0xB6E03888=-Youngest brother and employee of Gerald McReary.<br/>-Suspected in a number of robberies and hijackings.<br/>-Arrested with several grams of cocaine in the presence of a known prostitute.<br/>-Believed to be working as muscle for the Alderney-based Pegorino Crime Syndicate.
+
+;0xB868149D=Alderney, Liberty City
+0xB868149D=Alderney, Liberty City
+
+;0xB9A77A58=48
+0xB9A77A58=48
+
+;0xB9D07AAE=49
+0xB9D07AAE=49
+
+;0xBB9CA55D=Linked to Russian and Eastern European criminals in Hove Beach.
+0xBB9CA55D=Linked to Russian and Eastern European criminals in Hove Beach.
+
+;0xBD43B5B4=China
+0xBD43B5B4=China
+
+;0xBFBA2335=Liberty City
+0xBFBA2335=Liberty City
+
+;0xC03C6325=N/A
+0xC03C6325=N/A
+
+;0xC1C6F95B=Klebitz
+0xC1C6F95B=Klebitz
+
+;0xC1E73CAF=Czech Republic
+0xC1E73CAF=Czech Republic
+
+;0xC2F2884C=Low
+0xC2F2884C=Low
+
+;0xC44F0FD7=51
+0xC44F0FD7=51
+
+;0xC45443D5=Los Santos
+0xC45443D5=Los Santos
+
+;0xC87F8937=-Small time Albanian thug.<br/>-Believed to be part of a money lending and extortion operation that targets illegal immigrants when they arrive in US.<br/>-Based in Hove Beach.
+0xC87F8937=-Small time Albanian thug.<br/>-Believed to be part of a money lending and extortion operation that targets illegal immigrants when they arrive in US.<br/>-Based in Hove Beach.
+
+;0xC8E345EA=35
+0xC8E345EA=35
+
+;0xC9B5418E=Linked to Criminal Underworld in Ireland and Irish American criminals based in Dukes.
+0xC9B5418E=Linked to Criminal Underworld in Ireland and Irish American criminals based in Dukes.
+
+;0xCA11B7F0=San Fierro
+0xCA11B7F0=San Fierro
+
+;0xCC802865=2001 - Patronize Prostitute: Transvestite<br/>2003 - Possession Controlled Substance: Steroids<br/>2003 - Speeding Violation<br/>2004 - Speeding Violation<br/>2005 - Sale Controlled Substance: Steroids
+0xCC802865=2001 - Patronize Prostitute: Transvestite<br/>2003 - Possession Controlled Substance: Steroids<br/>2003 - Speeding Violation<br/>2004 - Speeding Violation<br/>2005 - Sale Controlled Substance: Steroids
+
+;0xCD2C7DDD=Lupisella Crime Syndicate
+0xCD2C7DDD=Lupisella Crime Syndicate
+
+;0xCE0680E1=N/A
+0xCE0680E1=N/A
+
+;0xCE734EDA=Tony
+0xCE734EDA=Tony
+
+;0xD2005FF0=27
+0xD2005FF0=27
+
+;0xD207AB48=79
+0xD207AB48=79
+
+;0xD226DE86=San Fierro
+0xD226DE86=San Fierro
+
+;0xD234AB9E=25
+0xD234AB9E=25
+
+;0xD33118CB=Lupisella
+0xD33118CB=Lupisella
+
+;0xD375F1B3=-Famous supermodel.<br/>-History of drug and alcohol abuse in recent years.
+0xD375F1B3=-Famous supermodel.<br/>-History of drug and alcohol abuse in recent years.
+
+;0xD8749475=N/A
+0xD8749475=N/A
+
+;0xD87AFA79=-Believed to be the second most powerful leader in the Liberty City Triad Organization. <br/>-Considered the chief rival for Chan Jaoming in the struggle for control of Triad Organized Crime in Liberty City.
+0xD87AFA79=-Believed to be the second most powerful leader in the Liberty City Triad Organization. <br/>-Considered the chief rival for Chan Jaoming in the struggle for control of Triad Organized Crime in Liberty City.
+
+;0xD9D965A6=Brian
+0xD9D965A6=Brian
+
+;0xDA6E2D14=-Recently patched in member of the Lost OMG.<br/>-Often seen with young women; possibly making money as a pimp.<br/>-Close to the acting head of his chapter, Johnny Klebitz.<br/>-Recently sighted in the Hove Beach area with Anna Faustin, daughter of Russian gangster Mikhail Faustin.
+0xDA6E2D14=-Recently patched in member of the Lost OMG.<br/>-Often seen with young women; possibly making money as a pimp.<br/>-Close to the acting head of his chapter, Johnny Klebitz.<br/>-Recently sighted in the Hove Beach area with Anna Faustin, daughter of Russian gangster Mikhail Faustin.
+
+;0xDBF37121=Clarence
+0xDBF37121=Clarence
+
+;0xDE01C664=22
+0xDE01C664=22
+
+;0xDEBDCCE0=2008 - Assault With A Deadly Weapon: Knife
+0xDEBDCCE0=2008 - Assault With A Deadly Weapon: Knife
+
+;0xDF33FB53=Patrick "Packie"
+0xDF33FB53=Patrick "Packie"
+
+;0xDF3E78B5=Alderney City, Alderney
+0xDF3E78B5=Alderney City, Alderney
+
+;0xDF82C63A=46
+0xDF82C63A=46
+
+;0xDFD9C6EC=50
+0xDFD9C6EC=50
+
+;0xE20F7F4B=Dukes, Liberty City
+0xE20F7F4B=Dukes, Liberty City
+
+;0xE336D0C2=29
+0xE336D0C2=29
+
+;0xE5F5BE54=Leroc
+0xE5F5BE54=Leroc
+
+;0xE6B730FA=Linked to Irish American Criminals in Dukes and the Alderney based Pegorino Crime Syndicate.
+0xE6B730FA=Linked to Irish American Criminals in Dukes and the Alderney based Pegorino Crime Syndicate.
+
+;0xE74940F7=Martin
+0xE74940F7=Martin
+
+;0xE9638BA3=China
+0xE9638BA3=China
+
+;0xEA704749=Lupisella
+0xEA704749=Lupisella
+
+;0xEAA10735=Zhou
+0xEAA10735=Zhou
+
+;0xEB451DFD=-Internet entrepreneur and multi-millionaire.<br/>-History of domestic violence.<br/>-Believed to be an egomaniac with a Napoleon complex.
+0xEB451DFD=-Internet entrepreneur and multi-millionaire.<br/>-History of domestic violence.<br/>-Believed to be an egomaniac with a Napoleon complex.
+
+;0xEC11AF0B=1972 - Civil Disobedience<br/>1974 - Resisting Arrest<br/>1995 - Grand Larceny (Multiple Counts)
+0xEC11AF0B=1972 - Civil Disobedience<br/>1974 - Resisting Arrest<br/>1995 - Grand Larceny (Multiple Counts)
+
+;0xEC65CE98=Lee
+0xEC65CE98=Lee
+
+;0xED6313B6=Unknown
+0xED6313B6=Unknown
+
+;0xEDBD65DB=66
+0xEDBD65DB=66
+
+;0xEFE74E52=-Small time Dukes-based Irish American hood. <br/>-Works closely with Gordon Sargent and Patrick McReary, brother of the Pegorino Crime family associate, Gerald McReary. <br/>-Suspected in a number of hijackings and robberies.
+0xEFE74E52=-Small time Dukes-based Irish American hood. <br/>-Works closely with Gordon Sargent and Patrick McReary, brother of the Pegorino Crime family associate, Gerald McReary. <br/>-Suspected in a number of hijackings and robberies.
+
+;0xF040D40A=McTony
+0xF040D40A=McTony
+
+;0xF0A1E850=41
+0xF0A1E850=41
+
+;0xF199D6B8=Ming
+0xF199D6B8=Ming
+
+;0xF3834BDA=N/A
+0xF3834BDA=N/A
+
+;0xF4493005=-Famous pop singer.<br/>-Engaged to hedge fund mogul, Kirk Simplex.<br/>-Controversy surrounds the 'adoption' of her 13 children from developing nations.
+0xF4493005=-Famous pop singer.<br/>-Engaged to hedge fund mogul, Kirk Simplex.<br/>-Controversy surrounds the 'adoption' of her 13 children from developing nations.
+
+;0xF4EA122F=Known associate of the McReary family.
+0xF4EA122F=Known associate of the McReary family.
+
+;0xF4F47809=2006 - Driving While Intoxicated<br/>2007 - Possession Controlled Substance: Cocaine
+0xF4F47809=2006 - Driving While Intoxicated<br/>2007 - Possession Controlled Substance: Cocaine
+
+;0xF5B475BD=35
+0xF5B475BD=35
+
+;0xF85AA2A8=Samantha
+0xF85AA2A8=Samantha
+
+;0xF8C9F3FA=Little
+0xF8C9F3FA=Little
+
+;0xF982E56A=Maxwell-Davies
+0xF982E56A=Maxwell-Davies
+
+;0xFE25EACF=-Head of a Heroin and Crack Cocaine distribution operation. <br/>-Controls at least one Project Housing block in East Holland. <br/>-Recently approached the LCPD offering to give evidence on police corruption in exchange for leniency.
+0xFE25EACF=-Head of a Heroin and Crack Cocaine distribution operation. <br/>-Controls at least one Project Housing block in East Holland. <br/>-Recently approached the LCPD offering to give evidence on police corruption in exchange for leniency.
+
+;0xFF24F681=-Associate of Derrick McReary and Bucky Sligo. <br/>-Currently held in custody. <br/>-Recently offered information that may lead to further arrests.
+0xFF24F681=-Associate of Derrick McReary and Bucky Sligo. <br/>-Currently held in custody. <br/>-Recently offered information that may lead to further arrests.
+
+;0xFF43B84F=Dukes, Liberty City
+0xFF43B84F=Dukes, Liberty City
+
+;0xFFAB72DB=Muldoon
+0xFFAB72DB=Muldoon
+

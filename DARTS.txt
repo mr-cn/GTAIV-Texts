@@ -1,0 +1,154 @@
+﻿[DARTS]
+;0x0A2B0607=Use ~PAD_LSTICK_LEFT~ to view the scoreboard.
+0x0A2B0607=Use ~PAD_LSTICK_LEFT~ to view the scoreboard.
+
+;0x0ED18790=Press ~INPUT_ATTACK~ to skip opponent's turn.
+0x0ED18790=Press ~INPUT_ATTACK~ to skip opponent's turn.
+
+;0x10477653=~r~Carmen wins
+0x10477653=~r~Carmen wins
+
+;0x124EA68D=~r~Jacob wins
+0x124EA68D=~r~Jacob wins
+
+;0x12B5B992=~r~You lose.
+0x12B5B992=~r~You lose.
+
+;0x1B5C1B45=Hold ~PAD_RT~ to steady your shot. Time it well, it only lasts for a second.
+0x1B5C1B45=Hold ~PAD_RT~ to steady your shot. Time it well, it only lasts for a second.
+
+;0x1E80E316=~r~Dwayne wins
+0x1E80E316=~r~Dwayne wins
+
+;0x2990DC27=~g~Player ~1~ wins
+0x2990DC27=~g~Player ~1~ wins
+
+;0x2BEEED4A=~1~ points remaining.
+0x2BEEED4A=~1~ points remaining.
+
+;0x2F8CF527=Hold ~INPUT_JUMP~ to steady your shot. Time it well, it only lasts for a second.
+0x2F8CF527=Hold ~INPUT_JUMP~ to steady your shot. Time it well, it only lasts for a second.
+
+;0x39F884F5=~r~Brucie wins
+0x39F884F5=~r~Brucie wins
+
+;0x454BAD16=~1~
+0x454BAD16=~1~
+
+;0x51A58360=~1~! Opponent is bust.
+0x51A58360=~1~! Opponent is bust.
+
+;0x52ED989D=Use ~PAD_RSTICK_ALL~ to control your aim then press ~INPUT_ATTACK~ to throw the dart.
+0x52ED989D=Use ~PAD_RSTICK_ALL~ to control your aim then press ~INPUT_ATTACK~ to throw the dart.
+
+;0x58B60D0F=Press ~INPUT_FRONTEND_ACCEPT~ to start aiming the dart.
+0x58B60D0F=Press ~INPUT_FRONTEND_ACCEPT~ to start aiming the dart.
+
+;0x5AFDD9F2=Use ~PAD_LSTICK_ALL~ to control your aim then press ~INPUT_FRONTEND_ACCEPT~ to throw the dart.
+0x5AFDD9F2=Use ~PAD_LSTICK_ALL~ to control your aim then press ~INPUT_FRONTEND_ACCEPT~ to throw the dart.
+
+;0x5C24CEA6=~r~Opponent wins
+0x5C24CEA6=~r~Opponent wins
+
+;0x6026FAB3=Press ~INPUT_FRONTEND_ACCEPT~ to skip opponent's turn.
+0x6026FAB3=Press ~INPUT_FRONTEND_ACCEPT~ to skip opponent's turn.
+
+;0x61B1D14C=To win the game you must finish on a double, or the bull.
+0x61B1D14C=To win the game you must finish on a double, or the bull.
+
+;0x6C229F7D=The middle band scores you triple points.
+0x6C229F7D=The middle band scores you triple points.
+
+;0x6CBE51D7=~r~Packie wins
+0x6CBE51D7=~r~Packie wins
+
+;0x7497BEA5=Hold ~INPUT_SPRINT~ to speed up your aim movement.
+0x7497BEA5=Hold ~INPUT_SPRINT~ to speed up your aim movement.
+
+;0x786D3812=Hitting within the outer band scores you double points for that dart.
+0x786D3812=Hitting within the outer band scores you double points for that dart.
+
+;0x844F1CBC=~r~Kate wins
+0x844F1CBC=~r~Kate wins
+
+;0x878A5648=Score points by throwing darts within the 20 numbered sections.
+0x878A5648=Score points by throwing darts within the 20 numbered sections.
+
+;0x87975666=This is the number shown on the outer rim.
+0x87975666=This is the number shown on the outer rim.
+
+;0x8BD2BA0F=~y~You win.
+0x8BD2BA0F=~y~You win.
+
+;0x95C6F2C5=Hitting one of the large portions of a section scores you single points.
+0x95C6F2C5=Hitting one of the large portions of a section scores you single points.
+
+;0x95E1F2F7=How to play darts
+0x95E1F2F7=How to play darts
+
+;0x982CC0C6=Hold ~PAD_RB~ to speed up your aim movement.
+0x982CC0C6=Hold ~PAD_RB~ to speed up your aim movement.
+
+;0x9867A23C=~1~! You can only check-out on a double.
+0x9867A23C=~1~! You can only check-out on a double.
+
+;0xA0B4983F=It's your turn, step up to the line. ~1~ points remaining.
+0xA0B4983F=It's your turn, step up to the line. ~1~ points remaining.
+
+;0xA1948A67=Opponent scores ~1~. ~1~ points remaining.
+0xA1948A67=Opponent scores ~1~. ~1~ points remaining.
+
+;0xB36EFD7C=You score ~1~. ~1~ points remaining.
+0xB36EFD7C=You score ~1~. ~1~ points remaining.
+
+;0xB396AE64=But remember, the winning dart must hit a double! Not "doubling out" results in your score being reset to the previous score, and your turn ending!
+0xB396AE64=But remember, the winning dart must hit a double! Not "doubling out" results in your score being reset to the previous score, and your turn ending!
+
+;0xB6CB0A0D=Remember, at the end you need to check-out on a double or bull to win the game.
+0xB6CB0A0D=Remember, at the end you need to check-out on a double or bull to win the game.
+
+;0xBE6C0916=Player ~1~ scores ~1~.
+0xBE6C0916=Player ~1~ scores ~1~.
+
+;0xBECCC4D0=The object of the game is to reduce your score to exactly zero, before your opponent does.
+0xBECCC4D0=The object of the game is to reduce your score to exactly zero, before your opponent does.
+
+;0xC140FB81=~1~! You're bust.
+0xC140FB81=~1~! You're bust.
+
+;0xCC241A42=Use ~PAD_SIXAXIS_PITCH~ and ~PAD_SIXAXIS_ROLL~ to control your aim then press ~PAD_A~ to throw the dart.
+0xCC241A42=Use ~PAD_SIXAXIS_PITCH~ and ~PAD_SIXAXIS_ROLL~ to control your aim then press ~PAD_A~ to throw the dart.
+
+;0xCD02613B=The bullseye is the circle in the center of the board. The outer ring scores 25, the inner circle scores 50.
+0xCD02613B=The bullseye is the circle in the center of the board. The outer ring scores 25, the inner circle scores 50.
+
+;0xCD095D23=~r~Michelle wins
+0xCD095D23=~r~Michelle wins
+
+;0xD6F7C0B1=~r~Alex wins
+0xD6F7C0B1=~r~Alex wins
+
+;0xD767D8E0=~1~! ~1~ points remaining.
+0xD767D8E0=~1~! ~1~ points remaining.
+
+;0xDBED27A1=~1~.
+0xDBED27A1=~1~.
+
+;0xDBFCAE47=Use ~PAD_RSTICK_LEFT~ to view the scoreboard.
+0xDBFCAE47=Use ~PAD_RSTICK_LEFT~ to view the scoreboard.
+
+;0xDF0E698B=~r~Kiki wins
+0xDF0E698B=~r~Kiki wins
+
+;0xE18D4BAD=Opponent's turn. ~1~ points remaining.
+0xE18D4BAD=Opponent's turn. ~1~ points remaining.
+
+;0xE909EE8A=This game is easy, Niko. Your score starts at 301, first down to 0 wins.
+0xE909EE8A=This game is easy, Niko. Your score starts at 301, first down to 0 wins.
+
+;0xEE7BCDAD=~1~!
+0xEE7BCDAD=~1~!
+
+;0xF583B696=~r~Roman wins
+0xF583B696=~r~Roman wins
+

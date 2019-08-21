@@ -1,0 +1,124 @@
+﻿[VIPRING]
+;0x0B2955AB=BEHEADING
+0x0B2955AB=BEHEADING
+
+;0x0F5BA254=You don't have enough Money.
+0x0F5BA254=You don't have enough Money.
+
+;0x115791E5=MONEY COUNTER
+0x115791E5=MONEY COUNTER
+
+;0x1AA7CA60=Your phone already has this Theme.
+0x1AA7CA60=Your phone already has this Theme.
+
+;0x20AF8B07=Choose one of the VIP Luxury Ringtones below
+0x20AF8B07=Choose one of the VIP Luxury Ringtones below
+
+;0x283BA48B=It's the TV show that has replicated into 18 identical TV shows set in different cities with the same plotlines and stunningly horrendous dialog. Punctuate your best Shory impression by taking your sunglasses on and off and spouting one liners like "Speed kills, and so do guns" or "Worlds collide because crime doesn't pay."
+0x283BA48B=It's the TV show that has replicated into 18 identical TV shows set in different cities with the same plotlines and stunningly horrendous dialog. Punctuate your best Shory impression by taking your sunglasses on and off and spouting one liners like "Speed kills, and so do guns" or "Worlds collide because crime doesn't pay."
+
+;0x28E79B73=Find out with VIP Luxury Ringtones
+0x28E79B73=Find out with VIP Luxury Ringtones
+
+;0x29B33002=THEMES
+0x29B33002=THEMES
+
+;0x2E87CC45=The sound of million dollar bills being counted. People will think those are YOUR million dollar bills and then wonder why you're riding the bus like a loser.
+0x2E87CC45=The sound of million dollar bills being counted. People will think those are YOUR million dollar bills and then wonder why you're riding the bus like a loser.
+
+;0x32F12F8A=TOP MP3
+0x32F12F8A=TOP MP3
+
+;0x3B0563FF=Your phone already has this Ringtone.
+0x3B0563FF=Your phone already has this Ringtone.
+
+;0x3B2D3FFE=Nothing tells the people around you that you're a player like a high priced ringtone. You're about to find out what it's like to be a celebrity. Rich people know - your ringtone defines who you are and how much money you have so take bling to the next level with audio bling. Show the world how dope you are by blaring something unique.
+0x3B2D3FFE=Nothing tells the people around you that you're a player like a high priced ringtone. You're about to find out what it's like to be a celebrity. Rich people know - your ringtone defines who you are and how much money you have so take bling to the next level with audio bling. Show the world how dope you are by blaring something unique.
+
+;0x3C3A421C=TOP SFX
+0x3C3A421C=TOP SFX
+
+;0x3CB3689C=LESBIANS
+0x3CB3689C=LESBIANS
+
+;0x3FACE149=Your new Theme has been sent to your phone.
+0x3FACE149=Your new Theme has been sent to your phone.
+
+;0x4BFC872E=Nothing says luxury like lesbians - women who are so taken by your manliness they can't help but make out. That's power. That's what being a VIP is all about.
+0x4BFC872E=Nothing says luxury like lesbians - women who are so taken by your manliness they can't help but make out. That's power. That's what being a VIP is all about.
+
+;0x4E74E691=TOP THEMES
+0x4E74E691=TOP THEMES
+
+;0x58F19DA5=SFX
+0x58F19DA5=SFX
+
+;0x5E1E9050=DRAGONBRAIN RINGTONE
+0x5E1E9050=DRAGONBRAIN RINGTONE
+
+;0x634785D2=Only fools travel in first class. Show the world you're a man who loves to spend $60,000 on a $500 plane flight. Dope.
+0x634785D2=Only fools travel in first class. Show the world you're a man who loves to spend $60,000 on a $500 plane flight. Dope.
+
+;0x6EE253A3=Your phone does not support this feature.
+0x6EE253A3=Your phone does not support this feature.
+
+;0x72B4B97C=The show that spawned a catchphrase "Bitch let's go!" is the #1 ringtone in the country. Show the world you are an individual by sporting the theme of the show where we get to judge women again.
+0x72B4B97C=The show that spawned a catchphrase "Bitch let's go!" is the #1 ringtone in the country. Show the world you are an individual by sporting the theme of the show where we get to judge women again.
+
+;0x73FACA8C=THANK YOU
+0x73FACA8C=THANK YOU
+
+;0x7B9B4B49=THE SCIENCE OF CRIME RINGTONE
+0x7B9B4B49=THE SCIENCE OF CRIME RINGTONE
+
+;0x7DA844F3=What is the price of individuality?
+0x7DA844F3=What is the price of individuality?
+
+;0x871AFD6A=OLD WOMAN BREAKING HER HIP
+0x871AFD6A=OLD WOMAN BREAKING HER HIP
+
+;0x8CE8EDE4=Every time you get a call it will be like you are right in the movie! Imagine deleted scenes you wanted to see of elves fornicating with trolls, orcs ovulating, and dragons flying upside down. The Dragonbrain ringtone celebrates the movie that took America on a 4 hour journey to a land before time or sundials or basic critical faculties.
+0x8CE8EDE4=Every time you get a call it will be like you are right in the movie! Imagine deleted scenes you wanted to see of elves fornicating with trolls, orcs ovulating, and dragons flying upside down. The Dragonbrain ringtone celebrates the movie that took America on a 4 hour journey to a land before time or sundials or basic critical faculties.
+
+;0x94E49901=VIP Luxury Ringtones spent months at nursing homes trying to get just the right sound. This one is a favorite. Every time you get a call people will ask, "did you hear that? It's like an old woman just broke her hip." It's comedy that never gets old.
+0x94E49901=VIP Luxury Ringtones spent months at nursing homes trying to get just the right sound. This one is a favorite. Every time you get a call people will ask, "did you hear that? It's like an old woman just broke her hip." It's comedy that never gets old.
+
+;0x954019BE=MP3
+0x954019BE=MP3
+
+;0x9B9B7679=FLAT LINE
+0x9B9B7679=FLAT LINE
+
+;0xA6A40CA2=CHAMPAGNE
+0xA6A40CA2=CHAMPAGNE
+
+;0xB202235E=Get medieval every time your phone rings and celebrate the War on Terror the American way.
+0xB202235E=Get medieval every time your phone rings and celebrate the War on Terror the American way.
+
+;0xB298E62A=Your new Ringtone has been sent to your phone.
+0xB298E62A=Your new Ringtone has been sent to your phone.
+
+;0xB65CABFB=The sparkle of diamonds is unmistakable - the sound is truly unbelievable. Show the world you're a real player with the tones of 5 karat rocks banging around.
+0xB65CABFB=The sparkle of diamonds is unmistakable - the sound is truly unbelievable. Show the world you're a real player with the tones of 5 karat rocks banging around.
+
+;0xC34CDAB7=AMERICA'S NEXT TOP HOOKER RINGTONE
+0xC34CDAB7=AMERICA'S NEXT TOP HOOKER RINGTONE
+
+;0xC441C7DD=DIAMONDS
+0xC441C7DD=DIAMONDS
+
+;0xC8174F70=PRIVATE JET
+0xC8174F70=PRIVATE JET
+
+;0xD6DDECFD=The sound that set the hip hop community on edge - recorded at the bedside of Trey Diggity as he died from a nasty Brazilian STD - this flatline has been sampled in over 125 top rated rap albums, which all sound the same these days anyway.
+0xD6DDECFD=The sound that set the hip hop community on edge - recorded at the bedside of Trey Diggity as he died from a nasty Brazilian STD - this flatline has been sampled in over 125 top rated rap albums, which all sound the same these days anyway.
+
+;0xDD74FA43=What is it about the sound of champagne that says class? Not just an overpriced wine-seltzer that gives you a raging hangover, champagne can celebrate every phone call - even ones where you find out your house burnt down.
+0xDD74FA43=What is it about the sound of champagne that says class? Not just an overpriced wine-seltzer that gives you a raging hangover, champagne can celebrate every phone call - even ones where you find out your house burnt down.
+
+;0xDD9A84DA=More
+0xDD9A84DA=More
+
+;0xF7159842=HOME
+0xF7159842=HOME
+

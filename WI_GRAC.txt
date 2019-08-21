@@ -1,0 +1,7 @@
+﻿[WI_GRAC]
+;0x683C4C18=~r~Gracie's Ancelotti guards are still out there.~s~
+0x683C4C18=~r~Gracie's Ancelotti guards are still out there.~s~
+
+;0xF1DABA1E=Take out the ~r~Ancelottis.~s~
+0xF1DABA1E=Take out the ~r~Ancelottis.~s~
+

@@ -1,0 +1,781 @@
+﻿[FIN1DBA]
+;0x00303A15=~z~Come on Niko man. Get out of here. Let's go. Come on!
+0x00303A15=~z~Come on Niko man. Get out of here. Let's go. Come on!
+
+;0x003721FA=~z~If Dimitri and Pegorino are so on top, why would they care about me?
+0x003721FA=~z~If Dimitri and Pegorino are so on top, why would they care about me?
+
+;0x00C23AF8=FIN1D_NM
+0x00C23AF8=FIN1D_NM
+
+;0x01215CE9=~z~I would sacrifice anything.
+0x01215CE9=~z~I would sacrifice anything.
+
+;0x0266EB21=FIN1D_NA
+0x0266EB21=FIN1D_NA
+
+;0x05715B67=~z~Ya man ya man. How'de ginnal get away from you anyway, Niko? Me tink ya get dat boy for sure.
+0x05715B67=~z~Ya man ya man. How'de ginnal get away from you anyway, Niko? Me tink ya get dat boy for sure.
+
+;0x06852F06=~z~How you know he's going back to Pegorino and Dimitri? Why would he lead us back to them?
+0x06852F06=~z~How you know he's going back to Pegorino and Dimitri? Why would he lead us back to them?
+
+;0x08125502=~z~De boy leading us back because him tink him boys going fe tear us to pieces and ting.
+0x08125502=~z~De boy leading us back because him tink him boys going fe tear us to pieces and ting.
+
+;0x092DAF6B=FIN1D_JC
+0x092DAF6B=FIN1D_JC
+
+;0x0A3364DF=~z~A snake always be a snake, ya know rasta. Dimitri woulda steal from him own mother fe get ahead, ya know.
+0x0A3364DF=~z~A snake always be a snake, ya know rasta. Dimitri woulda steal from him own mother fe get ahead, ya know.
+
+;0x0B4E5A8E=~z~Come on, why does this take so long? Where are these idiots hiding out?
+0x0B4E5A8E=~z~Come on, why does this take so long? Where are these idiots hiding out?
+
+;0x0BFA75DF=050500050500500050500500050050050500500050050
+0x0BFA75DF=050500050500500050500500050050050500500050050
+
+;0x0C4A5259=~z~You won.
+0x0C4A5259=~z~You won.
+
+;0x0E180277=~z~Roman was a gambler, he would've liked those odds.
+0x0E180277=~z~Roman was a gambler, he would've liked those odds.
+
+;0x0E55D6B4=FIN1D_TE
+0x0E55D6B4=FIN1D_TE
+
+;0x0ECD0FE1=FIN1D_ND
+0x0ECD0FE1=FIN1D_ND
+
+;0x0F045B59=FIN1D_TB
+0x0F045B59=FIN1D_TB
+
+;0x0FCB701B=~z~We catch him, then we kill him, then we decide what to do with the body. How's that sound, Jacob?
+0x0FCB701B=~z~We catch him, then we kill him, then we decide what to do with the body. How's that sound, Jacob?
+
+;0x0FD4D4BE=~z~Alright, so this guy is taking us to his bosses. We cannot kill him yet then.
+0x0FD4D4BE=~z~Alright, so this guy is taking us to his bosses. We cannot kill him yet then.
+
+;0x107B5CD9=~z~~c~Fuck you... you dick.~s~
+0x107B5CD9=~z~~c~Fuck you... you dick.~s~
+
+;0x10BB8949=FIN1D_IG
+0x10BB8949=FIN1D_IG
+
+;0x11F6DDA2=~z~Wha gwan. Come on. Let's go!
+0x11F6DDA2=~z~Wha gwan. Come on. Let's go!
+
+;0x12C5B042=FIN1D_NF
+0x12C5B042=FIN1D_NF
+
+;0x12EE4768=~z~Dimitri tinks dat you forget about what happen on the docks ya know, in Broker. Him screw ya over after ya kill Faustin for him.
+0x12EE4768=~z~Dimitri tinks dat you forget about what happen on the docks ya know, in Broker. Him screw ya over after ya kill Faustin for him.
+
+;0x1321C3B6=FIN1D_MF
+0x1321C3B6=FIN1D_MF
+
+;0x14A2C2CF=FIN1D_KE
+0x14A2C2CF=FIN1D_KE
+
+;0x15096146=FIN1D_NO
+0x15096146=FIN1D_NO
+
+;0x15335FDF=~z~I had to fight through a lot of people to get to Dimitri.
+0x15335FDF=~z~I had to fight through a lot of people to get to Dimitri.
+
+;0x1535BBCC=050500500500050050500050050050050500050050500050
+0x1535BBCC=050500500500050050500050050050050500050050500050
+
+;0x166FF1BD=~z~Yo Niko, Dimitri and Pegorino gwan have mad firepower pon di ground, ya know. Dis ain't gwan be easy.
+0x166FF1BD=~z~Yo Niko, Dimitri and Pegorino gwan have mad firepower pon di ground, ya know. Dis ain't gwan be easy.
+
+;0x16CD2E65=FIN1D_NI
+0x16CD2E65=FIN1D_NI
+
+;0x17A25180=FIN1D_JH
+0x17A25180=FIN1D_JH
+
+;0x17F7006A=~z~No, Dimitri killed Pegorino when I arrived. I don't think he likes to share.
+0x17F7006A=~z~No, Dimitri killed Pegorino when I arrived. I don't think he likes to share.
+
+;0x18518902=~z~Don't worry, rasta. I gwan shoot him out de blood clot sky. He ain't going to be able to talk his way outta dis.
+0x18518902=~z~Don't worry, rasta. I gwan shoot him out de blood clot sky. He ain't going to be able to talk his way outta dis.
+
+;0x18B63BED=FIN1D_TP
+0x18B63BED=FIN1D_TP
+
+;0x199B6CFB=~z~I know. I know.
+0x199B6CFB=~z~I know. I know.
+
+;0x1AF8EEC4=FIN1D_KK
+0x1AF8EEC4=FIN1D_KK
+
+;0x1B08B307=FIN1D_KJ
+0x1B08B307=FIN1D_KJ
+
+;0x1D4F61C4=FIN1D_MJ
+0x1D4F61C4=FIN1D_MJ
+
+;0x1F2EE059=~z~Dem ras clots tink dem are de dons of dons.
+0x1F2EE059=~z~Dem ras clots tink dem are de dons of dons.
+
+;0x20B17677=~z~Tink about how ya gwan mash dem up when time ya find out which part dem a hide.
+0x20B17677=~z~Tink about how ya gwan mash dem up when time ya find out which part dem a hide.
+
+;0x2140E96B=FIN1D_KA
+0x2140E96B=FIN1D_KA
+
+;0x21CF57EA=~z~Seen.
+0x21CF57EA=~z~Seen.
+
+;0x22C5FB04=~z~Seen Niko, a whole heap a bodies left inna dat place dere, ya know? Ya a real lion for real, ya know, star?
+0x22C5FB04=~z~Seen Niko, a whole heap a bodies left inna dat place dere, ya know? Ya a real lion for real, ya know, star?
+
+;0x2549B68E=FIN1D_NB
+0x2549B68E=FIN1D_NB
+
+;0x255362B0=FIN1D_KD
+0x255362B0=FIN1D_KD
+
+;0x2653E45A=~z~That's just the way Roman was. Don't ever forget him, seen?
+0x2653E45A=~z~That's just the way Roman was. Don't ever forget him, seen?
+
+;0x287C060C=~z~A leopard don't change him spots, ya know, Niko.
+0x287C060C=~z~A leopard don't change him spots, ya know, Niko.
+
+;0x28902BB4=500050500050050500500050500050050500500050500050500
+0x28902BB4=500050500050050500500050500050050500500050500050500
+
+;0x2AED3604=FIN1D_IH
+0x2AED3604=FIN1D_IH
+
+;0x2D16B28C=~z~You were there when Dimitri first wronged me.
+0x2D16B28C=~z~You were there when Dimitri first wronged me.
+
+;0x2E03FBCD=~z~True me breda, true. I ain't gwan fe let it go neither.
+0x2E03FBCD=~z~True me breda, true. I ain't gwan fe let it go neither.
+
+;0x2EDC2E34=~z~Maybe we should go with Dimitri's body. Bury him in his homeland.
+0x2EDC2E34=~z~Maybe we should go with Dimitri's body. Bury him in his homeland.
+
+;0x2F6704B1=050500500500500050050500500050050500
+0x2F6704B1=050500500500500050050500500050050500
+
+;0x2FE3A4A0=~z~I had the opportunity to settle my score with Dimitri the other day but I chose not to take it.
+0x2FE3A4A0=~z~I had the opportunity to settle my score with Dimitri the other day but I chose not to take it.
+
+;0x30C2DE61=FIN1D_UN
+0x30C2DE61=FIN1D_UN
+
+;0x30C7838A=~z~Dimitri and Pegorino, they be pon top after that deal, ya know. They got de coil and de brown, didn't dey?
+0x30C7838A=~z~Dimitri and Pegorino, they be pon top after that deal, ya know. They got de coil and de brown, didn't dey?
+
+;0x32457DFE=~z~I just want to drive this scum off of the road and smash his brain out on the concrete.
+0x32457DFE=~z~I just want to drive this scum off of the road and smash his brain out on the concrete.
+
+;0x336B8003=FIN1D_KI
+0x336B8003=FIN1D_KI
+
+;0x35B48AB8=FIN1D_JA
+0x35B48AB8=FIN1D_JA
+
+;0x368E1411=~z~I let it eat out everything good in me. It took me over.
+0x368E1411=~z~I let it eat out everything good in me. It took me over.
+
+;0x3C3E11EB=~z~Yo Niko, ya need fe lose some of dis anger, ya know, before ya go after dem boy dere.
+0x3C3E11EB=~z~Yo Niko, ya need fe lose some of dis anger, ya know, before ya go after dem boy dere.
+
+;0x3C9AC9B1=~z~I think he probably did. We'd have to go to Russia to find out though.
+0x3C9AC9B1=~z~I think he probably did. We'd have to go to Russia to find out though.
+
+;0x3C9C3EF7=FIN1D_NJ
+0x3C9C3EF7=FIN1D_NJ
+
+;0x3D1E9BC8=~z~Me tink dem be afraid of ya, ya know, me breda.
+0x3D1E9BC8=~z~Me tink dem be afraid of ya, ya know, me breda.
+
+;0x3ED05B26=FIN1D_LF
+0x3ED05B26=FIN1D_LF
+
+;0x3FFE9970=~z~We haffi get to dem, so we follow dis bumba clot, seen?
+0x3FFE9970=~z~We haffi get to dem, so we follow dis bumba clot, seen?
+
+;0x42362947=FIN1D_JF
+0x42362947=FIN1D_JF
+
+;0x42A3C938=~z~They could not hide anywhere that would keep me away from them.
+0x42A3C938=~z~They could not hide anywhere that would keep me away from them.
+
+;0x42F7A5E0=FIN1D_KC
+0x42F7A5E0=FIN1D_KC
+
+;0x430FCAFC=~z~I can tell him getting nervous, ya know, Niko. He's driving different. We must be getting close.
+0x430FCAFC=~z~I can tell him getting nervous, ya know, Niko. He's driving different. We must be getting close.
+
+;0x43A90321=FIN1D_UO
+0x43A90321=FIN1D_UO
+
+;0x43A91AED=FIN1D_UA
+0x43A91AED=FIN1D_UA
+
+;0x43ABDFB6=~z~No matter what you say about dat murderer, he's consistent. He's consistently fucking anybody him can.
+0x43ABDFB6=~z~No matter what you say about dat murderer, he's consistent. He's consistently fucking anybody him can.
+
+;0x441C6A4E=FIN1D_IF
+0x441C6A4E=FIN1D_IF
+
+;0x46451CF9=FIN1D_UK
+0x46451CF9=FIN1D_UK
+
+;0x46C5A6FE=~z~Yeah, I understand. I get it. I just need those bastards to know and understand what they did to me.
+0x46C5A6FE=~z~Yeah, I understand. I get it. I just need those bastards to know and understand what they did to me.
+
+;0x47504A82=~z~Speak English.
+0x47504A82=~z~Speak English.
+
+;0x4991F96A=~z~Anyting could happen if you kill Dimitri pon dat day.
+0x4991F96A=~z~Anyting could happen if you kill Dimitri pon dat day.
+
+;0x4CD928CD=FIN1D_UF
+0x4CD928CD=FIN1D_UF
+
+;0x4D5174F4=FIN1D_LA
+0x4D5174F4=FIN1D_LA
+
+;0x5018856C=FIN1D_TH
+0x5018856C=FIN1D_TH
+
+;0x50CFC164=~z~I did not forget about this, but I let it slide in the interest of business.
+0x50CFC164=~z~I did not forget about this, but I let it slide in the interest of business.
+
+;0x51567B0B=~z~Now, it stops.
+0x51567B0B=~z~Now, it stops.
+
+;0x5166A2C3=FIN1D_NH
+0x5166A2C3=FIN1D_NH
+
+;0x544D420D=~z~Me want get dem bumba clot dem too, ya know.
+0x544D420D=~z~Me want get dem bumba clot dem too, ya know.
+
+;0x564084DF=~z~Dimitri saved me the trouble.
+0x564084DF=~z~Dimitri saved me the trouble.
+
+;0x570B38A1=FIN1D_UL
+0x570B38A1=FIN1D_UL
+
+;0x570D9461=~z~Had I got rid of Dimitri then, the bloodshed would have ended.
+0x570D9461=~z~Had I got rid of Dimitri then, the bloodshed would have ended.
+
+;0x57D6E501=FIN1D_TA
+0x57D6E501=FIN1D_TA
+
+;0x59E7D96C=FIN1D_IB
+0x59E7D96C=FIN1D_IB
+
+;0x5AA14FF3=FIN1D_KF
+0x5AA14FF3=FIN1D_KF
+
+;0x5B684CC3=FIN1D_UJ
+0x5B684CC3=FIN1D_UJ
+
+;0x5BC0D97C=~z~Also, dey ain't going to know their boy at the wedding didn't do his job properly. They tink ya dead, ya know.
+0x5BC0D97C=~z~Also, dey ain't going to know their boy at the wedding didn't do his job properly. They tink ya dead, ya know.
+
+;0x5C270530=FIN1D_IK
+0x5C270530=FIN1D_IK
+
+;0x5C426B56=FIN1D_LP
+0x5C426B56=FIN1D_LP
+
+;0x5CDDE040=FIN1D_IC
+0x5CDDE040=FIN1D_IC
+
+;0x5F2B0F5B=FIN1D_LI
+0x5F2B0F5B=FIN1D_LI
+
+;0x60E1A809=~z~Dere ain't no guarantee you gonna make it, bredren. I and I don't know what our actions can do and ting.
+0x60E1A809=~z~Dere ain't no guarantee you gonna make it, bredren. I and I don't know what our actions can do and ting.
+
+;0x612F93E8=FIN1D_LK
+0x612F93E8=FIN1D_LK
+
+;0x61C00961=FIN1D_KP
+0x61C00961=FIN1D_KP
+
+;0x62416447=~z~Sending an assassin after me and killing Roman on his wedding day, this is something I will not ignore.
+0x62416447=~z~Sending an assassin after me and killing Roman on his wedding day, this is something I will not ignore.
+
+;0x63F22042=~z~He stabbed Pegorino in the back, just like he did to everyone he has worked with while I have known him.
+0x63F22042=~z~He stabbed Pegorino in the back, just like he did to everyone he has worked with while I have known him.
+
+;0x64EAE04F=FIN1D_MD
+0x64EAE04F=FIN1D_MD
+
+;0x653F8CEC=FIN1D_KO
+0x653F8CEC=FIN1D_KO
+
+;0x654EE4C7=FIN1D_MG
+0x654EE4C7=FIN1D_MG
+
+;0x662324FB=FIN1D_LM
+0x662324FB=FIN1D_LM
+
+;0x67CF083B=FIN1D_LN
+0x67CF083B=FIN1D_LN
+
+;0x688D2DC7=FIN1D_LG
+0x688D2DC7=FIN1D_LG
+
+;0x697BF4F2=~z~There ain't no way those boys gonna be scared of some boys like I and I following their boy, ya know.
+0x697BF4F2=~z~There ain't no way those boys gonna be scared of some boys like I and I following their boy, ya know.
+
+;0x6A23BAA2=FIN1D_TI
+0x6A23BAA2=FIN1D_TI
+
+;0x6B076F81=~z~Dem boy dey no right ya know, Come inna church and come kill a man pon him wedding day. Jah know, it ain't right.
+0x6B076F81=~z~Dem boy dey no right ya know, Come inna church and come kill a man pon him wedding day. Jah know, it ain't right.
+
+;0x6B308AE1=~z~He was beaten because of me, he was shot, his business and his home were burnt down.
+0x6B308AE1=~z~He was beaten because of me, he was shot, his business and his home were burnt down.
+
+;0x6B6CE273=FIN1D_NG
+0x6B6CE273=FIN1D_NG
+
+;0x6D0D1EE2=~z~Well then I am looking forward to disappointing his expectations.
+0x6D0D1EE2=~z~Well then I am looking forward to disappointing his expectations.
+
+;0x6D2D9DCD=FIN1D_NL
+0x6D2D9DCD=FIN1D_NL
+
+;0x6D66BC4A=FIN1D_MI
+0x6D66BC4A=FIN1D_MI
+
+;0x6FE43043=~z~Who dat inna de helicopter? Did Dimtri and Pegorino both leave when you get inna de ground?
+0x6FE43043=~z~Who dat inna de helicopter? Did Dimtri and Pegorino both leave when you get inna de ground?
+
+;0x7095252A=~z~So dem man dem haffi hide out for real.
+0x7095252A=~z~So dem man dem haffi hide out for real.
+
+;0x716117D5=~z~Seen, think about how you going to bust these bitches up then.
+0x716117D5=~z~Seen, think about how you going to bust these bitches up then.
+
+;0x71AF8A4B=~z~I cannot allow that to happen again, not to me, not to Mallorie and everyone who loved Roman.
+0x71AF8A4B=~z~I cannot allow that to happen again, not to me, not to Mallorie and everyone who loved Roman.
+
+;0x739E8F51=FIN1D_KB
+0x739E8F51=FIN1D_KB
+
+;0x747AC052=FIN1D_LJ
+0x747AC052=FIN1D_LJ
+
+;0x76484EED=FIN1D_MH
+0x76484EED=FIN1D_MH
+
+;0x77975063=FIN1D_IE
+0x77975063=FIN1D_IE
+
+;0x78FA18B8=FIN1D_JK
+0x78FA18B8=FIN1D_JK
+
+;0x7AA14DA0=~z~I'm going to catch Dimitri and end this for good.
+0x7AA14DA0=~z~I'm going to catch Dimitri and end this for good.
+
+;0x7BCD32BD=FIN1D_TD
+0x7BCD32BD=FIN1D_TD
+
+;0x7CF82F6B=~z~Me feeling dat, ya know, breda, I and I gwan get him.
+0x7CF82F6B=~z~Me feeling dat, ya know, breda, I and I gwan get him.
+
+;0x7D92A595=FIN1D_IM
+0x7D92A595=FIN1D_IM
+
+;0x7E97C1F7=~z~If he did, ya know, say him boss don' have long fe live 'pon this earth.
+0x7E97C1F7=~z~If he did, ya know, say him boss don' have long fe live 'pon this earth.
+
+;0x8167B74F=~z~Roman brought me to this city and I was nothing but a curse to him.
+0x8167B74F=~z~Roman brought me to this city and I was nothing but a curse to him.
+
+;0x819C1BC9=FIN1D_MB
+0x819C1BC9=FIN1D_MB
+
+;0x8217EA9B=FIN1D_TN
+0x8217EA9B=FIN1D_TN
+
+;0x8243EC40=FIN1D_LC
+0x8243EC40=FIN1D_LC
+
+;0x824B6B37=FIN1D_LB
+0x824B6B37=FIN1D_LB
+
+;0x82AD6CDE=FIN1D_TK
+0x82AD6CDE=FIN1D_TK
+
+;0x82DC2536=~z~I have finally learnt this lesson. It has taken the death of my cousin, but it is something I must accept.
+0x82DC2536=~z~I have finally learnt this lesson. It has taken the death of my cousin, but it is something I must accept.
+
+;0x833E1AC2=~z~All we can be tinking about is taking dat ras clot down, and stopping him from hurting anyone else. Seen?
+0x833E1AC2=~z~All we can be tinking about is taking dat ras clot down, and stopping him from hurting anyone else. Seen?
+
+;0x83523BB7=~z~I must think of something.
+0x83523BB7=~z~I must think of something.
+
+;0x83576971=FIN1D_TF
+0x83576971=FIN1D_TF
+
+;0x83E42EB4=~z~We must find Dimitri and Pegorino and end all this.
+0x83E42EB4=~z~We must find Dimitri and Pegorino and end all this.
+
+;0x83F5F4C1=FIN1D_NC
+0x83F5F4C1=FIN1D_NC
+
+;0x84C8EFD7=~z~Instead I did the business deal that lead to Roman getting killed.
+0x84C8EFD7=~z~Instead I did the business deal that lead to Roman getting killed.
+
+;0x850972EE=FIN1D_TL
+0x850972EE=FIN1D_TL
+
+;0x85190AFA=050500050050500050500050050500500500050050050500050500
+0x85190AFA=050500050050500050500050050500500500050050050500050500
+
+;0x87AD43DA=~z~I don't tink you have a choice about dat, ya know, Niko. Roman loved you.
+0x87AD43DA=~z~I don't tink you have a choice about dat, ya know, Niko. Roman loved you.
+
+;0x880C73FB=FIN1D_TG
+0x880C73FB=FIN1D_TG
+
+;0x887FE95D=~z~Did you get Pegorino back at de place, bredren?
+0x887FE95D=~z~Did you get Pegorino back at de place, bredren?
+
+;0x8A0420E3=FIN1D_TT
+0x8A0420E3=FIN1D_TT
+
+;0x8A47391E=FIN1D_KG
+0x8A47391E=FIN1D_KG
+
+;0x8A7A2E62=~z~Dimitri and Pegorino will find this out as well,
+0x8A7A2E62=~z~Dimitri and Pegorino will find this out as well,
+
+;0x8AEDBA47=FIN1D_ID
+0x8AEDBA47=FIN1D_ID
+
+;0x8B2BDA57=~z~Easy Niko, just be cool now. Pegorino and Dimitri be splitting up de large amount of money dem get from de business deal.
+0x8B2BDA57=~z~Easy Niko, just be cool now. Pegorino and Dimitri be splitting up de large amount of money dem get from de business deal.
+
+;0x8BA6DB41=~z~Roman should be in his marriage bed.
+0x8BA6DB41=~z~Roman should be in his marriage bed.
+
+;0x8C483F88=~z~Ya mind be clouded and ya don't be able fe tink clearly, ya know. Ya want some weed?
+0x8C483F88=~z~Ya mind be clouded and ya don't be able fe tink clearly, ya know. Ya want some weed?
+
+;0x8E6DB474=FIN1D_MA
+0x8E6DB474=FIN1D_MA
+
+;0x8EC1624A=~z~Me understand ya know, rasta. It's a good ting dat blood clot don't know you as good as I and I know ya, ya know?
+0x8EC1624A=~z~Me understand ya know, rasta. It's a good ting dat blood clot don't know you as good as I and I know ya, ya know?
+
+;0x907F21DE=FIN1D_MK
+0x907F21DE=FIN1D_MK
+
+;0x90ECC293=FIN1D_JB
+0x90ECC293=FIN1D_JB
+
+;0x91BAC185=500050500050050050500500500500050
+0x91BAC185=500050500050050050500500500500050
+
+;0x9283C385=FIN1D_JD
+0x9283C385=FIN1D_JD
+
+;0x92C3D0AA=050500500050500500050050500500050500050050050050
+0x92C3D0AA=050500500050500500050050500500050500050050050050
+
+;0x9576FD56=FIN1D_LH
+0x9576FD56=FIN1D_LH
+
+;0x959EE19A=FIN1D_LQ
+0x959EE19A=FIN1D_LQ
+
+;0x98527551=FIN1D_KQ
+0x98527551=FIN1D_KQ
+
+;0x98BCCAE7=~z~they will find it out when they stare down the barrel of my gun.
+0x98BCCAE7=~z~they will find it out when they stare down the barrel of my gun.
+
+;0x9AA01610=FIN1D_LE
+0x9AA01610=FIN1D_LE
+
+;0x9AE79CA1=FIN1D_UR
+0x9AE79CA1=FIN1D_UR
+
+;0x9BD60CB0=FIN1D_LL
+0x9BD60CB0=FIN1D_LL
+
+;0x9BDB6C36=~z~He was kidnapped. I should have known that the lives of those close to me would be destroyed.
+0x9BDB6C36=~z~He was kidnapped. I should have known that the lives of those close to me would be destroyed.
+
+;0x9D2F7E52=~z~He was a good man. No matter what happened to him, he would never be angry or upset for more than a minute.
+0x9D2F7E52=~z~He was a good man. No matter what happened to him, he would never be angry or upset for more than a minute.
+
+;0x9D5C7EB8=~z~Everybody in Liberty City know dat, so dem after de money too.
+0x9D5C7EB8=~z~Everybody in Liberty City know dat, so dem after de money too.
+
+;0x9D9315CE=~z~You are right, but we can change what is about to happen.
+0x9D9315CE=~z~You are right, but we can change what is about to happen.
+
+;0x9E9B1796=~z~We can make sure that Roman's life is not the only one that is lost today.
+0x9E9B1796=~z~We can make sure that Roman's life is not the only one that is lost today.
+
+;0x9EA1D904=FIN1D_ME
+0x9EA1D904=FIN1D_ME
+
+;0xA1EEDB0B=FIN1D_UC
+0xA1EEDB0B=FIN1D_UC
+
+;0xA48F700A=~z~I came to this city wanting revenge, I let that desire build up inside of me for many years.
+0xA48F700A=~z~I came to this city wanting revenge, I let that desire build up inside of me for many years.
+
+;0xA63B906A=~z~To get them back for what they have done, I would look for them in every corner of the earth.
+0xA63B906A=~z~To get them back for what they have done, I would look for them in every corner of the earth.
+
+;0xA72B081C=~z~Let's go man.
+0xA72B081C=~z~Let's go man.
+
+;0xA8DD2C1A=~z~Seen, we just need fe stay on dis bumba clot and we'll be able to mash dem up real good.
+0xA8DD2C1A=~z~Seen, we just need fe stay on dis bumba clot and we'll be able to mash dem up real good.
+
+;0xA9BDDB84=FIN1D_XYZ
+0xA9BDDB84=FIN1D_XYZ
+
+;0xAB33B10F=~z~If there was any way I could change my actions so that he would not die, I would do it.
+0xAB33B10F=~z~If there was any way I could change my actions so that he would not die, I would do it.
+
+;0xAC53148A=~z~I guess...
+0xAC53148A=~z~I guess...
+
+;0xADDFD66D=FIN1D_UP
+0xADDFD66D=FIN1D_UP
+
+;0xAF2F92CE=~z~If you didn't wanna come up here, he was gonna go to Europe and drag you pon a boat.
+0xAF2F92CE=~z~If you didn't wanna come up here, he was gonna go to Europe and drag you pon a boat.
+
+;0xAF4872D6=~z~Dat was a long time ago, ya know, king. Dere ain't no promise dat life would be any different from now, ya know.
+0xAF4872D6=~z~Dat was a long time ago, ya know, king. Dere ain't no promise dat life would be any different from now, ya know.
+
+;0xB09B16B0=~z~Jah know not many man could a got through dem boys, ya know, star. Ya a real badman for real, real badman!
+0xB09B16B0=~z~Jah know not many man could a got through dem boys, ya know, star. Ya a real badman for real, real badman!
+
+;0xB20C1897=~z~Ya man, we getting closer. Me hear from me source dat Pegorino might be inna di north of Alderney.
+0xB20C1897=~z~Ya man, we getting closer. Me hear from me source dat Pegorino might be inna di north of Alderney.
+
+;0xB29485F2=FIN1D_JG
+0xB29485F2=FIN1D_JG
+
+;0xB4490885=FIN1D_IA
+0xB4490885=FIN1D_IA
+
+;0xB47A80A9=~z~I will not forget him. Nor will I let these men forget him.
+0xB47A80A9=~z~I will not forget him. Nor will I let these men forget him.
+
+;0xB5E72594=~z~Roman...
+0xB5E72594=~z~Roman...
+
+;0xB65780F4=~z~I will put a bullet in his heart for every life he ruined,
+0xB65780F4=~z~I will put a bullet in his heart for every life he ruined,
+
+;0xB7D54A52=~z~What's done is done, and dere ain't no way to change what happen earlier.
+0xB7D54A52=~z~What's done is done, and dere ain't no way to change what happen earlier.
+
+;0xB94111FB=~z~A man stab you in the back once, him gonna keep stabbing until di job is done, seen?
+0xB94111FB=~z~A man stab you in the back once, him gonna keep stabbing until di job is done, seen?
+
+;0xB9E937C5=~z~Roman was a good man, ya know. He had a righteous heart, ya know, star. Jah know him in a better place now.
+0xB9E937C5=~z~Roman was a good man, ya know. He had a righteous heart, ya know, star. Jah know him in a better place now.
+
+;0xBC9F570C=050050500500050500050050500500050
+0xBC9F570C=050050500500050500050050500500050
+
+;0xBCCE37E6=~z~Piece of shit... eat hard metal!
+0xBCCE37E6=~z~Piece of shit... eat hard metal!
+
+;0xBD219489=FIN1D_KG_QQQ1
+0xBD219489=FIN1D_KG_QQQ1
+
+;0xBD4D0EE3=~z~Dat be a whole heap of teeth, ya know, Niko. I don't tink we have enough ammo fe shoot him dat many times, ya know.
+0xBD4D0EE3=~z~Dat be a whole heap of teeth, ya know, Niko. I don't tink we have enough ammo fe shoot him dat many times, ya know.
+
+;0xBDDAC094=~z~Are we getting near to them or is this man taking us on a tour around Alderney?
+0xBDDAC094=~z~Are we getting near to them or is this man taking us on a tour around Alderney?
+
+;0xBE33B17D=~z~I guess I'll just have to pass the time by thinking about how much I'm going to punish these scum.
+0xBE33B17D=~z~I guess I'll just have to pass the time by thinking about how much I'm going to punish these scum.
+
+;0xBE6AB24F=~z~I do this for my cousin and for his wife. I needed to make Dimitri pay.
+0xBE6AB24F=~z~I do this for my cousin and for his wife. I needed to make Dimitri pay.
+
+;0xBF81B481=~z~Roman did not deserve to die. Not on this day, not in that place.
+0xBF81B481=~z~Roman did not deserve to die. Not on this day, not in that place.
+
+;0xBF8F188B=~z~We not angry at him, ya know, Niko. Its di people he's working for, seen?
+0xBF8F188B=~z~We not angry at him, ya know, Niko. Its di people he's working for, seen?
+
+;0xC123AA50=FIN1D_JI
+0xC123AA50=FIN1D_JI
+
+;0xC1EE3FC0=~z~You killed my cousin.
+0xC1EE3FC0=~z~You killed my cousin.
+
+;0xC246DEED=~z~I am doing my best.
+0xC246DEED=~z~I am doing my best.
+
+;0xC294C173=FIN1D_TC
+0xC294C173=FIN1D_TC
+
+;0xC3A0C107=~z~never hurt... anyone.
+0xC3A0C107=~z~never hurt... anyone.
+
+;0xC461BD32=~z~No matter what he was gonna get close to ya. Because, before you come all him a do is talk about him cousin, Niko.
+0xC461BD32=~z~No matter what he was gonna get close to ya. Because, before you come all him a do is talk about him cousin, Niko.
+
+;0xC505CD63=FIN1D_KN
+0xC505CD63=FIN1D_KN
+
+;0xC5EF8B02=FIN1D_KM
+0xC5EF8B02=FIN1D_KM
+
+;0xCB12AA6E=~z~Perhaps one bullet in his brain will have to do then.
+0xCB12AA6E=~z~Perhaps one bullet in his brain will have to do then.
+
+;0xCB385254=~z~You betrayed everyone who ever came in contact with you.
+0xCB385254=~z~You betrayed everyone who ever came in contact with you.
+
+;0xCC63A130=FIN1D_UD
+0xCC63A130=FIN1D_UD
+
+;0xCD47D67B=~z~the survival of the fittest thing really meant a lot to you.
+0xCD47D67B=~z~the survival of the fittest thing really meant a lot to you.
+
+;0xD3C45C9E=~z~I thought the money would help Roman and the people I loved.
+0xD3C45C9E=~z~I thought the money would help Roman and the people I loved.
+
+;0xD4F75E6D=~z~I an' I gwan find dem, we going to find dem and take dem out, for real, dat's what we doing for Roman.
+0xD4F75E6D=~z~I an' I gwan find dem, we going to find dem and take dem out, for real, dat's what we doing for Roman.
+
+;0xD5BAD26C=~z~I do not need any marijuana, Jacob. I can think clearly enough.
+0xD5BAD26C=~z~I do not need any marijuana, Jacob. I can think clearly enough.
+
+;0xD6129167=FIN1D_TM
+0xD6129167=FIN1D_TM
+
+;0xD62E6172=~z~I can't believe I did that deal with Dimitri. How could I trust him? I'm a fool.
+0xD62E6172=~z~I can't believe I did that deal with Dimitri. How could I trust him? I'm a fool.
+
+;0xD82D65D9=FIN1D_JJ
+0xD82D65D9=FIN1D_JJ
+
+;0xD9421835=FIN1D_US
+0xD9421835=FIN1D_US
+
+;0xD957E82D=~z~Nuh, man. I and I do dis for Roman.
+0xD957E82D=~z~Nuh, man. I and I do dis for Roman.
+
+;0xD964C70E=~z~Dey say a dying animal is de most dangerous inna de jungle, ya know, cousin. So, ya better be careful.
+0xD964C70E=~z~Dey say a dying animal is de most dangerous inna de jungle, ya know, cousin. So, ya better be careful.
+
+;0xDA1C84BE=~z~We leave him out for de dogs and crows.
+0xDA1C84BE=~z~We leave him out for de dogs and crows.
+
+;0xDB4F8214=600
+0xDB4F8214=600
+
+;0xDBAA9D9D=~z~Yes, but the chances of my cousin being dead would be much slimmer.
+0xDBAA9D9D=~z~Yes, but the chances of my cousin being dead would be much slimmer.
+
+;0xDC424B35=FIN1D_UI
+0xDC424B35=FIN1D_UI
+
+;0xDD7BF6DB=~z~You killed your best friend.
+0xDD7BF6DB=~z~You killed your best friend.
+
+;0xE0B9AA5A=FIN1D_LD
+0xE0B9AA5A=FIN1D_LD
+
+;0xE2900980=FIN1D_NK
+0xE2900980=FIN1D_NK
+
+;0xE2E301A9=~z~Welcome to America!
+0xE2E301A9=~z~Welcome to America!
+
+;0xE320FAC0=~z~Okay, this is good news. I do not know how much of this driving I can continue to do.
+0xE320FAC0=~z~Okay, this is good news. I do not know how much of this driving I can continue to do.
+
+;0xE3D8A005=~z~If we had got him then, Roman would still be alive. Things would be good.
+0xE3D8A005=~z~If we had got him then, Roman would still be alive. Things would be good.
+
+;0xE5134847=FIN1D_UM
+0xE5134847=FIN1D_UM
+
+;0xE5FEE0EA=FIN1D_UE
+0xE5FEE0EA=FIN1D_UE
+
+;0xE6746131=~z~for every agreement he went back on, for every friend he betrayed.
+0xE6746131=~z~for every agreement he went back on, for every friend he betrayed.
+
+;0xE75739B8=FIN1D_TJ
+0xE75739B8=FIN1D_TJ
+
+;0xE79F6383=~z~That is the plan, Jacob.
+0xE79F6383=~z~That is the plan, Jacob.
+
+;0xE7E676C3=~z~Alright, Niko, man. Alright.
+0xE7E676C3=~z~Alright, Niko, man. Alright.
+
+;0xEE0E2C58=FIN1D_IJ
+0xEE0E2C58=FIN1D_IJ
+
+;0xEE42D626=FIN1D_UQ
+0xEE42D626=FIN1D_UQ
+
+;0xF1B9CB64=FIN1D_UU
+0xF1B9CB64=FIN1D_UU
+
+;0xF38BB5E7=FIN1D_II
+0xF38BB5E7=FIN1D_II
+
+;0xF42BCCE8=FIN1D_UT
+0xF42BCCE8=FIN1D_UT
+
+;0xF44DB920=~z~Cha! A burial be too good for that bumba clot, ya know. He ain't worth putting inna di ground, ya know, star.
+0xF44DB920=~z~Cha! A burial be too good for that bumba clot, ya know. He ain't worth putting inna di ground, ya know, star.
+
+;0xF4561DC1=~z~Just be calm now, rasta. Just make sure ya don't lose dat blood clot.
+0xF4561DC1=~z~Just be calm now, rasta. Just make sure ya don't lose dat blood clot.
+
+;0xF4D0AE7F=~z~He has reason to be nervous, the man who will kill his employer is following him.
+0xF4D0AE7F=~z~He has reason to be nervous, the man who will kill his employer is following him.
+
+;0xF58AA6F8=~z~You're a strange man.
+0xF58AA6F8=~z~You're a strange man.
+
+;0xF5A020B9=~z~He had many men there. Both Russians and Pegorino's men.
+0xF5A020B9=~z~He had many men there. Both Russians and Pegorino's men.
+
+;0xF6738E73=~z~Why would they bother to send a hitman to the wedding?
+0xF6738E73=~z~Why would they bother to send a hitman to the wedding?
+
+;0xF6F47766=FIN1D_TR
+0xF6F47766=FIN1D_TR
+
+;0xF6F62600=FIN1D_NN
+0xF6F62600=FIN1D_NN
+
+;0xFD5FEE67=FIN1D_NE
+0xFD5FEE67=FIN1D_NE
+
+;0xFECEB762=~z~It's over.
+0xFECEB762=~z~It's over.
+
+;0xFFA49498=FIN1D_MC
+0xFFA49498=FIN1D_MC
+
+;0xFFD822CC=FIN1D_JE
+0xFFD822CC=FIN1D_JE
+

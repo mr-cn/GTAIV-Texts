@@ -1,0 +1,37 @@
+﻿[FIN1B]
+;0x0E7B4A6E=~s~Get off the ship.
+0x0E7B4A6E=~s~Get off the ship.
+
+;0x410A2F8B=~s~Go to the cargo hold and get revenge on ~r~Dimitri.
+0x410A2F8B=~s~Go to the cargo hold and get revenge on ~r~Dimitri.
+
+;0x599CE0B0=~s~Get back on land.
+0x599CE0B0=~s~Get back on land.
+
+;0x5B7F387E=~s~Finish off ~r~Dimitri.
+0x5B7F387E=~s~Finish off ~r~Dimitri.
+
+;0x65B27D83=~s~Go to the cargo hold's ~y~exit.~s~
+0x65B27D83=~s~Go to the cargo hold's ~y~exit.~s~
+
+;0x6BB817F8=~s~Press ~INPUT_PICKUP~ to operate the controls.
+0x6BB817F8=~s~Press ~INPUT_PICKUP~ to operate the controls.
+
+;0x889199CF=~s~The doors to the cargo hold are controlled from the bridge.
+0x889199CF=~s~The doors to the cargo hold are controlled from the bridge.
+
+;0x99DA3C60=~s~Find a way to get to Dimitri, and get your revenge.
+0x99DA3C60=~s~Find a way to get to Dimitri, and get your revenge.
+
+;0xA406757E=~s~Operate the ~y~controls~s~ to open the cargo hold.
+0xA406757E=~s~Operate the ~y~controls~s~ to open the cargo hold.
+
+;0xBE5681DB=~s~Go to the ~y~bridge.
+0xBE5681DB=~s~Go to the ~y~bridge.
+
+;0xDD0BC2BA=~s~The Russians are loading heroin onto the cargo ship.
+0xDD0BC2BA=~s~The Russians are loading heroin onto the cargo ship.
+
+;0xEEB36609=~s~Dimitri is supervising the operation in the ship's hold.
+0xEEB36609=~s~Dimitri is supervising the operation in the ship's hold.
+

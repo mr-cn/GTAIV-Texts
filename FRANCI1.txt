@@ -1,0 +1,58 @@
+﻿[FRANCI1]
+;0x1CE994F6=~r~You lost the blackmailer.~s~
+0x1CE994F6=~r~You lost the blackmailer.~s~
+
+;0x1EC151AD=You're too far away from the ~y~viewpoint~s~. You won't be able to spot the blackmailer.
+0x1EC151AD=You're too far away from the ~y~viewpoint~s~. You won't be able to spot the blackmailer.
+
+;0x27F85445=Take the photographs on the storage device to ~y~Francis.
+0x27F85445=Take the photographs on the storage device to ~y~Francis.
+
+;0x2CD0DF26=That's the ~r~blackmailer.~s~ Take him down.
+0x2CD0DF26=That's the ~r~blackmailer.~s~ Take him down.
+
+;0x346C7B60=Look out for the blackmailer, he's using his cell phone.
+0x346C7B60=Look out for the blackmailer, he's using his cell phone.
+
+;0x4FE5BBD7=The blackmailer is still in the area. Search for him.
+0x4FE5BBD7=The blackmailer is still in the area. Search for him.
+
+;0x5B8FE7B3=You're losing the ~r~blackmailer.~s~ Don't let him get away.
+0x5B8FE7B3=You're losing the ~r~blackmailer.~s~ Don't let him get away.
+
+;0x67F26F05=~s~Lose your wanted level.
+0x67F26F05=~s~Lose your wanted level.
+
+;0x6B5775C9=Oh fuck.
+0x6B5775C9=Oh fuck.
+
+;0x6EE8D410=This isn't right.
+0x6EE8D410=This isn't right.
+
+;0x8DF2A3B8=Go to the ~y~viewpoint~s~ off Union Drive East.
+0x8DF2A3B8=Go to the ~y~viewpoint~s~ off Union Drive East.
+
+;0x9000C39C=Call the blackmailer's cell and look to see who answers their phone. Keep him talking until you identify him.
+0x9000C39C=Call the blackmailer's cell and look to see who answers their phone. Keep him talking until you identify him.
+
+;0xA623EFE2=The blackmailer will be somewhere around here.
+0xA623EFE2=The blackmailer will be somewhere around here.
+
+;0xA9883CA2=Wait for the text from Francis to get the blackmailer's phone number.
+0xA9883CA2=Wait for the text from Francis to get the blackmailer's phone number.
+
+;0xC06F3599=The ~r~blackmailer~s~ is fleeing on foot. Take him out.
+0xC06F3599=The ~r~blackmailer~s~ is fleeing on foot. Take him out.
+
+;0xC6F4148E=Pick up the ~g~storage device.
+0xC6F4148E=Pick up the ~g~storage device.
+
+;0xD79F37E0=~s~Photographs
+0xD79F37E0=~s~Photographs
+
+;0xD8DAE7A9=The ~r~blackmailer~s~ has entered a car, don't let him get away.
+0xD8DAE7A9=The ~r~blackmailer~s~ has entered a car, don't let him get away.
+
+;0xF0994C06=Hey, come back here so I can kill you.
+0xF0994C06=Hey, come back here so I can kill you.
+

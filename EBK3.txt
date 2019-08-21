@@ -1,0 +1,94 @@
+﻿[EBK3]
+;0x08D59073=PLACEHOLDER
+0x08D59073=PLACEHOLDER
+
+;0x10675BCB=Hello!
+0x10675BCB=Hello!
+
+;0x10A74F49=PLACEHOLDER
+0x10A74F49=PLACEHOLDER
+
+;0x12B77D6C=Just saw you were interested in yours truly. Get in line. To be honest, my inbox has been filling up every ten seconds since I put up the ad. I was just sending out a load of rejections when I saw you, and you don't look like the other guys.
+0x12B77D6C=Just saw you were interested in yours truly. Get in line. To be honest, my inbox has been filling up every ten seconds since I put up the ad. I was just sending out a load of rejections when I saw you, and you don't look like the other guys.
+
+;0x12D460A5=Hello there!
+0x12D460A5=Hello there!
+
+;0x1EECEBD4=PLACEHOLDER
+0x1EECEBD4=PLACEHOLDER
+
+;0x30E9609A=PLACEHOLDER
+0x30E9609A=PLACEHOLDER
+
+;0x4212BF21=Hello!
+0x4212BF21=Hello!
+
+;0x5BE50FBE=I had no idea how many poor and ugly people there were in LC before I started this internet dating thing. It's yuk! Should have stuck to picking up closeted politicians at Hercules. At least then you can squeeze a few g outta em while getting satisfied. Anyway, you're the best of a bad bunch on this site so I can forgive what you did before. Come by the 69th Street Diner with your wallet and maybe I'll forget about how you just wasted my time.
+0x5BE50FBE=I had no idea how many poor and ugly people there were in LC before I started this internet dating thing. It's yuk! Should have stuck to picking up closeted politicians at Hercules. At least then you can squeeze a few g outta em while getting satisfied. Anyway, you're the best of a bad bunch on this site so I can forgive what you did before. Come by the 69th Street Diner with your wallet and maybe I'll forget about how you just wasted my time.
+
+;0x66C870AC=I know the place, I'll see you there. - N
+0x66C870AC=I know the place, I'll see you there. - N
+
+;0x675D89BA=Hello there!
+0x675D89BA=Hello there!
+
+;0x6C063000=I'm usually there around&nbsp;midnight.
+0x6C063000=I'm usually there around&nbsp;midnight.
+
+;0x70E5D197=I'll be there. - N
+0x70E5D197=I'll be there. - N
+
+;0x79212D41=Hello!
+0x79212D41=Hello!
+
+;0x7D96FC34=Ciao,
+0x7D96FC34=Ciao,
+
+;0x7FD600B2=See ya later,
+0x7FD600B2=See ya later,
+
+;0x829F750A=Maybe some other time. - N
+0x829F750A=Maybe some other time. - N
+
+;0x84AE4457=Hello there!
+0x84AE4457=Hello there!
+
+;0x921BA53D=Ciao,
+0x921BA53D=Ciao,
+
+;0x948FE41E=Hello!
+0x948FE41E=Hello!
+
+;0xA451C9A9=See ya later,
+0xA451C9A9=See ya later,
+
+;0xB6000F1A=Maybe some other time. - N
+0xB6000F1A=Maybe some other time. - N
+
+;0xB6C14575=PLACEHOLDER
+0xB6C14575=PLACEHOLDER
+
+;0xB6F26EEA=Ciao,
+0xB6F26EEA=Ciao,
+
+;0xC8FB69E9=PLACEHOLDER
+0xC8FB69E9=PLACEHOLDER
+
+;0xD909B318=See ya later,
+0xD909B318=See ya later,
+
+;0xDBEAF2D3=Hello there!
+0xDBEAF2D3=Hello there!
+
+;0xE635CB70=Ciao,
+0xE635CB70=Ciao,
+
+;0xEDCCB397=I'm usually there around
+0xEDCCB397=I'm usually there around
+
+;0xF3EBE6DC=See ya later,
+0xF3EBE6DC=See ya later,
+
+;0xFF9A5732=Well, you don't seem poor or fat so that's a start! This boy is too good for those losers. I mean, come on!! How about you stop by the 69th Street Diner in Hove? Bring your wallet, because you are picking up the check. I'll wear a red rose.
+0xFF9A5732=Well, you don't seem poor or fat so that's a start! This boy is too good for those losers. I mean, come on!! How about you stop by the 69th Street Diner in Hove? Bring your wallet, because you are picking up the check. I'll wear a red rose.
+

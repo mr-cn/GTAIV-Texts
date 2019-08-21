@@ -1,0 +1,76 @@
+﻿[BELL2]
+;0x019B9427=~s~You left ~b~Bell~s~ behind. Go back and help him.
+0x019B9427=~s~You left ~b~Bell~s~ behind. Go back and help him.
+
+;0x087575BA=~s~Lose your wanted level.
+0x087575BA=~s~Lose your wanted level.
+
+;0x0B2C41BF=~s~The coke is brought in on speedboats from Vice City and has not yet been unloaded.
+0x0B2C41BF=~s~The coke is brought in on speedboats from Vice City and has not yet been unloaded.
+
+;0x0BC4A3FE=~s~Go to the ~b~coke boat.
+0x0BC4A3FE=~s~Go to the ~b~coke boat.
+
+;0x24E31F70=~s~Protect Bell from the ~r~attacking boats.
+0x24E31F70=~s~Protect Bell from the ~r~attacking boats.
+
+;0x2DDA39DE=~s~Disembark onto the ~y~jetty.
+0x2DDA39DE=~s~Disembark onto the ~y~jetty.
+
+;0x50109C4A=~s~Get back in the ~b~truck.
+0x50109C4A=~s~Get back in the ~b~truck.
+
+;0x513400E8=~r~You have abandoned the truck.
+0x513400E8=~r~You have abandoned the truck.
+
+;0x6EB6100A=~s~The attackers have given up. Follow ~b~Bell~s~ to the drop-off point.
+0x6EB6100A=~s~The attackers have given up. Follow ~b~Bell~s~ to the drop-off point.
+
+;0x741B118A=~s~Drive to the ~y~boatyard~s~ on Charge Island.
+0x741B118A=~s~Drive to the ~y~boatyard~s~ on Charge Island.
+
+;0x7D4105ED=~s~Get the coke boat back to the ~y~jetty.
+0x7D4105ED=~s~Get the coke boat back to the ~y~jetty.
+
+;0x83D8A7FB=~r~Bell's boat was beached.
+0x83D8A7FB=~r~Bell's boat was beached.
+
+;0x90C98006=~r~You have abandoned the boat.
+0x90C98006=~r~You have abandoned the boat.
+
+;0x91362D7B=~s~You have left ~b~Bell~s~ behind, go and get him.
+0x91362D7B=~s~You have left ~b~Bell~s~ behind, go and get him.
+
+;0x97EBE055=~s~Get back in the ~b~boat.
+0x97EBE055=~s~Get back in the ~b~boat.
+
+;0x9C48497E=~s~Go to the ~b~truck.
+0x9C48497E=~s~Go to the ~b~truck.
+
+;0xB1876E79=~s~Follow ~b~Bell~s~ to the drop-off point.
+0xB1876E79=~s~Follow ~b~Bell~s~ to the drop-off point.
+
+;0xB6B70CB4=~r~You beached the boat.
+0xB6B70CB4=~r~You beached the boat.
+
+;0xC10A215A=~r~The boat was destroyed.
+0xC10A215A=~r~The boat was destroyed.
+
+;0xC1B8AED9=~s~The Russian drug runners are using the boatyard to smuggle cocaine into the city.
+0xC1B8AED9=~s~The Russian drug runners are using the boatyard to smuggle cocaine into the city.
+
+;0xD334C5AF=~r~The truck got trashed.
+0xD334C5AF=~r~The truck got trashed.
+
+;0xD44E5404=~s~The boatyard is heavily guarded - the element of surprise will be crucial.
+0xD44E5404=~s~The boatyard is heavily guarded - the element of surprise will be crucial.
+
+;0xD9FBC06D=~s~Get through the boatyard with ~b~Bell.
+0xD9FBC06D=~s~Get through the boatyard with ~b~Bell.
+
+;0xE9A07286=~r~Bell is dead.
+0xE9A07286=~r~Bell is dead.
+
+;0xEDAD32FA=~s~The attackers have been killed. Follow ~b~Bell~s~ to the drop-off point.
+0xEDAD32FA=~s~The attackers have been killed. Follow ~b~Bell~s~ to the drop-off point.
+

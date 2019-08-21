@@ -1,0 +1,76 @@
+﻿[AUTOERT]
+;0x00022197=HOME
+0x00022197=HOME
+
+;0x0631AED2=Adjustable seats, Air conditioning, Alloy wheels, CD Player, Central locking, Electric mirrors, Electric windows, Full service history, Leather upholstery, Immobilizer.
+0x0631AED2=Adjustable seats, Air conditioning, Alloy wheels, CD Player, Central locking, Electric mirrors, Electric windows, Full service history, Leather upholstery, Immobilizer.
+
+;0x08DCAD03=2003 INTRUDER 4.3l V8 Limited
+0x08DCAD03=2003 INTRUDER 4.3l V8 Limited
+
+;0x1EF2C658=CONTACT US
+0x1EF2C658=CONTACT US
+
+;0x22CBE0E5=2001 SCHAFTER 6.5l V12 SC
+0x22CBE0E5=2001 SCHAFTER 6.5l V12 SC
+
+;0x245AEB24=4 Doors, Manual, 26,000 miles, Metallic Turquoise. 12 months parts and labor warranty. Insurance. 0% DEPOSIT finance available. Ask Derek for full quotation. Licensed credit broker. Written details available.
+0x245AEB24=4 Doors, Manual, 26,000 miles, Metallic Turquoise. 12 months parts and labor warranty. Insurance. 0% DEPOSIT finance available. Ask Derek for full quotation. Licensed credit broker. Written details available.
+
+;0x25F0B05F=CALL - 662-555-0147
+0x25F0B05F=CALL - 662-555-0147
+
+;0x26BB9927=CALL - 265-555-2423
+0x26BB9927=CALL - 265-555-2423
+
+;0x2AB10C5B=ABOUT
+0x2AB10C5B=ABOUT
+
+;0x2FDB3E02=Air conditioning, Alarm, Body colored bumpers, Drivers airbag, Electric door mirrors. 1 previous owner. CD/cassete, mint condition. All enquiries / viewing must be between 8am to 9pm.
+0x2FDB3E02=Air conditioning, Alarm, Body colored bumpers, Drivers airbag, Electric door mirrors. 1 previous owner. CD/cassete, mint condition. All enquiries / viewing must be between 8am to 9pm.
+
+;0x377D3AAA=$130995
+0x377D3AAA=$130995
+
+;0x54064355=2004 PRESIDENTE 4.5l V10
+0x54064355=2004 PRESIDENTE 4.5l V10
+
+;0x61168DD8=$62995
+0x61168DD8=$62995
+
+;0x64BFE4C8=2001 TURISMO 4.0l Quad Cam V8
+0x64BFE4C8=2001 TURISMO 4.0l Quad Cam V8
+
+;0x7DBC4723=$42999
+0x7DBC4723=$42999
+
+;0x8A58E05C=CALL - 265-555-2423
+0x8A58E05C=CALL - 265-555-2423
+
+;0x8D5FE66E=CALL - 265-555-2423
+0x8D5FE66E=CALL - 265-555-2423
+
+;0xAC9A4755=2003 FELTZER 3.8 Supercharged V8
+0xAC9A4755=2003 FELTZER 3.8 Supercharged V8
+
+;0xCB95B99B=Stunning Black metallic, alloys, front driving lamps, full electrics, CD Player, central locking, exceptional condition throughout.
+0xCB95B99B=Stunning Black metallic, alloys, front driving lamps, full electrics, CD Player, central locking, exceptional condition throughout.
+
+;0xD06B4346=2 Doors, Manual 5 speed, Petrol, 26,000 miles, Rosso Red, Adjustable seats, Alloy wheels, CD Player, Central locking, Electric windows, Cream Leather. Rear Spoiler and ABS.
+0xD06B4346=2 Doors, Manual 5 speed, Petrol, 26,000 miles, Rosso Red, Adjustable seats, Alloy wheels, CD Player, Central locking, Electric windows, Cream Leather. Rear Spoiler and ABS.
+
+;0xE154E519=Automatic, 37,000 miles, Metallic Silver. Air-Conditioning, ABS, Alloy wheels, Cruise control, Full service history, Leather seats.
+0xE154E519=Automatic, 37,000 miles, Metallic Silver. Air-Conditioning, ABS, Alloy wheels, Cruise control, Full service history, Leather seats.
+
+;0xEE55BA40=VIEW CARS
+0xEE55BA40=VIEW CARS
+
+;0xF4910470=2006 PMP600 600ci V8 Semi
+0xF4910470=2006 PMP600 600ci V8 Semi
+
+;0xF73A09BE=2001 BANSHEE 300ci V8 Twin Turbo GT
+0xF73A09BE=2001 BANSHEE 300ci V8 Twin Turbo GT
+
+;0xFC5D1B39=Automatic, Diesel, 8000 miles, Metallic Silver. Leather seats, ABS, Air conditioning, Alloy wheels, CD Multichanger, Cruise control, Heated seats, Multi function steering wheel, Navigation system, Park distance control.
+0xFC5D1B39=Automatic, Diesel, 8000 miles, Metallic Silver. Leather seats, ABS, Air conditioning, Alloy wheels, CD Multichanger, Cruise control, Heated seats, Multi function steering wheel, Navigation system, Park distance control.
+

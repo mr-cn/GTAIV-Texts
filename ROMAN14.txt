@@ -1,0 +1,49 @@
+﻿[ROMAN14]
+;0x162DD8CA=~s~Go and get ~y~Roman.
+0x162DD8CA=~s~Go and get ~y~Roman.
+
+;0x27147A97=~s~Pick up ~b~Roman.
+0x27147A97=~s~Pick up ~b~Roman.
+
+;0x2A26A5E2=~r~The car has been destroyed.~s~
+0x2A26A5E2=~r~The car has been destroyed.~s~
+
+;0x363FB0FB=~s~Choose to kill ~r~Darko~s~ or let him live.
+0x363FB0FB=~s~Choose to kill ~r~Darko~s~ or let him live.
+
+;0x3DB9D2F1=~r~Roman has been injured.~s~
+0x3DB9D2F1=~r~Roman has been injured.~s~
+
+;0x47E9BC3D=~s~Get back in the ~b~car.
+0x47E9BC3D=~s~Get back in the ~b~car.
+
+;0x50D54E14=~s~Take Roman to ~y~Brucie's place.
+0x50D54E14=~s~Take Roman to ~y~Brucie's place.
+
+;0x5DF7E859=~s~Go back and get ~b~Roman.
+0x5DF7E859=~s~Go back and get ~b~Roman.
+
+;0x74FD27C0=~r~Roman is dead.~s~
+0x74FD27C0=~r~Roman is dead.~s~
+
+;0x7AA4A1B2=~s~Head to the ~y~rendezvous.
+0x7AA4A1B2=~s~Head to the ~y~rendezvous.
+
+;0x80B8B65A=~s~Wait for ~b~Roman.
+0x80B8B65A=~s~Wait for ~b~Roman.
+
+;0x9DB88054=~s~Execute him or walk away to let him live.
+0x9DB88054=~s~Execute him or walk away to let him live.
+
+;0xB1B5CF99=~s~Choose to kill ~b~Darko~s~ or let him live.
+0xB1B5CF99=~s~Choose to kill ~b~Darko~s~ or let him live.
+
+;0xB55440AC=~s~Get a car for you and Roman.
+0xB55440AC=~s~Get a car for you and Roman.
+
+;0xC2BAB1E5=~s~Pick up ~y~Roman.
+0xC2BAB1E5=~s~Pick up ~y~Roman.
+
+;0xFD56271B=~s~Get a car and pick up ~b~Roman.
+0xFD56271B=~s~Get a car and pick up ~b~Roman.
+

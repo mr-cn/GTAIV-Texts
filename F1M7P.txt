@@ -1,0 +1,91 @@
+﻿[F1M7P]
+;0x0E4B44AF=You have ~1~ second to get back in the ~b~car.
+0x0E4B44AF=You have ~1~ second to get back in the ~b~car.
+
+;0x0F908A1D=Pick up the customer from ~y~Outlook.
+0x0F908A1D=Pick up the customer from ~y~Outlook.
+
+;0x14DBD530=Pick up the customer from ~y~Boulevard.
+0x14DBD530=Pick up the customer from ~y~Boulevard.
+
+;0x1844DE7A=~s~Take the customer to ~y~Fortside.
+0x1844DE7A=~s~Take the customer to ~y~Fortside.
+
+;0x21856B23=You have ~1~ seconds to get back in the ~b~car.
+0x21856B23=You have ~1~ seconds to get back in the ~b~car.
+
+;0x29B2FDBE=~s~Take the customer to ~y~East Island city.
+0x29B2FDBE=~s~Take the customer to ~y~East Island city.
+
+;0x2C7543E6=Pick up the customer from ~y~Firefly Island.
+0x2C7543E6=Pick up the customer from ~y~Firefly Island.
+
+;0x36BB18F2=Pick up the customer from ~y~South Bohan.
+0x36BB18F2=Pick up the customer from ~y~South Bohan.
+
+;0x4871BC5F=Pick up the customer from ~y~Industrial.
+0x4871BC5F=Pick up the customer from ~y~Industrial.
+
+;0x524DCEF7=~s~Take the customer to ~y~Steinway.
+0x524DCEF7=~s~Take the customer to ~y~Steinway.
+
+;0x5C0F639A=Pick up the customer from ~y~Cerveza Heights.
+0x5C0F639A=Pick up the customer from ~y~Cerveza Heights.
+
+;0x6D40C32C=~r~The fare was lost.
+0x6D40C32C=~r~The fare was lost.
+
+;0x73B09554=To quit the mission call Roman.
+0x73B09554=To quit the mission call Roman.
+
+;0x7F6B6781=Now release key and Pick dropoff(debug)
+0x7F6B6781=Now release key and Pick dropoff(debug)
+
+;0x931F51B9=Pick up the customer from ~y~Northern Gardens.
+0x931F51B9=Pick up the customer from ~y~Northern Gardens.
+
+;0x99931BCC=~r~The passenger was scared off.
+0x99931BCC=~r~The passenger was scared off.
+
+;0xAAACBDFF=Stop near the customer, or press ~INPUT_VEH_HORN~ to sound the horn to get the attention of the customer.
+0xAAACBDFF=Stop near the customer, or press ~INPUT_VEH_HORN~ to sound the horn to get the attention of the customer.
+
+;0xAC908713=~s~Take the customer to ~y~Boulevard.
+0xAC908713=~s~Take the customer to ~y~Boulevard.
+
+;0xB3F2D08B=Hurry up.
+0xB3F2D08B=Hurry up.
+
+;0xBA8622FE=~s~Take the customer to ~y~Industrial.
+0xBA8622FE=~s~Take the customer to ~y~Industrial.
+
+;0xC7D93A0C=~s~Take the customer to ~y~East Island City.
+0xC7D93A0C=~s~Take the customer to ~y~East Island City.
+
+;0xCC59C30D=~s~Take the customer to ~y~Meadow Hills station.
+0xCC59C30D=~s~Take the customer to ~y~Meadow Hills station.
+
+;0xD698D773=Pick up the customer from ~y~Outlook.
+0xD698D773=Pick up the customer from ~y~Outlook.
+
+;0xD7449972=~r~The car was destroyed.
+0xD7449972=~r~The car was destroyed.
+
+;0xDE936780=~s~Take the customer to ~y~Cerveza Heights.
+0xDE936780=~s~Take the customer to ~y~Cerveza Heights.
+
+;0xE0A5EB8D=Pick up the customer from ~y~Beechwood City.
+0xE0A5EB8D=Pick up the customer from ~y~Beechwood City.
+
+;0xE37B2F9F=Go and get ~b~Roman's car~s~ for the pickup.
+0xE37B2F9F=Go and get ~b~Roman's car~s~ for the pickup.
+
+;0xE7F33ACF=Pick up the customer from ~y~Hove Beach.
+0xE7F33ACF=Pick up the customer from ~y~Hove Beach.
+
+;0xF2F0903A=~s~Take the customer to ~y~Schottler.
+0xF2F0903A=~s~Take the customer to ~y~Schottler.
+
+;0xFFF4AA42=~s~Take the customer to ~y~Meadow Hills.
+0xFFF4AA42=~s~Take the customer to ~y~Meadow Hills.
+

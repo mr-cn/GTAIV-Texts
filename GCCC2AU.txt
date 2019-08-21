@@ -1,0 +1,535 @@
+﻿[GCCC2AU]
+;0x0028EB42=~z~Yes, well thank you. I knew you'd understand.
+0x0028EB42=~z~Yes, well thank you. I knew you'd understand.
+
+;0x015A5830=~z~That can be dull - people just talking about themselves.
+0x015A5830=~z~That can be dull - people just talking about themselves.
+
+;0x02E9864A=GCC2_LIPO_KO
+0x02E9864A=GCC2_LIPO_KO
+
+;0x034500F7=GCC2_CELEBS_JP
+0x034500F7=GCC2_CELEBS_JP
+
+;0x03AB6A39=GCC2_MAYOR_MM
+0x03AB6A39=GCC2_MAYOR_MM
+
+;0x0442403A=~z~Because I had an argument with my dad.
+0x0442403A=~z~Because I had an argument with my dad.
+
+;0x062EC728=GCC2_CELEBS_JH
+0x062EC728=GCC2_CELEBS_JH
+
+;0x07235F1E=GCC2_WHITE_LE
+0x07235F1E=GCC2_WHITE_LE
+
+;0x07588DE1=GCC2_LIPO_KF
+0x07588DE1=GCC2_LIPO_KF
+
+;0x08436602=~z~It's expensive, but I think I need it.
+0x08436602=~z~It's expensive, but I think I need it.
+
+;0x08707DEF=~z~Yeah? How?
+0x08707DEF=~z~Yeah? How?
+
+;0x0A178546=~z~Ain't you got no friends? We never go anywhere, we never meet important people.
+0x0A178546=~z~Ain't you got no friends? We never go anywhere, we never meet important people.
+
+;0x0A365E0A=GCC2_CELEBS_JL
+0x0A365E0A=GCC2_CELEBS_JL
+
+;0x0A5D3EE3=~z~Don't bullshit me. We both know the truth.
+0x0A5D3EE3=~z~Don't bullshit me. We both know the truth.
+
+;0x0CABC0C8=GCC2_SPECIAL_ID
+0x0CABC0C8=GCC2_SPECIAL_ID
+
+;0x0DD5C5C0=~z~I'm fat. It's why I haven't made it yet.
+0x0DD5C5C0=~z~I'm fat. It's why I haven't made it yet.
+
+;0x0DD82D6D=GCC2_SPECIAL_IH
+0x0DD82D6D=GCC2_SPECIAL_IH
+
+;0x0E04C632=~z~I look fat. I got fat thighs, a fat ass, a belly.
+0x0E04C632=~z~I look fat. I got fat thighs, a fat ass, a belly.
+
+;0x0FEE92A7=GCC2_MAYOR_MA
+0x0FEE92A7=GCC2_MAYOR_MA
+
+;0x13171FBE=GCC2_LIPO_KC
+0x13171FBE=GCC2_LIPO_KC
+
+;0x13D51A54=~z~I know, baby.
+0x13D51A54=~z~I know, baby.
+
+;0x1401C19C=GCC2_SPECIAL_IC
+0x1401C19C=GCC2_SPECIAL_IC
+
+;0x1482CAC0=GCC2_CELEBS_JQ
+0x1482CAC0=GCC2_CELEBS_JQ
+
+;0x152E9767=~z~I love your values.
+0x152E9767=~z~I love your values.
+
+;0x15E3C35A=GCC2_LIPO_KJ
+0x15E3C35A=GCC2_LIPO_KJ
+
+;0x18D19579=010100010100010100010100100100100010100010
+0x18D19579=010100010100010100010100100100100010100010
+
+;0x198025AA=~z~Carmen, I've said it before - you're special.
+0x198025AA=~z~Carmen, I've said it before - you're special.
+
+;0x1A86AC35=~z~That don't matter. A pretty girl like me should be famous. And rich. Like in the magazines.
+0x1A86AC35=~z~That don't matter. A pretty girl like me should be famous. And rich. Like in the magazines.
+
+;0x1AC86D46=~z~Why?
+0x1AC86D46=~z~Why?
+
+;0x1B95613F=~z~Nonsense. What are you talking about?
+0x1B95613F=~z~Nonsense. What are you talking about?
+
+;0x1C48A9A8=~z~Isn't that what a date is?
+0x1C48A9A8=~z~Isn't that what a date is?
+
+;0x1E54A0A7=GCC2_MAYOR_MF
+0x1E54A0A7=GCC2_MAYOR_MF
+
+;0x1F0F138D=GCC2_WHITE_LA
+0x1F0F138D=GCC2_WHITE_LA
+
+;0x227DA826=100010100010100010010100100010100100010100
+0x227DA826=100010100010100010010100100010100100010100
+
+;0x22EA4547=GCC2_LIPO_KP
+0x22EA4547=GCC2_LIPO_KP
+
+;0x244514E1=GCC2_WHITE_LI
+0x244514E1=GCC2_WHITE_LI
+
+;0x24FE6853=GCC2_LIPO_KL
+0x24FE6853=GCC2_LIPO_KL
+
+;0x26BDBA85=~z~Maybe. Are you bored of being a nurse?
+0x26BDBA85=~z~Maybe. Are you bored of being a nurse?
+
+;0x27A04197=GCC2_LIPO_KS
+0x27A04197=GCC2_LIPO_KS
+
+;0x27E86070=100010100100100010100010100010100010100
+0x27E86070=100010100100100010100010100010100010100
+
+;0x28398828=~z~I'm sorry. My dad was a bully, too. What about?
+0x28398828=~z~I'm sorry. My dad was a bully, too. What about?
+
+;0x287C32E6=GCC2_MAYOR_MG
+0x287C32E6=GCC2_MAYOR_MG
+
+;0x28B44890=~z~I don't really understand what you are talking about.
+0x28B44890=~z~I don't really understand what you are talking about.
+
+;0x296B2735=GCC2_WHITE_LH
+0x296B2735=GCC2_WHITE_LH
+
+;0x2A1728C2=~z~Man, when we get together, it's crazy. It really is.
+0x2A1728C2=~z~Man, when we get together, it's crazy. It really is.
+
+;0x2BC87DFD=GCC2_SPECIAL_IG
+0x2BC87DFD=GCC2_SPECIAL_IG
+
+;0x31C8D0A6=GCC2_WHITE_LM
+0x31C8D0A6=GCC2_WHITE_LM
+
+;0x325E0EE8=~z~Oh, thank you.
+0x325E0EE8=~z~Oh, thank you.
+
+;0x336B9E81=GCC2_CELEBS_JE
+0x336B9E81=GCC2_CELEBS_JE
+
+;0x34E3D4BB=~z~you ain't the boss of me and he says if he was he'd sack me and then I start crying.
+0x34E3D4BB=~z~you ain't the boss of me and he says if he was he'd sack me and then I start crying.
+
+;0x35B30384=~z~Wow! Is Tony McTony a goth? I didn't know.
+0x35B30384=~z~Wow! Is Tony McTony a goth? I didn't know.
+
+;0x36F3650E=~z~Will you pay for me to have lipo?
+0x36F3650E=~z~Will you pay for me to have lipo?
+
+;0x3744DDE5=GCC2_DAD_NE
+0x3744DDE5=GCC2_DAD_NE
+
+;0x3BC47238=GCC2_LIPO_KB
+0x3BC47238=GCC2_LIPO_KB
+
+;0x3DB2C455=GCC2_DAD_NJ
+0x3DB2C455=GCC2_DAD_NJ
+
+;0x3F29B608=~z~Yes. He says you only want one thing and I say I don't care, I like having fun,
+0x3F29B608=~z~Yes. He says you only want one thing and I say I don't care, I like having fun,
+
+;0x3F44A8B5=~z~You look good, honey, you know that?
+0x3F44A8B5=~z~You look good, honey, you know that?
+
+;0x4081F21A=~z~All we ever do is hang out and talk and get in trouble and be you and me.
+0x4081F21A=~z~All we ever do is hang out and talk and get in trouble and be you and me.
+
+;0x437473F2=~z~You don't get famous. It feels like a waste of my talents.
+0x437473F2=~z~You don't get famous. It feels like a waste of my talents.
+
+;0x45735F7A=~z~You're a good listener. I like that about you.
+0x45735F7A=~z~You're a good listener. I like that about you.
+
+;0x46576589=GCC2_WHITE_LD
+0x46576589=GCC2_WHITE_LD
+
+;0x46A0F835=~z~and he says get out of my house and I say screw you,
+0x46A0F835=~z~and he says get out of my house and I say screw you,
+
+;0x477DA719=~z~They say he is a goth and he should cheer up.
+0x477DA719=~z~They say he is a goth and he should cheer up.
+
+;0x4C27F9B3=GCC2_DAD_NL
+0x4C27F9B3=GCC2_DAD_NL
+
+;0x4C986CA7=GCC2_WHITE_LG
+0x4C986CA7=GCC2_WHITE_LG
+
+;0x4D5E7193=GCC2_WHITE_LB
+0x4D5E7193=GCC2_WHITE_LB
+
+;0x4DEC538D=~z~Really?
+0x4DEC538D=~z~Really?
+
+;0x4DFB08FF=~z~Thanks, baby. You're special. Not as special as Carmen, but still special.
+0x4DFB08FF=~z~Thanks, baby. You're special. Not as special as Carmen, but still special.
+
+;0x4E1870C4=~z~Thank you.
+0x4E1870C4=~z~Thank you.
+
+;0x50681379=~z~Sounds great!
+0x50681379=~z~Sounds great!
+
+;0x52649331=GCC2_CELEBS_JK
+0x52649331=GCC2_CELEBS_JK
+
+;0x52979649=~z~What's that, Carmen?
+0x52979649=~z~What's that, Carmen?
+
+;0x562E447A=~z~What's that?
+0x562E447A=~z~What's that?
+
+;0x57A71837=GCC2_MAYOR_MB
+0x57A71837=GCC2_MAYOR_MB
+
+;0x58145A54=~z~You always look good.
+0x58145A54=~z~You always look good.
+
+;0x5875857E=~z~I was partying the other night in Bungalow 9 and I had my nails done, and I went shopping with the girls.
+0x5875857E=~z~I was partying the other night in Bungalow 9 and I had my nails done, and I went shopping with the girls.
+
+;0x58829A86=GCC2_MAYOR_MH
+0x58829A86=GCC2_MAYOR_MH
+
+;0x597720A1=GCC2_DAD_NH
+0x597720A1=GCC2_DAD_NH
+
+;0x5B103807=100010100010100010100010010100010100010100010100010
+0x5B103807=100010100010100010100010010100010100010100010100010
+
+;0x5F9CAC42=~z~You seem very special.
+0x5F9CAC42=~z~You seem very special.
+
+;0x6081321C=~z~It felt good, meeting someone like that.
+0x6081321C=~z~It felt good, meeting someone like that.
+
+;0x63937EDB=~z~I'm okay. No, I'm not. I'm kind of mad.
+0x63937EDB=~z~I'm okay. No, I'm not. I'm kind of mad.
+
+;0x649E7368=~z~What about me?
+0x649E7368=~z~What about me?
+
+;0x66EE226F=~z~What you been up, baby?
+0x66EE226F=~z~What you been up, baby?
+
+;0x6B7B10DF=GCC2_CELEBS_JG
+0x6B7B10DF=GCC2_CELEBS_JG
+
+;0x6DABCADF=GCC2_CELEBS_JJ
+0x6DABCADF=GCC2_CELEBS_JJ
+
+;0x6E74920F=~z~I am a simple country boy, Carmen.
+0x6E74920F=~z~I am a simple country boy, Carmen.
+
+;0x72C8D6AB=~z~I met the mayor the other day - he came to the hospital, to open a new ward.
+0x72C8D6AB=~z~I met the mayor the other day - he came to the hospital, to open a new ward.
+
+;0x73879C2D=~z~You like my nails?
+0x73879C2D=~z~You like my nails?
+
+;0x74C2510D=GCC2_MAYOR_MC
+0x74C2510D=GCC2_MAYOR_MC
+
+;0x7548C9AC=GCC2_DAD_NN
+0x7548C9AC=GCC2_DAD_NN
+
+;0x756B517F=GCC2_MAYOR_MD
+0x756B517F=GCC2_MAYOR_MD
+
+;0x773AA393=~z~Yeah, they're great. Why?
+0x773AA393=~z~Yeah, they're great. Why?
+
+;0x7A0CE0AC=GCC2_DAD_NG
+0x7A0CE0AC=GCC2_DAD_NG
+
+;0x7C5C10D1=~z~I know. A terrible shame. I have failed in this country.
+0x7C5C10D1=~z~I know. A terrible shame. I have failed in this country.
+
+;0x7C774D81=~z~It sounds it. Insanity.
+0x7C774D81=~z~It sounds it. Insanity.
+
+;0x7E5573D1=~z~No, I think you haven't made it, because you don't know what you want to do.
+0x7E5573D1=~z~No, I think you haven't made it, because you don't know what you want to do.
+
+;0x80636EA3=GCC2_MAYOR_ME
+0x80636EA3=GCC2_MAYOR_ME
+
+;0x81E7B8F5=~z~Yes. Jill van Crastenburg was just in before me. Oh, and Tony McTony.
+0x81E7B8F5=~z~Yes. Jill van Crastenburg was just in before me. Oh, and Tony McTony.
+
+;0x829CF7E2=~z~It was - and you know what, I could tell he wanted to sleep with me.
+0x829CF7E2=~z~It was - and you know what, I could tell he wanted to sleep with me.
+
+;0x8516FB47=~z~That stuff is for people with different priorities than me.
+0x8516FB47=~z~That stuff is for people with different priorities than me.
+
+;0x85BD2B13=GCC2_LIPO_KK
+0x85BD2B13=GCC2_LIPO_KK
+
+;0x863B6109=~z~Oh, I have been crazy. Loco. Nonstop.
+0x863B6109=~z~Oh, I have been crazy. Loco. Nonstop.
+
+;0x86BF4FF8=GCC2_DAD_NI
+0x86BF4FF8=GCC2_DAD_NI
+
+;0x8908092A=GCC2_LIPO_KA
+0x8908092A=GCC2_LIPO_KA
+
+;0x8B72A76C=GCC2_SPECIAL_IK
+0x8B72A76C=GCC2_SPECIAL_IK
+
+;0x8D4129FD=GCC2_SPECIAL_IJ
+0x8D4129FD=GCC2_SPECIAL_IJ
+
+;0x8ECAB5AE=~z~That's a shame.
+0x8ECAB5AE=~z~That's a shame.
+
+;0x90C656AA=~z~I had them done. By my girl, Lucille, she does lots of celebrities, you know?
+0x90C656AA=~z~I had them done. By my girl, Lucille, she does lots of celebrities, you know?
+
+;0x9487BBE5=GCC2_LIPO_KH
+0x9487BBE5=GCC2_LIPO_KH
+
+;0x94DC20DA=~z~You don't need that. It will just make you too thin and miserable.
+0x94DC20DA=~z~You don't need that. It will just make you too thin and miserable.
+
+;0x95D19CBC=~z~I'm sorry. I'm just not that kind of person.
+0x95D19CBC=~z~I'm sorry. I'm just not that kind of person.
+
+;0x95DEA89B=GCC2_LIPO_KD
+0x95DEA89B=GCC2_LIPO_KD
+
+;0x99012DC0=GCC2_LIPO_KE
+0x99012DC0=GCC2_LIPO_KE
+
+;0x99AD9F0C=GCC2_LIPO_KQ
+0x99AD9F0C=GCC2_LIPO_KQ
+
+;0x9A6AEC8D=~z~About my life - about the way I'm carrying on, about hanging out with guys like you.
+0x9A6AEC8D=~z~About my life - about the way I'm carrying on, about hanging out with guys like you.
+
+;0x9B89C058=GCC2_CELEBS_JD
+0x9B89C058=GCC2_CELEBS_JD
+
+;0x9E32718A=~z~Yes - but there is nothing feminine about looking after yourself.
+0x9E32718A=~z~Yes - but there is nothing feminine about looking after yourself.
+
+;0xA034BE6B=GCC2_LIPO_KG
+0xA034BE6B=GCC2_LIPO_KG
+
+;0xA07D2A2C=GCC2_DAD_ND
+0xA07D2A2C=GCC2_DAD_ND
+
+;0xA088D92A=~z~No.
+0xA088D92A=~z~No.
+
+;0xA2847A26=~z~No, I didn't.
+0xA2847A26=~z~No, I didn't.
+
+;0xA30BDE34=~z~I was joking.
+0xA30BDE34=~z~I was joking.
+
+;0xA4013374=GCC2_DAD_NB
+0xA4013374=GCC2_DAD_NB
+
+;0xA461817B=GCC2_CELEBS_JF
+0xA461817B=GCC2_CELEBS_JF
+
+;0xA46AC6AC=GCC2_CELEBS_JM
+0xA46AC6AC=GCC2_CELEBS_JM
+
+;0xA53952D3=GCC2_CELEBS_JC
+0xA53952D3=GCC2_CELEBS_JC
+
+;0xA97CC373=GCC2_DAD_NF
+0xA97CC373=GCC2_DAD_NF
+
+;0xAABCEBD9=GCC2_MAYOR_MJ
+0xAABCEBD9=GCC2_MAYOR_MJ
+
+;0xB0A35CE1=GCC2_CELEBS_JO
+0xB0A35CE1=GCC2_CELEBS_JO
+
+;0xB0DC528F=GCC2_CELEBS_JI
+0xB0DC528F=GCC2_CELEBS_JI
+
+;0xB0F6DEA8=GCC2_CELEBS_JN
+0xB0F6DEA8=GCC2_CELEBS_JN
+
+;0xB1F077FF=100010100010100010100010100010100010100010100010010010100
+0xB1F077FF=100010100010100010100010100010100010100010100010010010100
+
+;0xB222777C=GCC2_MAYOR_ML
+0xB222777C=GCC2_MAYOR_ML
+
+;0xB2787D09=~z~Oh. Ha ha. Very funny. Do you know any celebrities?
+0xB2787D09=~z~Oh. Ha ha. Very funny. Do you know any celebrities?
+
+;0xB2E5FA23=GCC2_MAYOR_MK
+0xB2E5FA23=GCC2_MAYOR_MK
+
+;0xB3255D6C=~z~You look great, Carmen. It's your personality I worry about.
+0xB3255D6C=~z~You look great, Carmen. It's your personality I worry about.
+
+;0xB41F3DB7=~z~I know. I hate them. Listen do you think my teeth need straightening? Or whitening?
+0xB41F3DB7=~z~I know. I hate them. Listen do you think my teeth need straightening? Or whitening?
+
+;0xB5980344=GCC2_CELEBS_JA
+0xB5980344=GCC2_CELEBS_JA
+
+;0xB99B47D4=~z~I've been pretty quiet, Carmen. Nothing that exciting. What about you?
+0xB99B47D4=~z~I've been pretty quiet, Carmen. Nothing that exciting. What about you?
+
+;0xBA8F2A43=~z~Where I come from people say funny things about a man wearing nail polish.
+0xBA8F2A43=~z~Where I come from people say funny things about a man wearing nail polish.
+
+;0xBE492550=GCC2_SPECIAL_IE
+0xBE492550=GCC2_SPECIAL_IE
+
+;0xBEFA6E53=GCC2_WHITE_LJ
+0xBEFA6E53=GCC2_WHITE_LJ
+
+;0xC0939D3B=GCC2_LIPO_KN
+0xC0939D3B=GCC2_LIPO_KN
+
+;0xC2816788=GCC2_DAD_NK
+0xC2816788=GCC2_DAD_NK
+
+;0xC3782C26=GCC2_SPECIAL_IF
+0xC3782C26=GCC2_SPECIAL_IF
+
+;0xC382FE27=~z~Thank you, Niko. You're sweet.
+0xC382FE27=~z~Thank you, Niko. You're sweet.
+
+;0xC423BFF2=~z~and he says you a slut and I say women have changed, it's call being a woman,
+0xC423BFF2=~z~and he says you a slut and I say women have changed, it's call being a woman,
+
+;0xC4389DE8=GCC2_MAYOR_MN
+0xC4389DE8=GCC2_MAYOR_MN
+
+;0xC46268F6=GCC2_DAD_NM
+0xC46268F6=GCC2_DAD_NM
+
+;0xC79B065B=~z~No.
+0xC79B065B=~z~No.
+
+;0xC9AD0069=~z~I don't know yet. I only just began plotting. Maybe modeling or some shit.
+0xC9AD0069=~z~I don't know yet. I only just began plotting. Maybe modeling or some shit.
+
+;0xCA8FB293=GCC2_LIPO_KM
+0xCA8FB293=GCC2_LIPO_KM
+
+;0xD2140F19=~z~I'm sorry to hear that, that bit I did hear.
+0xD2140F19=~z~I'm sorry to hear that, that bit I did hear.
+
+;0xD2CC16B0=~z~I like hanging out with you, Niko, but I got one problem. I mean with taking this further.
+0xD2CC16B0=~z~I like hanging out with you, Niko, but I got one problem. I mean with taking this further.
+
+;0xD41DDD60=~z~Surely Tony McTony is a man?
+0xD41DDD60=~z~Surely Tony McTony is a man?
+
+;0xD5B6C4E1=GCC2_CELEBS_JB
+0xD5B6C4E1=GCC2_CELEBS_JB
+
+;0xD5B9A298=~z~Why not?
+0xD5B9A298=~z~Why not?
+
+;0xD63C16C9=GCC2_DAD_NA
+0xD63C16C9=GCC2_DAD_NA
+
+;0xD6B682E9=~z~No.
+0xD6B682E9=~z~No.
+
+;0xD8C10613=~z~Not like all the other men I date, just want to talk about themselves and how successful they are.
+0xD8C10613=~z~Not like all the other men I date, just want to talk about themselves and how successful they are.
+
+;0xDB0F48FC=GCC2_SPECIAL_II
+0xDB0F48FC=GCC2_SPECIAL_II
+
+;0xDC9550A9=GCC2_MAYOR_MI
+0xDC9550A9=GCC2_MAYOR_MI
+
+;0xE1873019=~z~I've been plotting. Plotting how I'm going to take over this town.
+0xE1873019=~z~I've been plotting. Plotting how I'm going to take over this town.
+
+;0xE1BDB1AD=GCC2_WHITE_LL
+0xE1BDB1AD=GCC2_WHITE_LL
+
+;0xE48F2112=GCC2_WHITE_LC
+0xE48F2112=GCC2_WHITE_LC
+
+;0xE522399E=GCC2_WHITE_LK
+0xE522399E=GCC2_WHITE_LK
+
+;0xE6825F75=GCC2_LIPO_KI
+0xE6825F75=GCC2_LIPO_KI
+
+;0xE79B41DD=~z~And I would have done it, if it wasn't for you.
+0xE79B41DD=~z~And I would have done it, if it wasn't for you.
+
+;0xEC65AA8F=GCC2_WHITE_LF
+0xEC65AA8F=GCC2_WHITE_LF
+
+;0xED9EC62E=~z~No problem.
+0xED9EC62E=~z~No problem.
+
+;0xF1541A5E=~z~How are you?
+0xF1541A5E=~z~How are you?
+
+;0xF3F4DF0E=~z~I don't believe in it. You're a pretty girl. Gorgeous.
+0xF3F4DF0E=~z~I don't believe in it. You're a pretty girl. Gorgeous.
+
+;0xF58E5D57=100010100010100100010100010
+0xF58E5D57=100010100010100100010100010
+
+;0xF630D970=~z~Not bored. Just unfulfilled. I mean, it's great helping people, but you don't get thanked.
+0xF630D970=~z~Not bored. Just unfulfilled. I mean, it's great helping people, but you don't get thanked.
+
+;0xF98A9D3E=~z~We do?
+0xF98A9D3E=~z~We do?
+
+;0xFD4BE4E7=GCC2_LIPO_KR
+0xFD4BE4E7=GCC2_LIPO_KR
+
+;0xFFA3E758=GCC2_DAD_NC
+0xFFA3E758=GCC2_DAD_NC
+

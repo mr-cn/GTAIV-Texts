@@ -1,0 +1,931 @@
+﻿[HT1AUD]
+;0x01035BA1=192192
+0x01035BA1=192192
+
+;0x033AC71C=HT1_AUD_A_GB
+0x033AC71C=HT1_AUD_A_GB
+
+;0x035271EB=192192
+0x035271EB=192192
+
+;0x04C8261A=192192
+0x04C8261A=192192
+
+;0x04F56BBF=192192
+0x04F56BBF=192192
+
+;0x07B1303C=~z~If you ever feel like exploring the skies again, remember Higgins!
+0x07B1303C=~z~If you ever feel like exploring the skies again, remember Higgins!
+
+;0x07B86E91=~z~That's something else.
+0x07B86E91=~z~That's something else.
+
+;0x07C606A8=492
+0x07C606A8=492
+
+;0x0885DAC7=HT1_AUD_B_GB
+0x0885DAC7=HT1_AUD_B_GB
+
+;0x0976DF6C=HT1_AUD_A_RA
+0x0976DF6C=HT1_AUD_A_RA
+
+;0x0AC56D06=HT1_AUD_UB
+0x0AC56D06=HT1_AUD_UB
+
+;0x0CB4C034=~z~It was recently targeted by terrorists in Weazel's 72.
+0x0CB4C034=~z~It was recently targeted by terrorists in Weazel's 72.
+
+;0x0CDE9AED=~z~I've seen land laid to waste by war, and I'm here to tell you,
+0x0CDE9AED=~z~I've seen land laid to waste by war, and I'm here to tell you,
+
+;0x0D7BBC53=HT1_AUD_A_VA
+0x0D7BBC53=HT1_AUD_A_VA
+
+;0x0E5BDF94=HT1_AUD_A_BB
+0x0E5BDF94=HT1_AUD_A_BB
+
+;0x102B9C41=HT1_AUD_A_WB
+0x102B9C41=HT1_AUD_A_WB
+
+;0x11E0FE28=292292
+0x11E0FE28=292292
+
+;0x136ACE0D=HT1_AUD_RB
+0x136ACE0D=HT1_AUD_RB
+
+;0x13B90179=~z~First up, the Daily Globe Building, home to all the LC news,
+0x13B90179=~z~First up, the Daily Globe Building, home to all the LC news,
+
+;0x1489365F=~z~The harbor, where complaining immigrants arrive by the masses.
+0x1489365F=~z~The harbor, where complaining immigrants arrive by the masses.
+
+;0x15B90A9A=~z~You're shitting me?
+0x15B90A9A=~z~You're shitting me?
+
+;0x1639D6CB=HT1_AUD_RA
+0x1639D6CB=HT1_AUD_RA
+
+;0x163AAADF=492492
+0x163AAADF=492492
+
+;0x172ED0A9=HT1_AUD_WA
+0x172ED0A9=HT1_AUD_WA
+
+;0x1734C5C3=~z~Every day, Algonquin residents are grateful that this is here to keep us separate from Alderney.
+0x1734C5C3=~z~Every day, Algonquin residents are grateful that this is here to keep us separate from Alderney.
+
+;0x184B842A=~z~Firstly over the Humboldt River,
+0x184B842A=~z~Firstly over the Humboldt River,
+
+;0x18629E31=~z~You learn something new everyday.
+0x18629E31=~z~You learn something new everyday.
+
+;0x18B0022E=~z~this won't be in guide books, you'd have to be one extreme tourist. Gnarly.
+0x18B0022E=~z~this won't be in guide books, you'd have to be one extreme tourist. Gnarly.
+
+;0x18EE5350=HT1_AUD_WB
+0x18EE5350=HT1_AUD_WB
+
+;0x19669A93=HT1_AUD_A_YA
+0x19669A93=HT1_AUD_A_YA
+
+;0x1A375C86=~z~Look out to sea folks, the view goes for miles.
+0x1A375C86=~z~Look out to sea folks, the view goes for miles.
+
+;0x1A6919C7=HT1_AUD_A_NB
+0x1A6919C7=HT1_AUD_A_NB
+
+;0x1BB7E7F1=HT1_AUD_B_FB
+0x1BB7E7F1=HT1_AUD_B_FB
+
+;0x1BD243F1=~z~I'm Jase, you're in safe hands, I could fly this baby with my eyes shut.
+0x1BD243F1=~z~I'm Jase, you're in safe hands, I could fly this baby with my eyes shut.
+
+;0x1D4180A4=292292
+0x1D4180A4=292292
+
+;0x1E3A5360=192192
+0x1E3A5360=192192
+
+;0x1E5C8E38=~z~Onto North Holland,
+0x1E5C8E38=~z~Onto North Holland,
+
+;0x1F7D1AE1=~z~Sharks would explain some of the things swept up on the beach,
+0x1F7D1AE1=~z~Sharks would explain some of the things swept up on the beach,
+
+;0x1FC659B6=HT1_AUD_A_SA
+0x1FC659B6=HT1_AUD_A_SA
+
+;0x2011B181=010
+0x2011B181=010
+
+;0x20D950EC=~z~Well, if you're going to do it, do it right, huh?
+0x20D950EC=~z~Well, if you're going to do it, do it right, huh?
+
+;0x20E0D85A=HT1_AUD_A_MB
+0x20E0D85A=HT1_AUD_A_MB
+
+;0x21426AD3=492492
+0x21426AD3=492492
+
+;0x21431E0D=492492
+0x21431E0D=492492
+
+;0x22A235A7=HT1_AUD_JA
+0x22A235A7=HT1_AUD_JA
+
+;0x22BB15E7=HT1_AUD_B_CA
+0x22BB15E7=HT1_AUD_B_CA
+
+;0x236201EC=HT1_AUD_DA
+0x236201EC=HT1_AUD_DA
+
+;0x25ADFD11=HT1_AUD_B_FA
+0x25ADFD11=HT1_AUD_B_FA
+
+;0x26822097=~z~she's dirty, she's deep and she has her secrets, you betcha...
+0x26822097=~z~she's dirty, she's deep and she has her secrets, you betcha...
+
+;0x27383BDC=~z~Really?
+0x27383BDC=~z~Really?
+
+;0x27AD3AC5=HT1_AUD_FB
+0x27AD3AC5=HT1_AUD_FB
+
+;0x28118AF7=~z~Okay, the Libertonian.
+0x28118AF7=~z~Okay, the Libertonian.
+
+;0x295D3375=HT1_AUD_A_FB
+0x295D3375=HT1_AUD_A_FB
+
+;0x2B0B60A6=~z~Hi, welcome to Higgins Tour, I'm Vicki, I'm your pilot.
+0x2B0B60A6=~z~Hi, welcome to Higgins Tour, I'm Vicki, I'm your pilot.
+
+;0x2B654CA3=HT1_AUD_AB
+0x2B654CA3=HT1_AUD_AB
+
+;0x2BEECE70=HT1_AUD_B_BB
+0x2BEECE70=HT1_AUD_B_BB
+
+;0x2D1C2BB7=~z~if you look down now folks, you'll see three generations refusing to help themselves.
+0x2D1C2BB7=~z~if you look down now folks, you'll see three generations refusing to help themselves.
+
+;0x2D44CBCC=HT1_AUD_QA
+0x2D44CBCC=HT1_AUD_QA
+
+;0x2E408C35=HT1_AUD_A_OB
+0x2E408C35=HT1_AUD_A_OB
+
+;0x2F374995=192192
+0x2F374995=192192
+
+;0x3112BE0C=~z~bodies, torn up as if by artillery. That, or giant teeth.
+0x3112BE0C=~z~bodies, torn up as if by artillery. That, or giant teeth.
+
+;0x31FABE71=192192
+0x31FABE71=192192
+
+;0x3228DA6B=HT1_AUD_A_WA
+0x3228DA6B=HT1_AUD_A_WA
+
+;0x3284444F=HT1_AUD_A_FA
+0x3284444F=HT1_AUD_A_FA
+
+;0x32A0B1A7=HT1_AUD_A_UB
+0x32A0B1A7=HT1_AUD_A_UB
+
+;0x355BAEF5=HT1_AUD_GB
+0x355BAEF5=HT1_AUD_GB
+
+;0x35B4FC3C=HT1_AUD_YB
+0x35B4FC3C=HT1_AUD_YB
+
+;0x35BC4AE6=492492
+0x35BC4AE6=492492
+
+;0x36C4D657=292292
+0x36C4D657=292292
+
+;0x37602994=~z~I've never been in there, but it sure is popular with you visitors. Full of old stuff, crammed with it.
+0x37602994=~z~I've never been in there, but it sure is popular with you visitors. Full of old stuff, crammed with it.
+
+;0x37713FB0=~z~Change of scenery, East Holland Projects,
+0x37713FB0=~z~Change of scenery, East Holland Projects,
+
+;0x38612A47=HT1_AUD_CA
+0x38612A47=HT1_AUD_CA
+
+;0x39285B52=HT1_AUD_B_EB
+0x39285B52=HT1_AUD_B_EB
+
+;0x39B5709F=HT1_AUD_B_AB
+0x39B5709F=HT1_AUD_B_AB
+
+;0x39E571BA=492492
+0x39E571BA=492492
+
+;0x3ACC19EF=HT1_AUD_A_VB
+0x3ACC19EF=HT1_AUD_A_VB
+
+;0x3CF25921=HT1_AUD_A_XB
+0x3CF25921=HT1_AUD_A_XB
+
+;0x3DB75287=~z~Hi, welcome to your Higgins Tour, I'm Rob,
+0x3DB75287=~z~Hi, welcome to your Higgins Tour, I'm Rob,
+
+;0x3DCDFCA3=~z~See the lake? Few people know this,
+0x3DCDFCA3=~z~See the lake? Few people know this,
+
+;0x3FDE6485=192192
+0x3FDE6485=192192
+
+;0x402196D1=HT1_AUD_YA
+0x402196D1=HT1_AUD_YA
+
+;0x40FF0363=HT1_AUD_A_HA
+0x40FF0363=HT1_AUD_A_HA
+
+;0x41E624A5=~z~Okay, well I've had a blast, you folks have been great.
+0x41E624A5=~z~Okay, well I've had a blast, you folks have been great.
+
+;0x4224FB69=292292
+0x4224FB69=292292
+
+;0x428EDAA0=392392
+0x428EDAA0=392392
+
+;0x42ABF2C3=~z~Is that fact?
+0x42ABF2C3=~z~Is that fact?
+
+;0x442EF0DB=~z~where Yusuf Amir is building more apartments for his foreign buddies to live in tax-free.
+0x442EF0DB=~z~where Yusuf Amir is building more apartments for his foreign buddies to live in tax-free.
+
+;0x4465693F=HT1_AUD_B_HA
+0x4465693F=HT1_AUD_B_HA
+
+;0x45F9E5FA=~z~the murders, the robberies and the immigrants taking our jobs.
+0x45F9E5FA=~z~the murders, the robberies and the immigrants taking our jobs.
+
+;0x4A6B50C0=HT1_AUD_A_CB
+0x4A6B50C0=HT1_AUD_A_CB
+
+;0x4A8A2164=~z~Folks, welcome to your tour of the LC skies!
+0x4A8A2164=~z~Folks, welcome to your tour of the LC skies!
+
+;0x4B391605=292292
+0x4B391605=292292
+
+;0x4C41EAB1=HT1_AUD_A_UA
+0x4C41EAB1=HT1_AUD_A_UA
+
+;0x4ECBDF4B=HT1_AUD_A_BA
+0x4ECBDF4B=HT1_AUD_A_BA
+
+;0x506E1D7D=~z~Well, that's us; I hope you've enjoyed LC from the skies!
+0x506E1D7D=~z~Well, that's us; I hope you've enjoyed LC from the skies!
+
+;0x51FC0F5B=~z~Colony Island,
+0x51FC0F5B=~z~Colony Island,
+
+;0x52D721C2=HT1_AUD_B_AA
+0x52D721C2=HT1_AUD_B_AA
+
+;0x53059519=HT1_AUD_JB
+0x53059519=HT1_AUD_JB
+
+;0x53279E3F=192192
+0x53279E3F=192192
+
+;0x5358EA52=HT1_AUD_CB
+0x5358EA52=HT1_AUD_CB
+
+;0x53AB75AC=~z~Civic Citadel, I once flew the Mayor in this chopper,
+0x53AB75AC=~z~Civic Citadel, I once flew the Mayor in this chopper,
+
+;0x558F169A=~z~Moving on, to South Algonquin,
+0x558F169A=~z~Moving on, to South Algonquin,
+
+;0x565F13AB=HT1_AUD_A_YB
+0x565F13AB=HT1_AUD_A_YB
+
+;0x567366A9=HT1_AUD_PB
+0x567366A9=HT1_AUD_PB
+
+;0x56C07D8D=HT1_AUD_A_DA
+0x56C07D8D=HT1_AUD_A_DA
+
+;0x597584BE=HT1_AUD_NB
+0x597584BE=HT1_AUD_NB
+
+;0x5A049551=~z~Higgins Helitours. We're here to show you Liberty City from the sky.
+0x5A049551=~z~Higgins Helitours. We're here to show you Liberty City from the sky.
+
+;0x5B0EC4A3=~z~Golden Pier now,
+0x5B0EC4A3=~z~Golden Pier now,
+
+;0x5B99CD05=192192
+0x5B99CD05=192192
+
+;0x5C68B7EF=492492
+0x5C68B7EF=492492
+
+;0x5CE2881A=~z~oh yeah, good guy. I mean, I don't vote or anything but nice guy.
+0x5CE2881A=~z~oh yeah, good guy. I mean, I don't vote or anything but nice guy.
+
+;0x5DE32931=~z~Alright then.
+0x5DE32931=~z~Alright then.
+
+;0x5DF507FD=292292
+0x5DF507FD=292292
+
+;0x60AA9AAB=~z~Rotterdam Tower, a buddy of mine tried a base jump off that bad boy.
+0x60AA9AAB=~z~Rotterdam Tower, a buddy of mine tried a base jump off that bad boy.
+
+;0x617625BD=HT1_AUD_LA
+0x617625BD=HT1_AUD_LA
+
+;0x61E133D2=~z~Ah, the Majestic Hotel, found in story and in song,
+0x61E133D2=~z~Ah, the Majestic Hotel, found in story and in song,
+
+;0x61E3AD3A=392392
+0x61E3AD3A=392392
+
+;0x62BE9E3B=HT1_AUD_UA
+0x62BE9E3B=HT1_AUD_UA
+
+;0x62FC3ABD=~z~Now the Libertonian, it's closed for renovation,
+0x62FC3ABD=~z~Now the Libertonian, it's closed for renovation,
+
+;0x63E6153D=~z~It sure is great to be driving a chopper for fun rather than to mow down a village full of hostiles.
+0x63E6153D=~z~It sure is great to be driving a chopper for fun rather than to mow down a village full of hostiles.
+
+;0x64E4293E=HT1_AUD_IB
+0x64E4293E=HT1_AUD_IB
+
+;0x64F3CAEE=~z~but a third of the park's budget goes toward cleaning this fountain of pigeon shit.
+0x64F3CAEE=~z~but a third of the park's budget goes toward cleaning this fountain of pigeon shit.
+
+;0x6507322F=HT1_AUD_B_EA
+0x6507322F=HT1_AUD_B_EA
+
+;0x65839D7D=392392
+0x65839D7D=392392
+
+;0x66E7F499=~z~First, the famous Broker Bridge, used in many movies and TV shows.
+0x66E7F499=~z~First, the famous Broker Bridge, used in many movies and TV shows.
+
+;0x6754C296=192
+0x6754C296=192
+
+;0x675FD527=HT1_AUD_VA
+0x675FD527=HT1_AUD_VA
+
+;0x685831FC=~z~A sight usually reserved for transplant organs and the super rich.
+0x685831FC=~z~A sight usually reserved for transplant organs and the super rich.
+
+;0x6A356DFB=HT1_AUD_A_KB
+0x6A356DFB=HT1_AUD_A_KB
+
+;0x6A5C633E=~z~all manner of ways for chubby, spoiled brats, to get whipped into a sugar frenzy.
+0x6A5C633E=~z~all manner of ways for chubby, spoiled brats, to get whipped into a sugar frenzy.
+
+;0x6B14C747=~z~you can spot the library, where they get their long hair stuck in their fancy books.
+0x6B14C747=~z~you can spot the library, where they get their long hair stuck in their fancy books.
+
+;0x6B64442F=~z~Shit?
+0x6B64442F=~z~Shit?
+
+;0x6C3E97D8=HT1_AUD_EB
+0x6C3E97D8=HT1_AUD_EB
+
+;0x6FE821A6=HT1_AUD_PA
+0x6FE821A6=HT1_AUD_PA
+
+;0x7005F988=~z~Over Westminster now, some of you out-of-towners may never have seen a gay before,
+0x7005F988=~z~Over Westminster now, some of you out-of-towners may never have seen a gay before,
+
+;0x70FE49DA=HT1_AUD_FA
+0x70FE49DA=HT1_AUD_FA
+
+;0x731BDED4=~z~I've seen war zones folks, and I can tell you, you're looking at one.
+0x731BDED4=~z~I've seen war zones folks, and I can tell you, you're looking at one.
+
+;0x738BD727=~z~if those sheets could tell stories, right folks?
+0x738BD727=~z~if those sheets could tell stories, right folks?
+
+;0x741B0444=492492
+0x741B0444=492492
+
+;0x7440EDF7=HT1_AUD_B_GA
+0x7440EDF7=HT1_AUD_B_GA
+
+;0x7498DA4B=492492
+0x7498DA4B=492492
+
+;0x749D8B75=192192
+0x749D8B75=192192
+
+;0x757DA43C=~z~that makes America the best country in the world.
+0x757DA43C=~z~that makes America the best country in the world.
+
+;0x7676A9DE=HT1_AUD_A_CA
+0x7676A9DE=HT1_AUD_A_CA
+
+;0x771E4D63=~z~Yeah?
+0x771E4D63=~z~Yeah?
+
+;0x77B89CB3=HT1_AUD_A_JB
+0x77B89CB3=HT1_AUD_A_JB
+
+;0x7833DD2E=~z~Come back for food poisoning or a massage with the happiest ending in the City.
+0x7833DD2E=~z~Come back for food poisoning or a massage with the happiest ending in the City.
+
+;0x7898D82A=~z~From us at Higgins, have a nice day and remember that tips are appreciated.
+0x7898D82A=~z~From us at Higgins, have a nice day and remember that tips are appreciated.
+
+;0x78C2B0F6=HT1_AUD_A_GA
+0x78C2B0F6=HT1_AUD_A_GA
+
+;0x7AD05E43=~z~Workers in the exchange often live here in Castle Gardens.
+0x7AD05E43=~z~Workers in the exchange often live here in Castle Gardens.
+
+;0x7B7C7158=HT1_AUD_A_PA
+0x7B7C7158=HT1_AUD_A_PA
+
+;0x7C418FE3=~z~Here's the West River.
+0x7C418FE3=~z~Here's the West River.
+
+;0x7D5DF358=~z~Ah, the housing projects of the world's finest city.
+0x7D5DF358=~z~Ah, the housing projects of the world's finest city.
+
+;0x7E0C7B60=HT1_AUD_ZA
+0x7E0C7B60=HT1_AUD_ZA
+
+;0x7E2749BF=~z~I hope you've enjoyed your tour.
+0x7E2749BF=~z~I hope you've enjoyed your tour.
+
+;0x7FBDDD15=~z~Now, the GetaLife sign.
+0x7FBDDD15=~z~Now, the GetaLife sign.
+
+;0x802A12C2=~z~I will be your guide for today. Buckle up, and no questions about my name.
+0x802A12C2=~z~I will be your guide for today. Buckle up, and no questions about my name.
+
+;0x8092786E=~z~That is some serious all-American dough right there, I shit you not. Mon-ey.
+0x8092786E=~z~That is some serious all-American dough right there, I shit you not. Mon-ey.
+
+;0x80F6ED4C=~z~I always think of this place as like, Algonquin's appendix; it's there, but nobody knows why.
+0x80F6ED4C=~z~I always think of this place as like, Algonquin's appendix; it's there, but nobody knows why.
+
+;0x811548CB=292292
+0x811548CB=292292
+
+;0x81C6512F=HT1_AUD_A_TB
+0x81C6512F=HT1_AUD_A_TB
+
+;0x81D78393=392392
+0x81D78393=392392
+
+;0x82999FB9=192192
+0x82999FB9=192192
+
+;0x8307FFB5=192192
+0x8307FFB5=192192
+
+;0x83A31A39=~z~Heard the name Kenny Petrovic folks? He's a Hove Beach landmark too,
+0x83A31A39=~z~Heard the name Kenny Petrovic folks? He's a Hove Beach landmark too,
+
+;0x83B6F2E9=~z~a den of vice and corruption the likes of which most of you folks will never see again.
+0x83B6F2E9=~z~a den of vice and corruption the likes of which most of you folks will never see again.
+
+;0x83DE6E44=HT1_AUD_A_QA
+0x83DE6E44=HT1_AUD_A_QA
+
+;0x84E2E8EC=~z~Oh. Okay.
+0x84E2E8EC=~z~Oh. Okay.
+
+;0x851B4377=~z~That statue is such a great emblem of the Freedom of Speech and Expression
+0x851B4377=~z~That statue is such a great emblem of the Freedom of Speech and Expression
+
+;0x852AF9A5=492492
+0x852AF9A5=492492
+
+;0x864A075E=HT1_AUD_BA
+0x864A075E=HT1_AUD_BA
+
+;0x86E34F64=HT1_B_IA
+0x86E34F64=HT1_B_IA
+
+;0x87557B71=~z~We are now flying over Chinatown.
+0x87557B71=~z~We are now flying over Chinatown.
+
+;0x88097FF5=392392
+0x88097FF5=392392
+
+;0x882C879A=~z~Whew, the Von Crasternburg Centre, cha-ching!
+0x882C879A=~z~Whew, the Von Crasternburg Centre, cha-ching!
+
+;0x8A8DFDBE=~z~They can concentrate on making money in peace and quiet.
+0x8A8DFDBE=~z~They can concentrate on making money in peace and quiet.
+
+;0x8A93C321=HT1_AUD_XA
+0x8A93C321=HT1_AUD_XA
+
+;0x8A9FA4D8=192192
+0x8A9FA4D8=192192
+
+;0x8C68D6C9=HT1_AUD_B_DA
+0x8C68D6C9=HT1_AUD_B_DA
+
+;0x8D61728D=~z~The Charge Island lighthouse,
+0x8D61728D=~z~The Charge Island lighthouse,
+
+;0x8E3C94DA=~z~all of East Europe moves in to spread crime like jelly over LC.
+0x8E3C94DA=~z~all of East Europe moves in to spread crime like jelly over LC.
+
+;0x8ED287F0=192192
+0x8ED287F0=192192
+
+;0x8FACDC31=HT1_AUD_B_DB
+0x8FACDC31=HT1_AUD_B_DB
+
+;0x9008CA6A=HT1_AUD_A_ZB
+0x9008CA6A=HT1_AUD_A_ZB
+
+;0x90597625=HT1_AUD_A_TA
+0x90597625=HT1_AUD_A_TA
+
+;0x90E489CA=HT1_AUD_TB
+0x90E489CA=HT1_AUD_TB
+
+;0x92FCB59F=HT1_AUD_HB
+0x92FCB59F=HT1_AUD_HB
+
+;0x98B41ECA=~z~Fascinating.
+0x98B41ECA=~z~Fascinating.
+
+;0x99216FC1=HT1_AUD_DC
+0x99216FC1=HT1_AUD_DC
+
+;0x9CDCDF81=HT1_AUD_A_KA
+0x9CDCDF81=HT1_AUD_A_KA
+
+;0x9D923385=~z~Hove Beach, or Little Sodom as some call it, a nest of sin,
+0x9D923385=~z~Hove Beach, or Little Sodom as some call it, a nest of sin,
+
+;0x9E002C25=HT1_AUD_QB
+0x9E002C25=HT1_AUD_QB
+
+;0x9FEB6101=192192
+0x9FEB6101=192192
+
+;0xA150A1C7=~z~Okay?
+0xA150A1C7=~z~Okay?
+
+;0xA21725DD=HT1_AUD_A_NA
+0xA21725DD=HT1_AUD_A_NA
+
+;0xA2D21E04=~z~Cleethorpes Tower, where millionaires can go to the top floor,
+0xA2D21E04=~z~Cleethorpes Tower, where millionaires can go to the top floor,
+
+;0xA56810E9=192192
+0xA56810E9=192192
+
+;0xA73F4FFB=~z~I need to make clear that Higgins is in no way responsible for any injuries -
+0xA73F4FFB=~z~I need to make clear that Higgins is in no way responsible for any injuries -
+
+;0xA93AFE44=292292
+0xA93AFE44=292292
+
+;0xA947273D=~z~This is the Exchange. High flying workers here are calling in debt
+0xA947273D=~z~This is the Exchange. High flying workers here are calling in debt
+
+;0xA9693040=192192192
+0xA9693040=192192192
+
+;0xAA9095BD=HT1_AUD_GA
+0xAA9095BD=HT1_AUD_GA
+
+;0xAB2347A5=~z~these youngsters taunt death because they've never seen war. Bring back the draft.
+0xAB2347A5=~z~these youngsters taunt death because they've never seen war. Bring back the draft.
+
+;0xAB36E4B9=~z~they say it has fifteen bodies within it's cement.
+0xAB36E4B9=~z~they say it has fifteen bodies within it's cement.
+
+;0xACB3B555=~z~Even after they tore out its heart.
+0xACB3B555=~z~Even after they tore out its heart.
+
+;0xAD4FE531=~z~Don't worry about the name, there is no joke I haven't heard.
+0xAD4FE531=~z~Don't worry about the name, there is no joke I haven't heard.
+
+;0xAD5726FA=HT1_AUD_A_LB
+0xAD5726FA=HT1_AUD_A_LB
+
+;0xAD878324=~z~Warmer waters have led some to speculate there may even be sharks...
+0xAD878324=~z~Warmer waters have led some to speculate there may even be sharks...
+
+;0xAD9561C9=192192
+0xAD9561C9=192192
+
+;0xAEC598E4=HT1_AUD_A_AB
+0xAEC598E4=HT1_AUD_A_AB
+
+;0xAEFB2320=HT1_AUD_KB
+0xAEFB2320=HT1_AUD_KB
+
+;0xAFD7D0CC=~z~Coming up to Vespucci University,
+0xAFD7D0CC=~z~Coming up to Vespucci University,
+
+;0xB03F3E84=~z~Give me a break.
+0xB03F3E84=~z~Give me a break.
+
+;0xB124BAA9=~z~lean over the marble balcony, and spit on ordinary Americans.
+0xB124BAA9=~z~lean over the marble balcony, and spit on ordinary Americans.
+
+;0xB1987623=~z~turning this whole area to shit. Shit, people, shit.
+0xB1987623=~z~turning this whole area to shit. Shit, people, shit.
+
+;0xB482469D=~z~Yep, when the hippies were distracted with weed and shit, those money guys never missed a beat.
+0xB482469D=~z~Yep, when the hippies were distracted with weed and shit, those money guys never missed a beat.
+
+;0xB4C4EB06=~z~physical or psychological, that you sustain during the trip.
+0xB4C4EB06=~z~physical or psychological, that you sustain during the trip.
+
+;0xB76E0149=~z~Welcome to your Higgins Tour, my name is Vicki,
+0xB76E0149=~z~Welcome to your Higgins Tour, my name is Vicki,
+
+;0xB8ABE2B6=~z~One thing that thrives is extreme sports;
+0xB8ABE2B6=~z~One thing that thrives is extreme sports;
+
+;0xB9F8F9FD=~z~Well, that's it folks, you've seen the decline of the Roman Empire from the skies, choose Higgins again!
+0xB9F8F9FD=~z~Well, that's it folks, you've seen the decline of the Roman Empire from the skies, choose Higgins again!
+
+;0xBA2B2534=HT1_AUD_A_OA
+0xBA2B2534=HT1_AUD_A_OA
+
+;0xBA9B68AF=392392
+0xBA9B68AF=392392
+
+;0xBA9F8638=HT1_AUD_HA
+0xBA9F8638=HT1_AUD_HA
+
+;0xBAAE2D37=HT1_AUD_LB
+0xBAAE2D37=HT1_AUD_LB
+
+;0xBBFAD093=392392
+0xBBFAD093=392392
+
+;0xBDE241BF=392392
+0xBDE241BF=392392
+
+;0xBE4DE64A=HT1_AUD_A_QB
+0xBE4DE64A=HT1_AUD_A_QB
+
+;0xBE73F862=HT1_AUD_A_PB
+0xBE73F862=HT1_AUD_A_PB
+
+;0xBFAED67C=~z~I'll be your guide as we survey the crown jewel of capitalism, Liberty City.
+0xBFAED67C=~z~I'll be your guide as we survey the crown jewel of capitalism, Liberty City.
+
+;0xBFE7DEF5=~z~Ummm.
+0xBFE7DEF5=~z~Ummm.
+
+;0xC286726E=~z~Amazing, honestly.
+0xC286726E=~z~Amazing, honestly.
+
+;0xC2B656C8=392392
+0xC2B656C8=392392
+
+;0xC32AB02A=HT1_AUD_A_JA
+0xC32AB02A=HT1_AUD_A_JA
+
+;0xC3B29BD2=~z~let's hope Ochoa has the stones to protect us all. Great view, huh?
+0xC3B29BD2=~z~let's hope Ochoa has the stones to protect us all. Great view, huh?
+
+;0xC4B78B75=~z~home to artists and such, need I say more?
+0xC4B78B75=~z~home to artists and such, need I say more?
+
+;0xC68E0261=HT1_AUD_BB
+0xC68E0261=HT1_AUD_BB
+
+;0xC73607DA=~z~He saved our tourism industry that day.
+0xC73607DA=~z~He saved our tourism industry that day.
+
+;0xC8429623=~z~Now, the East Borough Bridge;
+0xC8429623=~z~Now, the East Borough Bridge;
+
+;0xC9E6B87C=192192
+0xC9E6B87C=192192
+
+;0xCA013254=~z~Middle Park East, how the other half jog folks.
+0xCA013254=~z~Middle Park East, how the other half jog folks.
+
+;0xCBB4F9EE=HT1_AUD_IA
+0xCBB4F9EE=HT1_AUD_IA
+
+;0xCCBBD84F=192192
+0xCCBBD84F=192192
+
+;0xCD6896C4=HT1_AUD_A_HB
+0xCD6896C4=HT1_AUD_A_HB
+
+;0xCDAA7A7A=~z~That's interesting.
+0xCDAA7A7A=~z~That's interesting.
+
+;0xCE4BD0C3=HT1_AUD_MA
+0xCE4BD0C3=HT1_AUD_MA
+
+;0xD01F0DA7=~z~Yeah, sure.
+0xD01F0DA7=~z~Yeah, sure.
+
+;0xD178BE3C=HT1_AUD_A_SB
+0xD178BE3C=HT1_AUD_A_SB
+
+;0xD17C27B6=~z~Now Columbus Cathedral, nice huh?
+0xD17C27B6=~z~Now Columbus Cathedral, nice huh?
+
+;0xD1E067AE=HT1_AUD_KA
+0xD1E067AE=HT1_AUD_KA
+
+;0xD2D92D3C=HT1_AUD_VB
+0xD2D92D3C=HT1_AUD_VB
+
+;0xD2FBFF4C=~z~Man, those guards might be tubby, but they can move.
+0xD2FBFF4C=~z~Man, those guards might be tubby, but they can move.
+
+;0xD32AABF3=~z~really shows how Liberty City brings people together,
+0xD32AABF3=~z~really shows how Liberty City brings people together,
+
+;0xD36A28DA=~z~Leading us on to Broker, a borough that's particularly pleased with itself,
+0xD36A28DA=~z~Leading us on to Broker, a borough that's particularly pleased with itself,
+
+;0xD504A377=~z~It was here that Ochoa eased safety restrictions on Helicopters and their pilots.
+0xD504A377=~z~It was here that Ochoa eased safety restrictions on Helicopters and their pilots.
+
+;0xD54DFBBE=HT1_AUD_A_DB
+0xD54DFBBE=HT1_AUD_A_DB
+
+;0xD54EEB73=HT1_AUD_DB
+0xD54EEB73=HT1_AUD_DB
+
+;0xD588F8BD=HT1_AUD_A_LA
+0xD588F8BD=HT1_AUD_A_LA
+
+;0xD6BF23FC=~z~The tall, clean buildings smooth enough to do lines of cocaine off of,
+0xD6BF23FC=~z~The tall, clean buildings smooth enough to do lines of cocaine off of,
+
+;0xD6D13BED=~z~Union Drive, built during an unprecedented reign of organized crime,
+0xD6D13BED=~z~Union Drive, built during an unprecedented reign of organized crime,
+
+;0xD7A77EFD=192192
+0xD7A77EFD=192192
+
+;0xD7D94BF8=HT1_AUD_A_MA
+0xD7D94BF8=HT1_AUD_A_MA
+
+;0xD8BF90A0=~z~No way?
+0xD8BF90A0=~z~No way?
+
+;0xDA8A943A=~z~Yeah. Yeah.
+0xDA8A943A=~z~Yeah. Yeah.
+
+;0xDAD8D403=~z~There's a guy lives in a bush, can get you anything that smokes. Anything.
+0xDAD8D403=~z~There's a guy lives in a bush, can get you anything that smokes. Anything.
+
+;0xDB261E8F=~z~Now a new development,
+0xDB261E8F=~z~Now a new development,
+
+;0xDC0682FA=392392
+0xDC0682FA=392392
+
+;0xDD4AEF35=292292
+0xDD4AEF35=292292
+
+;0xDDD0A90A=~z~Uh huh?
+0xDDD0A90A=~z~Uh huh?
+
+;0xDEE33E05=HT1_AUD_A_EB
+0xDEE33E05=HT1_AUD_A_EB
+
+;0xDFB85A99=~z~Middle Park, a peaceful haven for so many LC residents,
+0xDFB85A99=~z~Middle Park, a peaceful haven for so many LC residents,
+
+;0xE01A19E0=HT1_AUD_A_AA
+0xE01A19E0=HT1_AUD_A_AA
+
+;0xE0D93675=~z~disappointing arty liberal kids with their ideas about how there's no God.
+0xE0D93675=~z~disappointing arty liberal kids with their ideas about how there's no God.
+
+;0xE12F170C=~z~and ruining lives all over the country. Now that's how to get rich!
+0xE12F170C=~z~and ruining lives all over the country. Now that's how to get rich!
+
+;0xE1BCBB11=HT1_AUD_B_BA
+0xE1BCBB11=HT1_AUD_B_BA
+
+;0xE25B5204=~z~History, it's right there, and we haven't learned a thing.
+0xE25B5204=~z~History, it's right there, and we haven't learned a thing.
+
+;0xE2FA3733=HT1_AUD_OB
+0xE2FA3733=HT1_AUD_OB
+
+;0xE3874BCC=~z~Of course, once you've seen war, God is a joke, but would you look at that architecture?
+0xE3874BCC=~z~Of course, once you've seen war, God is a joke, but would you look at that architecture?
+
+;0xE598A71E=~z~Now Firefly Island, where some remnants of the glory days can still be seen.
+0xE598A71E=~z~Now Firefly Island, where some remnants of the glory days can still be seen.
+
+;0xE74BB7F3=HT1_AUD_TA
+0xE74BB7F3=HT1_AUD_TA
+
+;0xE7D5E24F=HT1_AUD_A_RB
+0xE7D5E24F=HT1_AUD_A_RB
+
+;0xE88324B0=HT1_AUD_B_CB
+0xE88324B0=HT1_AUD_B_CB
+
+;0xE89CC7B7=~z~and they would if they could people, mark my words.
+0xE89CC7B7=~z~and they would if they could people, mark my words.
+
+;0xEA263371=~z~Well then.
+0xEA263371=~z~Well then.
+
+;0xEA4EE3D4=~z~Approaching Leaper's Bridge, still the record-holder for suicides.
+0xEA4EE3D4=~z~Approaching Leaper's Bridge, still the record-holder for suicides.
+
+;0xEA7D075E=292292
+0xEA7D075E=292292
+
+;0xEBC35D24=~z~and then the LCPD has to keep them apart.
+0xEBC35D24=~z~and then the LCPD has to keep them apart.
+
+;0xEC5348A0=HT1_AUD_ZB
+0xEC5348A0=HT1_AUD_ZB
+
+;0xECAA4923=HT1_AUD_OA
+0xECAA4923=HT1_AUD_OA
+
+;0xECBBB14C=~z~just a little reminder that we all need a guide through the rocky waters, don't we folks?
+0xECBBB14C=~z~just a little reminder that we all need a guide through the rocky waters, don't we folks?
+
+;0xECDD7D52=HT1_AUD_MB
+0xECDD7D52=HT1_AUD_MB
+
+;0xED35BE2F=~z~Higgins Tours wishes you a pleasant holiday.
+0xED35BE2F=~z~Higgins Tours wishes you a pleasant holiday.
+
+;0xED6E7605=~z~and only eighty-six murders last year, that's a record!
+0xED6E7605=~z~and only eighty-six murders last year, that's a record!
+
+;0xF02AD733=HT1_AUD_AA
+0xF02AD733=HT1_AUD_AA
+
+;0xF03FC0F1=HT1_AUD_A_XA
+0xF03FC0F1=HT1_AUD_A_XA
+
+;0xF0ED090E=~z~Here we have the Civic Citadel
+0xF0ED090E=~z~Here we have the Civic Citadel
+
+;0xF3CFCF99=492492
+0xF3CFCF99=492492
+
+;0xF4885B61=392392
+0xF4885B61=392392
+
+;0xF55D7F27=~z~The Broker Bridge; an open invitation to terrorism,
+0xF55D7F27=~z~The Broker Bridge; an open invitation to terrorism,
+
+;0xF594294D=HT1_AUD_EA
+0xF594294D=HT1_AUD_EA
+
+;0xF5C004FE=~z~look closely, you might just get a peek!
+0xF5C004FE=~z~look closely, you might just get a peek!
+
+;0xF5C8640C=292292
+0xF5C8640C=292292
+
+;0xF5E49B90=HT1_AUD_A_ZA
+0xF5E49B90=HT1_AUD_A_ZA
+
+;0xF633BCEC=HT1_AUD_NA
+0xF633BCEC=HT1_AUD_NA
+
+;0xF6EE15A6=HT1_AUD_A_EA
+0xF6EE15A6=HT1_AUD_A_EA
+
+;0xF7EBD39B=~z~Well, here we are, I hope you've seen another side to Liberty City.
+0xF7EBD39B=~z~Well, here we are, I hope you've seen another side to Liberty City.
+
+;0xF9360A03=392392
+0xF9360A03=392392
+
+;0xFB9CF86A=~z~sometimes it's the only option. Carpet bomb those leeches...
+0xFB9CF86A=~z~sometimes it's the only option. Carpet bomb those leeches...
+
+;0xFBB97419=~z~Remember to recommend Higgins Helitours to your friends.
+0xFBB97419=~z~Remember to recommend Higgins Helitours to your friends.
+
+;0xFE072342=~z~where Mayor Ochoa makes all his important decisions to keep LC running smooth.
+0xFE072342=~z~where Mayor Ochoa makes all his important decisions to keep LC running smooth.
+
+;0xFFC5AD3F=492492
+0xFFC5AD3F=492492
+

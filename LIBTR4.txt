@@ -1,0 +1,19 @@
+﻿[LIBTR4]
+;0x0394BB85=It appears that the final line of defense against identity crime has been breached, leaving the man on the street more vulnerable than ever before. You have read the news. You have seen the TV ads. Identity theft can happen to anybody, anytime, anywhere. Stay off the internet. Don't buy off foreigners. Pay cash for your porn. This is one war that you are going to have to fight on your own.
+0x0394BB85=It appears that the final line of defense against identity crime has been breached, leaving the man on the street more vulnerable than ever before. You have read the news. You have seen the TV ads. Identity theft can happen to anybody, anytime, anywhere. Stay off the internet. Don't buy off foreigners. Pay cash for your porn. This is one war that you are going to have to fight on your own.
+
+;0x07151A12=You're To Blame
+0x07151A12=You're To Blame
+
+;0x758B8D73=Bank of Liberty gets tough on identity theft
+0x758B8D73=Bank of Liberty gets tough on identity theft
+
+;0xD0DCB56C=Bank takes new approach to combat fraud
+0xD0DCB56C=Bank takes new approach to combat fraud
+
+;0xE9C446FE=Tony J Smith
+0xE9C446FE=Tony J Smith
+
+;0xF56F1F3A="Remember, identity theft is ALWAYS your fault," reads Bank of Liberty's new website. Is it not enough that 8-year-olds are hacking into our online accounts and stealing our life savings? Is it not enough that meth addicts are rooting through our trash and piecing back together our shredded documents? Is it not enough that lap dancers can no longer be trusted with our credit cards? Now the banks are turning their backs on us as well? "We're simply going to ignore it from now on," said a spokesperson for Bank of Liberty, "I refuse for my bonus to be cut because some moron posted personal details all over their MyRoom page or wired their kid's college fund to a Nigerian con-artist. We're the ones getting scammed."
+0xF56F1F3A="Remember, identity theft is ALWAYS your fault," reads Bank of Liberty's new website. Is it not enough that 8-year-olds are hacking into our online accounts and stealing our life savings? Is it not enough that meth addicts are rooting through our trash and piecing back together our shredded documents? Is it not enough that lap dancers can no longer be trusted with our credit cards? Now the banks are turning their backs on us as well? "We're simply going to ignore it from now on," said a spokesperson for Bank of Liberty, "I refuse for my bonus to be cut because some moron posted personal details all over their MyRoom page or wired their kid's college fund to a Nigerian con-artist. We're the ones getting scammed."
+

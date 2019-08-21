@@ -1,0 +1,421 @@
+﻿[V4AUD]
+;0x02696775=~z~then we say it was just a robbery that failed.
+0x02696775=~z~then we say it was just a robbery that failed.
+
+;0x04BD6935=~z~Very funny... what would you say if I told you he was going to rob your cousin?
+0x04BD6935=~z~Very funny... what would you say if I told you he was going to rob your cousin?
+
+;0x05528E8B=V4_LB
+0x05528E8B=V4_LB
+
+;0x06056D85=~z~Who was that?
+0x06056D85=~z~Who was that?
+
+;0x063626EE=~z~I'll stay out of Hove Beach. I'll be a ghost. I promise. Please!
+0x063626EE=~z~I'll stay out of Hove Beach. I'll be a ghost. I promise. Please!
+
+;0x09F52C3F=V4_FC
+0x09F52C3F=V4_FC
+
+;0x0CCBE62B=~z~What'll you have?
+0x0CCBE62B=~z~What'll you have?
+
+;0x0DDF859D=~z~Alright, Ivan, let's do this.
+0x0DDF859D=~z~Alright, Ivan, let's do this.
+
+;0x10CCF5AE=V4_IA
+0x10CCF5AE=V4_IA
+
+;0x13CB0910=~z~Never you mind.
+0x13CB0910=~z~Never you mind.
+
+;0x14662E39=~z~If Vlad wants you dead, you can't be all bad. Stay out of Hove Beach.
+0x14662E39=~z~If Vlad wants you dead, you can't be all bad. Stay out of Hove Beach.
+
+;0x159AD98E=~z~I tell you, is so much better if woman already have a man.
+0x159AD98E=~z~I tell you, is so much better if woman already have a man.
+
+;0x167081BA=~z~Slippery bastard.
+0x167081BA=~z~Slippery bastard.
+
+;0x16FD1800=010
+0x16FD1800=010
+
+;0x18790E51=~z~He's nothing in this town, don't do this for him.
+0x18790E51=~z~He's nothing in this town, don't do this for him.
+
+;0x1B3118DD=~z~You got eyes?
+0x1B3118DD=~z~You got eyes?
+
+;0x1B815ADA=V4_AA
+0x1B815ADA=V4_AA
+
+;0x1CA92330=~z~That prick Vlad making me kill this guy. Man!
+0x1CA92330=~z~That prick Vlad making me kill this guy. Man!
+
+;0x1CD4B55A=010
+0x1CD4B55A=010
+
+;0x1EBE57FE=~z~Please. Vlad told you to kill me, right?
+0x1EBE57FE=~z~Please. Vlad told you to kill me, right?
+
+;0x21EAA5AD=V4_AB
+0x21EAA5AD=V4_AB
+
+;0x223DD2B6=~z~Stay the fuck away from me, I was set up!
+0x223DD2B6=~z~Stay the fuck away from me, I was set up!
+
+;0x25082942=V4_KD
+0x25082942=V4_KD
+
+;0x270DB0BD=~z~Then Mr. Faustin will be very angry with you... and your cousin.
+0x270DB0BD=~z~Then Mr. Faustin will be very angry with you... and your cousin.
+
+;0x27627397=010
+0x27627397=010
+
+;0x276D7D33=~z~No I'm not. I'm getting enough pussy at the moment.
+0x276D7D33=~z~No I'm not. I'm getting enough pussy at the moment.
+
+;0x2BF7931D=V4_JA
+0x2BF7931D=V4_JA
+
+;0x2C539A82=010100
+0x2C539A82=010100
+
+;0x303D5237=V4_NA
+0x303D5237=V4_NA
+
+;0x313490C5=~z~You won't be seeing your boyfriend Ivan no more. You going to miss him?
+0x313490C5=~z~You won't be seeing your boyfriend Ivan no more. You going to miss him?
+
+;0x3148AF24=~z~Glass of water.
+0x3148AF24=~z~Glass of water.
+
+;0x317BB09E=010100
+0x317BB09E=010100
+
+;0x31C871CB=~z~Vlad's a bum, don't kill me for him.
+0x31C871CB=~z~Vlad's a bum, don't kill me for him.
+
+;0x325C9D21=V4_GA
+0x325C9D21=V4_GA
+
+;0x342DBD34=~z~Where you going to?
+0x342DBD34=~z~Where you going to?
+
+;0x3F14F81D=~z~There ain't nowhere left for you to run.
+0x3F14F81D=~z~There ain't nowhere left for you to run.
+
+;0x3F6B5E90=~z~You remember Ivan?
+0x3F6B5E90=~z~You remember Ivan?
+
+;0x3F8A8D53=~z~Shit. Shit. Shit.
+0x3F8A8D53=~z~Shit. Shit. Shit.
+
+;0x41B18F97=010100100100100
+0x41B18F97=010100100100100
+
+;0x42BB62D5=~z~Vlad don't like you no more, man.
+0x42BB62D5=~z~Vlad don't like you no more, man.
+
+;0x4692CBB4=~z~I should have known you would screw this up. You are born loser, just like your cousin. Come see me sometime.
+0x4692CBB4=~z~I should have known you would screw this up. You are born loser, just like your cousin. Come see me sometime.
+
+;0x486D93B4=V4_LA
+0x486D93B4=V4_LA
+
+;0x4BC7FA0A=~z~I'm running here.
+0x4BC7FA0A=~z~I'm running here.
+
+;0x4C50A6DF=~z~I don't want no trouble with you!
+0x4C50A6DF=~z~I don't want no trouble with you!
+
+;0x4C7F92A0=190
+0x4C7F92A0=190
+
+;0x4DE0FB7B=~z~No.
+0x4DE0FB7B=~z~No.
+
+;0x4F4E8012=~z~whose only friend is some fat weasel who drives a fucking cab...
+0x4F4E8012=~z~whose only friend is some fat weasel who drives a fucking cab...
+
+;0x4F5A1BB9=V4_EB
+0x4F5A1BB9=V4_EB
+
+;0x4F7F2B2A=V4_FB
+0x4F7F2B2A=V4_FB
+
+;0x524119E3=V4_LE
+0x524119E3=V4_LE
+
+;0x5475436B=~z~Vlad told me to go there. Let me go and I'll lay low.
+0x5475436B=~z~Vlad told me to go there. Let me go and I'll lay low.
+
+;0x5485643E=V4_MA
+0x5485643E=V4_MA
+
+;0x55B68E0E=~z~He think he's stealing some paperwork from Roman.
+0x55B68E0E=~z~He think he's stealing some paperwork from Roman.
+
+;0x58466F17=~z~Hey, Vlad. I lost your boyfriend. He got away from me.
+0x58466F17=~z~Hey, Vlad. I lost your boyfriend. He got away from me.
+
+;0x5ACD6F57=V4_PA
+0x5ACD6F57=V4_PA
+
+;0x5AD1B692=V4_QA
+0x5AD1B692=V4_QA
+
+;0x5B054448=~z~Vlad ain't nobody, you going to see that.
+0x5B054448=~z~Vlad ain't nobody, you going to see that.
+
+;0x5FF6B48B=010100010
+0x5FF6B48B=010100010
+
+;0x629F27B8=~z~Move it, asshole.
+0x629F27B8=~z~Move it, asshole.
+
+;0x62B84ADC=~z~Thank you. You won't regret this, man. I am outta here!
+0x62B84ADC=~z~Thank you. You won't regret this, man. I am outta here!
+
+;0x64282AF1=~z~He's angered Mikhail... Mr. Faustin. Offended him.
+0x64282AF1=~z~He's angered Mikhail... Mr. Faustin. Offended him.
+
+;0x66067A6C=~z~Fuck you. Say this to my face and I will break you.
+0x66067A6C=~z~Fuck you. Say this to my face and I will break you.
+
+;0x661CADAE=~z~So... why is Ivan going to rob my cousin?
+0x661CADAE=~z~So... why is Ivan going to rob my cousin?
+
+;0x66701976=~z~Hey, how ya doing?
+0x66701976=~z~Hey, how ya doing?
+
+;0x69302F51=V4_KB
+0x69302F51=V4_KB
+
+;0x74E50A87=100100100100100
+0x74E50A87=100100100100100
+
+;0x753A4BE9=~z~Because I want you to kill him.
+0x753A4BE9=~z~Because I want you to kill him.
+
+;0x76DD50F3=~z~I'm going to catch you, asshole.
+0x76DD50F3=~z~I'm going to catch you, asshole.
+
+;0x76F4FB1D=V4_FA_QQQ1
+0x76F4FB1D=V4_FA_QQQ1
+
+;0x78C51FE9=~z~Because you don't have to deal with all their shit all day. Take Mallorie, for example...
+0x78C51FE9=~z~Because you don't have to deal with all their shit all day. Take Mallorie, for example...
+
+;0x7EF96143=~z~I wasn't sure about killing you when Vlad asked. Now I'm coming around to the idea.
+0x7EF96143=~z~I wasn't sure about killing you when Vlad asked. Now I'm coming around to the idea.
+
+;0x80416A5F=~z~So you're the guy I'm meant to kill?
+0x80416A5F=~z~So you're the guy I'm meant to kill?
+
+;0x812112CA=V4_EA
+0x812112CA=V4_EA
+
+;0x82F7EAB8=100
+0x82F7EAB8=100
+
+;0x88C667D3=010100100100010
+0x88C667D3=010100100100010
+
+;0x88FD8E23=V4_LC
+0x88FD8E23=V4_LC
+
+;0x8FE73C56=V4_OA
+0x8FE73C56=V4_OA
+
+;0x91681FDD=V4_DA
+0x91681FDD=V4_DA
+
+;0x940EA24D=V4_HA
+0x940EA24D=V4_HA
+
+;0x97C4CA94=V4_FA
+0x97C4CA94=V4_FA
+
+;0x9ACA32B0=~z~~s~
+0x9ACA32B0=~z~~s~
+
+;0x9B07978B=~z~What?
+0x9B07978B=~z~What?
+
+;0x9B7196A3=~z~I'd say... what problem has he got with my cousin?
+0x9B7196A3=~z~I'd say... what problem has he got with my cousin?
+
+;0x9C7316C2=V4_KE
+0x9C7316C2=V4_KE
+
+;0x9C9305AB=010100
+0x9C9305AB=010100
+
+;0x9D9D5295=V4_FD
+0x9D9D5295=V4_FD
+
+;0xA038D53B=~z~Hey, you and your cousin's girlfriend should get together. She likes sticky finishes as well.
+0xA038D53B=~z~Hey, you and your cousin's girlfriend should get together. She likes sticky finishes as well.
+
+;0xA64A8A79=~z~You're a fast one, aren't you?
+0xA64A8A79=~z~You're a fast one, aren't you?
+
+;0xA6F258DE=V4_CA
+0xA6F258DE=V4_CA
+
+;0xA727A10F=V4_KC
+0xA727A10F=V4_KC
+
+;0xA8903460=~z~Shit, you're starting to annoy me.
+0xA8903460=~z~Shit, you're starting to annoy me.
+
+;0xA92E321C=~z~Hold on. Hey, hey, hey gorgeous...
+0xA92E321C=~z~Hold on. Hey, hey, hey gorgeous...
+
+;0xA9D83654=~z~Hmm, okay.
+0xA9D83654=~z~Hmm, okay.
+
+;0xAA463608=~z~Was it Ivan?
+0xAA463608=~z~Was it Ivan?
+
+;0xAC9BDEDD=010
+0xAC9BDEDD=010
+
+;0xAD3A4E80=V4_LD
+0xAD3A4E80=V4_LD
+
+;0xAE5E294D=~z~Bang, bang, you are dead.
+0xAE5E294D=~z~Bang, bang, you are dead.
+
+;0xAEF672B6=~z~Fuck you. Say that to my face and I will break you.
+0xAEF672B6=~z~Fuck you. Say that to my face and I will break you.
+
+;0xB04EB2C7=V4_IC
+0xB04EB2C7=V4_IC
+
+;0xB628CEF5=~z~Now, go wait for him by the car depot!
+0xB628CEF5=~z~Now, go wait for him by the car depot!
+
+;0xB68741ED=~z~Slow the fuck up, asshole.
+0xB68741ED=~z~Slow the fuck up, asshole.
+
+;0xB8BDEF2E=~z~Vlad's a bum, he set me up.
+0xB8BDEF2E=~z~Vlad's a bum, he set me up.
+
+;0xBE185DAC=~z~Ooh, that's funny. You know, for a dumb yokel, you're a very funny guy.
+0xBE185DAC=~z~Ooh, that's funny. You know, for a dumb yokel, you're a very funny guy.
+
+;0xBE4C5C58=~z~no, I can't talk right now... what are you wearing?
+0xBE4C5C58=~z~no, I can't talk right now... what are you wearing?
+
+;0xC17AC42A=V4_BA
+0xC17AC42A=V4_BA
+
+;0xC3E26A68=~z~I knew we would understand each other, once I put it in this simple way.
+0xC3E26A68=~z~I knew we would understand each other, once I put it in this simple way.
+
+;0xC4CFD630=~z~You got me.
+0xC4CFD630=~z~You got me.
+
+;0xC578CAC6=V4_BB
+0xC578CAC6=V4_BB
+
+;0xC63991E1=~z~Get into the real America. You never gonna see me around here again.
+0xC63991E1=~z~Get into the real America. You never gonna see me around here again.
+
+;0xC98C10CA=~z~You trying to rob my cousin?
+0xC98C10CA=~z~You trying to rob my cousin?
+
+;0xC9905104=~z~Man, I'm starting to sweat. Shit.
+0xC9905104=~z~Man, I'm starting to sweat. Shit.
+
+;0xCD291447=~z~You've run out of roof, dickhead.
+0xCD291447=~z~You've run out of roof, dickhead.
+
+;0xCE01FBC3=~z~No, I mean underneath it... great... listen, I'll call you back, eh? Sorry.
+0xCE01FBC3=~z~No, I mean underneath it... great... listen, I'll call you back, eh? Sorry.
+
+;0xCF3BFFF3=~z~Yes, and for an annoying dick, you're really an annoying dick.
+0xCF3BFFF3=~z~Yes, and for an annoying dick, you're really an annoying dick.
+
+;0xD0A183E6=~z~You catch him, and kill him...
+0xD0A183E6=~z~You catch him, and kill him...
+
+;0xD38EC1A0=~z~I wasn't stealing nothing from your cousin's place!
+0xD38EC1A0=~z~I wasn't stealing nothing from your cousin's place!
+
+;0xD42107FD=~z~Guy you saw me talking to. This guy.
+0xD42107FD=~z~Guy you saw me talking to. This guy.
+
+;0xD422197D=~z~I promised to deal with you. I don't break promises.
+0xD422197D=~z~I promised to deal with you. I don't break promises.
+
+;0xD43674FD=~z~Wake up, you moron.
+0xD43674FD=~z~Wake up, you moron.
+
+;0xD85C6E9C=~z~I thought everyone in this country was fat and slow.
+0xD85C6E9C=~z~I thought everyone in this country was fat and slow.
+
+;0xDAC74A57=~z~Ivan is dead. He came to a sticky end.
+0xDAC74A57=~z~Ivan is dead. He came to a sticky end.
+
+;0xDB50BC0F=~z~I owe you my life, man. You're a good man, you're a good man, thank you.
+0xDB50BC0F=~z~I owe you my life, man. You're a good man, you're a good man, thank you.
+
+;0xDC859A86=~z~Well, it's a real shame, then, that I'm the guy with the powerful friends, and you're the little punk
+0xDC859A86=~z~Well, it's a real shame, then, that I'm the guy with the powerful friends, and you're the little punk
+
+;0xDFE7F723=~z~Get up.
+0xDFE7F723=~z~Get up.
+
+;0xE06BA092=~z~Er... this guy?
+0xE06BA092=~z~Er... this guy?
+
+;0xE0702383=~z~Hey gorgeous, yeah where were we? Okay now listen, let's talk about tonight...
+0xE0702383=~z~Hey gorgeous, yeah where were we? Okay now listen, let's talk about tonight...
+
+;0xE7659B5F=~z~Hey, Mickey.
+0xE7659B5F=~z~Hey, Mickey.
+
+;0xE7ECEA5C=~z~No one's going to know that I'm alive. Not even my mother.
+0xE7ECEA5C=~z~No one's going to know that I'm alive. Not even my mother.
+
+;0xEA9BAD08=V4_IB
+0xEA9BAD08=V4_IB
+
+;0xEAB86CD6=090
+0xEAB86CD6=090
+
+;0xEB31F9C4=010
+0xEB31F9C4=010
+
+;0xF2DBB24B=~z~Come over here. Sit down.
+0xF2DBB24B=~z~Come over here. Sit down.
+
+;0xF6A5CD06=~z~Oh, yes. You guys had a little kiss.
+0xF6A5CD06=~z~Oh, yes. You guys had a little kiss.
+
+;0xF7D37514=~z~Wanted to leave anyway, get away from all these people from back home.
+0xF7D37514=~z~Wanted to leave anyway, get away from all these people from back home.
+
+;0xF9E94066=~z~Glass of water.
+0xF9E94066=~z~Glass of water.
+
+;0xFA6CC276=090
+0xFA6CC276=090
+
+;0xFABB4EBD=V4_KA
+0xFABB4EBD=V4_KA
+
+;0xFBA2A7BF=100
+0xFBA2A7BF=100
+
+;0xFD4C5D3B=~z~And what if I say I don't want to be your hitman?
+0xFD4C5D3B=~z~And what if I say I don't want to be your hitman?
+
+;0xFF77E16F=~z~Get out my way.
+0xFF77E16F=~z~Get out my way.
+

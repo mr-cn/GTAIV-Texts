@@ -1,0 +1,133 @@
+﻿[JACOB3P]
+;0x07B4526C=~r~The buyer was injured, the deal is off.
+0x07B4526C=~r~The buyer was injured, the deal is off.
+
+;0x0903CDBF=Hurry up.
+0x0903CDBF=Hurry up.
+
+;0x0B615D66=Take the package to ~y~Meadows Park.
+0x0B615D66=Take the package to ~y~Meadows Park.
+
+;0x16446840=Exit the vehicle to ~y~stash~s~ the package for the buyer.
+0x16446840=Exit the vehicle to ~y~stash~s~ the package for the buyer.
+
+;0x19A0F9E5=Get the package to the ~y~East Island City tunnel,~s~ by ~1~:~1~. The buyer is getting jumpy.
+0x19A0F9E5=Get the package to the ~y~East Island City tunnel,~s~ by ~1~:~1~. The buyer is getting jumpy.
+
+;0x2AE51C71=~r~The rival gang stole the package.
+0x2AE51C71=~r~The rival gang stole the package.
+
+;0x312CA3D8=Take the package to ~y~Schottler~s~ by 0~1~:~1~.
+0x312CA3D8=Take the package to ~y~Schottler~s~ by 0~1~:~1~.
+
+;0x45714DE9=Get the package to the tower block in ~y~Steinway,~s~ by ~1~:~1~. The buyer won't wait around.
+0x45714DE9=Get the package to the tower block in ~y~Steinway,~s~ by ~1~:~1~. The buyer won't wait around.
+
+;0x466ECE5C=Take the package to ~y~Schottler~s~ by 0~1~:0~1~.
+0x466ECE5C=Take the package to ~y~Schottler~s~ by 0~1~:0~1~.
+
+;0x51C95F49=You have the package.
+0x51C95F49=You have the package.
+
+;0x531FE946=Get the package to the tower block in ~y~Steinway,~s~ by 0~1~:0~1~. The buyer won't wait around.
+0x531FE946=Get the package to the tower block in ~y~Steinway,~s~ by 0~1~:0~1~. The buyer won't wait around.
+
+;0x601FFBF6=~r~The package was in that car.
+0x601FFBF6=~r~The package was in that car.
+
+;0x67B2926B=Take the package to the ~y~Festival Towers Meadows Park,~s~ the buyer will meet you there.
+0x67B2926B=Take the package to the ~y~Festival Towers Meadows Park,~s~ the buyer will meet you there.
+
+;0x68FB9471=Take the package to ~y~Schottler~s~ by 00:0~1~.
+0x68FB9471=Take the package to ~y~Schottler~s~ by 00:0~1~.
+
+;0x69511420=Get the package to the ~y~East Island City tunnel,~s~ by 0~1~:0~1~. The buyer is getting jumpy.
+0x69511420=Get the package to the ~y~East Island City tunnel,~s~ by 0~1~:0~1~. The buyer is getting jumpy.
+
+;0x7809B6B9=Get the package to ~y~Beechwood City,~s~ by ~1~:~1~. The buyer won't wait around.
+0x7809B6B9=Get the package to ~y~Beechwood City,~s~ by ~1~:~1~. The buyer won't wait around.
+
+;0x7AEFB75D=Take the package to ~y~Schottler~s~ by ~1~:0~1~.
+0x7AEFB75D=Take the package to ~y~Schottler~s~ by ~1~:0~1~.
+
+;0x8274C757=Get the package to the tower block in ~y~Steinway,~s~ by 00:~1~. The buyer won't wait around.
+0x8274C757=Get the package to the tower block in ~y~Steinway,~s~ by 00:~1~. The buyer won't wait around.
+
+;0x88E7D4D5=Get the package to the tower block in ~y~Steinway,~s~ by 00:0~1~. The buyer won't wait around.
+0x88E7D4D5=Get the package to the tower block in ~y~Steinway,~s~ by 00:0~1~. The buyer won't wait around.
+
+;0x8D565D26=Get the package to ~y~Beechwood City,~s~ by 00:0~1~. The buyer won't wait around.
+0x8D565D26=Get the package to ~y~Beechwood City,~s~ by 00:0~1~. The buyer won't wait around.
+
+;0x8E22DDC3=Get the package to ~y~Beechwood City,~s~ by 0~1~:0~1~. The buyer won't wait around.
+0x8E22DDC3=Get the package to ~y~Beechwood City,~s~ by 0~1~:0~1~. The buyer won't wait around.
+
+;0x974070FA=Take the package to ~y~Schottler~s~ by 00:~1~.
+0x974070FA=Take the package to ~y~Schottler~s~ by 00:~1~.
+
+;0x99DD76C0=Drop the package in ~y~Meadow Hills.
+0x99DD76C0=Drop the package in ~y~Meadow Hills.
+
+;0x9B68784E=Wipe ~r~them~s~ all out.
+0x9B68784E=Wipe ~r~them~s~ all out.
+
+;0xA258862E=Get the package to ~y~Beechwood City,~s~ by ~1~:0~1~. The buyer won't wait around.
+0xA258862E=Get the package to ~y~Beechwood City,~s~ by ~1~:0~1~. The buyer won't wait around.
+
+;0xA4C58534=~r~The package was not delivered in time, the buyer left.
+0xA4C58534=~r~The package was not delivered in time, the buyer left.
+
+;0xAC259AC4=Get the package to the ~y~East Island City tunnel,~s~ by 0~1~:~1~. The buyer is getting jumpy.
+0xAC259AC4=Get the package to the ~y~East Island City tunnel,~s~ by 0~1~:~1~. The buyer is getting jumpy.
+
+;0xAD6C9DDE=Take the package to ~y~Willis,~s~ the buyer will meet you there.
+0xAD6C9DDE=Take the package to ~y~Willis,~s~ the buyer will meet you there.
+
+;0xB09322A3=Get the package to ~y~Beechwood City,~s~ by 0~1~:~1~. The buyer won't wait around.
+0xB09322A3=Get the package to ~y~Beechwood City,~s~ by 0~1~:~1~. The buyer won't wait around.
+
+;0xB982AEAE=A rival gang knows about the stash point.
+0xB982AEAE=A rival gang knows about the stash point.
+
+;0xBB9C39B1=Get the package to ~y~Beechwood City,~s~ by 00:~1~. The buyer won't wait around.
+0xBB9C39B1=Get the package to ~y~Beechwood City,~s~ by 00:~1~. The buyer won't wait around.
+
+;0xBE4F3FA3=Get the package to the tower block in ~y~Steinway,~s~ by ~1~:0~1~. The buyer won't wait around.
+0xBE4F3FA3=Get the package to the tower block in ~y~Steinway,~s~ by ~1~:0~1~. The buyer won't wait around.
+
+;0xC16BC550=Get the package to the ~y~East Island City tunnel,~s~ by ~1~:0~1~. The buyer is getting jumpy.
+0xC16BC550=Get the package to the ~y~East Island City tunnel,~s~ by ~1~:0~1~. The buyer is getting jumpy.
+
+;0xC485CFB0=Take the package to the bridge in ~y~Outlook Park.
+0xC485CFB0=Take the package to the bridge in ~y~Outlook Park.
+
+;0xC7294FC3=The cops are onto the deal.
+0xC7294FC3=The cops are onto the deal.
+
+;0xC9DBCF4C=Exit the vehicle to do the ~y~deal.
+0xC9DBCF4C=Exit the vehicle to do the ~y~deal.
+
+;0xCEDCE0BE=Get the package to the tower block in ~y~Steinway,~s~ by 0~1~:~1~. The buyer won't wait around.
+0xCEDCE0BE=Get the package to the tower block in ~y~Steinway,~s~ by 0~1~:~1~. The buyer won't wait around.
+
+;0xD1CB6A3B=Take the package to ~y~Schottler~s~ by ~1~:~1~.
+0xD1CB6A3B=Take the package to ~y~Schottler~s~ by ~1~:~1~.
+
+;0xD4EEEB4E=~r~The buyer is dead.
+0xD4EEEB4E=~r~The buyer is dead.
+
+;0xD69768C3=The ~g~package~s~ is in the car.
+0xD69768C3=The ~g~package~s~ is in the car.
+
+;0xE6B98FDB=Get the package to the ~y~East Island City tunnel,~s~ by 00:~1~. The buyer is getting jumpy.
+0xE6B98FDB=Get the package to the ~y~East Island City tunnel,~s~ by 00:~1~. The buyer is getting jumpy.
+
+;0xED551662=Lose your wanted level.
+0xED551662=Lose your wanted level.
+
+;0xEFFEA265=Get the package to the ~y~East Island City tunnel,~s~ by 00:0~1~. The buyer is getting jumpy.
+0xEFFEA265=Get the package to the ~y~East Island City tunnel,~s~ by 00:0~1~. The buyer is getting jumpy.
+
+;0xFC17BED3=Take the package to the ~y~Cerveza Heights car stack.
+0xFC17BED3=Take the package to the ~y~Cerveza Heights car stack.
+

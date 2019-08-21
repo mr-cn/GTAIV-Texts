@@ -1,0 +1,85 @@
+﻿[CHOPCHS]
+;0x06777742=~r~You shot the chopper down too early.~s~
+0x06777742=~r~You shot the chopper down too early.~s~
+
+;0x13D14FA4=Get within range of the ~r~target chopper.
+0x13D14FA4=Get within range of the ~r~target chopper.
+
+;0x2C214F57=Line your helicopter up with the ~r~target chopper.
+0x2C214F57=Line your helicopter up with the ~r~target chopper.
+
+;0x398AEA2A=Get close and move to the right of the ~r~target chopper~w~ to give Jacob a shot.
+0x398AEA2A=Get close and move to the right of the ~r~target chopper~w~ to give Jacob a shot.
+
+;0x5F345475=~r~You lost the target.~s~
+0x5F345475=~r~You lost the target.~s~
+
+;0x6EE77E4D=Fly south and locate the ~r~target chopper.
+0x6EE77E4D=Fly south and locate the ~r~target chopper.
+
+;0x6F3B9E99=Get back into the ~b~helicopter.
+0x6F3B9E99=Get back into the ~b~helicopter.
+
+;0x76349CFD=~r~The target got away.~s~
+0x76349CFD=~r~The target got away.~s~
+
+;0x7C4E191A=Locate the ~r~target chopper.
+0x7C4E191A=Locate the ~r~target chopper.
+
+;0x815630E5=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the chopper left or right.
+0x815630E5=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the chopper left or right.
+
+;0x935BDE86=Follow the ~r~target choppper.
+0x935BDE86=Follow the ~r~target choppper.
+
+;0x9ED9A2B2=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate your helicopter.
+0x9ED9A2B2=Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate your helicopter.
+
+;0xA2F67DBB=Follow the ~r~target chopper,~s~ don't let it get away.
+0xA2F67DBB=Follow the ~r~target chopper,~s~ don't let it get away.
+
+;0xAF05BCA0=Use ~PAD_SIXAXIS_DRIVE~ to rotate your helicopter.
+0xAF05BCA0=Use ~PAD_SIXAXIS_DRIVE~ to rotate your helicopter.
+
+;0xB3A22722=~r~You left Jacob behind, you couldn't get a shot on the chopper.~s~
+0xB3A22722=~r~You left Jacob behind, you couldn't get a shot on the chopper.~s~
+
+;0xBB4027D3=Get into the ~b~helicopter.
+0xBB4027D3=Get into the ~b~helicopter.
+
+;0xBD4B3AC3=Drop Jacob at the ~y~helipad~s~ off Union Drive East.
+0xBD4B3AC3=Drop Jacob at the ~y~helipad~s~ off Union Drive East.
+
+;0xCE5A297C=~r~The helicopter was destroyed.~s~
+0xCE5A297C=~r~The helicopter was destroyed.~s~
+
+;0xCEEDDE08=Drop Jacob at the ~y~helipad.
+0xCEEDDE08=Drop Jacob at the ~y~helipad.
+
+;0xD6FF9582=You're losing the ~r~target chopper.~s~ Don't let it get away.
+0xD6FF9582=You're losing the ~r~target chopper.~s~ Don't let it get away.
+
+;0xDF2EB092=Press ~INPUT_VEH_CIN_CAM~ to focus on the target chopper.
+0xDF2EB092=Press ~INPUT_VEH_CIN_CAM~ to focus on the target chopper.
+
+;0xDF6C3ABB=Keep your helicopter to the right so that Jacob can get a shot.
+0xDF6C3ABB=Keep your helicopter to the right so that Jacob can get a shot.
+
+;0xE5840821=Get back into the ~b~helicopter.
+0xE5840821=Get back into the ~b~helicopter.
+
+;0xEF91DB0E=Line up your helicopter at the same height as the target.
+0xEF91DB0E=Line up your helicopter at the same height as the target.
+
+;0xEFCD17CF=The target is flying south through Liberty City.
+0xEFCD17CF=The target is flying south through Liberty City.
+
+;0xF2C61E34=Meet Jacob at the ~y~salvage yard~s~ off Grummer Road.
+0xF2C61E34=Meet Jacob at the ~y~salvage yard~s~ off Grummer Road.
+
+;0xF7D4A4C3=~r~Jacob is dead.~s~
+0xF7D4A4C3=~r~Jacob is dead.~s~
+
+;0xFE05B440=Follow the target and wait for an opportunity to take down his helicopter.
+0xFE05B440=Follow the target and wait for an opportunity to take down his helicopter.
+

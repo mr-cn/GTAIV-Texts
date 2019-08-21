@@ -1,0 +1,463 @@
+﻿[F6AUD]
+;0x00636E01=~z~Only I am still sane.
+0x00636E01=~z~Only I am still sane.
+
+;0x00F86F2F=~z~None of you will survive in this country without me.
+0x00F86F2F=~z~None of you will survive in this country without me.
+
+;0x01991F72=~z~Niko.
+0x01991F72=~z~Niko.
+
+;0x02FC6887=~z~Is this what you ordered?
+0x02FC6887=~z~Is this what you ordered?
+
+;0x06073D4A=~z~Guards!
+0x06073D4A=~z~Guards!
+
+;0x0B02833F=~z~Dimitri turned on me, not other way around. America made him greedy.
+0x0B02833F=~z~Dimitri turned on me, not other way around. America made him greedy.
+
+;0x0B23879D=F6_KB
+0x0B23879D=F6_KB
+
+;0x0BB1143A=F6_JB
+0x0BB1143A=F6_JB
+
+;0x0C76D387=F6_BF
+0x0C76D387=F6_BF
+
+;0x0EDBEE7E=102102102102102102
+0x0EDBEE7E=102102102102102102
+
+;0x11C9F273=~z~Dimitri
+0x11C9F273=~z~Dimitri
+
+;0x122CC035=~z~You pushed things too far.
+0x122CC035=~z~You pushed things too far.
+
+;0x1240231D=010100100
+0x1240231D=010100100
+
+;0x13F8F444=~z~Now they've sent you to take the only thing I have left.
+0x13F8F444=~z~Now they've sent you to take the only thing I have left.
+
+;0x14784DEC=~z~and now he betrays me...
+0x14784DEC=~z~and now he betrays me...
+
+;0x15CC1A0C=010100100100
+0x15CC1A0C=010100100100
+
+;0x18B0556C=100
+0x18B0556C=100
+
+;0x192C0AB5=~z~Can I call Petrovic and tell him that Mikhail is no longer a problem? Is he dead, Niko?
+0x192C0AB5=~z~Can I call Petrovic and tell him that Mikhail is no longer a problem? Is he dead, Niko?
+
+;0x1A36D8B0=F6_GE
+0x1A36D8B0=F6_GE
+
+;0x1B3ECCF4=F6_GB
+0x1B3ECCF4=F6_GB
+
+;0x1B952464=~z~Dimitri will turn on you as well, you shall discover this.
+0x1B952464=~z~Dimitri will turn on you as well, you shall discover this.
+
+;0x1E9C350C=~z~We can pick the game, Niko Bellic,
+0x1E9C350C=~z~We can pick the game, Niko Bellic,
+
+;0x1F8D21A8=~z~If you can't take the heat, Bellic...
+0x1F8D21A8=~z~If you can't take the heat, Bellic...
+
+;0x22CBEA93=~z~You didn't give him a choice.
+0x22CBEA93=~z~You didn't give him a choice.
+
+;0x23FB96D6=~z~Hey.
+0x23FB96D6=~z~Hey.
+
+;0x247D64D6=~z~You brought this on yourself.
+0x247D64D6=~z~You brought this on yourself.
+
+;0x262C0B02=~z~Do not abandon your leader. Stop this man.
+0x262C0B02=~z~Do not abandon your leader. Stop this man.
+
+;0x272BBF78=F6_DD
+0x272BBF78=F6_DD
+
+;0x284016A7=F6_LA
+0x284016A7=F6_LA
+
+;0x2ABB81CB=~z~It's closing time! Get your coat!
+0x2ABB81CB=~z~It's closing time! Get your coat!
+
+;0x2D415016=~z~And there is no way out?
+0x2D415016=~z~And there is no way out?
+
+;0x2F4C8E28=102102102102102102102
+0x2F4C8E28=102102102102102102102
+
+;0x2F6F2820=F6_LD
+0x2F6F2820=F6_LD
+
+;0x3038EB2F=F6_ID
+0x3038EB2F=F6_ID
+
+;0x321AF12B=F6_IA
+0x321AF12B=F6_IA
+
+;0x33F81B6D=F6_EA
+0x33F81B6D=F6_EA
+
+;0x34DCB898=~z~Sit down.
+0x34DCB898=~z~Sit down.
+
+;0x37D314A1=~z~Meat for some gym monkey!
+0x37D314A1=~z~Meat for some gym monkey!
+
+;0x3EB0993C=~z~That is what Dimitri wanted when you killed Vlad.
+0x3EB0993C=~z~That is what Dimitri wanted when you killed Vlad.
+
+;0x3EC7BCCC=F6_BC
+0x3EC7BCCC=F6_BC
+
+;0x41877408=F6_HA
+0x41877408=F6_HA
+
+;0x4251FC77=~z~See you later.
+0x4251FC77=~z~See you later.
+
+;0x440C46C2=~z~Men, I need you.
+0x440C46C2=~z~Men, I need you.
+
+;0x44FD832A=~z~it's that we must obey the rules of the game.
+0x44FD832A=~z~it's that we must obey the rules of the game.
+
+;0x4761F5AD=100010100100
+0x4761F5AD=100010100100
+
+;0x48175F0D=~z~What's the problem?
+0x48175F0D=~z~What's the problem?
+
+;0x497361C5=~z~What do you think?
+0x497361C5=~z~What do you think?
+
+;0x4D5E1F77=~z~Dimitri, Mikhail got away from me. He is still alive.
+0x4D5E1F77=~z~Dimitri, Mikhail got away from me. He is still alive.
+
+;0x4EFE59A8=F6_
+0x4EFE59A8=F6_
+
+;0x4F4F4399=~z~You think Dimitri would have survived prison without me?
+0x4F4F4399=~z~You think Dimitri would have survived prison without me?
+
+;0x50EFEEC1=F6_LC
+0x50EFEEC1=F6_LC
+
+;0x514D1B95=~z~And they said as long as you were the one to kill him,
+0x514D1B95=~z~And they said as long as you were the one to kill him,
+
+;0x51B7E219=~z~Come on, guards.
+0x51B7E219=~z~Come on, guards.
+
+;0x51BA3B76=F6_GD
+0x51BA3B76=F6_GD
+
+;0x544080DD=~z~He is not. Not yet, at least.
+0x544080DD=~z~He is not. Not yet, at least.
+
+;0x54DD90BB=~z~You did a good thing.
+0x54DD90BB=~z~You did a good thing.
+
+;0x55AC2487=~z~You know, if there is one thing I have learned,
+0x55AC2487=~z~You know, if there is one thing I have learned,
+
+;0x56EADA29=~z~This is your last party, man.
+0x56EADA29=~z~This is your last party, man.
+
+;0x576F3399=~z~~c~Shit.
+0x576F3399=~z~~c~Shit.
+
+;0x578508CC=F6_MA
+0x578508CC=F6_MA
+
+;0x5AF704C0=~z~Mikhail.
+0x5AF704C0=~z~Mikhail.
+
+;0x5E04051C=F6_DA
+0x5E04051C=F6_DA
+
+;0x5F9EB838=~z~you'd be spared.
+0x5F9EB838=~z~you'd be spared.
+
+;0x62F402C4=F6_BE
+0x62F402C4=F6_BE
+
+;0x657B2352=~z~You killed Petrovic's son. I need not remind you of that.
+0x657B2352=~z~You killed Petrovic's son. I need not remind you of that.
+
+;0x676A35D4=~z~A hard thing, but a good thing. Hopefully this will mean peace with Petrovic.
+0x676A35D4=~z~A hard thing, but a good thing. Hopefully this will mean peace with Petrovic.
+
+;0x682A8E75=F6_BD
+0x682A8E75=F6_BD
+
+;0x68920FCD=~z~People, help me.
+0x68920FCD=~z~People, help me.
+
+;0x69957825=~z~He'd just be some prison queen, had I not been there.
+0x69957825=~z~He'd just be some prison queen, had I not been there.
+
+;0x69F1C428=F6_KC
+0x69F1C428=F6_KC
+
+;0x6B9EA60F=~z~Mr. Faustin.
+0x6B9EA60F=~z~Mr. Faustin.
+
+;0x6C6EF4B8=~z~Dimitri,
+0x6C6EF4B8=~z~Dimitri,
+
+;0x6DC3D482=~z~No.
+0x6DC3D482=~z~No.
+
+;0x6E000857=~z~You're mine, Faustin.
+0x6E000857=~z~You're mine, Faustin.
+
+;0x73579302=~z~You pissed off too many people, Mr. Faustin.
+0x73579302=~z~You pissed off too many people, Mr. Faustin.
+
+;0x74E8D41A=F6_KA
+0x74E8D41A=F6_KA
+
+;0x7644AB32=~z~Guards!
+0x7644AB32=~z~Guards!
+
+;0x784C891A=102102102102102102
+0x784C891A=102102102102102102
+
+;0x7ABB9BFD=~z~I made you what you are, Niko.
+0x7ABB9BFD=~z~I made you what you are, Niko.
+
+;0x7B44C6B2=~z~Hurry and do it. Call me when it is done.
+0x7B44C6B2=~z~Hurry and do it. Call me when it is done.
+
+;0x7BC54FE6=~z~You must eliminate Mikhail to make things right. Do it soon.
+0x7BC54FE6=~z~You must eliminate Mikhail to make things right. Do it soon.
+
+;0x7C22713F=~z~I told them you were a hired gun.
+0x7C22713F=~z~I told them you were a hired gun.
+
+;0x7CFDA081=~z~I showed mercy to you and your cousin when Dimitri wanted you dead.
+0x7CFDA081=~z~I showed mercy to you and your cousin when Dimitri wanted you dead.
+
+;0x7F64CD9B=~z~Uh huh.
+0x7F64CD9B=~z~Uh huh.
+
+;0x840F0CD8=~z~~c~What am I to do?
+0x840F0CD8=~z~~c~What am I to do?
+
+;0x85D137F9=~z~It's over, Faustin.
+0x85D137F9=~z~It's over, Faustin.
+
+;0x892DBEAE=~z~It was never going to last, Faustin. You took things too far.
+0x892DBEAE=~z~It was never going to last, Faustin. You took things too far.
+
+;0x897D0784=090
+0x897D0784=090
+
+;0x89D7DF30=F6_LB
+0x89D7DF30=F6_LB
+
+;0x89F7FAEF=~z~Faustin is dead.
+0x89F7FAEF=~z~Faustin is dead.
+
+;0x8AA48E43=~z~He'll be leaving his house in a little while and heading for the club.
+0x8AA48E43=~z~He'll be leaving his house in a little while and heading for the club.
+
+;0x8ADA0B46=~z~You don't have any family. You could run.
+0x8ADA0B46=~z~You don't have any family. You could run.
+
+;0x8C186859=~z~Every second he lives, our lives are in danger. Your cousin's as well, Niko.
+0x8C186859=~z~Every second he lives, our lives are in danger. Your cousin's as well, Niko.
+
+;0x8CEE1CB8=100010100100
+0x8CEE1CB8=100010100100
+
+;0x90136EF8=~z~You're given a choice,
+0x90136EF8=~z~You're given a choice,
+
+;0x933FCD05=~z~The time for mercy is over. I must rule with a fist of iron.
+0x933FCD05=~z~The time for mercy is over. I must rule with a fist of iron.
+
+;0x94C7A785=F6_JC
+0x94C7A785=F6_JC
+
+;0x98DA2AAE=~z~Do what you have to do.
+0x98DA2AAE=~z~Do what you have to do.
+
+;0x9AF5023E=~z~Betrayed, betrayed by Dimitri and by you.
+0x9AF5023E=~z~Betrayed, betrayed by Dimitri and by you.
+
+;0x9B4626A7=F6_DC
+0x9B4626A7=F6_DC
+
+;0x9D25AFDD=~z~Wherever you go, people will find you, if they want to badly enough.
+0x9D25AFDD=~z~Wherever you go, people will find you, if they want to badly enough.
+
+;0x9D780B1C=~z~Not yet, Dimitri.
+0x9D780B1C=~z~Not yet, Dimitri.
+
+;0xA00FE38C=F6_GF
+0xA00FE38C=F6_GF
+
+;0xA294BAC3=~z~Well I killed the boy, so they want me too.
+0xA294BAC3=~z~Well I killed the boy, so they want me too.
+
+;0xA731475C=~z~So that's the way it is?
+0xA731475C=~z~So that's the way it is?
+
+;0xAB447265=F6_GA
+0xAB447265=F6_GA
+
+;0xAD44D01B=~z~And for this they want blood.
+0xAD44D01B=~z~And for this they want blood.
+
+;0xB1723310=~z~He is dead? You have killed Mikhail?
+0xB1723310=~z~He is dead? You have killed Mikhail?
+
+;0xB1C0E83B=~z~Does he know that I had anything to do with this? How could you be so stupid?
+0xB1C0E83B=~z~Does he know that I had anything to do with this? How could you be so stupid?
+
+;0xB2DC7F19=F6_GC
+0xB2DC7F19=F6_GC
+
+;0xB43197E2=F6_BA
+0xB43197E2=F6_BA
+
+;0xB55BE3B1=~z~Yes, that's the way it is.
+0xB55BE3B1=~z~Yes, that's the way it is.
+
+;0xB6AB098F=~z~Niko Bellic.
+0xB6AB098F=~z~Niko Bellic.
+
+;0xB74C931E=~z~This tattoo says we are brothers for life,
+0xB74C931E=~z~This tattoo says we are brothers for life,
+
+;0xB7C19608=~z~You fight like a worm, like spineless worm, Bellic.
+0xB7C19608=~z~You fight like a worm, like spineless worm, Bellic.
+
+;0xB86AE66F=~z~Sure.
+0xB86AE66F=~z~Sure.
+
+;0xBE70DF75=~z~Have this.
+0xBE70DF75=~z~Have this.
+
+;0xBF8974A4=~z~But you and Mikhail, you have so much history.
+0xBF8974A4=~z~But you and Mikhail, you have so much history.
+
+;0xC0A79DBA=100
+0xC0A79DBA=100
+
+;0xC12BE4EB=~z~Burn in hell, pussy.
+0xC12BE4EB=~z~Burn in hell, pussy.
+
+;0xC1B91F47=~z~You would be dead if it wasn't for me.
+0xC1B91F47=~z~You would be dead if it wasn't for me.
+
+;0xC1C23F3F=F6_BE_QQQ1
+0xC1C23F3F=F6_BE_QQQ1
+
+;0xC61932B7=~z~You are nothing, Bellic, you are weak. Give up.
+0xC61932B7=~z~You are nothing, Bellic, you are weak. Give up.
+
+;0xC7E87FFC=F6_KD
+0xC7E87FFC=F6_KD
+
+;0xCC6AA23C=F6_IB
+0xCC6AA23C=F6_IB
+
+;0xCD24E69D=~z~Too kind, that's what I was, too kind.
+0xCD24E69D=~z~Too kind, that's what I was, too kind.
+
+;0xCFC2C40A=~z~my brother.
+0xCFC2C40A=~z~my brother.
+
+;0xD1C6191D=~z~Not after you killed Petrovic's son.
+0xD1C6191D=~z~Not after you killed Petrovic's son.
+
+;0xD4EA21A5=~z~but we cannot change the rules.
+0xD4EA21A5=~z~but we cannot change the rules.
+
+;0xD7BA3CB6=~z~You betrayed yourself, Mr. Faustin.
+0xD7BA3CB6=~z~You betrayed yourself, Mr. Faustin.
+
+;0xD7E86D17=F6_DF
+0xD7E86D17=F6_DF
+
+;0xDC575F33=~z~The strong survive and the weak die. You will see.
+0xDC575F33=~z~The strong survive and the weak die. You will see.
+
+;0xE1747421=~z~I am not dead yet.
+0xE1747421=~z~I am not dead yet.
+
+;0xE26F1131=~z~I gave them everything and they took everything from me.
+0xE26F1131=~z~I gave them everything and they took everything from me.
+
+;0xE40DBDAC=~z~kill your best friend, or die... what do you do?
+0xE40DBDAC=~z~kill your best friend, or die... what do you do?
+
+;0xE4F1661B=~z~You and Dimitri are taking over, no?
+0xE4F1661B=~z~You and Dimitri are taking over, no?
+
+;0xE66E426D=~z~Not now.
+0xE66E426D=~z~Not now.
+
+;0xE72952DB=F6_JA
+0xE72952DB=F6_JA
+
+;0xEAB1FBE8=~z~I got where I am for a reason. I won't have some Balkan shit take this away from me.
+0xEAB1FBE8=~z~I got where I am for a reason. I won't have some Balkan shit take this away from me.
+
+;0xED77FF74=~z~You see this?
+0xED77FF74=~z~You see this?
+
+;0xEE73CA22=~z~This American greed takes everyone. It is like a disease.
+0xEE73CA22=~z~This American greed takes everyone. It is like a disease.
+
+;0xEE88CA50=~z~I am a man of convictions, I have only done what I believed.
+0xEE88CA50=~z~I am a man of convictions, I have only done what I believed.
+
+;0xF10D8717=~z~You should have been calm.
+0xF10D8717=~z~You should have been calm.
+
+;0xF44D99D7=~z~Some are still loyal to me.
+0xF44D99D7=~z~Some are still loyal to me.
+
+;0xF4EECC6C=~z~Getting a little warm?
+0xF4EECC6C=~z~Getting a little warm?
+
+;0xF63BB2C3=010
+0xF63BB2C3=010
+
+;0xF6430862=~z~This is not about taking over.
+0xF6430862=~z~This is not about taking over.
+
+;0xF9263E9F=~z~I let the snakes into the nest and they destroyed everything.
+0xF9263E9F=~z~I let the snakes into the nest and they destroyed everything.
+
+;0xF9D0A1FB=F6_BB
+0xF9D0A1FB=F6_BB
+
+;0xFA2CB09B=F6_DE
+0xFA2CB09B=F6_DE
+
+;0xFD4F69B0=F6_DB
+0xFD4F69B0=F6_DB
+
+;0xFDE8C824=~z~You have me cornered. There is nowhere for me to go.
+0xFDE8C824=~z~You have me cornered. There is nowhere for me to go.
+
+;0xFED87CC5=F6_JD
+0xFED87CC5=F6_JD
+
+;0xFF48238C=~z~No one, not Dimitri, not anyone tells me to calm.
+0xFF48238C=~z~No one, not Dimitri, not anyone tells me to calm.
+

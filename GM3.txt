@@ -1,0 +1,85 @@
+﻿[GM3]
+;0x08A4D237=~s~Look for the pink Feltzer.
+0x08A4D237=~s~Look for the pink Feltzer.
+
+;0x0B70C6EC=~s~Get in the ~b~car.
+0x0B70C6EC=~s~Get in the ~b~car.
+
+;0x0FE44FFF=~s~Go to a computer terminal.
+0x0FE44FFF=~s~Go to a computer terminal.
+
+;0x106EEC86=~s~Click on the web icon.
+0x106EEC86=~s~Click on the web icon.
+
+;0x11991CCC=~s~Take the car for a test drive out of the area.
+0x11991CCC=~s~Take the car for a test drive out of the area.
+
+;0x1716C1F4=You can adjust the camera by pressing ~PAD_BACK~.
+0x1716C1F4=You can adjust the camera by pressing ~PAD_BACK~.
+
+;0x187DD545=~s~Time to initiate the kidnapping. Take Gracie to the ~y~safehouse.
+0x187DD545=~s~Time to initiate the kidnapping. Take Gracie to the ~y~safehouse.
+
+;0x1A82AA11=~s~Lose your wanted level.
+0x1A82AA11=~s~Lose your wanted level.
+
+;0x1DA2EB50=~s~Take the girl to the ~y~safehouse.
+0x1DA2EB50=~s~Take the girl to the ~y~safehouse.
+
+;0x21957361=~s~Look for a pink Feltzer for sale and obtain the owner's contact details.
+0x21957361=~s~Look for a pink Feltzer for sale and obtain the owner's contact details.
+
+;0x2420FA0B=~r~ Gracie drowned.
+0x2420FA0B=~r~ Gracie drowned.
+
+;0x326B169F=~r~You were meant to kidnap her. Not take her home.
+0x326B169F=~r~You were meant to kidnap her. Not take her home.
+
+;0x327414F2=~s~Call Gracie Ancelotti for a test drive.
+0x327414F2=~s~Call Gracie Ancelotti for a test drive.
+
+;0x3F563075=~r~Gracie got away.
+0x3F563075=~r~Gracie got away.
+
+;0x41651C19=~s~You now have the girl's contact number in your phone book. Log off the computer.
+0x41651C19=~s~You now have the girl's contact number in your phone book. Log off the computer.
+
+;0x4BEE80A7=~s~Click on the link of the car sales advert or enter the web address.
+0x4BEE80A7=~s~Click on the link of the car sales advert or enter the web address.
+
+;0x4DFD4DC3=~r~The car was destroyed.
+0x4DFD4DC3=~r~The car was destroyed.
+
+;0x59B0C55C=~s~Log onto a computer and use the internet.
+0x59B0C55C=~s~Log onto a computer and use the internet.
+
+;0x5A0265CD=~r~Gracie was scared off.
+0x5A0265CD=~r~Gracie was scared off.
+
+;0x67CE0168=~r~Gracie is dead.
+0x67CE0168=~r~Gracie is dead.
+
+;0xA8910843=~s~Go back to the computer and log on.
+0xA8910843=~s~Go back to the computer and log on.
+
+;0xCAD08DC8=~s~Call Packie.
+0xCAD08DC8=~s~Call Packie.
+
+;0xD28DE8E1=~s~If you wreck the car the girl will flee the vehicle.
+0xD28DE8E1=~s~If you wreck the car the girl will flee the vehicle.
+
+;0xD7B8D829=~s~Click on the View Cars link.
+0xD7B8D829=~s~Click on the View Cars link.
+
+;0xDE40E0CC=~s~You have spooked Gracie. Take her to the ~y~safehouse.
+0xDE40E0CC=~s~You have spooked Gracie. Take her to the ~y~safehouse.
+
+;0xE4DCF9C5=~s~Test drive the car to the ~y~coast.
+0xE4DCF9C5=~s~Test drive the car to the ~y~coast.
+
+;0xF6A29D50=~s~Go to meet ~b~Gracie Ancelotti~s~ at her house.
+0xF6A29D50=~s~Go to meet ~b~Gracie Ancelotti~s~ at her house.
+
+;0xF788A0DB=~r~ Gracie gave up on the test drive.
+0xF788A0DB=~r~ Gracie gave up on the test drive.
+

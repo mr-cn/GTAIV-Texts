@@ -1,0 +1,649 @@
+﻿[BR3AUD]
+;0x0140BA23=~z~This internet dating is a bitch. Okay? Don't even know which guy it is you're gonna screw.
+0x0140BA23=~z~This internet dating is a bitch. Okay? Don't even know which guy it is you're gonna screw.
+
+;0x01EE1C05=~z~Hit me.
+0x01EE1C05=~z~Hit me.
+
+;0x0353FD25=~z~Don't tell me you fell in love with this guy and are running away with him or somethin'?
+0x0353FD25=~z~Don't tell me you fell in love with this guy and are running away with him or somethin'?
+
+;0x0483034C=~z~Niko, I've got a date for you with this guy tomorrow at noon. Do it, will you?
+0x0483034C=~z~Niko, I've got a date for you with this guy tomorrow at noon. Do it, will you?
+
+;0x0776D163=~z~Alright, man. I'm at the internet café. What now?
+0x0776D163=~z~Alright, man. I'm at the internet café. What now?
+
+;0x07E83298=~z~Brucie, you got to chill. For real.
+0x07E83298=~z~Brucie, you got to chill. For real.
+
+;0x0A173357=BR3_KA
+0x0A173357=BR3_KA
+
+;0x0A97616F=100
+0x0A97616F=100
+
+;0x0ABB064F=~z~I haven't met him and I don't want to. Mr. Job sounds like an asshole.
+0x0ABB064F=~z~I haven't met him and I don't want to. Mr. Job sounds like an asshole.
+
+;0x0B2E3B9C=~z~Yeah, yeah, yeah...
+0x0B2E3B9C=~z~Yeah, yeah, yeah...
+
+;0x0B81AB6B=~z~Screw you. Are you trying to blow us up? Play with your own worthless life. Mine's too important.
+0x0B81AB6B=~z~Screw you. Are you trying to blow us up? Play with your own worthless life. Mine's too important.
+
+;0x0CFE3A82=100
+0x0CFE3A82=100
+
+;0x0DC0B59A=010100100100100
+0x0DC0B59A=010100100100100
+
+;0x0EC20006=~z~You are not fucking with these clothes. Do you know how much they cost?
+0x0EC20006=~z~You are not fucking with these clothes. Do you know how much they cost?
+
+;0x0F4AEF6B=BR3_UA
+0x0F4AEF6B=BR3_UA
+
+;0x0FB15DCD=~z~Fuck you, bitch. You ain't miss thing. You can't tell me shit about who I am.
+0x0FB15DCD=~z~Fuck you, bitch. You ain't miss thing. You can't tell me shit about who I am.
+
+;0x101CA4EF=~z~How did I get this desperate?
+0x101CA4EF=~z~How did I get this desperate?
+
+;0x128492AA=~z~Give it to him hard, will you? Strange choice of words, but you know what I mean.
+0x128492AA=~z~Give it to him hard, will you? Strange choice of words, but you know what I mean.
+
+;0x148ECBE5=~z~And the dick won't pay. Instead he's said he's going to have me killed, that bitch.
+0x148ECBE5=~z~And the dick won't pay. Instead he's said he's going to have me killed, that bitch.
+
+;0x1497585A=BR3_FA
+0x1497585A=BR3_FA
+
+;0x15FC5138=~z~Now listen, NB, this guy is in hiding.
+0x15FC5138=~z~Now listen, NB, this guy is in hiding.
+
+;0x1712E5C7=~z~Brucie, I couldn't tell which one your boy was. Things got confusing.
+0x1712E5C7=~z~Brucie, I couldn't tell which one your boy was. Things got confusing.
+
+;0x17DBA090=~z~Really. What type of man do you want to meet?
+0x17DBA090=~z~Really. What type of man do you want to meet?
+
+;0x193B74EC=~z~The website is Love-meet. Go to it, bro.
+0x193B74EC=~z~The website is Love-meet. Go to it, bro.
+
+;0x199A719F=~z~I'm just here to do a job. People in this world need to work. And my work is getting rid of you.
+0x199A719F=~z~I'm just here to do a job. People in this world need to work. And my work is getting rid of you.
+
+;0x1A365730=~z~No. Dude, listen!
+0x1A365730=~z~No. Dude, listen!
+
+;0x21DCF664=BR3_RD
+0x21DCF664=BR3_RD
+
+;0x2417A77B=~z~Niko, I've got a date for you with this guy tomorrow night at midnight. Get rid of him.
+0x2417A77B=~z~Niko, I've got a date for you with this guy tomorrow night at midnight. Get rid of him.
+
+;0x246AD57B=BR3_TC
+0x246AD57B=BR3_TC
+
+;0x257F63CC=~z~Shit, man, hopefully ain't good enough.
+0x257F63CC=~z~Shit, man, hopefully ain't good enough.
+
+;0x258B2D98=~z~Get the fuck off me. I don't want bruises.
+0x258B2D98=~z~Get the fuck off me. I don't want bruises.
+
+;0x2803F547=~z~But - he's a serious co...
+0x2803F547=~z~But - he's a serious co...
+
+;0x28DE3641=100100010100
+0x28DE3641=100100010100
+
+;0x298E43F5=~z~One with a lot of money. Do you know Gay Tony? Runs Hercules and Maisonette 9.
+0x298E43F5=~z~One with a lot of money. Do you know Gay Tony? Runs Hercules and Maisonette 9.
+
+;0x2A4EE32F=BR3_TA
+0x2A4EE32F=BR3_TA
+
+;0x2AD26AAF=BR3_NA
+0x2AD26AAF=BR3_NA
+
+;0x2C3099EE=BR3_GC
+0x2C3099EE=BR3_GC
+
+;0x2EB1A383=~z~You're packing heat? That makes me real uncomfortable. I'm outta here.
+0x2EB1A383=~z~You're packing heat? That makes me real uncomfortable. I'm outta here.
+
+;0x2F670175=100
+0x2F670175=100
+
+;0x2FA14731=BR3_SA
+0x2FA14731=BR3_SA
+
+;0x30940747=~z~Ahh! Nicky!
+0x30940747=~z~Ahh! Nicky!
+
+;0x313B9601=BR3_RA
+0x313B9601=BR3_RA
+
+;0x32048D01=BR3_HA
+0x32048D01=BR3_HA
+
+;0x32D4990A=BR3_VA
+0x32D4990A=BR3_VA
+
+;0x33484129=BR3_CG_QQQ1
+0x33484129=BR3_CG_QQQ1
+
+;0x36019FD2=BR3_DB
+0x36019FD2=BR3_DB
+
+;0x36182A9A=~z~What're you talking about? How the fuck do you know who I pay and don't pay back?
+0x36182A9A=~z~What're you talking about? How the fuck do you know who I pay and don't pay back?
+
+;0x36AB901A=~z~That's the thing, it's a guy.
+0x36AB901A=~z~That's the thing, it's a guy.
+
+;0x36DC503A=~z~Did your daddy beat you? Is that why you're doing this?
+0x36DC503A=~z~Did your daddy beat you? Is that why you're doing this?
+
+;0x382B151D=~z~Alright, let me see...
+0x382B151D=~z~Alright, let me see...
+
+;0x389FB0B5=BR3_AB
+0x389FB0B5=BR3_AB
+
+;0x3A4039DC=BR3_AI
+0x3A4039DC=BR3_AI
+
+;0x3AF58E1B=~z~Hey, man.
+0x3AF58E1B=~z~Hey, man.
+
+;0x3C159A38=100100
+0x3C159A38=100100
+
+;0x3D506C86=~z~Come see me.
+0x3D506C86=~z~Come see me.
+
+;0x3D733D5B=~z~You're an animal, man. Eat him alive, okay?
+0x3D733D5B=~z~You're an animal, man. Eat him alive, okay?
+
+;0x3DA4C0FA=BR3_UC
+0x3DA4C0FA=BR3_UC
+
+;0x3E204737=~z~You got a bad knee or something. Is that why you're standing?
+0x3E204737=~z~You got a bad knee or something. Is that why you're standing?
+
+;0x4018DF7D=~z~He must want action, bro. Give him some, okay?
+0x4018DF7D=~z~He must want action, bro. Give him some, okay?
+
+;0x4100E483=~z~So, you are a freak from the internet.
+0x4100E483=~z~So, you are a freak from the internet.
+
+;0x41F5A3A6=BR3_EB
+0x41F5A3A6=BR3_EB
+
+;0x42BCA840=~z~Hi-ah!
+0x42BCA840=~z~Hi-ah!
+
+;0x4377BDE4=~z~Niko, I've got a date for you with this guy tomorrow night at midnight. Get rid of him.
+0x4377BDE4=~z~Niko, I've got a date for you with this guy tomorrow night at midnight. Get rid of him.
+
+;0x445A798D=~z~I'll tell you a secret, he pretends to have the dollars but he's broke as hell - the loser.
+0x445A798D=~z~I'll tell you a secret, he pretends to have the dollars but he's broke as hell - the loser.
+
+;0x45E48245=~z~That didn't happen, man. I missed the date.
+0x45E48245=~z~That didn't happen, man. I missed the date.
+
+;0x4617B0F6=~z~I am a "vulnerable guy who needs to be held by big strong arms"?
+0x4617B0F6=~z~I am a "vulnerable guy who needs to be held by big strong arms"?
+
+;0x487933B5=~z~The cousin of that guy you killed, Lyle Rivas, owes me a lot of money.
+0x487933B5=~z~The cousin of that guy you killed, Lyle Rivas, owes me a lot of money.
+
+;0x4895FA60=BR3_YA
+0x4895FA60=BR3_YA
+
+;0x489DFEDC=~z~Niko. Hey, wake up! I've got a date for you with this guy, alright?
+0x489DFEDC=~z~Niko. Hey, wake up! I've got a date for you with this guy, alright?
+
+;0x494BDBF8=BR3_GA
+0x494BDBF8=BR3_GA
+
+;0x49679784=~z~Ewww. Disgusting man, get away from me.
+0x49679784=~z~Ewww. Disgusting man, get away from me.
+
+;0x4A8450C9=BR3_LB
+0x4A8450C9=BR3_LB
+
+;0x4B08628D=010100100
+0x4B08628D=010100100
+
+;0x4B8A804A=~z~I don't think he'll be seeing anyone.
+0x4B8A804A=~z~I don't think he'll be seeing anyone.
+
+;0x4C81B907=100
+0x4C81B907=100
+
+;0x4CD5B1DB=~z~Ohh, motherfuckers....
+0x4CD5B1DB=~z~Ohh, motherfuckers....
+
+;0x4D4BD8AD=BR3_AA
+0x4D4BD8AD=BR3_AA
+
+;0x4E0E5E30=BR3_AL
+0x4E0E5E30=BR3_AL
+
+;0x4E418004=BR3_IA
+0x4E418004=BR3_IA
+
+;0x4EC01CA2=~z~What the fuck? You're meant to drink those things not light them, you stupid shit. This date is over.
+0x4EC01CA2=~z~What the fuck? You're meant to drink those things not light them, you stupid shit. This date is over.
+
+;0x51BD73C5=BR3_XA
+0x51BD73C5=BR3_XA
+
+;0x51D2C9B4=~z~You got to be kidding me!
+0x51D2C9B4=~z~You got to be kidding me!
+
+;0x51E96647=~z~The guy you want a date with is using French Tom as his screen name.
+0x51E96647=~z~The guy you want a date with is using French Tom as his screen name.
+
+;0x51FE94D9=~z~If there's one thing that I hate more than fat people and cripples, it is poor guys.
+0x51FE94D9=~z~If there's one thing that I hate more than fat people and cripples, it is poor guys.
+
+;0x52DBAA98=~z~Yeah. All sorts of sickos can use the internet. You have to be careful. I'm Niko.
+0x52DBAA98=~z~Yeah. All sorts of sickos can use the internet. You have to be careful. I'm Niko.
+
+;0x53E24AB3=BR3_EA
+0x53E24AB3=BR3_EA
+
+;0x54894B4E=BR3_HC
+0x54894B4E=BR3_HC
+
+;0x5552CD68=~z~Fuck you.
+0x5552CD68=~z~Fuck you.
+
+;0x583E26F8=~z~What? That ain't cool. We'll talk soon.
+0x583E26F8=~z~What? That ain't cool. We'll talk soon.
+
+;0x58F76480=BR3_AG
+0x58F76480=BR3_AG
+
+;0x59E82E94=BR3_OA
+0x59E82E94=BR3_OA
+
+;0x5BCDDC62=~z~Yeah.
+0x5BCDDC62=~z~Yeah.
+
+;0x5C71FF03=~z~I've seen guys pull weird shit out their pants but guns freak me out. Goodbye.
+0x5C71FF03=~z~I've seen guys pull weird shit out their pants but guns freak me out. Goodbye.
+
+;0x5DAE2491=~z~Not so good. I don't think we'll be seeing each other again.
+0x5DAE2491=~z~Not so good. I don't think we'll be seeing each other again.
+
+;0x5E91AF08=~z~Nicky, I thought you were into this?
+0x5E91AF08=~z~Nicky, I thought you were into this?
+
+;0x5E9F556E=~z~Hit me, come on!
+0x5E9F556E=~z~Hit me, come on!
+
+;0x620C780A=BR3_AH
+0x620C780A=BR3_AH
+
+;0x62153506=~z~Is that why you borrow money that you can't pay back?
+0x62153506=~z~Is that why you borrow money that you can't pay back?
+
+;0x6266EADC=~z~I knew we should have made him a giver not a taker, Brucie!
+0x6266EADC=~z~I knew we should have made him a giver not a taker, Brucie!
+
+;0x635F8528=~z~I wouldn't fuck a scummy immigrant like you anyway.
+0x635F8528=~z~I wouldn't fuck a scummy immigrant like you anyway.
+
+;0x643D1304=~z~Chill out, hot stuff. We haven't even eaten yet.
+0x643D1304=~z~Chill out, hot stuff. We haven't even eaten yet.
+
+;0x656C28CA=~z~Niko, it's me. Listen, I've got a date for you with this guy at 6pm tonight. Good luck.
+0x656C28CA=~z~Niko, it's me. Listen, I've got a date for you with this guy at 6pm tonight. Good luck.
+
+;0x691734AF=~z~You've got real intimacy issues.
+0x691734AF=~z~You've got real intimacy issues.
+
+;0x6CDB4B9B=~z~I thought you were gonna date this guy and deliver the goods, man?
+0x6CDB4B9B=~z~I thought you were gonna date this guy and deliver the goods, man?
+
+;0x6CDB97D7=BR3_GB
+0x6CDB97D7=BR3_GB
+
+;0x6E24017A=BR3_EC
+0x6E24017A=BR3_EC
+
+;0x700682CF=~z~Okay. Who is she?
+0x700682CF=~z~Okay. Who is she?
+
+;0x701E4971=~z~Anyway, your profile is still up there, bro.
+0x701E4971=~z~Anyway, your profile is still up there, bro.
+
+;0x705878E0=~z~What?
+0x705878E0=~z~What?
+
+;0x73E13DEA=BR3_CD
+0x73E13DEA=BR3_CD
+
+;0x77799511=~z~And I will pay heavily for this.
+0x77799511=~z~And I will pay heavily for this.
+
+;0x787FAE96=100
+0x787FAE96=100
+
+;0x7A8B2BC2=BR3_A_AA
+0x7A8B2BC2=BR3_A_AA
+
+;0x7A983FBA=~z~Do you want to go already? I'm not that easy, sweetie.
+0x7A983FBA=~z~Do you want to go already? I'm not that easy, sweetie.
+
+;0x7ACB82AC=BR3_WA
+0x7ACB82AC=BR3_WA
+
+;0x7B5FC39B=BR3_GA_QQQ1
+0x7B5FC39B=BR3_GA_QQQ1
+
+;0x7E6B81F7=~z~You never know who's going to turn up when you've met someone online.
+0x7E6B81F7=~z~You never know who's going to turn up when you've met someone online.
+
+;0x807337AA=100100010
+0x807337AA=100100010
+
+;0x816D2BF9=100
+0x816D2BF9=100
+
+;0x82402742=~z~Come on. What's wrong with you?
+0x82402742=~z~Come on. What's wrong with you?
+
+;0x824CEDCE=~z~Nicky, you're an animal.
+0x824CEDCE=~z~Nicky, you're an animal.
+
+;0x83A4BCED=BR3_LA
+0x83A4BCED=BR3_LA
+
+;0x84840DBC=~z~This isn't right at all.
+0x84840DBC=~z~This isn't right at all.
+
+;0x85332295=~z~Hey!
+0x85332295=~z~Hey!
+
+;0x858484DD=BR3_JA
+0x858484DD=BR3_JA
+
+;0x86EE33FA=~z~You're a dick.
+0x86EE33FA=~z~You're a dick.
+
+;0x886602B4=~z~Hey, man. The guy got away.
+0x886602B4=~z~Hey, man. The guy got away.
+
+;0x89D52C7A=~z~You need to make sure in life. Come see me, bro.
+0x89D52C7A=~z~You need to make sure in life. Come see me, bro.
+
+;0x8CC19E37=~z~You filthy creep.
+0x8CC19E37=~z~You filthy creep.
+
+;0x8CFFBF39=~z~No! But the guy knows me, and I don't think anyone would date that fat Slav.
+0x8CFFBF39=~z~No! But the guy knows me, and I don't think anyone would date that fat Slav.
+
+;0x93174C4C=~z~And Roman, cousin?
+0x93174C4C=~z~And Roman, cousin?
+
+;0x94A61284=~z~I'd be getting involved in some of that internet dating shit but I only date models,
+0x94A61284=~z~I'd be getting involved in some of that internet dating shit but I only date models,
+
+;0x94F7DCD1=BR3_DA
+0x94F7DCD1=BR3_DA
+
+;0x95B46B34=101011101101011101101101011101101011101
+0x95B46B34=101011101101011101101101011101101011101
+
+;0x9660D967=BR3_MA
+0x9660D967=BR3_MA
+
+;0x9752B359=~z~Get away from me. You're too poor to kill me.
+0x9752B359=~z~Get away from me. You're too poor to kill me.
+
+;0x9770C710=~z~Fifty-nine... sixty...
+0x9770C710=~z~Fifty-nine... sixty...
+
+;0x98E367D0=BR3_DC
+0x98E367D0=BR3_DC
+
+;0x9907E084=BR3_AC
+0x9907E084=BR3_AC
+
+;0x9AEA6AF6=BR3_DB_QQQ1
+0x9AEA6AF6=BR3_DB_QQQ1
+
+;0x9B8A59D6=~z~Ehh...
+0x9B8A59D6=~z~Ehh...
+
+;0x9B9F7B89=100100
+0x9B9F7B89=100100
+
+;0x9BE31E7A=BR3_ZA
+0x9BE31E7A=BR3_ZA
+
+;0xA0324A3A=BR3_QA
+0xA0324A3A=BR3_QA
+
+;0xA2D94A66=~z~Not the face. Don't ruin my beautiful face.
+0xA2D94A66=~z~Not the face. Don't ruin my beautiful face.
+
+;0xA3396996=BR3_CF
+0xA3396996=BR3_CF
+
+;0xA507F9ED=~z~Man, you were meant to say you were after his cock, not him.
+0xA507F9ED=~z~Man, you were meant to say you were after his cock, not him.
+
+;0xA6B0658F=~z~Hey, guys.
+0xA6B0658F=~z~Hey, guys.
+
+;0xA797A652=BR3_CE
+0xA797A652=BR3_CE
+
+;0xA8073946=~z~There's all sorts of crazy bitches on that site you can get into. Real freaks, you know?
+0xA8073946=~z~There's all sorts of crazy bitches on that site you can get into. Real freaks, you know?
+
+;0xA88B8290=BR3_FC
+0xA88B8290=BR3_FC
+
+;0xA968AB51=100
+0xA968AB51=100
+
+;0xA98AF4F1=010100100100
+0xA98AF4F1=010100100100
+
+;0xA9C37574=BR3_ED
+0xA9C37574=BR3_ED
+
+;0xAC8886B1=100
+0xAC8886B1=100
+
+;0xAE6C0C30=BR3_AM
+0xAE6C0C30=BR3_AM
+
+;0xB2BE8AB6=~z~Oh. So you think of me.
+0xB2BE8AB6=~z~Oh. So you think of me.
+
+;0xB50AEEC9=~z~Your profile looked cute.
+0xB50AEEC9=~z~Your profile looked cute.
+
+;0xB5359A48=~z~What's wrong with you, brother? We'll talk soon.
+0xB5359A48=~z~What's wrong with you, brother? We'll talk soon.
+
+;0xB5A36438=BR3_QA_QQQ1
+0xB5A36438=BR3_QA_QQQ1
+
+;0xB8530FCE=010100100100
+0xB8530FCE=010100100100
+
+;0xB933DB9F=~z~Not many of them online, yeah? Catch you later, big guy. Laters.
+0xB933DB9F=~z~Not many of them online, yeah? Catch you later, big guy. Laters.
+
+;0xB9DD4D1D=BR3_CC
+0xB9DD4D1D=BR3_CC
+
+;0xB9F9488F=~z~Niko! It's me. I've got a date for you with this guy today at 8am. Have fun.
+0xB9F9488F=~z~Niko! It's me. I've got a date for you with this guy today at 8am. Have fun.
+
+;0xBA95EB50=100
+0xBA95EB50=100
+
+;0xBCB9FE93=~z~Hey, are you my date? Thank God!
+0xBCB9FE93=~z~Hey, are you my date? Thank God!
+
+;0xBDFA1E0B=BR3_CG
+0xBDFA1E0B=BR3_CG
+
+;0xC0152481=BR3_CH
+0xC0152481=BR3_CH
+
+;0xC0DBB1C0=BR3_FB
+0xC0DBB1C0=BR3_FB
+
+;0xC2831545=BR3_TB
+0xC2831545=BR3_TB
+
+;0xC2BC9E48=~z~Yo, Brucie. I killed some guy. Hopefully it was the one you were after.
+0xC2BC9E48=~z~Yo, Brucie. I killed some guy. Hopefully it was the one you were after.
+
+;0xC6862536=~z~Niko, you wanna go on a date?
+0xC6862536=~z~Niko, you wanna go on a date?
+
+;0xC717D5D5=BR3_AK
+0xC717D5D5=BR3_AK
+
+;0xC9A14B16=100
+0xC9A14B16=100
+
+;0xC9A278DC=BR3_PA
+0xC9A278DC=BR3_PA
+
+;0xCA6C7E10=~z~you know? Or VIPs who could be models.
+0xCA6C7E10=~z~you know? Or VIPs who could be models.
+
+;0xCBEE54A9=100
+0xCBEE54A9=100
+
+;0xCF2A438D=~z~So, I'm just doing your profile.
+0xCF2A438D=~z~So, I'm just doing your profile.
+
+;0xCFF938C1=~z~No, I make sure my abs will be better than anyone else's.
+0xCFF938C1=~z~No, I make sure my abs will be better than anyone else's.
+
+;0xD0D0127A=~z~So Niko, what do you do?
+0xD0D0127A=~z~So Niko, what do you do?
+
+;0xD21C4E58=~z~Niko, I've got a date for you with this guy tomorrow at 6pm. You better be there.
+0xD21C4E58=~z~Niko, I've got a date for you with this guy tomorrow at 6pm. You better be there.
+
+;0xD5BDDBCB=BR3_AD
+0xD5BDDBCB=BR3_AD
+
+;0xD6079C65=~z~Sports aren't cool, man. There are better balls to be playing with. I'm gone.
+0xD6079C65=~z~Sports aren't cool, man. There are better balls to be playing with. I'm gone.
+
+;0xD7CDCAD2=100
+0xD7CDCAD2=100
+
+;0xD81CA6B7=~z~Niko, what's happening?
+0xD81CA6B7=~z~Niko, what's happening?
+
+;0xD87CB914=~z~This is an all time low.
+0xD87CB914=~z~This is an all time low.
+
+;0xD9BA6351=~z~Sorry, Brucie. I think I let slip to your guy that I was after him.
+0xD9BA6351=~z~Sorry, Brucie. I think I let slip to your guy that I was after him.
+
+;0xDB2F76C1=BR3_CA
+0xDB2F76C1=BR3_CA
+
+;0xDDA4762A=010100100
+0xDDA4762A=010100100
+
+;0xDE7CA638=~z~How was your date, bro?
+0xDE7CA638=~z~How was your date, bro?
+
+;0xDF225713=~z~You think I work out until I'll hopefully have cut abs?
+0xDF225713=~z~You think I work out until I'll hopefully have cut abs?
+
+;0xE071E61C=~z~He's a serious cockhound.
+0xE071E61C=~z~He's a serious cockhound.
+
+;0xE28DF9EB=BR3_AE
+0xE28DF9EB=BR3_AE
+
+;0xE3EA90A6=BR3_AJ
+0xE3EA90A6=BR3_AJ
+
+;0xE4211AF9=100010010100100100100100100
+0xE4211AF9=100010010100100100100100100
+
+;0xE510082A=100
+0xE510082A=100
+
+;0xE6110FB7=~z~Niko, I've got a date for you with this guy tomorrow morning at 8am. Make it his last breakfast.
+0xE6110FB7=~z~Niko, I've got a date for you with this guy tomorrow morning at 8am. Make it his last breakfast.
+
+;0xE639FE23=BR3_AF
+0xE639FE23=BR3_AF
+
+;0xE6B9836A=BR3_RC
+0xE6B9836A=BR3_RC
+
+;0xE824D4FC=~z~This is so undignified.
+0xE824D4FC=~z~This is so undignified.
+
+;0xE93C7895=~z~Okay.
+0xE93C7895=~z~Okay.
+
+;0xEA67A459=BR3_UB
+0xEA67A459=BR3_UB
+
+;0xEE3D13DE=BR3_DD
+0xEE3D13DE=BR3_DD
+
+;0xEF174F08=~z~I do a lot of things. What's your job?
+0xEF174F08=~z~I do a lot of things. What's your job?
+
+;0xEF2F928F=100100100
+0xEF2F928F=100100100
+
+;0xEF39825D=~z~Niko. It's me. I've got a date for you with this guy today at noon. Enjoy it, bro.
+0xEF39825D=~z~Niko. It's me. I've got a date for you with this guy today at noon. Enjoy it, bro.
+
+;0xF0D407B8=~z~Oh, shut up! Now listen, Nicky... I need you.
+0xF0D407B8=~z~Oh, shut up! Now listen, Nicky... I need you.
+
+;0xF29E1CDE=~z~Insane man! Come back to my crib, Nicky.
+0xF29E1CDE=~z~Insane man! Come back to my crib, Nicky.
+
+;0xF4A64196=BR3_CB
+0xF4A64196=BR3_CB
+
+;0xF68C00CA=100
+0xF68C00CA=100
+
+;0xF6FBB408=~z~You've got a gun? I'm not into that sick shit. Go play with some other methhead freak.
+0xF6FBB408=~z~You've got a gun? I'm not into that sick shit. Go play with some other methhead freak.
+
+;0xF8752109=BR3_RB
+0xF8752109=BR3_RB
+
+;0xFD90EBFB=~z~Job? Job? Everyone's talking about this Job guy.
+0xFD90EBFB=~z~Job? Job? Everyone's talking about this Job guy.
+
+;0xFDDE0072=~z~I should have never lowered my standards.
+0xFDDE0072=~z~I should have never lowered my standards.
+
+;0xFDF8DE48=~z~Hey man, they've got cutlery here. You don't need to bring that shit out. Freak.
+0xFDF8DE48=~z~Hey man, they've got cutlery here. You don't need to bring that shit out. Freak.
+
+;0xFFC0A2CE=BR3_HB
+0xFFC0A2CE=BR3_HB
+

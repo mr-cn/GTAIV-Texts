@@ -1,0 +1,301 @@
+﻿[BR1AUD]
+;0x02672729=~z~Remember that, alright?
+0x02672729=~z~Remember that, alright?
+
+;0x032DF4D6=010100100100100010100
+0x032DF4D6=010100100100100010100
+
+;0x06A0E8E9=~z~I said hello!
+0x06A0E8E9=~z~I said hello!
+
+;0x06FF31A5=~z~You gotta steal a police car, get on the computer, gimme a call. They're easy to hack.
+0x06FF31A5=~z~You gotta steal a police car, get on the computer, gimme a call. They're easy to hack.
+
+;0x09E271FF=~z~I'll track down this Rivas.
+0x09E271FF=~z~I'll track down this Rivas.
+
+;0x0BD2B908=~z~That's some red army shit, serious.
+0x0BD2B908=~z~That's some red army shit, serious.
+
+;0x0CD0DB87=010100
+0x0CD0DB87=010100
+
+;0x135F4919=~z~I mean I am no chubby chaser, but if I was, and a queer, that guy would be in trouble,
+0x135F4919=~z~I mean I am no chubby chaser, but if I was, and a queer, that guy would be in trouble,
+
+;0x14922E7F=BR1_EB
+0x14922E7F=BR1_EB
+
+;0x160F8A59=~z~Cats don't want to mess with someone packing twenty-four inch guns like mine baby. Yeah!
+0x160F8A59=~z~Cats don't want to mess with someone packing twenty-four inch guns like mine baby. Yeah!
+
+;0x161D4FE1=~z~How do I find them?
+0x161D4FE1=~z~How do I find them?
+
+;0x18C0DE38=BR1_EC
+0x18C0DE38=BR1_EC
+
+;0x1A7A109B=~z~Yeah, he's around. Brucie! Some fucking Polack asshole for you.
+0x1A7A109B=~z~Yeah, he's around. Brucie! Some fucking Polack asshole for you.
+
+;0x1BE0CD0E=~z~The guy you sent me after, Rivas. He got away.
+0x1BE0CD0E=~z~The guy you sent me after, Rivas. He got away.
+
+;0x1C1193C2=~z~Lethal, man. A lot of people are going to be very grateful that certain people who fucked with them
+0x1C1193C2=~z~Lethal, man. A lot of people are going to be very grateful that certain people who fucked with them
+
+;0x1CE45D87=~z~Not really.
+0x1CE45D87=~z~Not really.
+
+;0x1CF3F976=BR1_BA
+0x1CF3F976=BR1_BA
+
+;0x21EF381A=010100100100100
+0x21EF381A=010100100100100
+
+;0x22680376=BR1_BB
+0x22680376=BR1_BB
+
+;0x236AEA7C=~z~Man, you're cold. You didn't even blink!
+0x236AEA7C=~z~Man, you're cold. You didn't even blink!
+
+;0x247CA733=~z~I'd take him out myself but when people see me coming they fucking run, man. Know what I'm saying?
+0x247CA733=~z~I'd take him out myself but when people see me coming they fucking run, man. Know what I'm saying?
+
+;0x260BEE72=~z~-you know what I mean?~n~-I'll let him know.
+0x260BEE72=~z~-you know what I mean?~n~-I'll let him know.
+
+;0x2AADF91A=~z~Alright, Brucie, I'll give you a call.
+0x2AADF91A=~z~Alright, Brucie, I'll give you a call.
+
+;0x2AB65A5E=~z~I never thought this would be for real.
+0x2AB65A5E=~z~I never thought this would be for real.
+
+;0x364C4837=~z~I get the money you're paying.
+0x364C4837=~z~I get the money you're paying.
+
+;0x3871F5D5=~z~Man, shit, Brucie's fucking crazy.
+0x3871F5D5=~z~Man, shit, Brucie's fucking crazy.
+
+;0x38FA51C1=BR1_AE
+0x38FA51C1=BR1_AE
+
+;0x3ED51EF4=~z~and we need some money real bad.
+0x3ED51EF4=~z~and we need some money real bad.
+
+;0x3F3A02EE=BR1_EA
+0x3F3A02EE=BR1_EA
+
+;0x4D17BB79=~z~Shit, my bad. Yeah, of course. Love that guy. Love him.
+0x4D17BB79=~z~Shit, my bad. Yeah, of course. Love that guy. Love him.
+
+;0x4DD47747=~z~You should not worry about Rivas any more.
+0x4DD47747=~z~You should not worry about Rivas any more.
+
+;0x50213B42=102
+0x50213B42=102
+
+;0x5171C42D=~z~Shit no shit. What you doing here, man?
+0x5171C42D=~z~Shit no shit. What you doing here, man?
+
+;0x5386549E=BR1_ED
+0x5386549E=BR1_ED
+
+;0x570ECE87=~z~Hey yah! Oh! Ah! Oh! Enough, man, enough! Oh! Whoo!
+0x570ECE87=~z~Hey yah! Oh! Ah! Oh! Enough, man, enough! Oh! Whoo!
+
+;0x59EAD77B=~z~What?
+0x59EAD77B=~z~What?
+
+;0x5CC71722=BR1_AG
+0x5CC71722=BR1_AG
+
+;0x5FAB60A0=~z~Well, Roman said maybe you needed some help,
+0x5FAB60A0=~z~Well, Roman said maybe you needed some help,
+
+;0x6391A2C9=~z~Ow! Motherfucker!
+0x6391A2C9=~z~Ow! Motherfucker!
+
+;0x64E76A38=~z~-Fuck me, man. Woo!~n~-You'll be alright, eh?
+0x64E76A38=~z~-Fuck me, man. Woo!~n~-You'll be alright, eh?
+
+;0x658051BA=BR1_EB_QQQ1
+0x658051BA=BR1_EB_QQQ1
+
+;0x689074C6=~z~I need you to whack some people, only they're in hiding.
+0x689074C6=~z~I need you to whack some people, only they're in hiding.
+
+;0x6911AE9F=BR1_AF
+0x6911AE9F=BR1_AF
+
+;0x70090257=~z~Sometimes people fuck other people over, okay?
+0x70090257=~z~Sometimes people fuck other people over, okay?
+
+;0x72B68259=BR1_DD
+0x72B68259=BR1_DD
+
+;0x75768E92=~z~And the people that fuck other people need to get fucked with.
+0x75768E92=~z~And the people that fuck other people need to get fucked with.
+
+;0x75E08D0A=~z~Rock hard. I bench four-fifty I'm an animal.
+0x75E08D0A=~z~Rock hard. I bench four-fifty I'm an animal.
+
+;0x77592302=~z~Brucie? I thought he was fucking joking... shit.
+0x77592302=~z~Brucie? I thought he was fucking joking... shit.
+
+;0x7A949592=~z~I got you, man! I'm big, but I'm also fast. Wake up, boy!
+0x7A949592=~z~I got you, man! I'm big, but I'm also fast. Wake up, boy!
+
+;0x8232EF6D=BR1_AC
+0x8232EF6D=BR1_AC
+
+;0x83352A0F=~z~Especially people that go into hiding, before they can get on the stand and put a lot of guys inside for a lot of time.
+0x83352A0F=~z~Especially people that go into hiding, before they can get on the stand and put a lot of guys inside for a lot of time.
+
+;0x845729F7=~z~Yeah, yeah, yeah...
+0x845729F7=~z~Yeah, yeah, yeah...
+
+;0x88643131=~z~Ooh, I'm sorry. Can you show me that again?
+0x88643131=~z~Ooh, I'm sorry. Can you show me that again?
+
+;0x9353908E=BR1_AB
+0x9353908E=BR1_AB
+
+;0x9471CB28=~z~This ain't a nice job. Not exactly mom and pop shit.
+0x9471CB28=~z~This ain't a nice job. Not exactly mom and pop shit.
+
+;0x951005C1=~z~Hey.
+0x951005C1=~z~Hey.
+
+;0x968608B1=~z~Is your boss around?
+0x968608B1=~z~Is your boss around?
+
+;0x9AC24F14=BR1_DE
+0x9AC24F14=BR1_DE
+
+;0x9C605929=~z~Okay.
+0x9C605929=~z~Okay.
+
+;0xA1C058C7=~z~Not with you, man. I mean, I couldn't be angry with you.
+0xA1C058C7=~z~Not with you, man. I mean, I couldn't be angry with you.
+
+;0xA256A04E=~z~Hello?
+0xA256A04E=~z~Hello?
+
+;0xA30AA4B4=BR1_AD
+0xA30AA4B4=BR1_AD
+
+;0xA698E8FD=BR1_DC
+0xA698E8FD=BR1_DC
+
+;0xA6C06FC5=~z~No problem, as long as the pay is good.
+0xA6C06FC5=~z~No problem, as long as the pay is good.
+
+;0xA7B864B7=~z~Just, like, fucking angry. Come back to see me, bro.
+0xA7B864B7=~z~Just, like, fucking angry. Come back to see me, bro.
+
+;0xA86CFE0E=~z~Ice cold man! Ice cold!
+0xA86CFE0E=~z~Ice cold man! Ice cold!
+
+;0xA992F819=BR1_AA
+0xA992F819=BR1_AA
+
+;0xAD7F75AE=BR1_DF
+0xAD7F75AE=BR1_DF
+
+;0xB1E48439=~z~Sweet.
+0xB1E48439=~z~Sweet.
+
+;0xB2E4C16E=~z~Is your boss around?
+0xB2E4C16E=~z~Is your boss around?
+
+;0xB6D29001=~z~Alright now, Nicky, listen up. I know you guys need money, bad.
+0xB6D29001=~z~Alright now, Nicky, listen up. I know you guys need money, bad.
+
+;0xB75B8405=~z~This ain't cool at all, bro. God I'm angry. God! Angry.
+0xB75B8405=~z~This ain't cool at all, bro. God I'm angry. God! Angry.
+
+;0xBFE82040=~z~He's still a fucking asshole...
+0xBFE82040=~z~He's still a fucking asshole...
+
+;0xC1A7DA87=BR1_CA
+0xC1A7DA87=BR1_CA
+
+;0xC2D163E2=~z~Now this cat's name's Lyle Rivas. Type it into the computer and you should get some 'known whereabouts' and shit.
+0xC2D163E2=~z~Now this cat's name's Lyle Rivas. Type it into the computer and you should get some 'known whereabouts' and shit.
+
+;0xC59E208A=~z~Shit, man. That, that cat's still out there?
+0xC59E208A=~z~Shit, man. That, that cat's still out there?
+
+;0xC91EEDE2=~z~What did you do that for?
+0xC91EEDE2=~z~What did you do that for?
+
+;0xC988356C=~z~Yeah...
+0xC988356C=~z~Yeah...
+
+;0xCC38CCC0=~z~Lyle Rivas? I got a message from Brucie for you.
+0xCC38CCC0=~z~Lyle Rivas? I got a message from Brucie for you.
+
+;0xCD009EF4=~z~Fucking Brucie is a psychopath.
+0xCD009EF4=~z~Fucking Brucie is a psychopath.
+
+;0xD159C323=~z~Sorry, Nicky, man. How's things?
+0xD159C323=~z~Sorry, Nicky, man. How's things?
+
+;0xD2EE017C=~z~There'll be some more work when you need it.
+0xD2EE017C=~z~There'll be some more work when you need it.
+
+;0xD98B547A=~z~No, thank you.
+0xD98B547A=~z~No, thank you.
+
+;0xDA945333=BR1_DA
+0xDA945333=BR1_DA
+
+;0xDCFC3EEB=~z~That maniac is trying to get me killed.
+0xDCFC3EEB=~z~That maniac is trying to get me killed.
+
+;0xDDB05A8B=BR1_DB
+0xDDB05A8B=BR1_DB
+
+;0xE565EB3B=~z~Pleasure to meet you, too.
+0xE565EB3B=~z~Pleasure to meet you, too.
+
+;0xE7C1F0E7=~z~C'mon, touch my pecs, man.
+0xE7C1F0E7=~z~C'mon, touch my pecs, man.
+
+;0xE8F92D92=~z~can't say things to other people or fuck with anyone anymore. If you get me?
+0xE8F92D92=~z~can't say things to other people or fuck with anyone anymore. If you get me?
+
+;0xED27FCAB=~z~Okay...
+0xED27FCAB=~z~Okay...
+
+;0xEEE9BC12=~z~You're a badass, man. I love it.
+0xEEE9BC12=~z~You're a badass, man. I love it.
+
+;0xF0B583C6=~z~Hey, I'm shitting with you. Brucie likes pussy.
+0xF0B583C6=~z~Hey, I'm shitting with you. Brucie likes pussy.
+
+;0xF8814CAA=~z~I'm busy.
+0xF8814CAA=~z~I'm busy.
+
+;0xF99896D8=~z~Love that, I fucking love that!
+0xF99896D8=~z~Love that, I fucking love that!
+
+;0xFB10168F=~z~He's not a Polack. He's a gentleman.
+0xFB10168F=~z~He's not a Polack. He's a gentleman.
+
+;0xFB8AD550=~z~Cold, man... I'm feeling chills down the phone. Call me when it's done, bro.
+0xFB8AD550=~z~Cold, man... I'm feeling chills down the phone. Call me when it's done, bro.
+
+;0xFD245887=~z~I'm here, I have a computer.
+0xFD245887=~z~I'm here, I have a computer.
+
+;0xFDF1C53B=010100100010100100
+0xFDF1C53B=010100100010100100
+
+;0xFEA91EB5=~z~You gotta show me that one. I'm all about power.
+0xFEA91EB5=~z~You gotta show me that one. I'm all about power.
+
+;0xFFA75AEE=~z~You're all about the cabbage I mean, the lettuce, the lettuce! Ice cold, man. I love it.
+0xFFA75AEE=~z~You're all about the cabbage I mean, the lettuce, the lettuce! Ice cold, man. I love it.
+

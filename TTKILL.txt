@@ -1,0 +1,67 @@
+﻿[TTKILL]
+;0x05A413DD=~s~Stop the car.
+0x05A413DD=~s~Stop the car.
+
+;0x07E26E7B=~s~Call Brucie.
+0x07E26E7B=~s~Call Brucie.
+
+;0x14CF4D5F=You can use the police computer to search the police database or view any active reported crimes in the area.
+0x14CF4D5F=You can use the police computer to search the police database or view any active reported crimes in the area.
+
+;0x19C8AC6E=~s~Mark Rivas's house on your radar.
+0x19C8AC6E=~s~Mark Rivas's house on your radar.
+
+;0x19E530AA=~s~Chase down and get rid of ~r~Rivas.
+0x19E530AA=~s~Chase down and get rid of ~r~Rivas.
+
+;0x271871F1=When stopped in a cop car you can access its computer.
+0x271871F1=When stopped in a cop car you can access its computer.
+
+;0x2A9A43CD=~s~Lose your wanted level.
+0x2A9A43CD=~s~Lose your wanted level.
+
+;0x302E5D3C=~r~Rivas~s~ is escaping on foot. Get him.
+0x302E5D3C=~r~Rivas~s~ is escaping on foot. Get him.
+
+;0x320607D4=To search the database, select "Search Police Records"
+0x320607D4=To search the database, select "Search Police Records"
+
+;0x3CBB2824=~s~Search the police database to find out where LYLE RIVAS lives.
+0x3CBB2824=~s~Search the police database to find out where LYLE RIVAS lives.
+
+;0x3FB5A32F=To enter a name to search for, select "Search by Name"
+0x3FB5A32F=To enter a name to search for, select "Search by Name"
+
+;0x43782AB8=Instructions for using the computer can be found at the bottom of each screen.
+0x43782AB8=Instructions for using the computer can be found at the bottom of each screen.
+
+;0x5847D453=~s~Press ~ACCEPT~ to mark Rivas's house on the radar.
+0x5847D453=~s~Press ~ACCEPT~ to mark Rivas's house on the radar.
+
+;0x68ECB500=~s~Access the police computer.
+0x68ECB500=~s~Access the police computer.
+
+;0x6A84F8CD=Enter search name using the on-screen keyboard, or any attached keyboard device.
+0x6A84F8CD=Enter search name using the on-screen keyboard, or any attached keyboard device.
+
+;0x7D85C4EE=~s~Get a cop car.
+0x7D85C4EE=~s~Get a cop car.
+
+;0x8711B1E6=~s~Press ~PAD_B~ to leave the police computer.
+0x8711B1E6=~s~Press ~PAD_B~ to leave the police computer.
+
+;0x926B80ED=~s~Press ~INPUT_FRONTEND_PAUSE~ to leave the police computer.
+0x926B80ED=~s~Press ~INPUT_FRONTEND_PAUSE~ to leave the police computer.
+
+;0xE12A1773=~r~Rivas got away.
+0xE12A1773=~r~Rivas got away.
+
+;0xEA51D04E=~s~The cop car is trashed. Find another.
+0xEA51D04E=~s~The cop car is trashed. Find another.
+
+;0xFC7B9422=~s~Press ~INPUT_VEH_HORN~ to switch the siren on and off.
+0xFC7B9422=~s~Press ~INPUT_VEH_HORN~ to switch the siren on and off.
+
+;0xFF24F727=~s~Go to Rivas's ~y~house.
+0xFF24F727=~s~Go to Rivas's ~y~house.
+

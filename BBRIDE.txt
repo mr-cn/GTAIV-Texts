@@ -1,0 +1,40 @@
+﻿[BBRIDE]
+;0x299717F2=~s~Go to the ~y~driving range.
+0x299717F2=~s~Go to the ~y~driving range.
+
+;0x371DDC7D=Wait for ~b~Brucie~s~ and the ~b~girls.
+0x371DDC7D=Wait for ~b~Brucie~s~ and the ~b~girls.
+
+;0x3C5E79AF=~s~Go to ~y~Pier 45.
+0x3C5E79AF=~s~Go to ~y~Pier 45.
+
+;0x4AA68102=~s~Go to the ~y~industrial area.
+0x4AA68102=~s~Go to the ~y~industrial area.
+
+;0x5E2853A4=~s~Go to the ~y~sunken ships.
+0x5E2853A4=~s~Go to the ~y~sunken ships.
+
+;0x61BFE207=Hold ~PAD_Y~ to quit.
+0x61BFE207=Hold ~PAD_Y~ to quit.
+
+;0x64029568=Press ~PAD_LB~ to warp.
+0x64029568=Press ~PAD_LB~ to warp.
+
+;0x67A0BB8D=~s~Go to the ~y~Statue of Happiness.
+0x67A0BB8D=~s~Go to the ~y~Statue of Happiness.
+
+;0x7BC12322=~s~Quitting activity in ~1~ second.
+0x7BC12322=~s~Quitting activity in ~1~ second.
+
+;0x8A13940D=Press ~PAD_LB~ to quit.
+0x8A13940D=Press ~PAD_LB~ to quit.
+
+;0xB3B3F021=~s~Take everyone ~y~home.
+0xB3B3F021=~s~Take everyone ~y~home.
+
+;0xD17BCE96=~s~Quitting activity in ~1~ seconds.
+0xD17BCE96=~s~Quitting activity in ~1~ seconds.
+
+;0xD752374C=~s~Go to the ~y~Poop Deck.
+0xD752374C=~s~Go to the ~y~Poop Deck.
+

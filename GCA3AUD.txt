@@ -1,0 +1,733 @@
+﻿[GCA3AUD]
+;0x00195358=~z~Sorry, Mr. European but I want to keep those mysterious bits of you, mysterious.
+0x00195358=~z~Sorry, Mr. European but I want to keep those mysterious bits of you, mysterious.
+
+;0x01CF6D47=~z~That was really biting social commentary, wasn't it?
+0x01CF6D47=~z~That was really biting social commentary, wasn't it?
+
+;0x03096AF3=~z~Can you take me home?
+0x03096AF3=~z~Can you take me home?
+
+;0x0483751E=~z~Let me in and I promise to be gentle.
+0x0483751E=~z~Let me in and I promise to be gentle.
+
+;0x04DED8CC=~z~Yeah, later.
+0x04DED8CC=~z~Yeah, later.
+
+;0x04FE0037=~z~How about we find something else to do now?
+0x04FE0037=~z~How about we find something else to do now?
+
+;0x06308172=~z~It used to be impossible to get a table there and you can see why.
+0x06308172=~z~It used to be impossible to get a table there and you can see why.
+
+;0x08A3C639=GCA_ACT_LEAVE_SHOW_COMEDY
+0x08A3C639=GCA_ACT_LEAVE_SHOW_COMEDY
+
+;0x0A6708A6=GCA_ACT_POOL_LEAVE_ABANDON
+0x0A6708A6=GCA_ACT_POOL_LEAVE_ABANDON
+
+;0x0B9C70E9=~z~Great, you won at darts. It must be fun for you.
+0x0B9C70E9=~z~Great, you won at darts. It must be fun for you.
+
+;0x0D07E062=GCA_ACT_PAL_END_YES
+0x0D07E062=GCA_ACT_PAL_END_YES
+
+;0x0EF3920D=~z~This hasn't exactly been the date of my dreams, Niko. But what did I expect?
+0x0EF3920D=~z~This hasn't exactly been the date of my dreams, Niko. But what did I expect?
+
+;0x0FD0A98B=GCA_ACT_PAL_END_KISS_AGREE
+0x0FD0A98B=GCA_ACT_PAL_END_KISS_AGREE
+
+;0x1011B1AF=GCA_ACT_PAL_END_KISS
+0x1011B1AF=GCA_ACT_PAL_END_KISS
+
+;0x11A18F5A=~z~You want me to come in?
+0x11A18F5A=~z~You want me to come in?
+
+;0x13FC1E75=~z~God, the stories I could tell you about this place, let's walk.
+0x13FC1E75=~z~God, the stories I could tell you about this place, let's walk.
+
+;0x1410F730=~z~See ya.
+0x1410F730=~z~See ya.
+
+;0x14EBA3B0=GCA_ACT_POOL_LEAVE_WON
+0x14EBA3B0=GCA_ACT_POOL_LEAVE_WON
+
+;0x157A96B0=~z~Those girls have had some serious work done. I want the name of the honey colored one's doctor.
+0x157A96B0=~z~Those girls have had some serious work done. I want the name of the honey colored one's doctor.
+
+;0x18159513=~z~I'd love to be taken home now.
+0x18159513=~z~I'd love to be taken home now.
+
+;0x18C79491=~z~Yeah, yeah, I get it.
+0x18C79491=~z~Yeah, yeah, I get it.
+
+;0x190CD91A=~z~I'd like that Niko.
+0x190CD91A=~z~I'd like that Niko.
+
+;0x1917273F=~z~That was an immaculate dining experience.
+0x1917273F=~z~That was an immaculate dining experience.
+
+;0x1A34B59D=GCA_ACT_ARRIVE_WALK_LAST
+0x1A34B59D=GCA_ACT_ARRIVE_WALK_LAST
+
+;0x1B5E22D7=~z~How about you invite me in?
+0x1B5E22D7=~z~How about you invite me in?
+
+;0x1C0F27E9=010
+0x1C0F27E9=010
+
+;0x1E0A7107=~z~Woo hoo, Niko beats Alex at pool - a game she incidentally hates. Stop the press.
+0x1E0A7107=~z~Woo hoo, Niko beats Alex at pool - a game she incidentally hates. Stop the press.
+
+;0x1E8B17E5=~z~Bye then.
+0x1E8B17E5=~z~Bye then.
+
+;0x1E9DF163=~z~I guess that's my life story, thanks for listening.
+0x1E9DF163=~z~I guess that's my life story, thanks for listening.
+
+;0x216636F2=~z~This has been an interesting experience
+0x216636F2=~z~This has been an interesting experience
+
+;0x21A63192=100
+0x21A63192=100
+
+;0x23025297=GCA_ACT_DATEFINISHED_OK
+0x23025297=GCA_ACT_DATEFINISHED_OK
+
+;0x230EB234=~z~I think we both want me to come inside.
+0x230EB234=~z~I think we both want me to come inside.
+
+;0x23670ED0=GCA_ACT_DARTS_LEAVE_ABANDON
+0x23670ED0=GCA_ACT_DARTS_LEAVE_ABANDON
+
+;0x237C9BD6=GCA_ACT_DARTS_LEAVE_DRAW
+0x237C9BD6=GCA_ACT_DARTS_LEAVE_DRAW
+
+;0x238F5F41=GCA_ACT_BORED_GETTING
+0x238F5F41=GCA_ACT_BORED_GETTING
+
+;0x240253FB=~z~What's the deal with this? Where are we going?
+0x240253FB=~z~What's the deal with this? Where are we going?
+
+;0x2458868F=~z~That place is so cool. I'm buzzed. It's amazing.
+0x2458868F=~z~That place is so cool. I'm buzzed. It's amazing.
+
+;0x266D5DCE=GCA_ACT_LEAVE_CLUB_FAVOURITE
+0x266D5DCE=GCA_ACT_LEAVE_CLUB_FAVOURITE
+
+;0x2732265B=100
+0x2732265B=100
+
+;0x28009728=~z~Well the crowd in there was a bit B and T, wasn't it? At least I got buzzed enough to cope.
+0x28009728=~z~Well the crowd in there was a bit B and T, wasn't it? At least I got buzzed enough to cope.
+
+;0x2B45122E=~z~Yeah, let me take your number and we can go on another date sometime.
+0x2B45122E=~z~Yeah, let me take your number and we can go on another date sometime.
+
+;0x308D9ADE=~z~Thank God it's over and we didn't even have to put all the balls in the holes.
+0x308D9ADE=~z~Thank God it's over and we didn't even have to put all the balls in the holes.
+
+;0x32243F17=~z~Later on then, Alex.
+0x32243F17=~z~Later on then, Alex.
+
+;0x326537EF=~z~Just because I write about sex on my blog, doesn't mean I'm going to put out.
+0x326537EF=~z~Just because I write about sex on my blog, doesn't mean I'm going to put out.
+
+;0x3305AC39=~z~Big deal, I won a game of pool. Could not care less.
+0x3305AC39=~z~Big deal, I won a game of pool. Could not care less.
+
+;0x33BE5DB7=~z~Do you want to do something else now?
+0x33BE5DB7=~z~Do you want to do something else now?
+
+;0x355D5A5F=GCA_ACT_DATEFINISHED_AGAIN
+0x355D5A5F=GCA_ACT_DATEFINISHED_AGAIN
+
+;0x360DA042=~z~I knew you'd find that story interesting. I'm really good at telling what people will like.
+0x360DA042=~z~I knew you'd find that story interesting. I'm really good at telling what people will like.
+
+;0x36753CE1=~z~Bland, unmemorable, bad service. I'd give that place three out of ten.
+0x36753CE1=~z~Bland, unmemorable, bad service. I'd give that place three out of ten.
+
+;0x3720C65E=100
+0x3720C65E=100
+
+;0x39A2F759=GCA_ACT_ARRIVE_WALK_BEFORE
+0x39A2F759=GCA_ACT_ARRIVE_WALK_BEFORE
+
+;0x3AF850BF=~z~Wait for me to call you, okay?
+0x3AF850BF=~z~Wait for me to call you, okay?
+
+;0x3D89AC56=GCA_ACT_LEAVE_WALK
+0x3D89AC56=GCA_ACT_LEAVE_WALK
+
+;0x3DF7B5B2=~z~Ending that game early was the best decision I've seen you make.
+0x3DF7B5B2=~z~Ending that game early was the best decision I've seen you make.
+
+;0x3E9DD60D=~z~This has got to be a new low point, Niko. Being beaten by a girl who hates darts.
+0x3E9DD60D=~z~This has got to be a new low point, Niko. Being beaten by a girl who hates darts.
+
+;0x3EAF04A1=GCA_ACT_ARRIVE_WALK_MHAT_LAST
+0x3EAF04A1=GCA_ACT_ARRIVE_WALK_MHAT_LAST
+
+;0x3F888B0B=~z~I'm bored and the date hasn't even started yet.
+0x3F888B0B=~z~I'm bored and the date hasn't even started yet.
+
+;0x401825D3=~z~You won't regret this.
+0x401825D3=~z~You won't regret this.
+
+;0x40966745=100
+0x40966745=100
+
+;0x414EA2C2=100
+0x414EA2C2=100
+
+;0x417A37E6=~z~Well I bet it feels really good to beat someone whose heart's not in the game.
+0x417A37E6=~z~Well I bet it feels really good to beat someone whose heart's not in the game.
+
+;0x425F4AEC=~z~You know, even winning at pool isn't fun.
+0x425F4AEC=~z~You know, even winning at pool isn't fun.
+
+;0x43F7E61B=100
+0x43F7E61B=100
+
+;0x4429FE8E=~z~Where to next my mysterious European companion?
+0x4429FE8E=~z~Where to next my mysterious European companion?
+
+;0x449B54B0=~z~Can we at least have some fun out here?
+0x449B54B0=~z~Can we at least have some fun out here?
+
+;0x45190676=100
+0x45190676=100
+
+;0x468566C2=~z~Okay, you won, big deal, let's go.
+0x468566C2=~z~Okay, you won, big deal, let's go.
+
+;0x46957945=~z~How about I come into your place?
+0x46957945=~z~How about I come into your place?
+
+;0x46C5A3EE=~z~Sorry, Niko. But tonight is just not the night.
+0x46C5A3EE=~z~Sorry, Niko. But tonight is just not the night.
+
+;0x49830A65=100
+0x49830A65=100
+
+;0x49DEF8A5=~z~Be a sweetie and drop me back at my place.
+0x49DEF8A5=~z~Be a sweetie and drop me back at my place.
+
+;0x49E22FD0=GCA_ACT_LEAVE_STRIP_OKAY
+0x49E22FD0=GCA_ACT_LEAVE_STRIP_OKAY
+
+;0x4C50F370=~z~I'll call you, I promise.
+0x4C50F370=~z~I'll call you, I promise.
+
+;0x4C858321=100
+0x4C858321=100
+
+;0x4E295C55=100
+0x4E295C55=100
+
+;0x4E904C42=~z~I feel like I totally understand a new culture now.
+0x4E904C42=~z~I feel like I totally understand a new culture now.
+
+;0x4F4AED80=100
+0x4F4AED80=100
+
+;0x4FE4B988=~z~Screw this.
+0x4FE4B988=~z~Screw this.
+
+;0x50A687CB=~z~From now on I am only dating Americans.
+0x50A687CB=~z~From now on I am only dating Americans.
+
+;0x50B051DA=100
+0x50B051DA=100
+
+;0x51228728=~z~You can take me back to my place now.
+0x51228728=~z~You can take me back to my place now.
+
+;0x513E2E76=~z~This date better not be all foreplay and no pay off. Can we get where we're going already?
+0x513E2E76=~z~This date better not be all foreplay and no pay off. Can we get where we're going already?
+
+;0x51787615=~z~No dice cowboy, I'm keeping myself company tonight.
+0x51787615=~z~No dice cowboy, I'm keeping myself company tonight.
+
+;0x51B30667=~z~Okay, yeah.
+0x51B30667=~z~Okay, yeah.
+
+;0x54F79303=GCA_ACT_DATEFINISHED_GOOD
+0x54F79303=GCA_ACT_DATEFINISHED_GOOD
+
+;0x55AEE93B=~z~I'm always going to love that place, the people are so beautiful. I belong there.
+0x55AEE93B=~z~I'm always going to love that place, the people are so beautiful. I belong there.
+
+;0x55FC8D0A=GCA_ACT_DARTS_LEAVE_LOST
+0x55FC8D0A=GCA_ACT_DARTS_LEAVE_LOST
+
+;0x570C447B=~z~I just don't feel like inviting you in yet.
+0x570C447B=~z~I just don't feel like inviting you in yet.
+
+;0x581FF504=GCA_ACT_BORED_HOME
+0x581FF504=GCA_ACT_BORED_HOME
+
+;0x58EDA261=100
+0x58EDA261=100
+
+;0x5A5EAE3E=GCA_ACT_PAL_END_KISS_RESPONSE
+0x5A5EAE3E=GCA_ACT_PAL_END_KISS_RESPONSE
+
+;0x5B7D42F4=~z~Niko, I've been diagnosed with ADHD, I don't like having to wait this long to get where we're going.
+0x5B7D42F4=~z~Niko, I've been diagnosed with ADHD, I don't like having to wait this long to get where we're going.
+
+;0x5D0DE93D=~z~That really enlightened me as to what the European mind is like, you know?
+0x5D0DE93D=~z~That really enlightened me as to what the European mind is like, you know?
+
+;0x5D1C5FDE=100
+0x5D1C5FDE=100
+
+;0x5DA4202B=~z~I could do with an escort back to my place.
+0x5DA4202B=~z~I could do with an escort back to my place.
+
+;0x5EC2FE86=100
+0x5EC2FE86=100
+
+;0x5F00CF04=GCA_ACT_PAL_END_REJECT
+0x5F00CF04=GCA_ACT_PAL_END_REJECT
+
+;0x5F0BC54F=GCA_ACT_POOL_LEAVE_DRAW
+0x5F0BC54F=GCA_ACT_POOL_LEAVE_DRAW
+
+;0x6000AEB5=100
+0x6000AEB5=100
+
+;0x603F6786=~z~Well don't just stand there, stupid.
+0x603F6786=~z~Well don't just stand there, stupid.
+
+;0x62D05F5F=~z~The fun's over.
+0x62D05F5F=~z~The fun's over.
+
+;0x62DD1C33=~z~You really like this spot don't you? Did a friend of yours die here?
+0x62DD1C33=~z~You really like this spot don't you? Did a friend of yours die here?
+
+;0x64BF3730=~z~The best thing about darts is getting to quit half way through.
+0x64BF3730=~z~The best thing about darts is getting to quit half way through.
+
+;0x6517E5CB=100
+0x6517E5CB=100
+
+;0x65D7FFD6=~z~So after I checked myself out of rehab I decided that I didn't have a problem. The end.
+0x65D7FFD6=~z~So after I checked myself out of rehab I decided that I didn't have a problem. The end.
+
+;0x663ACE27=100
+0x663ACE27=100
+
+;0x6758FF04=~z~I was finding that really interesting, Niko. Thanks for making me leave.
+0x6758FF04=~z~I was finding that really interesting, Niko. Thanks for making me leave.
+
+;0x67C21C12=GCA_ACT_END_GOOD
+0x67C21C12=GCA_ACT_END_GOOD
+
+;0x68A18877=GCA_ACT_LEAVE_SHOW_EARLY
+0x68A18877=GCA_ACT_LEAVE_SHOW_EARLY
+
+;0x6AB7E169=~z~Can we please find something to do already?
+0x6AB7E169=~z~Can we please find something to do already?
+
+;0x6B04C4ED=100
+0x6B04C4ED=100
+
+;0x6B82C922=100
+0x6B82C922=100
+
+;0x6BB707A7=GCA_ACT_PAL_END_GOOD_N
+0x6BB707A7=GCA_ACT_PAL_END_GOOD_N
+
+;0x6C7A7759=GCA_ACT_LEAVE_PUB_GENERIC
+0x6C7A7759=GCA_ACT_LEAVE_PUB_GENERIC
+
+;0x6C9A72F3=~z~I'm done with this.
+0x6C9A72F3=~z~I'm done with this.
+
+;0x6DC09485=~z~There are only so many boobs a girl can look at, Niko. I think we should have left earlier.
+0x6DC09485=~z~There are only so many boobs a girl can look at, Niko. I think we should have left earlier.
+
+;0x6F68A543=100
+0x6F68A543=100
+
+;0x719F4D68=~z~If you're not taking me straight home I can just call Daddy's driver.
+0x719F4D68=~z~If you're not taking me straight home I can just call Daddy's driver.
+
+;0x71AC14F6=GCA_ACT_LEAVE_HIGHEND
+0x71AC14F6=GCA_ACT_LEAVE_HIGHEND
+
+;0x73E9C2A1=~z~See you, Alex.
+0x73E9C2A1=~z~See you, Alex.
+
+;0x74AF4E45=~z~Would you bring me home now?
+0x74AF4E45=~z~Would you bring me home now?
+
+;0x75D26F14=GCA_ACT_POOL_LEAVE_LOST
+0x75D26F14=GCA_ACT_POOL_LEAVE_LOST
+
+;0x765DCFBC=~z~Mmmmm, yeah.
+0x765DCFBC=~z~Mmmmm, yeah.
+
+;0x77005BB2=~z~Thank God that's over. I don't think I could have finished.
+0x77005BB2=~z~Thank God that's over. I don't think I could have finished.
+
+;0x7993C7C4=GCA_ACT_DARTS_LEAVE_WON
+0x7993C7C4=GCA_ACT_DARTS_LEAVE_WON
+
+;0x7A5C1A5A=~z~Let's go.
+0x7A5C1A5A=~z~Let's go.
+
+;0x7B9C79C4=100
+0x7B9C79C4=100
+
+;0x7D51644D=~z~It was funny because it was true, I mean don't you think?
+0x7D51644D=~z~It was funny because it was true, I mean don't you think?
+
+;0x82397AF2=~z~This place carries so many memories for me, Niko. I'm so happy that I can share it with you.
+0x82397AF2=~z~This place carries so many memories for me, Niko. I'm so happy that I can share it with you.
+
+;0x82FBEADE=~z~Take me home, won't you?
+0x82FBEADE=~z~Take me home, won't you?
+
+;0x83E86AD1=~z~Really.
+0x83E86AD1=~z~Really.
+
+;0x8545B061=~z~You've shown me a good time, Niko.
+0x8545B061=~z~You've shown me a good time, Niko.
+
+;0x85D8667E=~z~Goodbye, Alex.
+0x85D8667E=~z~Goodbye, Alex.
+
+;0x86347D30=GCA_ACT_DATEFINISHED_BAD
+0x86347D30=GCA_ACT_DATEFINISHED_BAD
+
+;0x86D0F1EA=100
+0x86D0F1EA=100
+
+;0x87DA8156=~z~And you've shown me that the criminals are not the only terrible people in Liberty City. Goodye.
+0x87DA8156=~z~And you've shown me that the criminals are not the only terrible people in Liberty City. Goodye.
+
+;0x88906029=~z~That game was almost as anti-climactic as sex with my last boyfriend.
+0x88906029=~z~That game was almost as anti-climactic as sex with my last boyfriend.
+
+;0x88AEC577=~z~I hope I wasn't boring you, I mean not that I can bore anyone, but I was talking a lot.
+0x88AEC577=~z~I hope I wasn't boring you, I mean not that I can bore anyone, but I was talking a lot.
+
+;0x89CD10A5=~z~I told you I hate fast-food. I will not let it pass my lips again.
+0x89CD10A5=~z~I told you I hate fast-food. I will not let it pass my lips again.
+
+;0x89F3FB65=100
+0x89F3FB65=100
+
+;0x8A169D74=GCA_ACT_LEAVE_STRIP_EARLY
+0x8A169D74=GCA_ACT_LEAVE_STRIP_EARLY
+
+;0x8AC7BC19=100
+0x8AC7BC19=100
+
+;0x8C908ECC=~z~I'll go somewhere else then.
+0x8C908ECC=~z~I'll go somewhere else then.
+
+;0x8C92BEC7=~z~We'll have fun.
+0x8C92BEC7=~z~We'll have fun.
+
+;0x8D77F71D=~z~Okay, Niko.
+0x8D77F71D=~z~Okay, Niko.
+
+;0x8D8E6229=100
+0x8D8E6229=100
+
+;0x8D99FBC5=100
+0x8D99FBC5=100
+
+;0x8DEEF287=GCA_ACT_PAL_END_GOOD_Y
+0x8DEEF287=GCA_ACT_PAL_END_GOOD_Y
+
+;0x913F8E34=~z~That was interesting. I've got something to put in my blog at least.
+0x913F8E34=~z~That was interesting. I've got something to put in my blog at least.
+
+;0x95445C0C=~z~Here again, okay. There's a lot more to see in Algonquin, Niko.
+0x95445C0C=~z~Here again, okay. There's a lot more to see in Algonquin, Niko.
+
+;0x960C04EC=~z~Don't you feel pathetic? Me beating you at the sport I hate.
+0x960C04EC=~z~Don't you feel pathetic? Me beating you at the sport I hate.
+
+;0x9627087B=~z~Come over here.
+0x9627087B=~z~Come over here.
+
+;0x9689A2BE=~z~Enjoy yourself.
+0x9689A2BE=~z~Enjoy yourself.
+
+;0x96A81058=~z~That's interesting.
+0x96A81058=~z~That's interesting.
+
+;0x986EEE81=GCA_ACT_PAL_END_REJECT_RESPONSE
+0x986EEE81=GCA_ACT_PAL_END_REJECT_RESPONSE
+
+;0x999DB26C=010
+0x999DB26C=010
+
+;0x9A18365D=~z~That was a frat-tastic experience. It served its purpose though. I'm drunk.
+0x9A18365D=~z~That was a frat-tastic experience. It served its purpose though. I'm drunk.
+
+;0x9A57E8C9=~z~I haven't told that stuff to anyone before. You're a good listener.
+0x9A57E8C9=~z~I haven't told that stuff to anyone before. You're a good listener.
+
+;0x9C0FB52A=~z~I'm sorry, but I am not putting this chemical and hormone filled stuff into my body again. Will you take me somewhere else?
+0x9C0FB52A=~z~I'm sorry, but I am not putting this chemical and hormone filled stuff into my body again. Will you take me somewhere else?
+
+;0x9D9CA345=GCA_ACT_LEAVE_CLUB_GENERIC
+0x9D9CA345=GCA_ACT_LEAVE_CLUB_GENERIC
+
+;0xA1F1D87E=100
+0xA1F1D87E=100
+
+;0xA32EE5E7=~z~I grew up walking around here. I'm so pleased to be back.
+0xA32EE5E7=~z~I grew up walking around here. I'm so pleased to be back.
+
+;0xA602E8D2=100
+0xA602E8D2=100
+
+;0xA666FE51=~z~I'm always happy to come here, Niko. But there are like other places to go walking.
+0xA666FE51=~z~I'm always happy to come here, Niko. But there are like other places to go walking.
+
+;0xA738D3ED=GCA_ACT_SHOW_REACT
+0xA738D3ED=GCA_ACT_SHOW_REACT
+
+;0xA845ACB8=~z~Get over here.
+0xA845ACB8=~z~Get over here.
+
+;0xA8C88F6A=100
+0xA8C88F6A=100
+
+;0xAC02DB15=~z~This illustrates how un-fun darts is, there wasn't even a winner.
+0xAC02DB15=~z~This illustrates how un-fun darts is, there wasn't even a winner.
+
+;0xACA79029=100
+0xACA79029=100
+
+;0xACDF5BE7=~z~Well, I'm not going to remember that place. That's for sure.
+0xACDF5BE7=~z~Well, I'm not going to remember that place. That's for sure.
+
+;0xAEBF9414=100
+0xAEBF9414=100
+
+;0xAED880A3=100
+0xAED880A3=100
+
+;0xB1D8162E=100
+0xB1D8162E=100
+
+;0xB618493F=100
+0xB618493F=100
+
+;0xB929555A=~z~I need some Ritalin.
+0xB929555A=~z~I need some Ritalin.
+
+;0xBCE46DF0=~z~Well, what can I say about our time together...
+0xBCE46DF0=~z~Well, what can I say about our time together...
+
+;0xBDFCF417=010
+0xBDFCF417=010
+
+;0xBE6B45B2=GCA_ACT_LEAVE_SHOW_CABARET
+0xBE6B45B2=GCA_ACT_LEAVE_SHOW_CABARET
+
+;0xBF2C94BA=~z~Umm, I don't feel like I can get physical with you right now.
+0xBF2C94BA=~z~Umm, I don't feel like I can get physical with you right now.
+
+;0xBF67F47A=~z~Goodnight, Alex.
+0xBF67F47A=~z~Goodnight, Alex.
+
+;0xC0C8C1FC=100
+0xC0C8C1FC=100
+
+;0xC195FFDB=~z~Umm, are you sure you want to go for a walk right now? Don't people get raped here? You better protect me.
+0xC195FFDB=~z~Umm, are you sure you want to go for a walk right now? Don't people get raped here? You better protect me.
+
+;0xC277019D=~z~Niko, this area looks very dangerous. People get killed outside of Algonquin. I trust you though.
+0xC277019D=~z~Niko, this area looks very dangerous. People get killed outside of Algonquin. I trust you though.
+
+;0xC3636BEF=~z~As I said, that was repulsive. I am never, I mean ne-ver going there again.
+0xC3636BEF=~z~As I said, that was repulsive. I am never, I mean ne-ver going there again.
+
+;0xC49D080C=GCA_ACT_PAL_END_NO
+0xC49D080C=GCA_ACT_PAL_END_NO
+
+;0xC9099195=~z~Well, let's check out this exciting place one more time. Fingers crossed we won't be killed.
+0xC9099195=~z~Well, let's check out this exciting place one more time. Fingers crossed we won't be killed.
+
+;0xC951A904=~z~Sorry, Niko. You're sweet but we can't do that right now.
+0xC951A904=~z~Sorry, Niko. You're sweet but we can't do that right now.
+
+;0xCEEB691E=~z~There is other stuff we can do, isn't there?
+0xCEEB691E=~z~There is other stuff we can do, isn't there?
+
+;0xCF253E0A=~z~Did we have to go? What? Were you getting jealous of me and the other girls or were you too turned on?
+0xCF253E0A=~z~Did we have to go? What? Were you getting jealous of me and the other girls or were you too turned on?
+
+;0xCFF1D038=100
+0xCFF1D038=100
+
+;0xD1120705=~z~Will you take me back to my place?
+0xD1120705=~z~Will you take me back to my place?
+
+;0xD165E9F0=~z~Shit, to think that I used to love that place. Well, I still get drunk there though.
+0xD165E9F0=~z~Shit, to think that I used to love that place. Well, I still get drunk there though.
+
+;0xD1F09A1D=~z~Do you want to take me somewhere else?
+0xD1F09A1D=~z~Do you want to take me somewhere else?
+
+;0xD27C7B74=~z~Do you take all your girls here, Niko? Because I'm getting to know it pretty well.
+0xD27C7B74=~z~Do you take all your girls here, Niko? Because I'm getting to know it pretty well.
+
+;0xD3FFD279=GCA_ACT_END_BAD
+0xD3FFD279=GCA_ACT_END_BAD
+
+;0xD4014DD7=~z~It's been a blast.
+0xD4014DD7=~z~It's been a blast.
+
+;0xD5E7FD25=010
+0xD5E7FD25=010
+
+;0xD64A18AC=~z~You're not going to go in and be all alone, are you?
+0xD64A18AC=~z~You're not going to go in and be all alone, are you?
+
+;0xD67A33A0=010
+0xD67A33A0=010
+
+;0xD7D14F2B=~z~You know I love this place, Niko.
+0xD7D14F2B=~z~You know I love this place, Niko.
+
+;0xD8A68C1D=~z~I'm gonna call soon.
+0xD8A68C1D=~z~I'm gonna call soon.
+
+;0xDA5303B5=~z~Sure, goodbye.
+0xDA5303B5=~z~Sure, goodbye.
+
+;0xDBAFF062=~z~If you stay that long in a strip club, a girl is going to think that you're more interested in strippers than her.
+0xDBAFF062=~z~If you stay that long in a strip club, a girl is going to think that you're more interested in strippers than her.
+
+;0xDC020AFF=~z~You've shown me a good time, Niko.
+0xDC020AFF=~z~You've shown me a good time, Niko.
+
+;0xDC4151D5=100
+0xDC4151D5=100
+
+;0xDD731DED=~z~Oh, mmm.
+0xDD731DED=~z~Oh, mmm.
+
+;0xDDF2260E=GCA_ACT_DATEFINISHED_HOME
+0xDDF2260E=GCA_ACT_DATEFINISHED_HOME
+
+;0xDE5BBC39=~z~We've already walked around this place once. I thought we'd seen everything there was to see. I guess not.
+0xDE5BBC39=~z~We've already walked around this place once. I thought we'd seen everything there was to see. I guess not.
+
+;0xDF61DE7F=~z~I was just getting into that. Me and that stripper had a connection. She understood me.
+0xDF61DE7F=~z~I was just getting into that. Me and that stripper had a connection. She understood me.
+
+;0xDF6EE48E=~z~Okay then.
+0xDF6EE48E=~z~Okay then.
+
+;0xE14080D5=GCA_ACT_PAL_END_NO_RESPONSE
+0xE14080D5=GCA_ACT_PAL_END_NO_RESPONSE
+
+;0xE24B5F57=~z~Enough is enough.
+0xE24B5F57=~z~Enough is enough.
+
+;0xE2EBEBAC=~z~I've enjoyed myself.
+0xE2EBEBAC=~z~I've enjoyed myself.
+
+;0xE37648DD=GCA_ACT_ARRIVE_WALK_MHAT_BEFORE
+0xE37648DD=GCA_ACT_ARRIVE_WALK_MHAT_BEFORE
+
+;0xE3B16C98=010
+0xE3B16C98=010
+
+;0xE5324951=GCA_ACT_ARRIVE_WALK_NOT
+0xE5324951=GCA_ACT_ARRIVE_WALK_NOT
+
+;0xE5821A0B=~z~I'll write a blog about you.
+0xE5821A0B=~z~I'll write a blog about you.
+
+;0xE66514AE=100
+0xE66514AE=100
+
+;0xE68EC2CB=~z~Have fun then.
+0xE68EC2CB=~z~Have fun then.
+
+;0xE77A733C=100
+0xE77A733C=100
+
+;0xE77A9C7D=GCA_ACT_PAL_END_RESPONSE
+0xE77A9C7D=GCA_ACT_PAL_END_RESPONSE
+
+;0xE7F4BC01=~z~I'd feel guilty if I didn't escort you all the way into your place.
+0xE7F4BC01=~z~I'd feel guilty if I didn't escort you all the way into your place.
+
+;0xE88F2444=~z~European girls might be whores, but Americans aren't.
+0xE88F2444=~z~European girls might be whores, but Americans aren't.
+
+;0xE97A1E3B=~z~Can I kiss you goodbye?
+0xE97A1E3B=~z~Can I kiss you goodbye?
+
+;0xE9A203AC=~z~Niko, show some respect to the performers and stay for the length of the show.
+0xE9A203AC=~z~Niko, show some respect to the performers and stay for the length of the show.
+
+;0xEA092ED6=~z~Later.
+0xEA092ED6=~z~Later.
+
+;0xEB08C9F6=GCA_ACT_PAL_END_BONK
+0xEB08C9F6=GCA_ACT_PAL_END_BONK
+
+;0xEB7BB9FE=~z~Uh huh, uh huh.
+0xEB7BB9FE=~z~Uh huh, uh huh.
+
+;0xED810203=~z~Come inside then.
+0xED810203=~z~Come inside then.
+
+;0xEE1E6835=GCA_ACT_LEAVE_STANDARD
+0xEE1E6835=GCA_ACT_LEAVE_STANDARD
+
+;0xEF85F399=100
+0xEF85F399=100
+
+;0xF0D015C8=~z~And that's why I'm as fucked up as I am.
+0xF0D015C8=~z~And that's why I'm as fucked up as I am.
+
+;0xF11ACC61=~z~Umm, Niko. You are taking me home, right?
+0xF11ACC61=~z~Umm, Niko. You are taking me home, right?
+
+;0xF14EF532=GCA_ACT_ARRIVE_WALK_MHAT_NOT
+0xF14EF532=GCA_ACT_ARRIVE_WALK_MHAT_NOT
+
+;0xF2B22424=GCA_ACT_LEAVE_SHOW_LATE
+0xF2B22424=GCA_ACT_LEAVE_SHOW_LATE
+
+;0xF2CDD1B3=~z~Let me into your place, I don't bite.
+0xF2CDD1B3=~z~Let me into your place, I don't bite.
+
+;0xF45833F7=~z~At least kiss me before I am sent off.
+0xF45833F7=~z~At least kiss me before I am sent off.
+
+;0xF64037D9=100
+0xF64037D9=100
+
+;0xF9D3C3A7=~z~The food tasted of nothing, did you notice that? Urgh.
+0xF9D3C3A7=~z~The food tasted of nothing, did you notice that? Urgh.
+
+;0xFB7DBB55=100
+0xFB7DBB55=100
+
+;0xFDAAC9A8=GCA_ACT_LEAVE_FASTFOOD
+0xFDAAC9A8=GCA_ACT_LEAVE_FASTFOOD
+
+;0xFFD40A0A=010
+0xFFD40A0A=010
+
+;0xFFE07C9F=GCA_ACT_DIFF_FASTFOOD_NO
+0xFFE07C9F=GCA_ACT_DIFF_FASTFOOD_NO
+

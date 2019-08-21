@@ -1,0 +1,301 @@
+﻿[RB4AUD]
+;0x005FED0D=~z~Yeah, baby, I'll be there in a little bit. Alright listen, why don't you wear that pink thing, huh?
+0x005FED0D=~z~Yeah, baby, I'll be there in a little bit. Alright listen, why don't you wear that pink thing, huh?
+
+;0x05C3FF52=~z~Fine. Fine you got it, you want my word, you got my word.
+0x05C3FF52=~z~Fine. Fine you got it, you want my word, you got my word.
+
+;0x061820A4=~z~Come back and see me.
+0x061820A4=~z~Come back and see me.
+
+;0x064AF4A0=~z~Come back and see me.
+0x064AF4A0=~z~Come back and see me.
+
+;0x0D9C8E5F=~z~Who is he?
+0x0D9C8E5F=~z~Who is he?
+
+;0x0F428F26=RB4_AC
+0x0F428F26=RB4_AC
+
+;0x0F8C3398=~z~Your biker friend wasn't so hardcore after all, Ray. He's dead.
+0x0F8C3398=~z~Your biker friend wasn't so hardcore after all, Ray. He's dead.
+
+;0x111115F0=~z~Whoa, whoa, whoa. Are you fucking kidding me?
+0x111115F0=~z~Whoa, whoa, whoa. Are you fucking kidding me?
+
+;0x187CE315=RB4_CC
+0x187CE315=RB4_CC
+
+;0x2035B439=~z~A guarantee that you will find this man. I know he's in the city.
+0x2035B439=~z~A guarantee that you will find this man. I know he's in the city.
+
+;0x28B0435E=~z~Is this the merchandise?
+0x28B0435E=~z~Is this the merchandise?
+
+;0x2AF4D60C=~z~What is going on? Mori, shit, Mori.
+0x2AF4D60C=~z~What is going on? Mori, shit, Mori.
+
+;0x2BB57591=RB4_CA
+0x2BB57591=RB4_CA
+
+;0x2C03CBD5=~z~Hey, I said, I'll look after you.
+0x2C03CBD5=~z~Hey, I said, I'll look after you.
+
+;0x3036E094=~z~This is a fucking frame up. You damn shysters.
+0x3036E094=~z~This is a fucking frame up. You damn shysters.
+
+;0x30CE5CC4=~z~Whoa, whoa, whoa, whoa. Since we're having a little show and tell, let's see some money.
+0x30CE5CC4=~z~Whoa, whoa, whoa, whoa. Since we're having a little show and tell, let's see some money.
+
+;0x324F2C43=~z~Let's do this.
+0x324F2C43=~z~Let's do this.
+
+;0x326E57BA=~z~That's right.
+0x326E57BA=~z~That's right.
+
+;0x35A89530=010100100
+0x35A89530=010100100
+
+;0x3776D6EF=~z~The deal didn't go so good, Ray.
+0x3776D6EF=~z~The deal didn't go so good, Ray.
+
+;0x3DC5B5C6=RB4_CD
+0x3DC5B5C6=RB4_CD
+
+;0x3E9CF107=~z~No! I keep doing these favors for you and you pay shit.
+0x3E9CF107=~z~No! I keep doing these favors for you and you pay shit.
+
+;0x4274850F=~z~The fucking diamonds. Don't let anyone get the diamonds.
+0x4274850F=~z~The fucking diamonds. Don't let anyone get the diamonds.
+
+;0x43C8CF36=~z~Okay, let's see the stuff, gentlemen. Mori, come over here.
+0x43C8CF36=~z~Okay, let's see the stuff, gentlemen. Mori, come over here.
+
+;0x442C7B36=~z~Okay.
+0x442C7B36=~z~Okay.
+
+;0x4B3202D8=~z~If that's what you mean, brains.
+0x4B3202D8=~z~If that's what you mean, brains.
+
+;0x4E509494=~z~Fuck you!
+0x4E509494=~z~Fuck you!
+
+;0x50FF9D26=~z~Gorgeous, huh? Like condensed money.
+0x50FF9D26=~z~Gorgeous, huh? Like condensed money.
+
+;0x54BCA99F=~z~I don't trust that Ray Boccino from the moment I saw him.
+0x54BCA99F=~z~I don't trust that Ray Boccino from the moment I saw him.
+
+;0x566E9EDA=~z~Sure. Much better getting shot by two guys than one.
+0x566E9EDA=~z~Sure. Much better getting shot by two guys than one.
+
+;0x5921260F=~z~You know what? It's cool. Get someone else, I'll see you later.
+0x5921260F=~z~You know what? It's cool. Get someone else, I'll see you later.
+
+;0x5CEB2EFB=~z~"I'll see what I can do." is not good enough.
+0x5CEB2EFB=~z~"I'll see what I can do." is not good enough.
+
+;0x5F5939D9=~z~Isaac - look at them.
+0x5F5939D9=~z~Isaac - look at them.
+
+;0x5F7E31D9=~z~Florian fuckin' Cravic?
+0x5F7E31D9=~z~Florian fuckin' Cravic?
+
+;0x601AB828=~z~Just get the shit man. C'mon!
+0x601AB828=~z~Just get the shit man. C'mon!
+
+;0x60F535B3=~z~I want your word that you will find him.
+0x60F535B3=~z~I want your word that you will find him.
+
+;0x635D38B7=~z~It'll be good... keep things on a level. People always behave better with company.
+0x635D38B7=~z~It'll be good... keep things on a level. People always behave better with company.
+
+;0x64A2CD96=RB4_BA
+0x64A2CD96=RB4_BA
+
+;0x6579DF72=~z~Fuck, Nicky. That whole fucking gang are gonna be on our ass now.
+0x6579DF72=~z~Fuck, Nicky. That whole fucking gang are gonna be on our ass now.
+
+;0x659A12D8=~z~uh, let's hope this goes a little better than before, yeah?
+0x659A12D8=~z~uh, let's hope this goes a little better than before, yeah?
+
+;0x6663577D=~z~We should have a sit down.
+0x6663577D=~z~We should have a sit down.
+
+;0x66A14D68=~z~We're being set up. We're being screwed.
+0x66A14D68=~z~We're being set up. We're being screwed.
+
+;0x66EBC300=~z~Were you followed?
+0x66EBC300=~z~Were you followed?
+
+;0x6D2FCD3C=~z~and the two of you are gonna exchange the diamonds with a guy named Isaac.
+0x6D2FCD3C=~z~and the two of you are gonna exchange the diamonds with a guy named Isaac.
+
+;0x71025401=~z~He's waiting to get paid.
+0x71025401=~z~He's waiting to get paid.
+
+;0x748DF3D2=~z~I don't appreciate you screwing with my business, pal.
+0x748DF3D2=~z~I don't appreciate you screwing with my business, pal.
+
+;0x771AB5F1=~z~Hey, alright man. How's it goin'?
+0x771AB5F1=~z~Hey, alright man. How's it goin'?
+
+;0x7AD54E41=010100100100
+0x7AD54E41=010100100100
+
+;0x7AD83D54=~z~Come on let's get inside.
+0x7AD83D54=~z~Come on let's get inside.
+
+;0x7DBF6E5B=~z~Florian Cravic.
+0x7DBF6E5B=~z~Florian Cravic.
+
+;0x81DE8E5B=~z~The contact we were selling to, Isaac, is dead.
+0x81DE8E5B=~z~The contact we were selling to, Isaac, is dead.
+
+;0x85E5AD54=RB4_CB
+0x85E5AD54=RB4_CB
+
+;0x8895840B=~z~In the meantime head over to the Libertonian.
+0x8895840B=~z~In the meantime head over to the Libertonian.
+
+;0x8B0E1641=~z~That Ray has gone and sold us down the river.
+0x8B0E1641=~z~That Ray has gone and sold us down the river.
+
+;0x8C6693F3=~z~Unmarked bills! No history, no need to launder.
+0x8C6693F3=~z~Unmarked bills! No history, no need to launder.
+
+;0x90292AF0=~z~Nicky, Nicky, I had a business relationship with him.
+0x90292AF0=~z~Nicky, Nicky, I had a business relationship with him.
+
+;0x92571121=~z~Yeah, I know how it is sitting around with two million dollars worth of stolen ice, waiting to get jumped.
+0x92571121=~z~Yeah, I know how it is sitting around with two million dollars worth of stolen ice, waiting to get jumped.
+
+;0x93569BD1=~z~So, what you going to do for me?
+0x93569BD1=~z~So, what you going to do for me?
+
+;0x99CA52A0=010010100100
+0x99CA52A0=010010100100
+
+;0x9B6CA9B9=~z~There you're going to meet that guy named Johnny,
+0x9B6CA9B9=~z~There you're going to meet that guy named Johnny,
+
+;0x9CB7AA23=200
+0x9CB7AA23=200
+
+;0x9E50AEA1=~z~Funny.
+0x9E50AEA1=~z~Funny.
+
+;0xA4279A87=RB4_DA
+0xA4279A87=RB4_DA
+
+;0xA51C3F5C=~z~What do you mean what am I gonna do for you, I look after you.
+0xA51C3F5C=~z~What do you mean what am I gonna do for you, I look after you.
+
+;0xA8A53DBD=~z~I know how it is?
+0xA8A53DBD=~z~I know how it is?
+
+;0xAB2FBE6B=~z~Johnny's got the cash. I don't know who has the diamonds.
+0xAB2FBE6B=~z~Johnny's got the cash. I don't know who has the diamonds.
+
+;0xAC2B4A56=~z~No, it's my lunch.
+0xAC2B4A56=~z~No, it's my lunch.
+
+;0xAC7BBC76=RB4_BC
+0xAC7BBC76=RB4_BC
+
+;0xAC7DD421=~z~Rest of you motherfuckers wanna die - do something stupid okay!
+0xAC7DD421=~z~Rest of you motherfuckers wanna die - do something stupid okay!
+
+;0xADD4C81C=~z~Sorry... you know how it is.
+0xADD4C81C=~z~Sorry... you know how it is.
+
+;0xAED352CA=~z~I don't need looking after, I need help finding someone.
+0xAED352CA=~z~I don't need looking after, I need help finding someone.
+
+;0xB6D7608E=~z~Okay, you have my word.
+0xB6D7608E=~z~Okay, you have my word.
+
+;0xBAE670F2=~z~Isaac - these are great.
+0xBAE670F2=~z~Isaac - these are great.
+
+;0xBD07E21B=~z~Shit, that biker piece of crap better not be pulling nothing.
+0xBD07E21B=~z~Shit, that biker piece of crap better not be pulling nothing.
+
+;0xBDDCC374=~z~Hey, good to see you again.
+0xBDDCC374=~z~Hey, good to see you again.
+
+;0xBDEC53BB=RB4_AA
+0xBDEC53BB=RB4_AA
+
+;0xC091F647=~z~I said I got connections, I'll see what I can do.
+0xC091F647=~z~I said I got connections, I'll see what I can do.
+
+;0xC1168554=RB4_BB
+0xC1168554=RB4_BB
+
+;0xC2174BD1=~z~Gentlemen, gentlemen, pardon the precautions. You know how things are.
+0xC2174BD1=~z~Gentlemen, gentlemen, pardon the precautions. You know how things are.
+
+;0xC417F4A2=~z~Where the fuck have you been?
+0xC417F4A2=~z~Where the fuck have you been?
+
+;0xC6118748=~z~Good. Niko - show him the stuff.
+0xC6118748=~z~Good. Niko - show him the stuff.
+
+;0xCA5480F7=~z~Okay...
+0xCA5480F7=~z~Okay...
+
+;0xCA6209E7=~z~No. I mean, I don't think so.
+0xCA6209E7=~z~No. I mean, I don't think so.
+
+;0xD29EECF8=~z~Yeah likewise...
+0xD29EECF8=~z~Yeah likewise...
+
+;0xD3072137=~z~Of course, no problem.
+0xD3072137=~z~Of course, no problem.
+
+;0xD75E765F=~z~No problem.
+0xD75E765F=~z~No problem.
+
+;0xD80BA3E2=~z~So either you give me your word or go fuck yourself, I'm sick of this shit!
+0xD80BA3E2=~z~So either you give me your word or go fuck yourself, I'm sick of this shit!
+
+;0xD930A630=~z~Good.
+0xD930A630=~z~Good.
+
+;0xDC23AD6A=~z~This town's full of rats so who knows?
+0xDC23AD6A=~z~This town's full of rats so who knows?
+
+;0xE00EAC6B=~z~I gotta go, I gotta go. Niko, come on in.
+0xE00EAC6B=~z~I gotta go, I gotta go. Niko, come on in.
+
+;0xE5ECC0FC=~z~What's going on? What's so urgent?
+0xE5ECC0FC=~z~What's going on? What's so urgent?
+
+;0xE8974C53=~z~There it is. Beautiful, huh?
+0xE8974C53=~z~There it is. Beautiful, huh?
+
+;0xEA99C181=~z~Yeah, yeah, the pink thing with the little feathers on the... yeah.
+0xEA99C181=~z~Yeah, yeah, the pink thing with the little feathers on the... yeah.
+
+;0xEB29B879=RB4_BC
+0xEB29B879=RB4_BC
+
+;0xEB6C49B7=~z~Then you give Johnny half the money, the rest you bring back to me.
+0xEB6C49B7=~z~Then you give Johnny half the money, the rest you bring back to me.
+
+;0xF228581B=~z~I need this from you.
+0xF228581B=~z~I need this from you.
+
+;0xF4075A09=~z~What is he doing there?
+0xF4075A09=~z~What is he doing there?
+
+;0xF77AEA1A=~z~Get in there Mori.
+0xF77AEA1A=~z~Get in there Mori.
+
+;0xF7A76471=~z~I need you to go offload this ice for me...
+0xF7A76471=~z~I need you to go offload this ice for me...
+
+;0xFC615D28=RB4_AB
+0xFC615D28=RB4_AB
+

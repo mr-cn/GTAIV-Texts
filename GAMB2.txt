@@ -1,0 +1,31 @@
+﻿[GAMB2]
+;0x0AC6D81D=~s~Target the Manager to get him to talk.
+0x0AC6D81D=~s~Target the Manager to get him to talk.
+
+;0x0C615CAA=~s~Go inside the ~y~restaurant.
+0x0C615CAA=~s~Go inside the ~y~restaurant.
+
+;0x1D5BFE9F=~s~Don't let ~r~Kim ~s~escape.
+0x1D5BFE9F=~s~Don't let ~r~Kim ~s~escape.
+
+;0x881D5434=~s~Look for Kim in the ~b~Manager's~s~ office.
+0x881D5434=~s~Look for Kim in the ~b~Manager's~s~ office.
+
+;0x9A9E7936=~s~Go to the ~y~kitchen.
+0x9A9E7936=~s~Go to the ~y~kitchen.
+
+;0x9F26FE4F=~r~Kim got away.
+0x9F26FE4F=~r~Kim got away.
+
+;0xC3C54A0B=~s~Question the ~b~manager~s~ to find Kim.
+0xC3C54A0B=~s~Question the ~b~manager~s~ to find Kim.
+
+;0xE4E68C5D=~s~You attacked the manager before he could talk. Check the ~y~Kitchen.
+0xE4E68C5D=~s~You attacked the manager before he could talk. Check the ~y~Kitchen.
+
+;0xF003A3EF=~s~Head over to the ~y~restaurant.
+0xF003A3EF=~s~Head over to the ~y~restaurant.
+
+;0xF6672F5E=~r~Kim~s~ is fleeing in a car. Chase him down and take him out.
+0xF6672F5E=~r~Kim~s~ is fleeing in a car. Chase him down and take him out.
+

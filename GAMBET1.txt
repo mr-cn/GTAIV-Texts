@@ -1,0 +1,61 @@
+﻿[GAMBET1]
+;0x04E58BBF=~r~Bobby Jefferson was abandoned.
+0x04E58BBF=~r~Bobby Jefferson was abandoned.
+
+;0x13DA1213=~s~Get into the ~b~car.
+0x13DA1213=~s~Get into the ~b~car.
+
+;0x362D8359=Follow the ~b~convoy car.
+0x362D8359=Follow the ~b~convoy car.
+
+;0x4A0A1607=~r~Bobby Jefferson is dead.
+0x4A0A1607=~r~Bobby Jefferson is dead.
+
+;0x52F29092=~s~Go to ~b~Grand Easton Terminal.
+0x52F29092=~s~Go to ~b~Grand Easton Terminal.
+
+;0x64C131BC=~s~Pick up ~b~Bobby Jefferson.
+0x64C131BC=~s~Pick up ~b~Bobby Jefferson.
+
+;0x71A4A47D=Get back into the ~b~car.
+0x71A4A47D=Get back into the ~b~car.
+
+;0x79CF0D23=~s~Go out there and deal with ~r~them.
+0x79CF0D23=~s~Go out there and deal with ~r~them.
+
+;0x80F683E3=~r~You acted unprofessionally.
+0x80F683E3=~r~You acted unprofessionally.
+
+;0x87696EF2=~s~Go to ~y~Bobby Jefferson's location.
+0x87696EF2=~s~Go to ~y~Bobby Jefferson's location.
+
+;0x87E961BC=~s~Lose your wanted level.
+0x87E961BC=~s~Lose your wanted level.
+
+;0xAE36DE63=~r~You have abandoned the car.~s~
+0xAE36DE63=~r~You have abandoned the car.~s~
+
+;0xD7CE3191=~r~You scared off Bobby Jefferson.
+0xD7CE3191=~r~You scared off Bobby Jefferson.
+
+;0xE5104C15=~r~The car got trashed.
+0xE5104C15=~r~The car got trashed.
+
+;0xE7406828=~s~Get Bobby Jefferson to ~y~safety.
+0xE7406828=~s~Get Bobby Jefferson to ~y~safety.
+
+;0xF0FCD07B=~s~Lose the ~r~pursuers.
+0xF0FCD07B=~s~Lose the ~r~pursuers.
+
+;0xF1EBC072=~s~Get back behind the ~b~lead car~s~ in the convoy.
+0xF1EBC072=~s~Get back behind the ~b~lead car~s~ in the convoy.
+
+;0xF540FB06=~s~You lost ~b~Bobby Jefferson,~s~ go back and get him.
+0xF540FB06=~s~You lost ~b~Bobby Jefferson,~s~ go back and get him.
+
+;0xF6ABEF4C=~r~The convoy was abandoned.
+0xF6ABEF4C=~r~The convoy was abandoned.
+
+;0xFE487AF9=~s~Get in the ~b~car.
+0xFE487AF9=~s~Get in the ~b~car.
+

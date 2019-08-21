@@ -1,0 +1,295 @@
+﻿[LCPDVZ]
+;0x0313C725=Rami
+0x0313C725=Rami
+
+;0x07F1EBA7=29
+0x07F1EBA7=29
+
+;0x080DEC1B=2004 - Prostitution<br/>2006 - Burglary: Illegal Entry with Criminal Intent
+0x080DEC1B=2004 - Prostitution<br/>2006 - Burglary: Illegal Entry with Criminal Intent
+
+;0x084E4BB8=Gambetti Crime Syndicate
+0x084E4BB8=Gambetti Crime Syndicate
+
+;0x115E63BA=Jill
+0x115E63BA=Jill
+
+;0x1321DEEB=35
+0x1321DEEB=35
+
+;0x138986B5=Algonquin, Liberty City
+0x138986B5=Algonquin, Liberty City
+
+;0x165567C6=Pavano Crime Syndicate
+0x165567C6=Pavano Crime Syndicate
+
+;0x1803FE29=Volpe
+0x1803FE29=Volpe
+
+;0x1BEC6EB8=Dukes, Liberty City
+0x1BEC6EB8=Dukes, Liberty City
+
+;0x1D6C16D7=1985 - Murder
+0x1D6C16D7=1985 - Murder
+
+;0x1DCE892E=-Believed to be the head of a gang of Northwood based Dominican drug dealers that includes Oscar and Alonso Gomez.<br/>-Associate of Luis Fernando Lopez <br/>- personal bodyguard to "Gay" Tony Prince.<br/>-Believed to be attempting to compete with North and East Holland dealing operations but does not shift a significant volume of product.
+0x1DCE892E=-Believed to be the head of a gang of Northwood based Dominican drug dealers that includes Oscar and Alonso Gomez.<br/>-Associate of Luis Fernando Lopez <br/>- personal bodyguard to "Gay" Tony Prince.<br/>-Believed to be attempting to compete with North and East Holland dealing operations but does not shift a significant volume of product.
+
+;0x2134220A=Algonquin, Liberty City
+0x2134220A=Algonquin, Liberty City
+
+;0x2209202C=South Bohan, Liberty City
+0x2209202C=South Bohan, Liberty City
+
+;0x248317BF=-African warlord, believed to have come to Liberty City in order to buy guns, prostitutes and Perseus suits.<br/>-Arrested selling illegal conflict diamonds to Liberty City dealers, Isaac Roth and Mori Green.<br/>-Booked out every hotel room in Opium Nights so that he could walk to breakfast naked.<br/>-Wanted by the Civilization Committee for crimes against humanity.
+0x248317BF=-African warlord, believed to have come to Liberty City in order to buy guns, prostitutes and Perseus suits.<br/>-Arrested selling illegal conflict diamonds to Liberty City dealers, Isaac Roth and Mori Green.<br/>-Booked out every hotel room in Opium Nights so that he could walk to breakfast naked.<br/>-Wanted by the Civilization Committee for crimes against humanity.
+
+;0x25510D9D=Northwood Dominican Drug Dealers
+0x25510D9D=Northwood Dominican Drug Dealers
+
+;0x295E0B63=46
+0x295E0B63=46
+
+;0x2EA6394B=1998 - Racketeering<br/>2001 - Possession Controlled Substance: Cocaine<br/>2005 - Tax Evasion
+0x2EA6394B=1998 - Racketeering<br/>2001 - Possession Controlled Substance: Cocaine<br/>2005 - Tax Evasion
+
+;0x2EE79ECC=Heathcliff
+0x2EE79ECC=Heathcliff
+
+;0x3081B60A=Volpe
+0x3081B60A=Volpe
+
+;0x311DB0F4=-Believed to be ex-Israeli Special Forces. Unclear if he was working for the government or private interests when first charged with murder on US soil.<br/>-Reported to be a hitman used by Russian nationals in Liberty City such as Kenny Petrovic.<br/>-Returned to Israel after carrying out contracts in order to take advantage of the absence of an extradition treaty with that state.<br/>-Believed to have worked for the Italian-American mafia until his fees became too high for them to afford.<br/>-Known to use a number of different weapons in his hits. <br/>-Reported to have beaten a man to death with his own severed leg.
+0x311DB0F4=-Believed to be ex-Israeli Special Forces. Unclear if he was working for the government or private interests when first charged with murder on US soil.<br/>-Reported to be a hitman used by Russian nationals in Liberty City such as Kenny Petrovic.<br/>-Returned to Israel after carrying out contracts in order to take advantage of the absence of an extradition treaty with that state.<br/>-Believed to have worked for the Italian-American mafia until his fees became too high for them to afford.<br/>-Known to use a number of different weapons in his hits. <br/>-Reported to have beaten a man to death with his own severed leg.
+
+;0x33A6C654=1998 - Grand Theft Auto<br/>2001 - Possession Controlled Substance: Crack Cocaine<br/>2005 - Assault
+0x33A6C654=1998 - Grand Theft Auto<br/>2001 - Possession Controlled Substance: Crack Cocaine<br/>2005 - Assault
+
+;0x39D4AC50=42
+0x39D4AC50=42
+
+;0x3AF22BD7=North Korea
+0x3AF22BD7=North Korea
+
+;0x3AFCB6F6=Mario
+0x3AFCB6F6=Mario
+
+;0x3C54B3E4=N/A
+0x3C54B3E4=N/A
+
+;0x3D184F37=Waterstreet
+0x3D184F37=Waterstreet
+
+;0x3F60DAC0=1992 - Possession Controlled Substance: Methamphetamine<br/>1994 - Grand Larceny<br/>1998 - Identity Theft<br/>2001 - Possession Controlled Substance: Methamphetamine<br/>2005 - Fraud<br/>2006 - Burglary: Illegal Entry with Criminal Intent
+0x3F60DAC0=1992 - Possession Controlled Substance: Methamphetamine<br/>1994 - Grand Larceny<br/>1998 - Identity Theft<br/>2001 - Possession Controlled Substance: Methamphetamine<br/>2005 - Fraud<br/>2006 - Burglary: Illegal Entry with Criminal Intent
+
+;0x41B65225=-Rich heiress and Algonquin socialite.<br/>-Regular on the Liberty City party circuit.<br/>-History of drug and alcohol abuse.<br/>-A sex tape, believed to feature Von Crastenburg, was recently circulated on the internet.
+0x41B65225=-Rich heiress and Algonquin socialite.<br/>-Regular on the Liberty City party circuit.<br/>-History of drug and alcohol abuse.<br/>-A sex tape, believed to feature Von Crastenburg, was recently circulated on the internet.
+
+;0x44316769=1960 - Possession Controlled Substance: Heroin<br/>1961 - Extortion<br/>1977 - Loansharking<br/>1980 - Assault<br/>1998 - Racketeering<br/>2005 - Tax Evasion
+0x44316769=1960 - Possession Controlled Substance: Heroin<br/>1961 - Extortion<br/>1977 - Loansharking<br/>1980 - Assault<br/>1998 - Racketeering<br/>2005 - Tax Evasion
+
+;0x457EC3A4=33
+0x457EC3A4=33
+
+;0x4617EBD1=Mexico City, Mexico
+0x4617EBD1=Mexico City, Mexico
+
+;0x4A0B5513=Fredo
+0x4A0B5513=Fredo
+
+;0x4B0FE7B4=Young-Guk
+0x4B0FE7B4=Young-Guk
+
+;0x4BD8ECB8=Von Crastenburg
+0x4BD8ECB8=Von Crastenburg
+
+;0x51D77FAD=2000 - Clean Diamond Act Violation<br/>2002 - Criminal Possession Weapon: Gold-Plated Rocket Launcher
+0x51D77FAD=2000 - Clean Diamond Act Violation<br/>2002 - Criminal Possession Weapon: Gold-Plated Rocket Launcher
+
+;0x53A3F4D8=-Believed to have immigrated to the US from Italy at the age of 10.<br/>-Believed to have taken control of the Pavano Crime Syndicate since the death of her husband in 1990. She was a suspect in his poisoning but insufficient evidence to press charges.<br/>-Despite her age is often seen with men between the ages of 18 and 22.
+0x53A3F4D8=-Believed to have immigrated to the US from Italy at the age of 10.<br/>-Believed to have taken control of the Pavano Crime Syndicate since the death of her husband in 1990. She was a suspect in his poisoning but insufficient evidence to press charges.<br/>-Despite her age is often seen with men between the ages of 18 and 22.
+
+;0x55AB8059=Zapulla
+0x55AB8059=Zapulla
+
+;0x5655EFA6=Pavano Crime Syndicate
+0x5655EFA6=Pavano Crime Syndicate
+
+;0x57F6FF93=Kim
+0x57F6FF93=Kim
+
+;0x5847F18C=Alfonso
+0x5847F18C=Alfonso
+
+;0x58797FAB=-Methamphetamine addict often picked up stealing from mail boxes around Purgatory, Star Junction and Westminster.<br/>-Lives with transvestite, Gavin Finkle, street name - Ambrosia, in the loft his grandmother left him.<br/>-Recently banned from Hercules nightclub for trying to disassemble the speaker system.<br/>-Believed to have lost all his teeth and hair because of his methamphetamine use.<br/>-Wears dentures and wig.
+0x58797FAB=-Methamphetamine addict often picked up stealing from mail boxes around Purgatory, Star Junction and Westminster.<br/>-Lives with transvestite, Gavin Finkle, street name - Ambrosia, in the loft his grandmother left him.<br/>-Recently banned from Hercules nightclub for trying to disassemble the speaker system.<br/>-Believed to have lost all his teeth and hair because of his methamphetamine use.<br/>-Wears dentures and wig.
+
+;0x598D81C3=-Immigrated to the US from Mexico in the 1970s.<br/>-Rumored to have a personal fortune in excess of $500 million.<br/>-Believed to be a cocaine baron with control over a number of Mexican cartels.<br/>-Arrested with large shipment of cocaine in 2001 but charges were dropped.<br/>-Involved in a wide range of legitimate business interests and humanitarian work.
+0x598D81C3=-Immigrated to the US from Mexico in the 1970s.<br/>-Rumored to have a personal fortune in excess of $500 million.<br/>-Believed to be a cocaine baron with control over a number of Mexican cartels.<br/>-Arrested with large shipment of cocaine in 2001 but charges were dropped.<br/>-Involved in a wide range of legitimate business interests and humanitarian work.
+
+;0x5A750761=-North Korean national. <br/>-Deported after being caught entering the country with counterfeit goods. <br/>-Reports indicate that he may return to the US soon.
+0x5A750761=-North Korean national. <br/>-Deported after being caught entering the country with counterfeit goods. <br/>-Reports indicate that he may return to the US soon.
+
+;0x5A9514CB=Las Venturas
+0x5A9514CB=Las Venturas
+
+;0x5B7A85B1=-Believed to be the most recent lover of Pavano Crime Syndicate head, Mary Valvona.<br/>-Suspected in a number of burglaries in Middle Park East.<br/>-Before his involvement with Valvona, was arrested in Westminster on prostitution charges.
+0x5B7A85B1=-Believed to be the most recent lover of Pavano Crime Syndicate head, Mary Valvona.<br/>-Suspected in a number of burglaries in Middle Park East.<br/>-Before his involvement with Valvona, was arrested in Westminster on prostitution charges.
+
+;0x621CF10B=25
+0x621CF10B=25
+
+;0x68892614=Yalon
+0x68892614=Yalon
+
+;0x68D1B144=Unknown city in Africa
+0x68D1B144=Unknown city in Africa
+
+;0x68D38CE1=Pavano Crime Syndicate
+0x68D38CE1=Pavano Crime Syndicate
+
+;0x6C1326E2=-Police informant since 1998.<br/>-Has collected thousands of hours of wiretap evidence. Should be enough to bring down the entire Messina Syndicate when arrests are made in the new year.<br/>-Brother of Mark Anthony Volpe. Another Capo in the Messina family.<br/>-Agreed to become an informant when evidence of plot by senior family members to castrate him was revealed.
+0x6C1326E2=-Police informant since 1998.<br/>-Has collected thousands of hours of wiretap evidence. Should be enough to bring down the entire Messina Syndicate when arrests are made in the new year.<br/>-Brother of Mark Anthony Volpe. Another Capo in the Messina family.<br/>-Agreed to become an informant when evidence of plot by senior family members to castrate him was revealed.
+
+;0x6EEAAC7D=-Daughter of millionaire Alfonso Vasquez, suspected to be in control of an international drug ring.<br/>-Algonquin socialite; well known on the Liberty City party circuit.<br/>-History of problems with drugs and alcohol.
+0x6EEAAC7D=-Daughter of millionaire Alfonso Vasquez, suspected to be in control of an international drug ring.<br/>-Algonquin socialite; well known on the Liberty City party circuit.<br/>-History of problems with drugs and alcohol.
+
+;0x714D1B34=13
+0x714D1B34=13
+
+;0x75B12C5E=January Natasha
+0x75B12C5E=January Natasha
+
+;0x7678282A=Messina Crime Syndicate
+0x7678282A=Messina Crime Syndicate
+
+;0x7F2DDDFC=Dukes, Liberty City
+0x7F2DDDFC=Dukes, Liberty City
+
+;0x818F5F1C=1990 - Grand Theft Auto<br/>1992 - Armed Robbery<br/>1995 - Manslaughter<br/>2006 - Racketeering
+0x818F5F1C=1990 - Grand Theft Auto<br/>1992 - Armed Robbery<br/>1995 - Manslaughter<br/>2006 - Racketeering
+
+;0x831B5B38=Venturella
+0x831B5B38=Venturella
+
+;0x8387BFA9=42
+0x8387BFA9=42
+
+;0x8D6F7A7F=Algonquin, Liberty City
+0x8D6F7A7F=Algonquin, Liberty City
+
+;0x8F15D6D1=40
+0x8F15D6D1=40
+
+;0x92985DCA=21
+0x92985DCA=21
+
+;0x9415FD2D=Zito
+0x9415FD2D=Zito
+
+;0x9A0D6F54=N/A
+0x9A0D6F54=N/A
+
+;0x9EEE7676=22
+0x9EEE7676=22
+
+;0xA06AA059=Broker, Liberty City
+0xA06AA059=Broker, Liberty City
+
+;0xA46A0513=2003 - Trademark Counterfeiting
+0xA46A0513=2003 - Trademark Counterfeiting
+
+;0xA48BA510=2001 - Possession Controlled Substance: Intent to Sell
+0xA48BA510=2001 - Possession Controlled Substance: Intent to Sell
+
+;0xA545A6AB=Palermo, Italy
+0xA545A6AB=Palermo, Italy
+
+;0xA6FF9ADE=Mary
+0xA6FF9ADE=Mary
+
+;0xA8548942=59
+0xA8548942=59
+
+;0xA9051BD8=N/A
+0xA9051BD8=N/A
+
+;0xAFAF1A97=N/A
+0xAFAF1A97=N/A
+
+;0xB714CDAD=Algonquin, Liberty City
+0xB714CDAD=Algonquin, Liberty City
+
+;0xBA46C98E=Wome
+0xBA46C98E=Wome
+
+;0xBD17A863=45
+0xBD17A863=45
+
+;0xBD4E35D5=Linked to Russian Organized Crime.
+0xBD4E35D5=Linked to Russian Organized Crime.
+
+;0xC31AC16E=N/A
+0xC31AC16E=N/A
+
+;0xC4D16926=Israel
+0xC4D16926=Israel
+
+;0xC9F8D4F0=Arthur
+0xC9F8D4F0=Arthur
+
+;0xD4F5F28D=Messina Crime Syndicate
+0xD4F5F28D=Messina Crime Syndicate
+
+;0xD66301CA=Vasquez
+0xD66301CA=Vasquez
+
+;0xD7B7706D=Roy
+0xD7B7706D=Roy
+
+;0xD8CD7E79=Willy
+0xD8CD7E79=Willy
+
+;0xD94A8905=Valerio
+0xD94A8905=Valerio
+
+;0xD9B70F32=60
+0xD9B70F32=60
+
+;0xDB95932B=1982 - Accessory To Murder<br/>1983 - Possession Controlled Substance: Heroin<br/>1985 - Armed Robbery<br/>1986 - Armed Robbery<br/>1993 - Extortion<br/>1995 - Grand Larceny<br/>1998 - Possession Controlled Substance: Tranquilizers
+0xDB95932B=1982 - Accessory To Murder<br/>1983 - Possession Controlled Substance: Heroin<br/>1985 - Armed Robbery<br/>1986 - Armed Robbery<br/>1993 - Extortion<br/>1995 - Grand Larceny<br/>1998 - Possession Controlled Substance: Tranquilizers
+
+;0xE0D4FCE2=N/A
+0xE0D4FCE2=N/A
+
+;0xE820A545=Vasquez
+0xE820A545=Vasquez
+
+;0xEA433086=2006 - Possession Controlled Substance: Cocaine<br/>2007 - Public Lewdness
+0xEA433086=2006 - Possession Controlled Substance: Cocaine<br/>2007 - Public Lewdness
+
+;0xEA743825=-Suspected by fellow members of the Messina Crime Syndicate of being a rat when is brother, Fredo Volpe, is actually the police informant.<br/>-Suspected to be in charge of a sports betting ring that operates throughout the four Liberty City Boroughs; however, he only takes bets on rigged games.<br/>-Believed to have cut out the tongue of a Messina enforcer for suggesting that his brother was an informant.<br/>-Enough wiretap evidence to put him in prison for 12 consecutive life sentences.
+0xEA743825=-Suspected by fellow members of the Messina Crime Syndicate of being a rat when is brother, Fredo Volpe, is actually the police informant.<br/>-Suspected to be in charge of a sports betting ring that operates throughout the four Liberty City Boroughs; however, he only takes bets on rigged games.<br/>-Believed to have cut out the tongue of a Messina enforcer for suggesting that his brother was an informant.<br/>-Enough wiretap evidence to put him in prison for 12 consecutive life sentences.
+
+;0xEB3C2CE8=Valvona
+0xEB3C2CE8=Valvona
+
+;0xEED22C5E=-Believed to be consigliore to the Pavano Crime Syndicate.<br/>-Was put through the Vespucci University Law School by Mary Valvona when they were lovers in the early 90s.<br/>-Due to drug arrests can no longer practice law but serves the Pavanos in an advisory capacity.
+0xEED22C5E=-Believed to be consigliore to the Pavano Crime Syndicate.<br/>-Was put through the Vespucci University Law School by Mary Valvona when they were lovers in the early 90s.<br/>-Due to drug arrests can no longer practice law but serves the Pavanos in an advisory capacity.
+
+;0xF3C1A881=Claude
+0xF3C1A881=Claude
+
+;0xF65B48B6=2005 - Driving While Intoxicated<br/>2007 - Possession Controlled Substance: Cocaine
+0xF65B48B6=2005 - Driving While Intoxicated<br/>2007 - Possession Controlled Substance: Cocaine
+
+;0xFD8FC9D9=-Reported to be the right hand of Jon Gravelli since Sonny Bottino went into hiding.<br/>-Controls several legitimate businesses including a chain of dry cleaners that specialize in removing forensic evidence from clothing.<br/>-Believed to have offered one of his kidneys to the ailing Jon Gravelli in tribute. When Gravelli refused the offer, it is reported that Zito cut the kidney out himself and gave it to the boss in a bucket of ice.
+0xFD8FC9D9=-Reported to be the right hand of Jon Gravelli since Sonny Bottino went into hiding.<br/>-Controls several legitimate businesses including a chain of dry cleaners that specialize in removing forensic evidence from clothing.<br/>-Believed to have offered one of his kidneys to the ailing Jon Gravelli in tribute. When Gravelli refused the offer, it is reported that Zito cut the kidney out himself and gave it to the boss in a bucket of ice.
+
+;0xFE3046DF=Mark Anthony
+0xFE3046DF=Mark Anthony
+
+;0xFF39AE3D=1982 - Murder <br/>1993 - Extortion<br/>1994 - Manslaughter<br/>1995 - Assault<br/>1996 - Manslaughter<br/>1998 - Promoting Gambling<br/>2000 - Promoting Gambling<br/>2005 - Manslaughter
+0xFF39AE3D=1982 - Murder <br/>1993 - Extortion<br/>1994 - Manslaughter<br/>1995 - Assault<br/>1996 - Manslaughter<br/>1998 - Promoting Gambling<br/>2000 - Promoting Gambling<br/>2005 - Manslaughter
+

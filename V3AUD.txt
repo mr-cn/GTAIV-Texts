@@ -1,0 +1,349 @@
+﻿[V3AUD]
+;0x01724EEB=~z~Hey, I could fuck this car up worse than a little dirt.
+0x01724EEB=~z~Hey, I could fuck this car up worse than a little dirt.
+
+;0x082101CA=010100100100010100100100
+0x082101CA=010100100100010100100100
+
+;0x092A09BE=~z~Ahh, yokel there you are, okay.
+0x092A09BE=~z~Ahh, yokel there you are, okay.
+
+;0x0A54817D=010100010
+0x0A54817D=010100010
+
+;0x0AAB5EF7=~z~Only Jimmy sits in that seat, cracker.
+0x0AAB5EF7=~z~Only Jimmy sits in that seat, cracker.
+
+;0x0F6D8F03=~z~Great.
+0x0F6D8F03=~z~Great.
+
+;0x0FB0038C=V3_EB
+0x0FB0038C=V3_EB
+
+;0x1288E9AE=~z~Hey, Vlad. The car you wanted, it's... how you say? Fucked.
+0x1288E9AE=~z~Hey, Vlad. The car you wanted, it's... how you say? Fucked.
+
+;0x132F7265=~z~Fucking peasants don't do nothing right.
+0x132F7265=~z~Fucking peasants don't do nothing right.
+
+;0x147E729D=~z~Like I said, that's Jimmy's ride.
+0x147E729D=~z~Like I said, that's Jimmy's ride.
+
+;0x18708465=~z~He's a little bit bruised, but he gave it up easy enough.
+0x18708465=~z~He's a little bit bruised, but he gave it up easy enough.
+
+;0x1BA9AEBD=~z~Vlad.
+0x1BA9AEBD=~z~Vlad.
+
+;0x1BE30400=~z~I know your cousins like them dirty. Maybe your whole yokel family drive around in their dirty cars but it's not the way over here.
+0x1BE30400=~z~I know your cousins like them dirty. Maybe your whole yokel family drive around in their dirty cars but it's not the way over here.
+
+;0x20AAB17D=~z~No... I had a late night last night. Spent it with Mikhail.
+0x20AAB17D=~z~No... I had a late night last night. Spent it with Mikhail.
+
+;0x221113BF=V3_CD
+0x221113BF=V3_CD
+
+;0x2239C9FE=V3_AA
+0x2239C9FE=V3_AA
+
+;0x22CA117C=200
+0x22CA117C=200
+
+;0x2397362A=~z~Mikhail's the man... shit my nose is bleeding. Is my nose bleeding?
+0x2397362A=~z~Mikhail's the man... shit my nose is bleeding. Is my nose bleeding?
+
+;0x24000CED=V3_CF
+0x24000CED=V3_CF
+
+;0x25C22A07=V3_BA
+0x25C22A07=V3_BA
+
+;0x26BA20F8=~z~Good, dead guys can't pay interest, you're learning.
+0x26BA20F8=~z~Good, dead guys can't pay interest, you're learning.
+
+;0x27BB395A=200
+0x27BB395A=200
+
+;0x28EBC319=V3_EB
+0x28EBC319=V3_EB
+
+;0x29571C37=V3_CB
+0x29571C37=V3_CB
+
+;0x2B7E9ADE=V3_CG
+0x2B7E9ADE=V3_CG
+
+;0x2E29288C=~z~Dirty? I can't sell a dirty car.
+0x2E29288C=~z~Dirty? I can't sell a dirty car.
+
+;0x31E8F56C=~z~I don't owe Vlad shit.
+0x31E8F56C=~z~I don't owe Vlad shit.
+
+;0x326B54FE=~z~What's wrong with you? You gonna jump me?
+0x326B54FE=~z~What's wrong with you? You gonna jump me?
+
+;0x3287E77A=V3_AB
+0x3287E77A=V3_AB
+
+;0x357059DC=~z~No. Not yet.
+0x357059DC=~z~No. Not yet.
+
+;0x3620B81E=V3_CH
+0x3620B81E=V3_CH
+
+;0x37B96712=~z~We walked all the way over here so you could snort coke?
+0x37B96712=~z~We walked all the way over here so you could snort coke?
+
+;0x3C3AFE52=010100010100
+0x3C3AFE52=010100010100
+
+;0x3D58B6A9=V3_IA
+0x3D58B6A9=V3_IA
+
+;0x3FB24400=~z~You're going to be fucked when I'm done with you, yokel. Come back to see me.
+0x3FB24400=~z~You're going to be fucked when I'm done with you, yokel. Come back to see me.
+
+;0x40F75050=V3_DA
+0x40F75050=V3_DA
+
+;0x45F14F31=~z~Jimmy ain't being punked by a bitch like you.
+0x45F14F31=~z~Jimmy ain't being punked by a bitch like you.
+
+;0x467F03BD=~z~It's a silver Blista, and it's parked in the projects by E.I.C. subway station, okay?
+0x467F03BD=~z~It's a silver Blista, and it's parked in the projects by E.I.C. subway station, okay?
+
+;0x46FD7E22=~z~Come on, yokel.
+0x46FD7E22=~z~Come on, yokel.
+
+;0x473AFD71=~z~Fuck face. Come on.
+0x473AFD71=~z~Fuck face. Come on.
+
+;0x48BB8676=V3_EA
+0x48BB8676=V3_EA
+
+;0x48FB00F1=~z~Wait! I'm walking here. Let's go.
+0x48FB00F1=~z~Wait! I'm walking here. Let's go.
+
+;0x4AC8E1CB=~z~Did they give the car up easy?
+0x4AC8E1CB=~z~Did they give the car up easy?
+
+;0x4C7E8F80=~z~Asshole owes Mikhail some money. Take his car instead, eh?
+0x4C7E8F80=~z~Asshole owes Mikhail some money. Take his car instead, eh?
+
+;0x4FB71C27=010100
+0x4FB71C27=010100
+
+;0x5103707B=V3_CE
+0x5103707B=V3_CE
+
+;0x56C71DB5=~z~~c~Move, you old hag.~s~
+0x56C71DB5=~z~~c~Move, you old hag.~s~
+
+;0x58C12841=~z~Sure. You got keys?
+0x58C12841=~z~Sure. You got keys?
+
+;0x5A4C2B1B=~z~Errr, no, yokel, I need you to take the car.
+0x5A4C2B1B=~z~Errr, no, yokel, I need you to take the car.
+
+;0x5A50A39C=~z~Damn city always trying to run you down, huh?
+0x5A50A39C=~z~Damn city always trying to run you down, huh?
+
+;0x5DC82A8F=~z~Man, where do these people get off? Like I'm gonna pay for their drug habits?
+0x5DC82A8F=~z~Man, where do these people get off? Like I'm gonna pay for their drug habits?
+
+;0x62C688DB=~z~That's Jimmy's car.
+0x62C688DB=~z~That's Jimmy's car.
+
+;0x655716E7=~z~Relax man. You should lose your edge.
+0x655716E7=~z~Relax man. You should lose your edge.
+
+;0x6B704707=~z~Come on.
+0x6B704707=~z~Come on.
+
+;0x6C18472B=~z~Get a job, you deadbeat crack head.
+0x6C18472B=~z~Get a job, you deadbeat crack head.
+
+;0x6E13607C=V3_AD
+0x6E13607C=V3_AD
+
+;0x6F92CE24=~z~Well say something... you're so fucking laid back. Moron!
+0x6F92CE24=~z~Well say something... you're so fucking laid back. Moron!
+
+;0x6FC2CFA8=~z~What the fuck you mean why?
+0x6FC2CFA8=~z~What the fuck you mean why?
+
+;0x74342BB6=~z~You ain't gonna jack Jimmy's car off him, son.
+0x74342BB6=~z~You ain't gonna jack Jimmy's car off him, son.
+
+;0x7471AA7C=~z~You not as stupid as you look, yokel. Come back to see me at the bar soon.
+0x7471AA7C=~z~You not as stupid as you look, yokel. Come back to see me at the bar soon.
+
+;0x74B531D6=V3_CC
+0x74B531D6=V3_CC
+
+;0x7B1049D0=V3_CA
+0x7B1049D0=V3_CA
+
+;0x7D2F6A85=~z~Hey, you're a pretty relaxed guy, huh Vlad?
+0x7D2F6A85=~z~Hey, you're a pretty relaxed guy, huh Vlad?
+
+;0x86AB4EEF=~z~I put the car in your lockup.
+0x86AB4EEF=~z~I put the car in your lockup.
+
+;0x88970896=~z~Because of your cousin owing me a lot of money and until he pays me, your fresh off the boat yokel ass is mine.
+0x88970896=~z~Because of your cousin owing me a lot of money and until he pays me, your fresh off the boat yokel ass is mine.
+
+;0x893988F5=~z~Come on, I'm gonna go meet somebody...
+0x893988F5=~z~Come on, I'm gonna go meet somebody...
+
+;0x894FEAD5=V3_GA
+0x894FEAD5=V3_GA
+
+;0x8DF4926F=~z~No, you're gonna take the train, buddy. You think I wanna be in a car with a peasant?
+0x8DF4926F=~z~No, you're gonna take the train, buddy. You think I wanna be in a car with a peasant?
+
+;0x916611C6=~z~Come on.
+0x916611C6=~z~Come on.
+
+;0x918819D2=~z~Nice detail.
+0x918819D2=~z~Nice detail.
+
+;0x92746FE5=V3_DB
+0x92746FE5=V3_DB
+
+;0x9355CA27=~z~No, it's mine, who asking?
+0x9355CA27=~z~No, it's mine, who asking?
+
+;0x93ACF392=~z~There's a carwash over on Saratoga Avenue. Just take it over there and then to my lockup just off Mohawk.
+0x93ACF392=~z~There's a carwash over on Saratoga Avenue. Just take it over there and then to my lockup just off Mohawk.
+
+;0x9A72E5B0=V3_FA
+0x9A72E5B0=V3_FA
+
+;0xA1F2963D=~z~He was reluctant, he is dead now.
+0xA1F2963D=~z~He was reluctant, he is dead now.
+
+;0xA2D7B4A9=~z~Want some?
+0xA2D7B4A9=~z~Want some?
+
+;0xA34EBD5F=~z~Yeah, listen, ah...
+0xA34EBD5F=~z~Yeah, listen, ah...
+
+;0xA3A3BDCD=~z~Are we going to drive over there?
+0xA3A3BDCD=~z~Are we going to drive over there?
+
+;0xA5EA21C9=V3_GC
+0xA5EA21C9=V3_GC
+
+;0xA624C30B=~z~-where were we?~n~-I don't know.
+0xA624C30B=~z~-where were we?~n~-I don't know.
+
+;0xA72B17F8=~z~Get your ass up on out of there.
+0xA72B17F8=~z~Get your ass up on out of there.
+
+;0xA812C78D=~z~-Where are we going?~n~-To my car.
+0xA812C78D=~z~-Where are we going?~n~-To my car.
+
+;0xAC358FF5=010100
+0xAC358FF5=010100
+
+;0xACA5ABA3=~z~Stupid bastard, at least I got my money.
+0xACA5ABA3=~z~Stupid bastard, at least I got my money.
+
+;0xADDDED54=~z~How am I gonna make my money without my car?
+0xADDDED54=~z~How am I gonna make my money without my car?
+
+;0xB2715B68=~z~What?
+0xB2715B68=~z~What?
+
+;0xB284D7C9=V3_JA
+0xB284D7C9=V3_JA
+
+;0xB64D6402=~z~Why?
+0xB64D6402=~z~Why?
+
+;0xB7E26686=~z~Oh yeah... so, I need you to head up to Dukes and get a car for me.
+0xB7E26686=~z~Oh yeah... so, I need you to head up to Dukes and get a car for me.
+
+;0xB82766D4=~z~We gonna drive over there?
+0xB82766D4=~z~We gonna drive over there?
+
+;0xB82F96CA=100
+0xB82F96CA=100
+
+;0xB8A202E0=~z~Vlad can fuck off.
+0xB8A202E0=~z~Vlad can fuck off.
+
+;0xB9AD16D5=~z~This car belong to Vlad?
+0xB9AD16D5=~z~This car belong to Vlad?
+
+;0xC58502A7=~z~Good.
+0xC58502A7=~z~Good.
+
+;0xC8DD45D0=V3_FB
+0xC8DD45D0=V3_FB
+
+;0xC9369CD8=010100
+0xC9369CD8=010100
+
+;0xCAFF8620=~z~So who the hell is Mikhail?
+0xCAFF8620=~z~So who the hell is Mikhail?
+
+;0xCF1BD245=V3_HA
+0xCF1BD245=V3_HA
+
+;0xCF29EA5B=~z~I have your new car, Vlad. It's not pretty though, real dirty.
+0xCF29EA5B=~z~I have your new car, Vlad. It's not pretty though, real dirty.
+
+;0xD144AA89=V3_AC
+0xD144AA89=V3_AC
+
+;0xD21C9BA0=~z~Okay, come on.
+0xD21C9BA0=~z~Okay, come on.
+
+;0xD72851CB=~z~It belongs to Vlad now. You should pay your debts.
+0xD72851CB=~z~It belongs to Vlad now. You should pay your debts.
+
+;0xE062382B=~z~I don't even like strawberries!
+0xE062382B=~z~I don't even like strawberries!
+
+;0xE5ACA231=V3_GB
+0xE5ACA231=V3_GB
+
+;0xE7D64354=~z~It was easy. I didn't even have to hurt the guy.
+0xE7D64354=~z~It was easy. I didn't even have to hurt the guy.
+
+;0xE8D5F526=~z~You that fat Russian's bitch? Just try and take.
+0xE8D5F526=~z~You that fat Russian's bitch? Just try and take.
+
+;0xEB2C3C20=010100
+0xEB2C3C20=010100
+
+;0xECBF4FFF=~z~Have fun... dick head.
+0xECBF4FFF=~z~Have fun... dick head.
+
+;0xECFE50BD=~z~No... listen, aaah, that's better... agh that's better.
+0xECFE50BD=~z~No... listen, aaah, that's better... agh that's better.
+
+;0xEDAA52BB=~z~Come on, let's go for a walk, okay?
+0xEDAA52BB=~z~Come on, let's go for a walk, okay?
+
+;0xEDFC2095=~z~I hope you going to buy me dinner first, Vlad. I'm not that easy.
+0xEDFC2095=~z~I hope you going to buy me dinner first, Vlad. I'm not that easy.
+
+;0xFB80ED82=~z~-have a little party...~n~-Okay. Fine.
+0xFB80ED82=~z~-have a little party...~n~-Okay. Fine.
+
+;0xFCA96CFA=~z~Good, dead guys can't pay interest, you're learning.
+0xFCA96CFA=~z~Good, dead guys can't pay interest, you're learning.
+
+;0xFDC7EBB4=~z~Yeah... wild.
+0xFDC7EBB4=~z~Yeah... wild.
+
+;0xFEB7F430=~z~Man, Mikhail gets the good stuff... it's got some laxative in it, though... gives you stomach problems.
+0xFEB7F430=~z~Man, Mikhail gets the good stuff... it's got some laxative in it, though... gives you stomach problems.
+
+;0xFFE6F734=~z~Right.
+0xFFE6F734=~z~Right.
+

@@ -1,0 +1,16 @@
+﻿[LIBTR9]
+;0x1772D10B="I was misquoted," says Deputy Mayor
+0x1772D10B="I was misquoted," says Deputy Mayor
+
+;0x697A66A5=Bryce Dawkins has big gay problem
+0x697A66A5=Bryce Dawkins has big gay problem
+
+;0x73E85B40=Michael Wayne
+0x73E85B40=Michael Wayne
+
+;0x800C450E=Bryce Dawkins attempted to diffuse the homophobic row that is threatening to engulf city hall in a firestorm of hatred yesterday when he said that his vicious attack on our city's gay community was "misunderstood, misquoted and misappropriated." In a strange attempt to pour oil on troubled waters, Dawkins said, "This kind of thing is a distraction from what really matters - fighting crime and fighting terrorism." He added that his job was "to make people safe, not make friends with everyone." Gay rights groups and civil rights protestors refused to accept the semi-apology saying it was typical gibberish spoken by a man who deserves to be impeached.
+0x800C450E=Bryce Dawkins attempted to diffuse the homophobic row that is threatening to engulf city hall in a firestorm of hatred yesterday when he said that his vicious attack on our city's gay community was "misunderstood, misquoted and misappropriated." In a strange attempt to pour oil on troubled waters, Dawkins said, "This kind of thing is a distraction from what really matters - fighting crime and fighting terrorism." He added that his job was "to make people safe, not make friends with everyone." Gay rights groups and civil rights protestors refused to accept the semi-apology saying it was typical gibberish spoken by a man who deserves to be impeached.
+
+;0xEC9EE522=Dawkins Swallows Words
+0xEC9EE522=Dawkins Swallows Words
+

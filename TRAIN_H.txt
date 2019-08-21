@@ -1,0 +1,97 @@
+﻿[TRAIN_H]
+;0x092ED59B=You are on the ~BLIP_84~ line.~n~The next stop is ~a~.
+0x092ED59B=You are on the ~BLIP_84~ line.~n~The next stop is ~a~.
+
+;0x0F09C832=You are on the ~BLIP_90~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+0x0F09C832=You are on the ~BLIP_90~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+
+;0x198C71DB=You are on the ~BLIP_86~ line.~n~This stop is ~a~.
+0x198C71DB=You are on the ~BLIP_86~ line.~n~This stop is ~a~.
+
+;0x256465FB=You are on the ~BLIP_89~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+0x256465FB=You are on the ~BLIP_89~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+
+;0x2AD6146E=You are on the ~BLIP_86~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+0x2AD6146E=You are on the ~BLIP_86~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+
+;0x2D99C808=You are on the ~BLIP_83~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+0x2D99C808=You are on the ~BLIP_83~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+
+;0x3360703E=You are on the ~BLIP_85~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+0x3360703E=You are on the ~BLIP_85~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+
+;0x39EEBEB1=You are on the ~BLIP_84~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+0x39EEBEB1=You are on the ~BLIP_84~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+
+;0x411DEDB2=You are on the ~BLIP_88~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+0x411DEDB2=You are on the ~BLIP_88~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+
+;0x70A38B60=You are on the ~BLIP_90~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+0x70A38B60=You are on the ~BLIP_90~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+
+;0x73DEAAF9=You are on the ~BLIP_83~ line.~n~The next stop is ~a~.
+0x73DEAAF9=You are on the ~BLIP_83~ line.~n~The next stop is ~a~.
+
+;0x76A758CC=You are on the ~BLIP_88~ line.~n~This stop is ~a~.
+0x76A758CC=You are on the ~BLIP_88~ line.~n~This stop is ~a~.
+
+;0x77F9DB65=You are on the ~BLIP_88~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+0x77F9DB65=You are on the ~BLIP_88~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+
+;0x803A4380=You are on the ~BLIP_89~ line.~n~The next stop is ~a~.
+0x803A4380=You are on the ~BLIP_89~ line.~n~The next stop is ~a~.
+
+;0x81C4BF67=You are on the ~BLIP_87~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+0x81C4BF67=You are on the ~BLIP_87~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+
+;0x84F0A512=You are on the ~BLIP_89~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+0x84F0A512=You are on the ~BLIP_89~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+
+;0x8B615587=You are on the ~BLIP_86~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+0x8B615587=You are on the ~BLIP_86~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+
+;0x8BC05362=You are on the ~BLIP_87~ line.~n~This stop is ~a~.
+0x8BC05362=You are on the ~BLIP_87~ line.~n~This stop is ~a~.
+
+;0x99B2F69D=You are on the ~BLIP_90~ line.~n~The next stop is ~a~.
+0x99B2F69D=You are on the ~BLIP_90~ line.~n~The next stop is ~a~.
+
+;0x9DE3F7A9=You are on the ~BLIP_87~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+0x9DE3F7A9=You are on the ~BLIP_87~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+
+;0x9F3F6897=You are on the ~BLIP_90~ line.~n~This stop is ~a~.
+0x9F3F6897=You are on the ~BLIP_90~ line.~n~This stop is ~a~.
+
+;0x9F5681D0=You are on the ~BLIP_86~ line.~n~The next stop is ~a~.
+0x9F5681D0=You are on the ~BLIP_86~ line.~n~The next stop is ~a~.
+
+;0xAA73C1BE=You are on the ~BLIP_83~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+0xAA73C1BE=You are on the ~BLIP_83~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+
+;0xB527F3CF=You are on the ~BLIP_85~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+0xB527F3CF=You are on the ~BLIP_85~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+
+;0xB6AC382E=You are on the ~BLIP_84~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+0xB6AC382E=You are on the ~BLIP_84~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+
+;0xC72E5167=You are on the ~BLIP_88~ line.~n~The next stop is ~a~.
+0xC72E5167=You are on the ~BLIP_88~ line.~n~The next stop is ~a~.
+
+;0xC9AF9CDA=You are on the ~BLIP_85~ line.~n~This stop is ~a~.
+0xC9AF9CDA=You are on the ~BLIP_85~ line.~n~This stop is ~a~.
+
+;0xD0916445=You are on the ~BLIP_85~ line.~n~The next stop is ~a~.
+0xD0916445=You are on the ~BLIP_85~ line.~n~The next stop is ~a~.
+
+;0xDC1DA50D=You are on the ~BLIP_83~ line.~n~This stop is ~a~.
+0xDC1DA50D=You are on the ~BLIP_83~ line.~n~This stop is ~a~.
+
+;0xEA7F1808=You are on the ~BLIP_87~ line.~n~The next stop is ~a~.
+0xEA7F1808=You are on the ~BLIP_87~ line.~n~The next stop is ~a~.
+
+;0xF325817E=You are on the ~BLIP_89~ line.~n~This stop is ~a~.
+0xF325817E=You are on the ~BLIP_89~ line.~n~This stop is ~a~.
+
+;0xFBD8C286=You are on the ~BLIP_84~ line.~n~This stop is ~a~.
+0xFBD8C286=You are on the ~BLIP_84~ line.~n~This stop is ~a~.
+

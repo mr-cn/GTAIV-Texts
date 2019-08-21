@@ -1,0 +1,7 @@
+﻿[ZOMBIE]
+;0x75A51081=~s~Press ~PAD_A~ to start
+0x75A51081=~s~Press ~PAD_A~ to start
+
+;0x8782B43C=Placeholder...
+0x8782B43C=Placeholder...
+

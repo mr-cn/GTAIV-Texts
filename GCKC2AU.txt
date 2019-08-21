@@ -1,0 +1,670 @@
+﻿[GCKC2AU]
+;0x01A77860=~z~But you're not ready either. You're a lunatic. I don't know if you can change...
+0x01A77860=~z~But you're not ready either. You're a lunatic. I don't know if you can change...
+
+;0x02BC9C60=GCK2_POINT_KN
+0x02BC9C60=GCK2_POINT_KN
+
+;0x03673BF8=~z~Because we've both been through shit.
+0x03673BF8=~z~Because we've both been through shit.
+
+;0x03A8C1FE=100010100010010100010010100010100100100010010100
+0x03A8C1FE=100010100010010100010010100010100100100010010100
+
+;0x06BCE9DD=GCK2_LIKE_HE
+0x06BCE9DD=GCK2_LIKE_HE
+
+;0x06F3E123=GCK2_QUESTION_IC
+0x06F3E123=GCK2_QUESTION_IC
+
+;0x09812461=GCK2_OPTIMISM_NP
+0x09812461=GCK2_OPTIMISM_NP
+
+;0x0A362995=GCK2_DATING_JL
+0x0A362995=GCK2_DATING_JL
+
+;0x0B0E34B7=GCK2_POINT_KO
+0x0B0E34B7=GCK2_POINT_KO
+
+;0x0B3D8BAB=~z~You have a very American way of looking at things.
+0x0B3D8BAB=~z~You have a very American way of looking at things.
+
+;0x0B649F02=GCK2_LIKE_HI
+0x0B649F02=GCK2_LIKE_HI
+
+;0x0E9D7EFC=GCK2_POINT_KA
+0x0E9D7EFC=GCK2_POINT_KA
+
+;0x0EB1CFB3=100010100100010100010010010010100100010100010010010100
+0x0EB1CFB3=100010100100010100010010010010100100010100010010010100
+
+;0x0EC0151F=100010100010100010100010010010010100
+0x0EC0151F=100010100010100010100010010010010100
+
+;0x0ECE7F76=~z~I hope you're wrong.
+0x0ECE7F76=~z~I hope you're wrong.
+
+;0x13B1782A=GCK2_QUESTION_IE
+0x13B1782A=GCK2_QUESTION_IE
+
+;0x149D6752=~z~You know what, when I'm with you, I can be myself.
+0x149D6752=~z~You know what, when I'm with you, I can be myself.
+
+;0x15E4EC59=~z~For a long time there was only one thing in my life that I cared about.
+0x15E4EC59=~z~For a long time there was only one thing in my life that I cared about.
+
+;0x171495AA=GCK2_POINT_KF
+0x171495AA=GCK2_POINT_KF
+
+;0x17843A8D=GCK2_LIKE_HM
+0x17843A8D=GCK2_LIKE_HM
+
+;0x17F678CD=GCK2_FRIENDS_ME
+0x17F678CD=GCK2_FRIENDS_ME
+
+;0x1B312B92=~z~Sure. I'll think about it.
+0x1B312B92=~z~Sure. I'll think about it.
+
+;0x1DF20482=~z~Are you okay Kate?
+0x1DF20482=~z~Are you okay Kate?
+
+;0x1F92D1A0=GCK2_FRIENDS_MN
+0x1F92D1A0=GCK2_FRIENDS_MN
+
+;0x2058FEB5=~z~Thanks - what's wrong with you?
+0x2058FEB5=~z~Thanks - what's wrong with you?
+
+;0x21D001B7=~z~I'd rather not.
+0x21D001B7=~z~I'd rather not.
+
+;0x21FC6B1A=010100100010100100010100010100100100010100010100100010100
+0x21FC6B1A=010100100010100100010100010100100100010100010100100010100
+
+;0x220BDE35=GCK2_PSYCHOS_LG
+0x220BDE35=GCK2_PSYCHOS_LG
+
+;0x2278DADF=GCK2_PSYCHOS_LC
+0x2278DADF=GCK2_PSYCHOS_LC
+
+;0x230B7B54=~z~What is it that makes us get on?
+0x230B7B54=~z~What is it that makes us get on?
+
+;0x23A607DB=~z~I don't want to get into that. But you know what I mean. What is the purpose of existence?
+0x23A607DB=~z~I don't want to get into that. But you know what I mean. What is the purpose of existence?
+
+;0x26A6427C=~z~I don't think men can change.
+0x26A6427C=~z~I don't think men can change.
+
+;0x27B7C480=~z~Doesn't really matter, you'll probably die tomorrow.
+0x27B7C480=~z~Doesn't really matter, you'll probably die tomorrow.
+
+;0x282E8586=~z~We have scars that come from these horrible situations and we can live to tell the tale.
+0x282E8586=~z~We have scars that come from these horrible situations and we can live to tell the tale.
+
+;0x2B3A4FE8=GCK2_FRIENDS_MG
+0x2B3A4FE8=GCK2_FRIENDS_MG
+
+;0x2BF38045=~z~What kind of man do you want to be, Niko?
+0x2BF38045=~z~What kind of man do you want to be, Niko?
+
+;0x2D869910=~z~You're like me - a whack job who should have been locked up years ago. You're a deranged psycho.
+0x2D869910=~z~You're like me - a whack job who should have been locked up years ago. You're a deranged psycho.
+
+;0x2E65323D=~z~I do not want to be controlled by the actions of others.
+0x2E65323D=~z~I do not want to be controlled by the actions of others.
+
+;0x2EC05349=GCK2_QUESTION_IK
+0x2EC05349=GCK2_QUESTION_IK
+
+;0x2FE0A789=GCK2_FRIENDS_MF
+0x2FE0A789=GCK2_FRIENDS_MF
+
+;0x3080C088=GCK2_FRIENDS_MM
+0x3080C088=GCK2_FRIENDS_MM
+
+;0x3163333D=~z~But I like you. You're genuine.
+0x3163333D=~z~But I like you. You're genuine.
+
+;0x31A70C5C=~z~It isn't a difficult question.
+0x31A70C5C=~z~It isn't a difficult question.
+
+;0x3253A536=~z~These are dates now?
+0x3253A536=~z~These are dates now?
+
+;0x32EA4D6C=GCK2_OPTIMISM_ND
+0x32EA4D6C=GCK2_OPTIMISM_ND
+
+;0x34C671AB=GCK2_POINT_KK
+0x34C671AB=GCK2_POINT_KK
+
+;0x357A084A=GCK2_POINT_KP
+0x357A084A=GCK2_POINT_KP
+
+;0x387EE62D=~z~Give it up. Move away. Grow up. Get out... you could be happy.
+0x387EE62D=~z~Give it up. Move away. Grow up. Get out... you could be happy.
+
+;0x3900C7CE=GCK2_DATING_JO
+0x3900C7CE=GCK2_DATING_JO
+
+;0x39C7E663=GCK2_OPTIMISM_NQ
+0x39C7E663=GCK2_OPTIMISM_NQ
+
+;0x3B476BA2=GCK2_OPTIMISM_NA
+0x3B476BA2=GCK2_OPTIMISM_NA
+
+;0x3BDDB5BE=~z~Good. You're a freak. That's why I like you.
+0x3BDDB5BE=~z~Good. You're a freak. That's why I like you.
+
+;0x3C9E45E8=GCK2_FRIENDS_MB
+0x3C9E45E8=GCK2_FRIENDS_MB
+
+;0x3CBDE58B=GCK2_OPTIMISM_NG
+0x3CBDE58B=GCK2_OPTIMISM_NG
+
+;0x3CF8CF64=~z~You see? Not difficult.
+0x3CF8CF64=~z~You see? Not difficult.
+
+;0x3ECF4A5E=~z~I like you too, Niko.
+0x3ECF4A5E=~z~I like you too, Niko.
+
+;0x3FE4A827=~z~Here you are, coming with the big questions straight out of the gate. Give me a break.
+0x3FE4A827=~z~Here you are, coming with the big questions straight out of the gate. Give me a break.
+
+;0x462A54F2=~z~We don't have to be friends anymore, if it upsets you.
+0x462A54F2=~z~We don't have to be friends anymore, if it upsets you.
+
+;0x47945F9F=~z~I really like you. I mean, not like that. I'm not into that. Not with you.
+0x47945F9F=~z~I really like you. I mean, not like that. I'm not into that. Not with you.
+
+;0x47D6C4EA=~z~Our mutual interest in wine, conversation, art house movies and long walks on the beach...
+0x47D6C4EA=~z~Our mutual interest in wine, conversation, art house movies and long walks on the beach...
+
+;0x4934506B=~z~Good. Because I don't want to think about it. I hang out with you to forget about that life.
+0x4934506B=~z~Good. Because I don't want to think about it. I hang out with you to forget about that life.
+
+;0x4BC0027F=GCK2_OPTIMISM_NF
+0x4BC0027F=GCK2_OPTIMISM_NF
+
+;0x4BF9D882=~z~It's the period between trips to the laundromat or calls from my mother or dates with you.
+0x4BF9D882=~z~It's the period between trips to the laundromat or calls from my mother or dates with you.
+
+;0x4C44C8EB=GCK2_PSYCHOS_LL
+0x4C44C8EB=GCK2_PSYCHOS_LL
+
+;0x4F205C57=~z~I should be forcibly sterilized... imagine a little baby Packie...
+0x4F205C57=~z~I should be forcibly sterilized... imagine a little baby Packie...
+
+;0x50F0EEA1=~z~Maybe that is why we get on. We're friends. I like you Kate. I really do.
+0x50F0EEA1=~z~Maybe that is why we get on. We're friends. I like you Kate. I really do.
+
+;0x53E050CE=~z~Okay, you want an answer? What sort of man do I want to be?
+0x53E050CE=~z~Okay, you want an answer? What sort of man do I want to be?
+
+;0x544500B6=GCK2_DATING_JF
+0x544500B6=GCK2_DATING_JF
+
+;0x54AE82AD=GCK2_DATING_JP
+0x54AE82AD=GCK2_DATING_JP
+
+;0x54BB5E9F=~z~Alright, why do we both understand that?
+0x54BB5E9F=~z~Alright, why do we both understand that?
+
+;0x5611BB25=GCK2_OPTIMISM_NN
+0x5611BB25=GCK2_OPTIMISM_NN
+
+;0x561A615D=~z~You mean, we're both emotionally scarred?
+0x561A615D=~z~You mean, we're both emotionally scarred?
+
+;0x56A9D5B1=~z~It's important to me. I've been thinking about you a lot and knowing your aspirations is important.
+0x56A9D5B1=~z~It's important to me. I've been thinking about you a lot and knowing your aspirations is important.
+
+;0x57BC6D7B=~z~I don't know, and I don't think I want to.
+0x57BC6D7B=~z~I don't know, and I don't think I want to.
+
+;0x591DA713=~z~You're scarcely a good judge. No, I'm not ready for a relationship... but...
+0x591DA713=~z~You're scarcely a good judge. No, I'm not ready for a relationship... but...
+
+;0x5A0EBB21=GCK2_LIKE_HP
+0x5A0EBB21=GCK2_LIKE_HP
+
+;0x5A5A0532=GCK2_LIKE_HA
+0x5A5A0532=GCK2_LIKE_HA
+
+;0x5C4B37AD=~z~I don't know - how is Packie?
+0x5C4B37AD=~z~I don't know - how is Packie?
+
+;0x5FACF7A6=GCK2_QUESTION_IG
+0x5FACF7A6=GCK2_QUESTION_IG
+
+;0x6054B5D8=~z~Thank you.
+0x6054B5D8=~z~Thank you.
+
+;0x60F85D56=GCK2_POINT_KR
+0x60F85D56=GCK2_POINT_KR
+
+;0x6238FDDE=GCK2_QUESTION_IF
+0x6238FDDE=GCK2_QUESTION_IF
+
+;0x63963758=GCK2_QUESTION_IL
+0x63963758=GCK2_QUESTION_IL
+
+;0x63BEDFAE=GCK2_PSYCHOS_LE
+0x63BEDFAE=GCK2_PSYCHOS_LE
+
+;0x63E89490=~z~We have survived. That's what life is about - survival.
+0x63E89490=~z~We have survived. That's what life is about - survival.
+
+;0x6480715E=~z~So you care what your "friend" wants to do with his life?
+0x6480715E=~z~So you care what your "friend" wants to do with his life?
+
+;0x64F4E035=GCK2_DATING_JK
+0x64F4E035=GCK2_DATING_JK
+
+;0x650229C0=GCK2_POINT_KG
+0x650229C0=GCK2_POINT_KG
+
+;0x65459174=GCK2_DATING_JI
+0x65459174=GCK2_DATING_JI
+
+;0x670AD4B7=GCK2_POINT_KL
+0x670AD4B7=GCK2_POINT_KL
+
+;0x67328EE7=~z~Now, after everything I have been through, I am not sure that life is so simple.
+0x67328EE7=~z~Now, after everything I have been through, I am not sure that life is so simple.
+
+;0x67D735F0=GCK2_FRIENDS_MK
+0x67D735F0=GCK2_FRIENDS_MK
+
+;0x6807690B=GCK2_PSYCHOS_LH
+0x6807690B=GCK2_PSYCHOS_LH
+
+;0x6A18D348=~z~How's my favorite sociopath today?
+0x6A18D348=~z~How's my favorite sociopath today?
+
+;0x6B000088=010100010100100010100100010100010100100010100100010
+0x6B000088=010100010100100010100100010100010100100010100100010
+
+;0x6C2C7032=GCK2_POINT_KM
+0x6C2C7032=GCK2_POINT_KM
+
+;0x6CE94F01=~z~It's over. This life of yours. You can change. At least think about it.
+0x6CE94F01=~z~It's over. This life of yours. You can change. At least think about it.
+
+;0x70F6AD4A=GCK2_FRIENDS_MP
+0x70F6AD4A=GCK2_FRIENDS_MP
+
+;0x710BA299=~z~This one thing, it drove me, it gave me motivation in everything I did.
+0x710BA299=~z~This one thing, it drove me, it gave me motivation in everything I did.
+
+;0x72F1DCEE=GCK2_OPTIMISM_NE
+0x72F1DCEE=GCK2_OPTIMISM_NE
+
+;0x735973F0=GCK2_OPTIMISM_NL
+0x735973F0=GCK2_OPTIMISM_NL
+
+;0x75B6156A=~z~Because I want to be happy - because I want to move away, have a family myself,
+0x75B6156A=~z~Because I want to be happy - because I want to move away, have a family myself,
+
+;0x766AB284=100010100100010100100010100100
+0x766AB284=100010100100010100100010100100
+
+;0x792E1719=GCK2_DATING_JQ
+0x792E1719=GCK2_DATING_JQ
+
+;0x7A207357=~z~He's a psychotic cocaine addict, sure, but he's actually quite sentimental and longs for normality.
+0x7A207357=~z~He's a psychotic cocaine addict, sure, but he's actually quite sentimental and longs for normality.
+
+;0x7B288498=GCK2_DATING_JN
+0x7B288498=GCK2_DATING_JN
+
+;0x7C70F134=GCK2_FRIENDS_MH
+0x7C70F134=GCK2_FRIENDS_MH
+
+;0x7D97C3CC=~z~I'm not good at this optimism thing. I'm tired.
+0x7D97C3CC=~z~I'm not good at this optimism thing. I'm tired.
+
+;0x7E71C4B4=GCK2_DATING_JH
+0x7E71C4B4=GCK2_DATING_JH
+
+;0x808B1716=~z~I can tell you stupid things, because I know you're as mad as me. I like being your friend.
+0x808B1716=~z~I can tell you stupid things, because I know you're as mad as me. I like being your friend.
+
+;0x80D48C20=GCK2_LIKE_HJ
+0x80D48C20=GCK2_LIKE_HJ
+
+;0x83D5DD29=~z~I want to be able to make the right decision and it be my own decision to make.
+0x83D5DD29=~z~I want to be able to make the right decision and it be my own decision to make.
+
+;0x83E1B1C1=~z~not be caught up in craziness.
+0x83E1B1C1=~z~not be caught up in craziness.
+
+;0x84466A6C=~z~There can be no one thing that gives us purpose.
+0x84466A6C=~z~There can be no one thing that gives us purpose.
+
+;0x86CB33B3=GCK2_DATING_JJ
+0x86CB33B3=GCK2_DATING_JJ
+
+;0x8BBD6017=~z~Yes, good... no... no. I'm terrible.
+0x8BBD6017=~z~Yes, good... no... no. I'm terrible.
+
+;0x8C5EE933=~z~Thank you.
+0x8C5EE933=~z~Thank you.
+
+;0x8D590FDC=~z~If you liked me, you'd give this up. Give up this life, for me, I mean.
+0x8D590FDC=~z~If you liked me, you'd give this up. Give up this life, for me, I mean.
+
+;0x8E2C8FBE=GCK2_OPTIMISM_NI
+0x8E2C8FBE=GCK2_OPTIMISM_NI
+
+;0x8EC54697=~z~I want to be a whole one. I do not want to be owned by anyone.
+0x8EC54697=~z~I want to be a whole one. I do not want to be owned by anyone.
+
+;0x8F548088=~z~I don't know. I think life can be simple if you let it be. I think that life can have meaning.
+0x8F548088=~z~I don't know. I think life can be simple if you let it be. I think that life can have meaning.
+
+;0x9051957A=~z~You seem okay to me.
+0x9051957A=~z~You seem okay to me.
+
+;0x90D1D6E3=~z~Do you think this is strange - you and me being friends?
+0x90D1D6E3=~z~Do you think this is strange - you and me being friends?
+
+;0x921CCE37=~z~Why don't you get involved with someone?
+0x921CCE37=~z~Why don't you get involved with someone?
+
+;0x924E715B=~z~Sometimes I do not call my life survival, it is somewhere below that, but yeah. I take your point.
+0x924E715B=~z~Sometimes I do not call my life survival, it is somewhere below that, but yeah. I take your point.
+
+;0x92710567=GCK2_FRIENDS_ML
+0x92710567=GCK2_FRIENDS_ML
+
+;0x93CC0CEB=GCK2_POINT_KD
+0x93CC0CEB=GCK2_POINT_KD
+
+;0x96D7ACC5=~z~Packie's not a sociopath.
+0x96D7ACC5=~z~Packie's not a sociopath.
+
+;0x9961BD64=GCK2_OPTIMISM_NJ
+0x9961BD64=GCK2_OPTIMISM_NJ
+
+;0x9986A937=GCK2_OPTIMISM_NR
+0x9986A937=GCK2_OPTIMISM_NR
+
+;0x9AE74285=GCK2_LIKE_HL
+0x9AE74285=GCK2_LIKE_HL
+
+;0x9D84321B=GCK2_DATING_JC
+0x9D84321B=GCK2_DATING_JC
+
+;0x9DBF48AA=GCK2_PSYCHOS_LJ
+0x9DBF48AA=GCK2_PSYCHOS_LJ
+
+;0xA0AF27AD=GCK2_POINT_KE
+0xA0AF27AD=GCK2_POINT_KE
+
+;0xA0C42367=~z~I want to be productive, I want to help people, I think that if I went back to school and became a teacher...
+0xA0C42367=~z~I want to be productive, I want to help people, I think that if I went back to school and became a teacher...
+
+;0xA16F6BEB=~z~It isn't a difficult question if you don't care about the answer. What kind of a man do I want to be?
+0xA16F6BEB=~z~It isn't a difficult question if you don't care about the answer. What kind of a man do I want to be?
+
+;0xA1970FC8=~z~I don't know about you, but I have my fair share of physical scars.
+0xA1970FC8=~z~I don't know about you, but I have my fair share of physical scars.
+
+;0xA2F9C50D=~z~My pleasure. You know what, Niko, I really... I really...
+0xA2F9C50D=~z~My pleasure. You know what, Niko, I really... I really...
+
+;0xA36B11D3=GCK2_LIKE_HG
+0xA36B11D3=GCK2_LIKE_HG
+
+;0xA4074F1B=GCK2_OPTIMISM_NK
+0xA4074F1B=GCK2_OPTIMISM_NK
+
+;0xA4B4487E=~z~He's my brother, but he's an idiot. You're not.
+0xA4B4487E=~z~He's my brother, but he's an idiot. You're not.
+
+;0xA7B31688=GCK2_FRIENDS_MC
+0xA7B31688=GCK2_FRIENDS_MC
+
+;0xA7DEC4E7=~z~No you don't. You don't like anything. You tolerate me, like you tolerate life.
+0xA7DEC4E7=~z~No you don't. You don't like anything. You tolerate me, like you tolerate life.
+
+;0xA83774EA=GCK2_LIKE_HK
+0xA83774EA=GCK2_LIKE_HK
+
+;0xA83D97F8=GCK2_LIKE_HH
+0xA83D97F8=GCK2_LIKE_HH
+
+;0xA890B2FC=~z~This is a good thing to do, you will help people. You should go back to school and become a teacher.
+0xA890B2FC=~z~This is a good thing to do, you will help people. You should go back to school and become a teacher.
+
+;0xAE9B0733=~z~No. Not really. I was trying to be more optimistic. My shrink tells me I need to be more optimistic
+0xAE9B0733=~z~No. Not really. I was trying to be more optimistic. My shrink tells me I need to be more optimistic
+
+;0xAEDF40BD=GCK2_POINT_KB
+0xAEDF40BD=GCK2_POINT_KB
+
+;0xAFA22481=GCK2_LIKE_HF
+0xAFA22481=GCK2_LIKE_HF
+
+;0xB0313795=GCK2_DATING_JE
+0xB0313795=GCK2_DATING_JE
+
+;0xB0C44802=GCK2_OPTIMISM_NC
+0xB0C44802=GCK2_OPTIMISM_NC
+
+;0xB13B6190=~z~Thank you, I think.
+0xB13B6190=~z~Thank you, I think.
+
+;0xB1863485=GCK2_LIKE_HQ
+0xB1863485=GCK2_LIKE_HQ
+
+;0xB1C632B5=GCK2_LIKE_HB
+0xB1C632B5=GCK2_LIKE_HB
+
+;0xB35665C2=~z~He just thinks that he'll find it by doing 5 hits of X a day, and smoking crack at weekends after a spot of bank robbing.
+0xB35665C2=~z~He just thinks that he'll find it by doing 5 hits of X a day, and smoking crack at weekends after a spot of bank robbing.
+
+;0xB3C75C65=~z~but if I was, I'd want to be with you.
+0xB3C75C65=~z~but if I was, I'd want to be with you.
+
+;0xB4135990=100010100100100100010100010100100100010100010100
+0xB4135990=100010100100100100010100010100100100010100010100
+
+;0xB660CE9C=~z~Maybe I will.
+0xB660CE9C=~z~Maybe I will.
+
+;0xB6B46405=GCK2_OPTIMISM_NS
+0xB6B46405=GCK2_OPTIMISM_NS
+
+;0xB73A120C=GCK2_POINT_KJ
+0xB73A120C=GCK2_POINT_KJ
+
+;0xB7C8B82D=~z~I like you.
+0xB7C8B82D=~z~I like you.
+
+;0xB8FA830D=GCK2_FRIENDS_MO
+0xB8FA830D=GCK2_FRIENDS_MO
+
+;0xB8FF6DD4=GCK2_FRIENDS_MI
+0xB8FF6DD4=GCK2_FRIENDS_MI
+
+;0xB9F90380=GCK2_DATING_JM
+0xB9F90380=GCK2_DATING_JM
+
+;0xBBAF0346=GCK2_OPTIMISM_NO
+0xBBAF0346=GCK2_OPTIMISM_NO
+
+;0xBCC8A38E=~z~silly idiot that she is.
+0xBCC8A38E=~z~silly idiot that she is.
+
+;0xBDA04B25=GCK2_QUESTION_ID
+0xBDA04B25=GCK2_QUESTION_ID
+
+;0xBF2BC459=GCK2_FRIENDS_MD
+0xBF2BC459=GCK2_FRIENDS_MD
+
+;0xC02BF68A=GCK2_DATING_JB
+0xC02BF68A=GCK2_DATING_JB
+
+;0xC0E8DFED=GCK2_POINT_KI
+0xC0E8DFED=GCK2_POINT_KI
+
+;0xC1A3F81E=~z~I'm not ready - I'm scared of all of that - you care about people, they die. I'm pretty messed up.
+0xC1A3F81E=~z~I'm not ready - I'm scared of all of that - you care about people, they die. I'm pretty messed up.
+
+;0xC3B5B160=~z~How you doing, Kate?
+0xC3B5B160=~z~How you doing, Kate?
+
+;0xC415DD70=GCK2_QUESTION_IA
+0xC415DD70=GCK2_QUESTION_IA
+
+;0xC4A36B21=~z~Whether this will satisfy you though... that is another matter.
+0xC4A36B21=~z~Whether this will satisfy you though... that is another matter.
+
+;0xC5C55842=GCK2_FRIENDS_MQ
+0xC5C55842=GCK2_FRIENDS_MQ
+
+;0xC786DF82=~z~No.
+0xC786DF82=~z~No.
+
+;0xC904D28A=~z~The point of life. I just get the feeling sometimes that life is waiting between points.
+0xC904D28A=~z~The point of life. I just get the feeling sometimes that life is waiting between points.
+
+;0xC9F75C8A=~z~Oh, shut up, I don't mean that. I like you. I really like you. You know I do.
+0xC9F75C8A=~z~Oh, shut up, I don't mean that. I like you. I really like you. You know I do.
+
+;0xCF1CB550=GCK2_PSYCHOS_LF
+0xCF1CB550=GCK2_PSYCHOS_LF
+
+;0xD105D03A=GCK2_QUESTION_IH
+0xD105D03A=GCK2_QUESTION_IH
+
+;0xD27FCEF4=~z~Great.
+0xD27FCEF4=~z~Great.
+
+;0xD2EE87B7=~z~We want things because we think they will make us whole.
+0xD2EE87B7=~z~We want things because we think they will make us whole.
+
+;0xD3159871=GCK2_QUESTION_IJ
+0xD3159871=GCK2_QUESTION_IJ
+
+;0xD3599BC5=~z~Thank you.
+0xD3599BC5=~z~Thank you.
+
+;0xD579A005=~z~Probably.
+0xD579A005=~z~Probably.
+
+;0xD78C0C64=GCK2_LIKE_HD
+0xD78C0C64=GCK2_LIKE_HD
+
+;0xD7A3A110=GCK2_OPTIMISM_NB
+0xD7A3A110=GCK2_OPTIMISM_NB
+
+;0xD9CD0412=~z~Genuinely awful, but at least you're not a fucking hypocrite. That can't be said of many people.
+0xD9CD0412=~z~Genuinely awful, but at least you're not a fucking hypocrite. That can't be said of many people.
+
+;0xDA847589=~z~The point of what?
+0xDA847589=~z~The point of what?
+
+;0xDAECBF98=GCK2_PSYCHOS_LI
+0xDAECBF98=GCK2_PSYCHOS_LI
+
+;0xDC31B77C=~z~You really what?
+0xDC31B77C=~z~You really what?
+
+;0xDD26AB75=GCK2_OPTIMISM_NH
+0xDD26AB75=GCK2_OPTIMISM_NH
+
+;0xDECAEAA4=GCK2_QUESTION_II
+0xDECAEAA4=GCK2_QUESTION_II
+
+;0xE0061AA6=GCK2_DATING_JG
+0xE0061AA6=GCK2_DATING_JG
+
+;0xE0326A59=~z~Really?
+0xE0326A59=~z~Really?
+
+;0xE061895E=~z~Tired of everything. Tired of myself. Tired of you.
+0xE061895E=~z~Tired of everything. Tired of myself. Tired of you.
+
+;0xE1D49042=~z~Okay, we're both survivors then. Maybe that's why we like each other.
+0xE1D49042=~z~Okay, we're both survivors then. Maybe that's why we like each other.
+
+;0xE20BB944=~z~So you could do this until you've killed everyone? Or until you die? Your life must be hell.
+0xE20BB944=~z~So you could do this until you've killed everyone? Or until you die? Your life must be hell.
+
+;0xE5D5A776=GCK2_POINT_KC
+0xE5D5A776=GCK2_POINT_KC
+
+;0xE660A167=GCK2_DATING_JD
+0xE660A167=GCK2_DATING_JD
+
+;0xE6D31F82=GCK2_QUESTION_IB
+0xE6D31F82=GCK2_QUESTION_IB
+
+;0xE778F8EE=~z~Why do you go?
+0xE778F8EE=~z~Why do you go?
+
+;0xE84DA113=~z~Thank you. I like you.
+0xE84DA113=~z~Thank you. I like you.
+
+;0xED13B99E=GCK2_POINT_KH
+0xED13B99E=GCK2_POINT_KH
+
+;0xEE89D23C=~z~But you don't like me.
+0xEE89D23C=~z~But you don't like me.
+
+;0xF2325F21=GCK2_FRIENDS_MJ
+0xF2325F21=GCK2_FRIENDS_MJ
+
+;0xF266A2D1=~z~The very idea I think about having a family given my genes is shameful.
+0xF266A2D1=~z~The very idea I think about having a family given my genes is shameful.
+
+;0xF29C2DD3=~z~I'm tired of this life - tired of this city.
+0xF29C2DD3=~z~I'm tired of this life - tired of this city.
+
+;0xF41A34CD=~z~Bad stuff has happened to people around us, to people we care about, to us even, but we have pulled through.
+0xF41A34CD=~z~Bad stuff has happened to people around us, to people we care about, to us even, but we have pulled through.
+
+;0xF51DAACB=~z~God, sometimes do you think - what is the point?
+0xF51DAACB=~z~God, sometimes do you think - what is the point?
+
+;0xF5529FE3=~z~I think if two people like one another...
+0xF5529FE3=~z~I think if two people like one another...
+
+;0xF56C746C=GCK2_OPTIMISM_NM
+0xF56C746C=GCK2_OPTIMISM_NM
+
+;0xF575A029=~z~I don't know, maybe the fact that we both understand that the world is a fucked up place.
+0xF575A029=~z~I don't know, maybe the fact that we both understand that the world is a fucked up place.
+
+;0xF7A60BA7=GCK2_POINT_KQ
+0xF7A60BA7=GCK2_POINT_KQ
+
+;0xF80D1354=GCK2_LIKE_HN
+0xF80D1354=GCK2_LIKE_HN
+
+;0xFA7C00BA=GCK2_PSYCHOS_LK
+0xFA7C00BA=GCK2_PSYCHOS_LK
+
+;0xFAAA6A3E=GCK2_DATING_JA
+0xFAAA6A3E=GCK2_DATING_JA
+
+;0xFAE39E1A=~z~I care about the lives of people I care about... my family, my friends... yes!
+0xFAE39E1A=~z~I care about the lives of people I care about... my family, my friends... yes!
+
+;0xFAF550F6=GCK2_LIKE_HC
+0xFAF550F6=GCK2_LIKE_HC
+
+;0xFBC00C52=GCK2_PSYCHOS_LD
+0xFBC00C52=GCK2_PSYCHOS_LD
+
+;0xFD0542A5=~z~Sorry.
+0xFD0542A5=~z~Sorry.
+
+;0xFD45DC65=~z~There is a void in us that cannot be filled.
+0xFD45DC65=~z~There is a void in us that cannot be filled.
+
+;0xFE78CD69=~z~I like you. I like what you are, and that's a good thing.
+0xFE78CD69=~z~I like you. I like what you are, and that's a good thing.
+

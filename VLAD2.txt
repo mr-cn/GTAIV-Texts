@@ -1,0 +1,31 @@
+﻿[VLAD2]
+;0x73774329=~r~The shop keeper is dead.
+0x73774329=~r~The shop keeper is dead.
+
+;0x75209C81=Ram the shop keeper's ~R~van~s~ until he stops.
+0x75209C81=Ram the shop keeper's ~R~van~s~ until he stops.
+
+;0x85B5E7A6=~r~The shop keeper got away.
+0x85B5E7A6=~r~The shop keeper got away.
+
+;0xC33A5F72=Press ~INPUT_PHONE_TAKE_OUT~ to display phone. Press ~INPUT_PHONE_ACCEPT~ to instantly read new message.
+0xC33A5F72=Press ~INPUT_PHONE_TAKE_OUT~ to display phone. Press ~INPUT_PHONE_ACCEPT~ to instantly read new message.
+
+;0xCC19F46D=Press ~INPUT_PHONE_ACCEPT~ and select Delete to wipe the message, or press and hold ~INPUT_PHONE_PUT_AWAY~ to exit.
+0xCC19F46D=Press ~INPUT_PHONE_ACCEPT~ and select Delete to wipe the message, or press and hold ~INPUT_PHONE_PUT_AWAY~ to exit.
+
+;0xD02E529B=Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the target vehicle.
+0xD02E529B=Hold ~INPUT_VEH_CIN_CAM~ to focus the camera on the target vehicle.
+
+;0xD80D0C67=The envelope icon above the radar is displayed when you have a new text message. This will fade slightly when it is read.
+0xD80D0C67=The envelope icon above the radar is displayed when you have a new text message. This will fade slightly when it is read.
+
+;0xDE5E6EFB=Chase the ~r~shop keeper.
+0xDE5E6EFB=Chase the ~r~shop keeper.
+
+;0xF18F9551=Go to the ~y~laundromat.
+0xF18F9551=Go to the ~y~laundromat.
+
+;0xFFBE31AE=~r~The shop keeper was spooked and escaped out the front.
+0xFFBE31AE=~r~The shop keeper was spooked and escaped out the front.
+

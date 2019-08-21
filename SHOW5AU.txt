@@ -1,0 +1,115 @@
+﻿[SHOW5AU]
+;0x0FAD8F12=~z~~x~Gender stereotypes, especially for women
+0x0FAD8F12=~z~~x~Gender stereotypes, especially for women
+
+;0x16CD99BA=~z~~x~And a year goes by and you're spending Thursday nights at a religious séance chanting Kifflom
+0x16CD99BA=~z~~x~And a year goes by and you're spending Thursday nights at a religious séance chanting Kifflom
+
+;0x1D1229DB=~z~~x~Planes, trains and anorexia
+0x1D1229DB=~z~~x~Planes, trains and anorexia
+
+;0x288C3D37=~z~~x~You meet a gal named Maggie who fancies herself a fingersmith of all trades.
+0x288C3D37=~z~~x~You meet a gal named Maggie who fancies herself a fingersmith of all trades.
+
+;0x335C566F=~z~~x~Night and dark
+0x335C566F=~z~~x~Night and dark
+
+;0x354F56BD=~z~~x~And you tell them to get lost and you leave the hospital and go straight to an S&M club.
+0x354F56BD=~z~~x~And you tell them to get lost and you leave the hospital and go straight to an S&M club.
+
+;0x40C3F13E=~z~~x~Whiskey bottle... now
+0x40C3F13E=~z~~x~Whiskey bottle... now
+
+;0x43DCB72C=~z~~x~Sorry! No refunds. She's a victim of domestic violence.
+0x43DCB72C=~z~~x~Sorry! No refunds. She's a victim of domestic violence.
+
+;0x4480F520=~z~~x~at your hospital bed and you're disgusted - you're a dog without a phone.
+0x4480F520=~z~~x~at your hospital bed and you're disgusted - you're a dog without a phone.
+
+;0x4FCD0BB4=~z~~x~And when you, over there, you look at your husband and your two children
+0x4FCD0BB4=~z~~x~And when you, over there, you look at your husband and your two children
+
+;0x56891CC4=~z~~x~Broken heart, oh, split liver
+0x56891CC4=~z~~x~Broken heart, oh, split liver
+
+;0x5E0AEB88=~z~~x~Now, let's toss your balls. It's Catch!
+0x5E0AEB88=~z~~x~Now, let's toss your balls. It's Catch!
+
+;0x6157AEC9=~z~~x~but you'll never ever get back to Kansas.
+0x6157AEC9=~z~~x~but you'll never ever get back to Kansas.
+
+;0x6461B875=~z~~x~It's that crazy crap shot in a barrel called life!
+0x6461B875=~z~~x~It's that crazy crap shot in a barrel called life!
+
+;0x6A21B9EF=~z~~x~Oh yeah...
+0x6A21B9EF=~z~~x~Oh yeah...
+
+;0x6A48C0AB=~z~~x~and in purdah and all you can think about is that cheerleader in high school,
+0x6A48C0AB=~z~~x~and in purdah and all you can think about is that cheerleader in high school,
+
+;0x6C9588A9=~z~~x~Oh, man, I'm so fucked up on meds right now.
+0x6C9588A9=~z~~x~Oh, man, I'm so fucked up on meds right now.
+
+;0x7570FCF0=~z~~x~Catch the juggler, everyone!
+0x7570FCF0=~z~~x~Catch the juggler, everyone!
+
+;0x7A21E3F5=~z~~x~I'm gonna throw out a whole bunch of trite blues expressions right now for y'all. You ready?
+0x7A21E3F5=~z~~x~I'm gonna throw out a whole bunch of trite blues expressions right now for y'all. You ready?
+
+;0x7E642C46=~z~~x~Can someone go get me a drink or something?
+0x7E642C46=~z~~x~Can someone go get me a drink or something?
+
+;0x9ACFE51D=~z~~x~You know, I'm so sorry, everybody. I don't know what the hell I'm singing about.
+0x9ACFE51D=~z~~x~You know, I'm so sorry, everybody. I don't know what the hell I'm singing about.
+
+;0x9D86AABE=~z~~x~I think it's happened to us all, really.
+0x9D86AABE=~z~~x~I think it's happened to us all, really.
+
+;0xA26B2A81=~z~~x~and your car skidded off the road, and you was up the creek,
+0xA26B2A81=~z~~x~and your car skidded off the road, and you was up the creek,
+
+;0xA62031FB=~z~~x~the smell of rubber and petrol in the air?
+0xA62031FB=~z~~x~the smell of rubber and petrol in the air?
+
+;0xB250D0BE=~z~~x~You then marry a balding accountant, and you hold him to account.
+0xB250D0BE=~z~~x~You then marry a balding accountant, and you hold him to account.
+
+;0xB4C7190B=~z~~x~I gotta charge my mobile phone
+0xB4C7190B=~z~~x~I gotta charge my mobile phone
+
+;0xBBE0DD6C=~z~~x~Time for depressing song with Ms. Bluesy St. John.
+0xBBE0DD6C=~z~~x~Time for depressing song with Ms. Bluesy St. John.
+
+;0xC70CBD96=~z~~x~Man, I got the linguistic blues bad tonight
+0xC70CBD96=~z~~x~Man, I got the linguistic blues bad tonight
+
+;0xC972F8A0=~z~~x~You know, when you wake up from that coma and you're in traction and in a bad way
+0xC972F8A0=~z~~x~You know, when you wake up from that coma and you're in traction and in a bad way
+
+;0xCFE98BF3=~z~~x~and afterwards going to a swinger cowboy bar named Saddle Tramps
+0xCFE98BF3=~z~~x~and afterwards going to a swinger cowboy bar named Saddle Tramps
+
+;0xD05B8661=~z~~x~We're gonna take it down right now, talk about something that's happened to us all.
+0xD05B8661=~z~~x~We're gonna take it down right now, talk about something that's happened to us all.
+
+;0xD5F89BA9=~z~~x~Cryin' alone at group therapy
+0xD5F89BA9=~z~~x~Cryin' alone at group therapy
+
+;0xE29874AD=~z~~x~Where's my double ender?
+0xE29874AD=~z~~x~Where's my double ender?
+
+;0xF4C84F3A=~z~~x~You know, like you went to your high school reunion and got drunk
+0xF4C84F3A=~z~~x~You know, like you went to your high school reunion and got drunk
+
+;0xF7C9554C=~z~~x~Such a bad smell.
+0xF7C9554C=~z~~x~Such a bad smell.
+
+;0xF96C6290=~z~~x~Dark and night and night and dark
+0xF96C6290=~z~~x~Dark and night and night and dark
+
+;0xFD2BE677=~z~~x~and getting into drunken arguments about the Middle East or the middle distance, who knows?
+0xFD2BE677=~z~~x~and getting into drunken arguments about the Middle East or the middle distance, who knows?
+
+;0xFE766296=~z~~x~Talk about mixing our Goddamn metaphors, yeah.
+0xFE766296=~z~~x~Talk about mixing our Goddamn metaphors, yeah.
+

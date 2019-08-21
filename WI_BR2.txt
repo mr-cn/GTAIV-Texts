@@ -1,0 +1,37 @@
+﻿[WI_BR2]
+;0x12DD234B=You left ~b~Brian~s~ behind.
+0x12DD234B=You left ~b~Brian~s~ behind.
+
+;0x1B022B3F=Lose your wanted level.
+0x1B022B3F=Lose your wanted level.
+
+;0x2B63D458=~r~Brian was abandoned.~s~
+0x2B63D458=~r~Brian was abandoned.~s~
+
+;0x4A739257=You must keep Brian in sight. Get back in ~y~position.~s~
+0x4A739257=You must keep Brian in sight. Get back in ~y~position.~s~
+
+;0x60D6BF1D=Wait for Brian.
+0x60D6BF1D=Wait for Brian.
+
+;0x6BCAD505=Lose your wanted level.
+0x6BCAD505=Lose your wanted level.
+
+;0x7C2975C2=~r~The deal was disrupted by police presence.~s~
+0x7C2975C2=~r~The deal was disrupted by police presence.~s~
+
+;0x95068D14=~r~The deal was disrupted.~s~
+0x95068D14=~r~The deal was disrupted.~s~
+
+;0xA8E14F31=Take Brian to ~y~Wappinger.~s~
+0xA8E14F31=Take Brian to ~y~Wappinger.~s~
+
+;0xB71EEBAC=Get a vehicle.
+0xB71EEBAC=Get a vehicle.
+
+;0xB747D196=Pick ~b~Brian~s~ up.
+0xB747D196=Pick ~b~Brian~s~ up.
+
+;0xE48E46AE=Take Brian to his ~y~destination.~s~
+0xE48E46AE=Take Brian to his ~y~destination.~s~
+

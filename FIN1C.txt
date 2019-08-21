@@ -1,0 +1,79 @@
+﻿[FIN1C]
+;0x042AEB88=~s~Go to Perseus and buy suit pants for the wedding.
+0x042AEB88=~s~Go to Perseus and buy suit pants for the wedding.
+
+;0x0E09FDE6=~s~Buy smart shoes for the wedding.
+0x0E09FDE6=~s~Buy smart shoes for the wedding.
+
+;0x16B790A1=~s~Go to Perseus and buy a suit for the wedding.
+0x16B790A1=~s~Go to Perseus and buy a suit for the wedding.
+
+;0x184F5D20=Press ~INPUT_VEH_HORN~ to sound the horn and get Kate's attention.
+0x184F5D20=Press ~INPUT_VEH_HORN~ to sound the horn and get Kate's attention.
+
+;0x1B7098B3=~s~Buy suit pants for the wedding.
+0x1B7098B3=~s~Buy suit pants for the wedding.
+
+;0x2A7BB6C9=~s~Buy a suit jacket for the wedding.
+0x2A7BB6C9=~s~Buy a suit jacket for the wedding.
+
+;0x2DC83D56=~s~Go to Perseus and buy a suit jacket and pants for the wedding.
+0x2DC83D56=~s~Go to Perseus and buy a suit jacket and pants for the wedding.
+
+;0x37ED51AC=~s~Buy a suit for the wedding.
+0x37ED51AC=~s~Buy a suit for the wedding.
+
+;0x46A539CB=Go and get a vehicle.
+0x46A539CB=Go and get a vehicle.
+
+;0x495275D6=~r~You missed the ceremony.
+0x495275D6=~r~You missed the ceremony.
+
+;0x61676F4F=Change into a suit for the wedding or go to Perseus to buy a smart outfit.
+0x61676F4F=Change into a suit for the wedding or go to Perseus to buy a smart outfit.
+
+;0x66B1AF28=~s~Go to Perseus and buy suit pants and smart shoes for the wedding.
+0x66B1AF28=~s~Go to Perseus and buy suit pants and smart shoes for the wedding.
+
+;0x70A4C31A=~s~Buy a suit jacket and pants for the wedding.
+0x70A4C31A=~s~Buy a suit jacket and pants for the wedding.
+
+;0x7373139A=~s~Buy suit pants and shoes for the wedding.
+0x7373139A=~s~Buy suit pants and shoes for the wedding.
+
+;0x74E44B8D=Lose your wanted level.
+0x74E44B8D=Lose your wanted level.
+
+;0x8037E3A0=~s~Go to Perseus and buy smart shoes for the wedding.
+0x8037E3A0=~s~Go to Perseus and buy smart shoes for the wedding.
+
+;0x815D647F=~s~Go to Perseus and buy a suit.
+0x815D647F=~s~Go to Perseus and buy a suit.
+
+;0x8371B397=~s~Buy a suit jacket and shoes for the wedding.
+0x8371B397=~s~Buy a suit jacket and shoes for the wedding.
+
+;0x911703FA=~s~Go to Perseus and buy a suit jacket and shoes for the wedding.
+0x911703FA=~s~Go to Perseus and buy a suit jacket and shoes for the wedding.
+
+;0x96E8DA85=You left ~b~Kate~s~ behind, go get her.
+0x96E8DA85=You left ~b~Kate~s~ behind, go get her.
+
+;0xA8AA7E08=Go and pick up ~b~Kate.
+0xA8AA7E08=Go and pick up ~b~Kate.
+
+;0xBA9721E1=~r~Kate is dead.
+0xBA9721E1=~r~Kate is dead.
+
+;0xCD657DFE=~r~The wedding was cancelled.
+0xCD657DFE=~r~The wedding was cancelled.
+
+;0xD1D886E4=Meet Roman at the ~y~church.
+0xD1D886E4=Meet Roman at the ~y~church.
+
+;0xDF8C224B=~r~The guests were scared off.
+0xDF8C224B=~r~The guests were scared off.
+
+;0xF5F04F13=~s~Go to Perseus and buy a suit jacket for the wedding.
+0xF5F04F13=~s~Go to Perseus and buy a suit jacket for the wedding.
+

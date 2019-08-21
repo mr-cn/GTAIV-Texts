@@ -1,0 +1,31 @@
+﻿[MANNY6]
+;0x45D89D20=Go to the ~y~table~s~ abd pick up the coke.
+0x45D89D20=Go to the ~y~table~s~ abd pick up the coke.
+
+;0x541F39AD=~s~You found Elizabeta's stuff, the ~g~coke~s~ is on the table.
+0x541F39AD=~s~You found Elizabeta's stuff, the ~g~coke~s~ is on the table.
+
+;0x68C6E2FC=N.O.O.S.E. are raiding the hospital; get out of there, and lose your wanted level.~s~
+0x68C6E2FC=N.O.O.S.E. are raiding the hospital; get out of there, and lose your wanted level.~s~
+
+;0x88872048=Lose your wanted level before the meeting.
+0x88872048=Lose your wanted level before the meeting.
+
+;0xB95E02BD=Take out the people protecting the deal.
+0xB95E02BD=Take out the people protecting the deal.
+
+;0xC82FA060=Elizabeta's coke is somewhere in the Old Hospital.
+0xC82FA060=Elizabeta's coke is somewhere in the Old Hospital.
+
+;0xCE02B2C6=~R~Little Jacob is dead.
+0xCE02B2C6=~R~Little Jacob is dead.
+
+;0xDDC2CB86=Go to the ~y~old hospital~s~ and get Elizabeta's coke back.
+0xDDC2CB86=Go to the ~y~old hospital~s~ and get Elizabeta's coke back.
+
+;0xE1E35A87=Go and meet ~b~Little Jacob.
+0xE1E35A87=Go and meet ~b~Little Jacob.
+
+;0xEDF9ED5C=~s~Find the drugs in the hospital and take out ~r~anyone~s~ in your way.
+0xEDF9ED5C=~s~Find the drugs in the hospital and take out ~r~anyone~s~ in your way.
+

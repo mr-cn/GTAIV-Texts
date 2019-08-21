@@ -1,0 +1,40 @@
+﻿[TRKBURN]
+;0x0D60F9A0=~s~Trigger the bomb.
+0x0D60F9A0=~s~Trigger the bomb.
+
+;0x1EA39C25=~s~Press ~INPUT_PICKUP~ to trigger the bomb.
+0x1EA39C25=~s~Press ~INPUT_PICKUP~ to trigger the bomb.
+
+;0x32ED05F3=~r~The truck has been destroyed.
+0x32ED05F3=~r~The truck has been destroyed.
+
+;0x4391DA11=~s~Park the truck inside the ~y~garage.
+0x4391DA11=~s~Park the truck inside the ~y~garage.
+
+;0x45332A7F=~r~You have abandoned the truck.~s~
+0x45332A7F=~r~You have abandoned the truck.~s~
+
+;0x4A5D7394=~s~Drive to the ~y~garage.
+0x4A5D7394=~s~Drive to the ~y~garage.
+
+;0x6DE33A9F=~s~Get in the ~b~truck.
+0x6DE33A9F=~s~Get in the ~b~truck.
+
+;0x7B6DC9C8=~s~Be careful, the ~b~truck~s~ can't take much more damage.
+0x7B6DC9C8=~s~Be careful, the ~b~truck~s~ can't take much more damage.
+
+;0x7F99DE0C=~s~Go to the old factory and find the ~b~truck.~s~
+0x7F99DE0C=~s~Go to the old factory and find the ~b~truck.~s~
+
+;0x8D446D75=~s~Be careful or the bomb will detonate.
+0x8D446D75=~s~Be careful or the bomb will detonate.
+
+;0x9A47877F=~s~Get out of the area.
+0x9A47877F=~s~Get out of the area.
+
+;0xB95E906C=Quicker flashes indicate the explosive is becoming more unstable.
+0xB95E906C=Quicker flashes indicate the explosive is becoming more unstable.
+
+;0xEFECFD88=The flashing light on the back of the truck indicates its condition.
+0xEFECFD88=The flashing light on the back of the truck indicates its condition.
+

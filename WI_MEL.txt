@@ -1,0 +1,40 @@
+﻿[WI_MEL]
+;0x15EEFCA3=~r~Mel is dead.
+0x15EEFCA3=~r~Mel is dead.
+
+;0x23B79834=Take Mel back ~y~home.
+0x23B79834=Take Mel back ~y~home.
+
+;0x5262DD12=~r~The meeting was broken up.
+0x5262DD12=~r~The meeting was broken up.
+
+;0x52A97617=Take out Mel's ~r~old friends.
+0x52A97617=Take out Mel's ~r~old friends.
+
+;0x7E4C1C96=Take Mel to the ~y~meeting.
+0x7E4C1C96=Take Mel to the ~y~meeting.
+
+;0x89E8E499=~r~You lost Mel.
+0x89E8E499=~r~You lost Mel.
+
+;0x9B1F6D66=Pick up ~b~Mel.
+0x9B1F6D66=Pick up ~b~Mel.
+
+;0xA224E447=Get a vehicle.
+0xA224E447=Get a vehicle.
+
+;0xB0ABB586=Get Mel to the ~y~meeting.
+0xB0ABB586=Get Mel to the ~y~meeting.
+
+;0xB6CA0D91=Wait for Mel.
+0xB6CA0D91=Wait for Mel.
+
+;0xDAA70B9C=~r~Mel's old friends are still out there.
+0xDAA70B9C=~r~Mel's old friends are still out there.
+
+;0xDEE0930B=Get Mel back to ~y~his place.
+0xDEE0930B=Get Mel back to ~y~his place.
+
+;0xEC61AF11=~r~Mel was abandoned.
+0xEC61AF11=~r~Mel was abandoned.
+

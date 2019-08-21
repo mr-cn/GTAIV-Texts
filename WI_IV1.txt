@@ -1,0 +1,43 @@
+﻿[WI_IV1]
+;0x2762DE87=Pick ~b~Ivan~s~ up.
+0x2762DE87=Pick ~b~Ivan~s~ up.
+
+;0x39BA0335=Get a vehicle.
+0x39BA0335=Get a vehicle.
+
+;0x4407B2F0=Take Ivan to collect his ~y~money.
+0x4407B2F0=Take Ivan to collect his ~y~money.
+
+;0x5D26CA0E=Wait for Ivan.
+0x5D26CA0E=Wait for Ivan.
+
+;0x6BFFECB0=~r~You have scared the debtor's and ruined the meeting.~s~
+0x6BFFECB0=~r~You have scared the debtor's and ruined the meeting.~s~
+
+;0x7A561F90=~r~Ivan was abandoned~s~
+0x7A561F90=~r~Ivan was abandoned~s~
+
+;0x7AC5206E=~r~The meeting was broken up.~s~
+0x7AC5206E=~r~The meeting was broken up.~s~
+
+;0x95D3D68B=Leave the car and go and speak with Ivan's ~y~debtor.
+0x95D3D68B=Leave the car and go and speak with Ivan's ~y~debtor.
+
+;0xA819FB17=Protect Ivan and take out the ~r~gang members.~s~
+0xA819FB17=Protect Ivan and take out the ~r~gang members.~s~
+
+;0xB1618DA6=You left ~b~Ivan~s~ behind.
+0xB1618DA6=You left ~b~Ivan~s~ behind.
+
+;0xC4771A01=Go and speak with Ivan's ~y~debtor.
+0xC4771A01=Go and speak with Ivan's ~y~debtor.
+
+;0xCA7D4015=Lose your wanted level.
+0xCA7D4015=Lose your wanted level.
+
+;0xCCED44BD=You are too far away from ~b~Ivan.~s~ Get closer so you can interact with him.
+0xCCED44BD=You are too far away from ~b~Ivan.~s~ Get closer so you can interact with him.
+
+;0xDF1F6921=Go and speak with ~b~Ivan.
+0xDF1F6921=Go and speak with ~b~Ivan.
+

@@ -1,0 +1,190 @@
+﻿[PIPAUD]
+;0x0558753A=~z~For real, man!
+0x0558753A=~z~For real, man!
+
+;0x09EB7530=100
+0x09EB7530=100
+
+;0x0BA349B2=~z~Cold, man, but that's all part of the struggle.
+0x0BA349B2=~z~Cold, man, but that's all part of the struggle.
+
+;0x11BBC0AA=~z~Your shit?
+0x11BBC0AA=~z~Your shit?
+
+;0x1669C7F4=~z~Who wanna hear some real beats?
+0x1669C7F4=~z~Who wanna hear some real beats?
+
+;0x1A84D593=~z~You don't get no real music, punk.
+0x1A84D593=~z~You don't get no real music, punk.
+
+;0x1B996288=PIP_AA
+0x1B996288=PIP_AA
+
+;0x1D62ED31=~z~So how is the rap game?
+0x1D62ED31=~z~So how is the rap game?
+
+;0x2096DB8F=~z~No. I can see that.
+0x2096DB8F=~z~No. I can see that.
+
+;0x23FC6319=~z~This shit be red hot.
+0x23FC6319=~z~This shit be red hot.
+
+;0x24AC668B=~z~-No, not really.~n~-Cause the shit ain't real no more?
+0x24AC668B=~z~-No, not really.~n~-Cause the shit ain't real no more?
+
+;0x29293C3B=~z~You're ignorant, fool.
+0x29293C3B=~z~You're ignorant, fool.
+
+;0x30AE13C7=~z~Player - you's already a fan of Pathos. I knows that... good to see you man. Give it up!
+0x30AE13C7=~z~Player - you's already a fan of Pathos. I knows that... good to see you man. Give it up!
+
+;0x32687F32=~z~The majors are just pimps, and I ain't no bitch.
+0x32687F32=~z~The majors are just pimps, and I ain't no bitch.
+
+;0x343C0901=~z~Shit, I know what it like to not be appreciated in my own time.
+0x343C0901=~z~Shit, I know what it like to not be appreciated in my own time.
+
+;0x360A55FD=~z~And you're a fucking fag.
+0x360A55FD=~z~And you're a fucking fag.
+
+;0x38328AFE=~z~Hey, fuck you... I've had enough of your crap.
+0x38328AFE=~z~Hey, fuck you... I've had enough of your crap.
+
+;0x3E26997F=~z~I sense a little apprehension in your voice.
+0x3E26997F=~z~I sense a little apprehension in your voice.
+
+;0x450AAA9E=~z~I'm gonna shut all you haters up.
+0x450AAA9E=~z~I'm gonna shut all you haters up.
+
+;0x45192AB3=~z~Yo don't nobody treat the Pathos like that.
+0x45192AB3=~z~Yo don't nobody treat the Pathos like that.
+
+;0x4F7E3C2E=~z~Well, you gonna love my shit.
+0x4F7E3C2E=~z~Well, you gonna love my shit.
+
+;0x50CD63D5=PIP_DD
+0x50CD63D5=PIP_DD
+
+;0x56C94E1B=~z~I'm more gangster than you ever gonna know, punk.
+0x56C94E1B=~z~I'm more gangster than you ever gonna know, punk.
+
+;0x5D5E0867=~z~You know the truth when you see it.
+0x5D5E0867=~z~You know the truth when you see it.
+
+;0x5EE1A7AF=~z~You all tough when your boyfriend's around, Mr. Pathetic.
+0x5EE1A7AF=~z~You all tough when your boyfriend's around, Mr. Pathetic.
+
+;0x62E86659=~z~You better get down and stay down.
+0x62E86659=~z~You better get down and stay down.
+
+;0x6D1F442A=~z~You're ignorant, fool.
+0x6D1F442A=~z~You're ignorant, fool.
+
+;0x78518DD4=~z~I like it a bit but, uh, I'm not a crazy fan.
+0x78518DD4=~z~I like it a bit but, uh, I'm not a crazy fan.
+
+;0x7B2D10FA=~z~Yo, Pathos! You a bitch and you suck dick!
+0x7B2D10FA=~z~Yo, Pathos! You a bitch and you suck dick!
+
+;0x7B56E099=~z~And you're a fucking fag.
+0x7B56E099=~z~And you're a fucking fag.
+
+;0x7D879B9F=~z~I'm gonna lyricize 'bout your punk ass.
+0x7D879B9F=~z~I'm gonna lyricize 'bout your punk ass.
+
+;0x815A9DD8=~z~Yo, anyone like hip hop?
+0x815A9DD8=~z~Yo, anyone like hip hop?
+
+;0x825BD262=~z~Thanks, man. I'll catch you around.
+0x825BD262=~z~Thanks, man. I'll catch you around.
+
+;0x84D85AE6=PIP_DC
+0x84D85AE6=PIP_DC
+
+;0x88C52EBB=~z~Cause the shit went all commercial? Cause people sold out? I hear you.
+0x88C52EBB=~z~Cause the shit went all commercial? Cause people sold out? I hear you.
+
+;0x8A8673E7=PIP_CA
+0x8A8673E7=PIP_CA
+
+;0x8CB2CBCF=~z~You better start listening to me, bitch!
+0x8CB2CBCF=~z~You better start listening to me, bitch!
+
+;0x8F403F10=~z~You don't know what it like to be no rapper.
+0x8F403F10=~z~You don't know what it like to be no rapper.
+
+;0x915A3D54=~z~Give it up for Pathos!
+0x915A3D54=~z~Give it up for Pathos!
+
+;0x918E0DAB=~z~You a gangster!
+0x918E0DAB=~z~You a gangster!
+
+;0x9349C39C=~z~Pathos. Believe that.
+0x9349C39C=~z~Pathos. Believe that.
+
+;0x9372748F=~z~Man, I'm going to immortalize you. Keep it real, from your man Pathos.
+0x9372748F=~z~Man, I'm going to immortalize you. Keep it real, from your man Pathos.
+
+;0x9BBC5C4E=190
+0x9BBC5C4E=190
+
+;0x9E66576C=~z~Yeah, he heard me, bitch. What you gonna do about it?
+0x9E66576C=~z~Yeah, he heard me, bitch. What you gonna do about it?
+
+;0xA3CEE519=PIP_DA
+0xA3CEE519=PIP_DA
+
+;0xACB7F40F=~z~Man, you hear that punk.
+0xACB7F40F=~z~Man, you hear that punk.
+
+;0xAF1C90A2=~z~How cheerful.
+0xAF1C90A2=~z~How cheerful.
+
+;0xB9DE8EDF=~z~Listen to my shit first.
+0xB9DE8EDF=~z~Listen to my shit first.
+
+;0xC1F9365B=~z~What you say?
+0xC1F9365B=~z~What you say?
+
+;0xC7A82A72=~z~We gots underground hip hop right here.
+0xC7A82A72=~z~We gots underground hip hop right here.
+
+;0xC81FDD85=~z~Yo thanks, son. You, you a child of the street.
+0xC81FDD85=~z~Yo thanks, son. You, you a child of the street.
+
+;0xCD1AA7B2=190
+0xCD1AA7B2=190
+
+;0xCFB63C7C=~z~Yes - it's the real urban consciousness and man it is real.
+0xCFB63C7C=~z~Yes - it's the real urban consciousness and man it is real.
+
+;0xDF9959D1=~z~Man, if I have to spend the rest of my life preaching on a street corner, so fucking be it.
+0xDF9959D1=~z~Man, if I have to spend the rest of my life preaching on a street corner, so fucking be it.
+
+;0xE65BFF20=~z~I ain't into that club shit. I got a message, and bitches better listen.
+0xE65BFF20=~z~I ain't into that club shit. I got a message, and bitches better listen.
+
+;0xE70E8089=~z~I cut a new CD - "Pathos - From Suffering and Back Again".
+0xE70E8089=~z~I cut a new CD - "Pathos - From Suffering and Back Again".
+
+;0xE8F69B26=100100100010
+0xE8F69B26=100100100010
+
+;0xEA6F65B9=PIP_BA
+0xEA6F65B9=PIP_BA
+
+;0xF0A5B123=PIP_DB
+0xF0A5B123=PIP_DB
+
+;0xF676D777=~z~That's some crazy shit!
+0xF676D777=~z~That's some crazy shit!
+
+;0xF72F0B91=~z~Ain't got no intelligence? For real.
+0xF72F0B91=~z~Ain't got no intelligence? For real.
+
+;0xF8CD2406=~z~Sure.
+0xF8CD2406=~z~Sure.
+
+;0xFBF91254=~z~Why are you selling it on the street?
+0xFBF91254=~z~Why are you selling it on the street?
+

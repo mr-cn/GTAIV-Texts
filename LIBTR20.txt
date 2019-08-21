@@ -1,0 +1,28 @@
+﻿[LIBTR20]
+;0x00FA7ABF=Tony J Smith
+0x00FA7ABF=Tony J Smith
+
+;0x1E142B51=Street Racing No Longer Just For Streets
+0x1E142B51=Street Racing No Longer Just For Streets
+
+;0x69178D5D=Danger in the skies above LC
+0x69178D5D=Danger in the skies above LC
+
+;0x6C74D01C=Chaos and danger in the skies and waterways as the idle rich look for dangerous new kicks - that's right - not content to race sports cars and motorbikes, sociopathic young men are now also racing helicopters and power boats around the city. It's a craze that is certain to end in death but, for some adrenaline junkies, the appeal is worth the risk. Police have made several arrests for illegal racing of such high-powered equipment recently. With bonuses for hedge-funders at an all-time high, police are terrified this deadly new craze will gain cachet with the newly idle, newly rich.
+0x6C74D01C=Chaos and danger in the skies and waterways as the idle rich look for dangerous new kicks - that's right - not content to race sports cars and motorbikes, sociopathic young men are now also racing helicopters and power boats around the city. It's a craze that is certain to end in death but, for some adrenaline junkies, the appeal is worth the risk. Police have made several arrests for illegal racing of such high-powered equipment recently. With bonuses for hedge-funders at an all-time high, police are terrified this deadly new craze will gain cachet with the newly idle, newly rich.
+
+;0xBA1DB6F1=Helicopters and powerboats the new toys of idle thrill seekers
+0xBA1DB6F1=Helicopters and powerboats the new toys of idle thrill seekers
+
+;0xBE44B4A0=The nine blades of glory may be helping astronauts not look like hobos in space. The Excelsior Extreme 9, a breakthrough in science and technology, is the product of years of research by America's leading scientists to get the closest shave possible. And now, as part of an educational mission, the number one cartoon in the nation, the Republican Space Rangers, will have their own specially-branded Excelsior Extreme 9 razors. Razors with the faces of Butch, The Commander and Dick are flying off shelves in toy stores. Kids are encouraged to shave every part of their body, as facial and body hair make you look like a pervert or a hobo.
+0xBE44B4A0=The nine blades of glory may be helping astronauts not look like hobos in space. The Excelsior Extreme 9, a breakthrough in science and technology, is the product of years of research by America's leading scientists to get the closest shave possible. And now, as part of an educational mission, the number one cartoon in the nation, the Republican Space Rangers, will have their own specially-branded Excelsior Extreme 9 razors. Razors with the faces of Butch, The Commander and Dick are flying off shelves in toy stores. Kids are encouraged to shave every part of their body, as facial and body hair make you look like a pervert or a hobo.
+
+;0xD88813E4=The science behind the razor that pushed shaving to the limit
+0xD88813E4=The science behind the razor that pushed shaving to the limit
+
+;0xDC806D87=A Cut Above?
+0xDC806D87=A Cut Above?
+
+;0xF908EBFD=Staff Writer
+0xF908EBFD=Staff Writer
+

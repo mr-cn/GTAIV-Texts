@@ -1,0 +1,112 @@
+﻿[BELL7]
+;0x009450AE=~s~You've left ~b~someone~s~ behind, go and get him.
+0x009450AE=~s~You've left ~b~someone~s~ behind, go and get him.
+
+;0x032954D0=~r~Frankie is dead.
+0x032954D0=~r~Frankie is dead.
+
+;0x074D5AD8=~s~Lose the cops.
+0x074D5AD8=~s~Lose the cops.
+
+;0x0E466B0A=~s~PLACEHOLDER!~n~Scripted cutscene will play here.
+0x0E466B0A=~s~PLACEHOLDER!~n~Scripted cutscene will play here.
+
+;0x0FC5ECE1=~s~Find a vehicle with more seats.
+0x0FC5ECE1=~s~Find a vehicle with more seats.
+
+;0x16C37D0C=~s~Take Bell to the ~y~old mansion~s~ in Westdyke.
+0x16C37D0C=~s~Take Bell to the ~y~old mansion~s~ in Westdyke.
+
+;0x190CFE57=~r~Frankie got busted.
+0x190CFE57=~r~Frankie got busted.
+
+;0x20A00FBD=~r~The car with the H was destroyed.
+0x20A00FBD=~r~The car with the H was destroyed.
+
+;0x21F71143=H
+0x21F71143=H
+
+;0x23CB13D3=~s~Take Bell and Frankie to the ~y~safe house.~s~
+0x23CB13D3=~s~Take Bell and Frankie to the ~y~safe house.~s~
+
+;0x2AD0241D=~s~There is too much heat. Follow ~b~Bell~s~ and ~b~Frankie~s~. ~s~Take out anyone who gets in your way.
+0x2AD0241D=~s~There is too much heat. Follow ~b~Bell~s~ and ~b~Frankie~s~. ~s~Take out anyone who gets in your way.
+
+;0x2B8CA69E=You need a car.
+0x2B8CA69E=You need a car.
+
+;0x2C3AA5CA=~s~Stay close to ~b~Bell.
+0x2C3AA5CA=~s~Stay close to ~b~Bell.
+
+;0x360EB85A=~s~You've left ~b~Bell~s~ and ~b~Frankie~s~ behind, go back and get them.
+0x360EB85A=~s~You've left ~b~Bell~s~ and ~b~Frankie~s~ behind, go back and get them.
+
+;0x3C14C6A6=~s~PLACEHOLDER!~n~Mocap cutscene will play here.
+0x3C14C6A6=~s~PLACEHOLDER!~n~Mocap cutscene will play here.
+
+;0x49BDE68D=~s~There is too much heat. Follow ~b~Bell~s~.~s~ Take out anyone who get in your way.
+0x49BDE68D=~s~There is too much heat. Follow ~b~Bell~s~.~s~ Take out anyone who get in your way.
+
+;0x5280F486=~s~Pick up Bell in ~y~Leftwood.
+0x5280F486=~s~Pick up Bell in ~y~Leftwood.
+
+;0x5440F5D6=~s~Go to the ~y~escape van.
+0x5440F5D6=~s~Go to the ~y~escape van.
+
+;0x60E18F1B=~s~Lose your wanted level.
+0x60E18F1B=~s~Lose your wanted level.
+
+;0x677C1D78=~r~Bell is dead.
+0x677C1D78=~r~Bell is dead.
+
+;0x6E872A66=~s~You've left ~b~Frankie~s~ behind, go back and get him.
+0x6E872A66=~s~You've left ~b~Frankie~s~ behind, go back and get him.
+
+;0x7823BEC7=~s~Take Bell to the ~y~safe house.~s~
+0x7823BEC7=~s~Take Bell to the ~y~safe house.~s~
+
+;0x7D0A476C=~s~You've left ~b~Bell~s~ behind, go back and get him.
+0x7D0A476C=~s~You've left ~b~Bell~s~ behind, go back and get him.
+
+;0x8F546C00=~s~Stay close to ~b~Bell~s~ and ~b~Frankie.
+0x8F546C00=~s~Stay close to ~b~Bell~s~ and ~b~Frankie.
+
+;0xA269910E=~s~Get in the van with ~b~Bell~s~ and ~b~Frankie~s~.
+0xA269910E=~s~Get in the van with ~b~Bell~s~ and ~b~Frankie~s~.
+
+;0xAB55262D=~s~Get the H from the car.
+0xAB55262D=~s~Get the H from the car.
+
+;0xB99AC2B8=Bag
+0xB99AC2B8=Bag
+
+;0xC0EC4E13=~s~Get to the ~y~escape van~s~ and lose the cops.
+0xC0EC4E13=~s~Get to the ~y~escape van~s~ and lose the cops.
+
+;0xCFE7EF52=~s~Follow ~b~Bell.~s~ Don't let him get busted by the feds.
+0xCFE7EF52=~s~Follow ~b~Bell.~s~ Don't let him get busted by the feds.
+
+;0xD1B171DD=~r~The get away car was destroyed.
+0xD1B171DD=~r~The get away car was destroyed.
+
+;0xDD8F0874=~s~Get back in the ~b~car~s~ and follow Bell.
+0xDD8F0874=~s~Get back in the ~b~car~s~ and follow Bell.
+
+;0xDE088B97=~s~Follow ~b~Bell.
+0xDE088B97=~s~Follow ~b~Bell.
+
+;0xE32614CA=~s~Take out the ~r~helicopter.~s~ There is too much heat with it following you.
+0xE32614CA=~s~Take out the ~r~helicopter.~s~ There is too much heat with it following you.
+
+;0xEF512AE0=~s~Get in the van with ~b~Bell~s~.
+0xEF512AE0=~s~Get in the van with ~b~Bell~s~.
+
+;0xF0FAB073=~r~Bell got busted.
+0xF0FAB073=~r~Bell got busted.
+
+;0xF25AB43B=~s~You've left ~b~Bell~s~ behind, go back and get him.
+0xF25AB43B=~s~You've left ~b~Bell~s~ behind, go back and get him.
+
+;0xFA0CC16F=~s~Frankie is down. Get the ~g~H~s~ and leave him behind.
+0xFA0CC16F=~s~Frankie is down. Get the ~g~H~s~ and leave him behind.
+

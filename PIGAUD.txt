@@ -1,0 +1,16 @@
+﻿[PIGAUD]
+;0x1A2DB919=~z~You stay the fuck away from me, asshole. Help me!
+0x1A2DB919=~z~You stay the fuck away from me, asshole. Help me!
+
+;0x2227490C=~z~-Me?~n~-Yeah, you!
+0x2227490C=~z~-Me?~n~-Yeah, you!
+
+;0x3491EDE1=~z~-It's him! It's that fucking guy that kidnapped me.~n~-Lady, I think you're mistaken.
+0x3491EDE1=~z~-It's him! It's that fucking guy that kidnapped me.~n~-Lady, I think you're mistaken.
+
+;0xD3082ACF=~z~Ahh! There he is! You.
+0xD3082ACF=~z~Ahh! There he is! You.
+
+;0xFFFC84B7=~z~That motherfucker kidnapped me! Anthony, Sal, Tony, Mark, Benny! Help me!
+0xFFFC84B7=~z~That motherfucker kidnapped me! Anthony, Sal, Tony, Mark, Benny! Help me!
+
