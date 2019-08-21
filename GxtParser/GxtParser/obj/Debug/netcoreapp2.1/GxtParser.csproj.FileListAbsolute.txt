@@ -1,0 +1,11 @@
+D:\Workspace\C#\GxtParser\GxtParser\bin\Debug\netcoreapp2.1\GxtParser.deps.json
+D:\Workspace\C#\GxtParser\GxtParser\bin\Debug\netcoreapp2.1\GxtParser.runtimeconfig.json
+D:\Workspace\C#\GxtParser\GxtParser\bin\Debug\netcoreapp2.1\GxtParser.runtimeconfig.dev.json
+D:\Workspace\C#\GxtParser\GxtParser\bin\Debug\netcoreapp2.1\GxtParser.dll
+D:\Workspace\C#\GxtParser\GxtParser\bin\Debug\netcoreapp2.1\GxtParser.pdb
+D:\Workspace\C#\GxtParser\GxtParser\obj\Debug\netcoreapp2.1\GxtParser.csprojAssemblyReference.cache
+D:\Workspace\C#\GxtParser\GxtParser\obj\Debug\netcoreapp2.1\GxtParser.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\GxtParser\GxtParser\obj\Debug\netcoreapp2.1\GxtParser.AssemblyInfoInputs.cache
+D:\Workspace\C#\GxtParser\GxtParser\obj\Debug\netcoreapp2.1\GxtParser.AssemblyInfo.cs
+D:\Workspace\C#\GxtParser\GxtParser\obj\Debug\netcoreapp2.1\GxtParser.dll
+D:\Workspace\C#\GxtParser\GxtParser\obj\Debug\netcoreapp2.1\GxtParser.pdb
