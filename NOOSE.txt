@@ -38,8 +38,8 @@
 ;0x74B9239C=Protect ~B~Petrovic~S~ and find him some transport.
 0x74B9239C=Protect ~B~Petrovic~S~ and find him some transport.
 
-;0x7C5314FE=Clear the area. Petrovic won't come out until it's safe.
-0x7C5314FE=Clear the area. Petrovic won't come out until it's safe.
+;0x7C5314FE=Clear the area. Petrovic won't come out until its safe.
+0x7C5314FE=Clear the area. Petrovic won't come out until its safe.
 
 ;0x84CF3488=~B~Petrovic~S~ is vulnerable. Get some transport to the extraction point.
 0x84CF3488=~B~Petrovic~S~ is vulnerable. Get some transport to the extraction point.

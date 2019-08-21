@@ -5,11 +5,11 @@
 ;0x0873FE5F=~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake.
 0x0873FE5F=~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake.
 
-;0x08A0EC25=~s~SIXAXIS™ Tutorial failed.
-0x08A0EC25=~s~SIXAXIS™ Tutorial failed.
+;0x08A0EC25=~s~SIXAXIS Tutorial failed.
+0x08A0EC25=~s~SIXAXIS Tutorial failed.
 
-;0x100839FC=~s~Use SIXAXIS™ to fly the helicopter through the ~y~markers.
-0x100839FC=~s~Use SIXAXIS™ to fly the helicopter through the ~y~markers.
+;0x100839FC=~s~Use SIXAXIS to fly the helicopter through the ~y~markers.
+0x100839FC=~s~Use SIXAXIS to fly the helicopter through the ~y~markers.
 
 ;0x13FE2F6D=~s~Get back on the ~b~bike.
 0x13FE2F6D=~s~Get back on the ~b~bike.
@@ -17,11 +17,11 @@
 ;0x1D365458=~s~Use ~PAD_SIXAXIS_PITCH~ and hold ~INPUT_VEH_FLY_THROTTLE_UP~ to accelerate forwards.~n~_~n~_~n~
 0x1D365458=~s~Use ~PAD_SIXAXIS_PITCH~ and hold ~INPUT_VEH_FLY_THROTTLE_UP~ to accelerate forwards.~n~_~n~_~n~
 
-;0x1D83C32B=~s~Reload your weapon using SIXAXIS™.
-0x1D83C32B=~s~Reload your weapon using SIXAXIS™.
+;0x1D83C32B=~s~Reload your weapon using SIXAXIS.
+0x1D83C32B=~s~Reload your weapon using SIXAXIS.
 
-;0x2233C7CE=You can use SIXAXIS™ to control boats.
-0x2233C7CE=You can use SIXAXIS™ to control boats.
+;0x2233C7CE=You can use SIXAXIS to control boats.
+0x2233C7CE=You can use SIXAXIS to control boats.
 
 ;0x271DB173=~s~Use ~PAD_SIXAXIS_PITCH~ and hold ~INPUT_VEH_FLY_THROTTLE_UP~ to accelerate forwards.
 0x271DB173=~s~Use ~PAD_SIXAXIS_PITCH~ and hold ~INPUT_VEH_FLY_THROTTLE_UP~ to accelerate forwards.
@@ -32,11 +32,11 @@
 ;0x35FF859C=~s~You can use ~PAD_SIXAXIS_PITCH~ to adjust the trim.
 0x35FF859C=~s~You can use ~PAD_SIXAXIS_PITCH~ to adjust the trim.
 
-;0x40350CBD=You can use SIXAXIS™ to control bikes.
-0x40350CBD=You can use SIXAXIS™ to control bikes.
+;0x40350CBD=You can use SIXAXIS to control bikes.
+0x40350CBD=You can use SIXAXIS to control bikes.
 
-;0x43B317B2=You can use SIXAXIS™ to control helicopters.
-0x43B317B2=You can use SIXAXIS™ to control helicopters.
+;0x43B317B2=You can use SIXAXIS to control helicopters.
+0x43B317B2=You can use SIXAXIS to control helicopters.
 
 ;0x476FC2BE=~r~The bike got stuck.
 0x476FC2BE=~r~The bike got stuck.
@@ -47,11 +47,11 @@
 ;0x5C664B03=Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake.
 0x5C664B03=Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake.
 
-;0x5D90358E=~r~You left the airport and canceled the SIXAXIS™ tutorial.
-0x5D90358E=~r~You left the airport and canceled the SIXAXIS™ tutorial.
+;0x5D90358E=~r~You left the airport and canceled the SIXAXIS tutorial.
+0x5D90358E=~r~You left the airport and canceled the SIXAXIS tutorial.
 
-;0x675939F9=SIXAXIS™ can be overridden at any time by using ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ when appropriate.
-0x675939F9=SIXAXIS™ can be overridden at any time by using ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ when appropriate.
+;0x675939F9=SIXAXIS can be overridden at any time by using ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ when appropriate.
+0x675939F9=SIXAXIS can be overridden at any time by using ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ when appropriate.
 
 ;0x69C23B2C=Use ~PAD_SIXAXIS_ROLL~ and ~PAD_SIXAXIS_PITCH~ to bank the helicopter in the direction you wish to move.
 0x69C23B2C=Use ~PAD_SIXAXIS_ROLL~ and ~PAD_SIXAXIS_PITCH~ to bank the helicopter in the direction you wish to move.
@@ -77,8 +77,8 @@
 ;0x82A71630=~s~Use ~PAD_SIXAXIS_ROLL~ to steer the bike.~n~_~n~_~n~
 0x82A71630=~s~Use ~PAD_SIXAXIS_ROLL~ to steer the bike.~n~_~n~_~n~
 
-;0x8DC18CF3=~s~Use SIXAXIS™ to perform a stunt.
-0x8DC18CF3=~s~Use SIXAXIS™ to perform a stunt.
+;0x8DC18CF3=~s~Use SIXAXIS to perform a stunt.
+0x8DC18CF3=~s~Use SIXAXIS to perform a stunt.
 
 ;0x8F90B907=~s~Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude.
 0x8F90B907=~s~Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude.
@@ -86,14 +86,14 @@
 ;0x90E08B7C=~r~You destroyed the bike.
 0x90E08B7C=~r~You destroyed the bike.
 
-;0x946A9417=~s~SIXAXIS™ is enabled throughout this tutorial. It can be turned off/on by going to Controls in the front end menu and selecting SIXAXIS™.
-0x946A9417=~s~SIXAXIS™ is enabled throughout this tutorial. It can be turned off/on by going to Controls in the front end menu and selecting SIXAXIS™.
+;0x946A9417=~s~SIXAXIS is enabled throughout this tutorial. It can be turned off/on by going to Controls in the front end menu and selecting SIXAXIS.
+0x946A9417=~s~SIXAXIS is enabled throughout this tutorial. It can be turned off/on by going to Controls in the front end menu and selecting SIXAXIS.
 
-;0x9721EA9E=~s~SIXAXIS™ Tutorial complete.
-0x9721EA9E=~s~SIXAXIS™ Tutorial complete.
+;0x9721EA9E=~s~SIXAXIS Tutorial complete.
+0x9721EA9E=~s~SIXAXIS Tutorial complete.
 
-;0x9B76285C=~s~You can use SIXAXIS™ to shift your weight forwards and backwards whilst on a bike. This will allow you to perform stunts such as stoppies and wheelies.
-0x9B76285C=~s~You can use SIXAXIS™ to shift your weight forwards and backwards whilst on a bike. This will allow you to perform stunts such as stoppies and wheelies.
+;0x9B76285C=~s~You can use SIXAXIS to shift your weight forwards and backwards whilst on a bike. This will allow you to perform stunts such as stoppies and wheelies.
+0x9B76285C=~s~You can use SIXAXIS to shift your weight forwards and backwards whilst on a bike. This will allow you to perform stunts such as stoppies and wheelies.
 
 ;0xA53DE58D=~s~Use ~PAD_SIXAXIS_PITCH~ whilst driving to lean forward or backwards.
 0xA53DE58D=~s~Use ~PAD_SIXAXIS_PITCH~ whilst driving to lean forward or backwards.
@@ -107,8 +107,8 @@
 ;0xAF497217=~s~Land at the ~y~marker.
 0xAF497217=~s~Land at the ~y~marker.
 
-;0xBADD9696=~s~You must remain at the airport to complete the SIXAXIS™ tutorial.
-0xBADD9696=~s~You must remain at the airport to complete the SIXAXIS™ tutorial.
+;0xBADD9696=~s~You must remain at the airport to complete the SIXAXIS tutorial.
+0xBADD9696=~s~You must remain at the airport to complete the SIXAXIS tutorial.
 
 ;0xBB080FF5=~s~Use ~PAD_SIXAXIS_ROLL~ to steer the helicopter.~n~_~n~_~n~
 0xBB080FF5=~s~Use ~PAD_SIXAXIS_ROLL~ to steer the helicopter.~n~_~n~_~n~
@@ -116,11 +116,11 @@
 ;0xBD32F598=~r~The helicopter got stuck.
 0xBD32F598=~r~The helicopter got stuck.
 
-;0xC2A87092=~s~Throughout the game you can use SIXAXIS™ control.
-0xC2A87092=~s~Throughout the game you can use SIXAXIS™ control.
+;0xC2A87092=~s~Throughout the game you can use SIXAXIS control.
+0xC2A87092=~s~Throughout the game you can use SIXAXIS control.
 
-;0xC2D18DC4=~s~SIXAXIS™ can be used to reload your weapon.
-0xC2D18DC4=~s~SIXAXIS™ can be used to reload your weapon.
+;0xC2D18DC4=~s~SIXAXIS can be used to reload your weapon.
+0xC2D18DC4=~s~SIXAXIS can be used to reload your weapon.
 
 ;0xC866AAB2=~s~Take off and increase your altitude.
 0xC866AAB2=~s~Take off and increase your altitude.
@@ -131,8 +131,8 @@
 ;0xCEBD2C94=Press ~INPUT_VEH_FLY_YAW_LEFT~ and ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the helicopter left and right.
 0xCEBD2C94=Press ~INPUT_VEH_FLY_YAW_LEFT~ and ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the helicopter left and right.
 
-;0xD2F7175D=~s~Use SIXAXIS™ to steer the bike through the ~y~markers.
-0xD2F7175D=~s~Use SIXAXIS™ to steer the bike through the ~y~markers.
+;0xD2F7175D=~s~Use SIXAXIS to steer the bike through the ~y~markers.
+0xD2F7175D=~s~Use SIXAXIS to steer the bike through the ~y~markers.
 
 ;0xD3242E69=~s~Use ~PAD_SIXAXIS_RELOAD~ to reload the pistol.~n~_~n~_~n~
 0xD3242E69=~s~Use ~PAD_SIXAXIS_RELOAD~ to reload the pistol.~n~_~n~_~n~
@@ -140,14 +140,14 @@
 ;0xD8691F2A=~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat.~n~_~n~_~n~
 0xD8691F2A=~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat.~n~_~n~_~n~
 
-;0xDD5B840E=~s~Use SIXAXIS™ to steer the boat through the ~y~markers.
-0xDD5B840E=~s~Use SIXAXIS™ to steer the boat through the ~y~markers.
+;0xDD5B840E=~s~Use SIXAXIS to steer the boat through the ~y~markers.
+0xDD5B840E=~s~Use SIXAXIS to steer the boat through the ~y~markers.
 
 ;0xE2D944F7=~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat.
 0xE2D944F7=~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat.
 
-;0xE4486275=~s~Use SIXAXIS™ to fly forwards into the ~y~marker.
-0xE4486275=~s~Use SIXAXIS™ to fly forwards into the ~y~marker.
+;0xE4486275=~s~Use SIXAXIS to fly forwards into the ~y~marker.
+0xE4486275=~s~Use SIXAXIS to fly forwards into the ~y~marker.
 
 ;0xE6173655=~s~Use ~PAD_SIXAXIS_RELOAD~ to reload the pistol.
 0xE6173655=~s~Use ~PAD_SIXAXIS_RELOAD~ to reload the pistol.
@@ -161,6 +161,6 @@
 ;0xF0C2C5E2=~r~You destroyed the helicopter.
 0xF0C2C5E2=~r~You destroyed the helicopter.
 
-;0xF3717848=By enabling the Auto Pitch Calibration option in the Controls menu, upon entering a vehicle the current pitch of the SIXAXIS™ is used as the central pitch position for all vehicle controls.
-0xF3717848=By enabling the Auto Pitch Calibration option in the Controls menu, upon entering a vehicle the current pitch of the SIXAXIS™ is used as the central pitch position for all vehicle controls.
+;0xF3717848=By enabling the Auto Pitch Calibration option in the Controls menu, upon entering a vehicle the current pitch of the SIXAXIS is used as the central pitch position for all vehicle controls.
+0xF3717848=By enabling the Auto Pitch Calibration option in the Controls menu, upon entering a vehicle the current pitch of the SIXAXIS is used as the central pitch position for all vehicle controls.
 

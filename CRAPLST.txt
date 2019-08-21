@@ -89,8 +89,8 @@
 ;0x5ADA19AC=LIBERTY CRAP LIST
 0x5ADA19AC=LIBERTY CRAP LIST
 
-;0x5FAAB25E=Shameless gold-digger - 26 
-0x5FAAB25E=Shameless gold-digger - 26 
+;0x5FAAB25E=Shameless gold-digger - 26 
+0x5FAAB25E=Shameless gold-digger - 26 
 
 ;0x6133C801=POST TO CRAP
 0x6133C801=POST TO CRAP
@@ -122,8 +122,8 @@
 ;0x8DE32391=About CRAP
 0x8DE32391=About CRAP
 
-;0x9262991D=Two dumb blondes dying to be your bitches!!! - 6 
-0x9262991D=Two dumb blondes dying to be your bitches!!! - 6 
+;0x9262991D=Two dumb blondes dying to be your bitches!!! - 6 
+0x9262991D=Two dumb blondes dying to be your bitches!!! - 6 
 
 ;0x97422190=Who wants to come with me to Jamaica? - 33
 0x97422190=Who wants to come with me to Jamaica? - 33
@@ -149,8 +149,8 @@
 ;0xB76F6462=POST
 0xB76F6462=POST
 
-;0xBDD5EEB7=I am temptation, are you dessert? MILF - 58 
-0xBDD5EEB7=I am temptation, are you dessert? MILF - 58 
+;0xBDD5EEB7=I am temptation, are you dessert? MILF - 58 
+0xBDD5EEB7=I am temptation, are you dessert? MILF - 58 
 
 ;0xBFE688A7=CRAP community
 0xBFE688A7=CRAP community
@@ -176,8 +176,8 @@
 ;0xDAFE99EF=(Castle Garden City)
 0xDAFE99EF=(Castle Garden City)
 
-;0xDB8C2B6F=Are you good at math but bad with girls? - 15 
-0xDB8C2B6F=Are you good at math but bad with girls? - 15 
+;0xDB8C2B6F=Are you good at math but bad with girls? - 15 
+0xDB8C2B6F=Are you good at math but bad with girls? - 15 
 
 ;0xE15EC4E2=(Lancaster)
 0xE15EC4E2=(Lancaster)
@@ -191,8 +191,8 @@
 ;0xE95DDA6D=housing
 0xE95DDA6D=housing
 
-;0xEB373A60=Pics for presents?? - 18 
-0xEB373A60=Pics for presents?? - 18 
+;0xEB373A60=Pics for presents?? - 18 
+0xEB373A60=Pics for presents?? - 18 
 
 ;0xEF15604F=Party girl seeks man for NSA fun and blog material - 29
 0xEF15604F=Party girl seeks man for NSA fun and blog material - 29
@@ -203,8 +203,8 @@
 ;0xF69B5128=WOMAN SEEKING MEN
 0xF69B5128=WOMAN SEEKING MEN
 
-;0xF80CE470=Are you looking for a beautiful, nubile wife...? (Liberty City)
-0xF80CE470=Are you looking for a beautiful, nubile wife...? (Liberty City)
+;0xF80CE470=Are you looking for a beautiful, nubile wife...? (Liberty City)
+0xF80CE470=Are you looking for a beautiful, nubile wife...? (Liberty City)
 
 ;0xFC9380D8=missed connections
 0xFC9380D8=missed connections

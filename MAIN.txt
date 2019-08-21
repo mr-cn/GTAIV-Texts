@@ -6845,11 +6845,11 @@
 ;0x1D3BDEAC=Use of this software is subject to license available in the game manual and online at rockstargames.com/eula. An internet connection, assorted software installations, and certain service registrations are required for activation and use of this software. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited. The content of this videogame is purely fictional, is not intended to represent or depict any actual event, person, or entity, and any such similarities are purely coincidental. The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame.~n~Your gameplay information may be displayed on web pages and leaderboards, including those located at http://www.rockstargames.com/socialclub. ~n~Playing the game may make you eligible to claim some prizes. Check out http://www.rockstargames.com/socialclub/events. ~n~For details, official rules, or to opt-out of certain Social Club features visit http://www.rockstargames.com/socialclub/privacy. ~n~Contests void where prohibited. No purchase necessary. Sponsored by Rockstar Games, 622 Broadway, New York, NY, USA.
 0x1D3BDEAC=Use of this software is subject to license available in the game manual and online at rockstargames.com/eula. An internet connection, assorted software installations, and certain service registrations are required for activation and use of this software. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited. The content of this videogame is purely fictional, is not intended to represent or depict any actual event, person, or entity, and any such similarities are purely coincidental. The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame.~n~Your gameplay information may be displayed on web pages and leaderboards, including those located at http://www.rockstargames.com/socialclub. ~n~Playing the game may make you eligible to claim some prizes. Check out http://www.rockstargames.com/socialclub/events. ~n~For details, official rules, or to opt-out of certain Social Club features visit http://www.rockstargames.com/socialclub/privacy. ~n~Contests void where prohibited. No purchase necessary. Sponsored by Rockstar Games, 622 Broadway, New York, NY, USA.
 
-;0x0770EBC5=© 2007-2008 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, Grand Theft Auto, and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software. Microsoft, Xbox, Xbox 360, Xbox LIVE, and the Xbox logos are trademarks of the Microsoft group of companies.  All other marks and trademarks are properties of their respective owners. All rights reserved. The content of this videogame is purely fictional, and is not intended to represent or depict any actual event, person, or entity.  Any similarity between any depiction in this game and any actual event, person, or entity is purely coincidental.  The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited.
-0x0770EBC5=© 2007-2008 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, Grand Theft Auto, and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software. Microsoft, Xbox, Xbox 360, Xbox LIVE, and the Xbox logos are trademarks of the Microsoft group of companies.  All other marks and trademarks are properties of their respective owners. All rights reserved. The content of this videogame is purely fictional, and is not intended to represent or depict any actual event, person, or entity.  Any similarity between any depiction in this game and any actual event, person, or entity is purely coincidental.  The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited.
+;0x0770EBC5=© 2007-2008 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, Grand Theft Auto, and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software. Microsoft, Xbox, Xbox 360, Xbox LIVE, and the Xbox logos are trademarks of the Microsoft group of companies.  All other marks and trademarks are properties of their respective owners. All rights reserved. The content of this videogame is purely fictional, and is not intended to represent or depict any actual event, person, or entity.  Any similarity between any depiction in this game and any actual event, person, or entity is purely coincidental.  The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited.
+0x0770EBC5=© 2007-2008 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, Grand Theft Auto, and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software. Microsoft, Xbox, Xbox 360, Xbox LIVE, and the Xbox logos are trademarks of the Microsoft group of companies.  All other marks and trademarks are properties of their respective owners. All rights reserved. The content of this videogame is purely fictional, and is not intended to represent or depict any actual event, person, or entity.  Any similarity between any depiction in this game and any actual event, person, or entity is purely coincidental.  The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited.
 
-;0x4E1B5834=© 2007-2008 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, Grand Theft Auto and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software. All other marks and trademarks are properties of their respective owners.  All rights reserved. The content of this videogame is purely fictional, and is not intended to represent or depict any actual event, person, or entity.  Any similarity between any depiction in this game and any actual event, person, or entity is purely coincidental.  The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited.
-0x4E1B5834=© 2007-2008 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, Grand Theft Auto and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software. All other marks and trademarks are properties of their respective owners.  All rights reserved. The content of this videogame is purely fictional, and is not intended to represent or depict any actual event, person, or entity.  Any similarity between any depiction in this game and any actual event, person, or entity is purely coincidental.  The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited.
+;0x4E1B5834=© 2007-2008 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, Grand Theft Auto and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software. All other marks and trademarks are properties of their respective owners.  All rights reserved. The content of this videogame is purely fictional, and is not intended to represent or depict any actual event, person, or entity.  Any similarity between any depiction in this game and any actual event, person, or entity is purely coincidental.  The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited.
+0x4E1B5834=© 2007-2008 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, Grand Theft Auto and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software. All other marks and trademarks are properties of their respective owners.  All rights reserved. The content of this videogame is purely fictional, and is not intended to represent or depict any actual event, person, or entity.  Any similarity between any depiction in this game and any actual event, person, or entity is purely coincidental.  The makers and publishers of this videogame do not in any way endorse, condone or encourage engaging in any conduct depicted in this videogame. Unauthorized copying, reverse engineering, transmission, public performance, rental, pay for play, or circumvention of copy protection is strictly prohibited.
 
 ;0x4AA60BF6=© 2006-2008 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, the Rockstar Toronto ¬ logo, Grand Theft Auto, and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software, Inc. in the U.S.A. and/or other foreign countries. Windows and the Windows Vista Start button logo are trademarks of the Microsoft group of companies, and 'Games for Windows' and the Windows Vista Start button logo are used under license from Microsoft. All other marks and trademarks are properties of their respective owners. All rights reserved.~n~~n~In North America, the ratings icon is a trademark of the Entertainment Software Association.
 0x4AA60BF6=© 2006-2008 Rockstar Games, Inc. Rockstar Games, Rockstar North, the Rockstar Games ¬ logo, the Rockstar North ¬ logo, the Rockstar Toronto ¬ logo, Grand Theft Auto, and the Grand Theft Auto logo are trademarks and/or registered trademarks of Take-Two Interactive Software, Inc. in the U.S.A. and/or other foreign countries. Windows and the Windows Vista Start button logo are trademarks of the Microsoft group of companies, and 'Games for Windows' and the Windows Vista Start button logo are used under license from Microsoft. All other marks and trademarks are properties of their respective owners. All rights reserved.~n~~n~In North America, the ratings icon is a trademark of the Entertainment Software Association.
@@ -7184,8 +7184,8 @@
 ;0x3E4E2A30=LOOK BEHIND
 0x3E4E2A30=LOOK BEHIND
 
-;0x86EDBCB8=SIXAXIS™
-0x86EDBCB8=SIXAXIS™
+;0x86EDBCB8=SIXAXIS
+0x86EDBCB8=SIXAXIS
 
 ;0x521A1B34=SLOW MO (IN CINEMATIC VIEW)
 0x521A1B34=SLOW MO (IN CINEMATIC VIEW)
@@ -8078,8 +8078,8 @@
 ;0x63341DE6=Error - Out of system memory
 0x63341DE6=Error - Out of system memory
 
-;0x98B4EC94=Error - Failed Reading the File
-0x98B4EC94=Error - Failed Reading the File
+;0x98B4EC94=Error  Failed Reading the File
+0x98B4EC94=Error  Failed Reading the File
 
 ;0x1CA8F972=Error - No audio card installed
 0x1CA8F972=Error - No audio card installed
@@ -8921,8 +8921,8 @@
 ;0x1CACB21E=To Live and ...
 0x1CACB21E=To Live and ...
 
-;0xE5CD98A1=Pegorino's P...
-0xE5CD98A1=Pegorino's P...
+;0xE5CD98A1=Pegorinos P...
+0xE5CD98A1=Pegorinos P...
 
 ;0x15D479E6=Payback
 0x15D479E6=Payback
@@ -12056,8 +12056,8 @@
 ;0x65DC114E=~z~Hey! Word up man. Good see you. Good see you. Alright, hi everybody. My name is Bas Rutten.
 0x65DC114E=~z~Hey! Word up man. Good see you. Good see you. Alright, hi everybody. My name is Bas Rutten.
 
-;0x782DB5F1=~z~And I'm Jer 
-0x782DB5F1=~z~And I'm Jer 
+;0x782DB5F1=~z~And I'm Jer
+0x782DB5F1=~z~And I'm Jer
 
 ;0xF471AE7B=~z~And welcome to The Men's Room.
 0xF471AE7B=~z~And welcome to The Men's Room.
@@ -15953,8 +15953,8 @@
 ;0xABE15713=~PAD_LSHOCK~Alter Pos. ~n~ ~PAD_RSHOCK~Alter Rotation ~n~
 0xABE15713=~PAD_LSHOCK~Alter Pos. ~n~ ~PAD_RSHOCK~Alter Rotation ~n~
 
-;0x58A5DCC5=~s~You must lose your wanted level before starting the SIXAXIS™ tutorial.
-0x58A5DCC5=~s~You must lose your wanted level before starting the SIXAXIS™ tutorial.
+;0x58A5DCC5=~s~You must lose your wanted level before starting the SIXAXIS tutorial.
+0x58A5DCC5=~s~You must lose your wanted level before starting the SIXAXIS tutorial.
 
 ;0x9D52BDE9=San Quentin Avenue Station
 0x9D52BDE9=San Quentin Avenue Station
@@ -17249,8 +17249,8 @@
 ;0xA69A21FB=To maintain control of your vehicle use ~INPUT_VEH_BRAKE~ to apply the brakes.
 0xA69A21FB=To maintain control of your vehicle use ~INPUT_VEH_BRAKE~ to apply the brakes.
 
-;0xB00747BE=Select the SIXAXIS™ tutorial from the phone menu to playthrough a tutorial that will show how to use SIXAXIS™.
-0xB00747BE=Select the SIXAXIS™ tutorial from the phone menu to playthrough a tutorial that will show how to use SIXAXIS™.
+;0xB00747BE=Select the SIXAXIS tutorial from the phone menu to playthrough a tutorial that will show how to use SIXAXIS.
+0xB00747BE=Select the SIXAXIS tutorial from the phone menu to playthrough a tutorial that will show how to use SIXAXIS.
 
 ;0xE45CC348=If movement is proving difficult, it might be best to get a cab to take you where you are going.
 0xE45CC348=If movement is proving difficult, it might be best to get a cab to take you where you are going.
@@ -18779,8 +18779,8 @@
 ;0x401F3C13=Waiting for other players to finish joining before starting game.
 0x401F3C13=Waiting for other players to finish joining before starting game.
 
-;0xBCAF6C4D=SIXAXIS™ Tutorial
-0xBCAF6C4D=SIXAXIS™ Tutorial
+;0xBCAF6C4D=SIXAXIS Tutorial
+0xBCAF6C4D=SIXAXIS Tutorial
 
 ;0x13CBD13C=Change Episode
 0x13CBD13C=Change Episode
@@ -18869,8 +18869,8 @@
 ;0x7A04CCA6=Game Type
 0x7A04CCA6=Game Type
 
-;0x875DE31D=TrueSkill™ Rank
-0x875DE31D=TrueSkill™ Rank
+;0x875DE31D=TrueSkill Rank
+0x875DE31D=TrueSkill Rank
 
 ;0xDC07F3D1=TrueSkill
 0xDC07F3D1=TrueSkill
@@ -19958,8 +19958,8 @@
 ;0xF8502FC1=SEARCH
 0xF8502FC1=SEARCH
 
-;0xE704A47C=This game will not affect your TrueSkill™ rank.
-0xE704A47C=This game will not affect your TrueSkill™ rank.
+;0xE704A47C=This game will not affect your TrueSkill rank.
+0xE704A47C=This game will not affect your TrueSkill rank.
 
 ;0xB681535D=This game session no longer exists.
 0xB681535D=This game session no longer exists.

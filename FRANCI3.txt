@@ -14,8 +14,8 @@
 ;0xA738EAE9=~s~Choose ~b~Clarence's~s~ fate.
 0xA738EAE9=~s~Choose ~b~Clarence's~s~ fate.
 
-;0xBEB5433E=~s~ or, when equipped with a pistol, you can perform an execution on Clarence.
-0xBEB5433E=~s~ or, when equipped with a pistol, you can perform an execution on Clarence.
+;0xBEB5433E=~s~or, when equipped with a pistol, you can perform an execution on Clarence.
+0xBEB5433E=~s~or, when equipped with a pistol, you can perform an execution on Clarence.
 
 ;0xC5BD2967=~r~Clarence~s~ is fleeing the projects. Don't let him get away.
 0xC5BD2967=~r~Clarence~s~ is fleeing the projects. Don't let him get away.
